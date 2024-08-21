@@ -1,0 +1,498 @@
+"Change_file","AuthorName","length","Sum"
+"activemq-camel/src/main/java/org/apache/activemq/camel/CamelDestination.java","Gary Tully",1,1
+"activemq-camel/src/main/java/org/apache/activemq/camel/CamelMessageProducer.java","Bosanac Dejan",0.5,2
+"activemq-camel/src/main/java/org/apache/activemq/camel/CamelMessageProducer.java","Gary Tully",0.5,2
+"activemq-camel/src/main/java/org/apache/activemq/camel/component/ActiveMQConfiguration.java","Bosanac Dejan",0.5,2
+"activemq-camel/src/main/java/org/apache/activemq/camel/component/ActiveMQConfiguration.java","Guillaume Nodet",0.5,2
+"activemq-camel/src/main/java/org/apache/camel/web/resources/RoutesResource.java","Bosanac Dejan",1,1
+"activemq-camel/src/test/java/org/apache/activemq/camel/CamelJmsTest.java","Gary Tully",1,1
+"activemq-camel/src/test/java/org/apache/activemq/camel/component/ActiveMQJmsHeaderRouteTest.java","Gary Tully",1,1
+"activemq-camel/src/test/java/org/apache/activemq/camel/component/JournalRouteTest.java","Gary Tully",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/AbstractJmxCommand.java","Bosanac Dejan",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/BstatCommand.java","Robert Davies",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/StopGracefullyCommand.java","Robert Davies",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/Main.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQConnection.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQConnectionFactory.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageConsumer.java","Bosanac Dejan",0.166666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageConsumer.java","Gary Tully",0.5,6
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageConsumer.java","Hiram R. Chirino",0.166666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageConsumer.java","Robert Davies",0.166666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageTransformation.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQPrefetchPolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQSession.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQSslConnectionFactory.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/advisory/AdvisoryBroker.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/advisory/AdvisorySupport.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/AdvisoryConsumer.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/blob/BlobDownloader.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/blob/BlobDownloadStrategy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/blob/BlobTransferPolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/blob/DefaultBlobDownloadStrategy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/blob/FTPBlobDownloadStrategy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/blob/FTPBlobUploadStrategy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java","Bosanac Dejan",0.181818181818182,11
+"activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java","Gary Tully",0.272727272727273,11
+"activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java","Robert Davies",0.545454545454545,11
+"activemq-core/src/main/java/org/apache/activemq/broker/ConnectionContext.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/ft/MasterBroker.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/ft/MasterConnector.java","Gary Tully",0.2,5
+"activemq-core/src/main/java/org/apache/activemq/broker/ft/MasterConnector.java","Robert Davies",0.8,5
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/AnnotatedMBean.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/AnnotatedMBean.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/BrokerView.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/BrokerViewMBean.java","Bosanac Dejan",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/BrokerViewMBean.java","Robert Davies",0.75,4
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ConnectionView.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ConnectionViewMBean.java","Bosanac Dejan",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ConnectorView.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ConnectorViewMBean.java","Bosanac Dejan",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/DestinationView.java","Bosanac Dejan",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/DestinationView.java","Gary Tully",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/DestinationView.java","Robert Davies",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/DestinationViewMBean.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/DestinationViewMBean.java","Gary Tully",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagedRegionBroker.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagedRegionBroker.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagedTransportConnection.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagedTransportConnection.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagedTransportConnector.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagementContext.java","Bosanac Dejan",0.5,6
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagementContext.java","Robert Davies",0.5,6
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/MBeanInfo.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/MBeanInfo.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/QueueViewMBean.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/SubscriptionViewMBean.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/TopicSubscriptionViewMBean.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/ProducerBrokerExchange.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/AbstractRegion.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/AbstractSubscription.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/BaseDestination.java","Bosanac Dejan",0.333333333333333,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/BaseDestination.java","Colin W Macnaughton",0.166666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/BaseDestination.java","Gary Tully",0.166666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/BaseDestination.java","Robert Davies",0.333333333333333,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/FilePendingMessageCursor.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/StoreDurableSubscriberCursor.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/StoreQueueCursor.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/VMPendingMessageCursor.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Destination.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/DestinationFilter.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/DestinationStatistics.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/DurableTopicSubscription.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/IndirectMessageReference.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/PolicyEntry.java","Gary Tully",0.333333333333333,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/PolicyEntry.java","Robert Davies",0.666666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/PrefetchSubscription.java","Bosanac Dejan",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/broker/region/PrefetchSubscription.java","Gary Tully",0.5,4
+"activemq-core/src/main/java/org/apache/activemq/broker/region/PrefetchSubscription.java","Robert Davies",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Queue.java","Bosanac Dejan",0.1875,16
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Queue.java","Colin W Macnaughton",0.0625,16
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Queue.java","Gary Tully",0.5,16
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Queue.java","Hiram R. Chirino",0.0625,16
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Queue.java","Robert Davies",0.1875,16
+"activemq-core/src/main/java/org/apache/activemq/broker/region/QueueRegion.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/QueueSubscription.java","Gary Tully",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/RegionBroker.java","Bosanac Dejan",0.166666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/RegionBroker.java","Gary Tully",0.666666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/RegionBroker.java","Robert Davies",0.166666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Subscription.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TempQueue.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Topic.java","Bosanac Dejan",0.428571428571429,7
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Topic.java","Colin W Macnaughton",0.142857142857143,7
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Topic.java","Gary Tully",0.285714285714286,7
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Topic.java","Robert Davies",0.142857142857143,7
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TopicSubscription.java","Gary Tully",0.833333333333333,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TopicSubscription.java","Robert Davies",0.166666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/broker/TransportConnection.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/TransportConnector.java","Bosanac Dejan",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/broker/TransportConnector.java","Gary Tully",0.5,4
+"activemq-core/src/main/java/org/apache/activemq/broker/TransportConnector.java","Robert Davies",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/broker/util/TimeStampingBrokerPlugin.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/view/ConnectionDotFileInterceptor.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/command/ActiveMQBlobMessage.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/command/ActiveMQMessage.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/command/BrokerInfo.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/command/Message.java","Gary Tully",1,2
+"activemq-core/src/main/java/org/apache/activemq/filter/DestinationFilter.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/filter/PrefixDestinationFilter.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/filter/WildcardDestinationFilter.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/AsyncDataManager.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/ControlFile.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/ReadOnlyAsyncDataManager.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/management/JMSEndpointStatsImpl.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/management/StatsImpl.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/network/CompositeDemandForwardingBridge.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/network/ConduitBridge.java","Bosanac Dejan",1,2
+"activemq-core/src/main/java/org/apache/activemq/network/DemandForwardingBridgeSupport.java","Gary Tully",0.8,5
+"activemq-core/src/main/java/org/apache/activemq/network/DemandForwardingBridgeSupport.java","Robert Davies",0.2,5
+"activemq-core/src/main/java/org/apache/activemq/network/DemandSubscription.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/network/DiscoveryNetworkConnector.java","Gary Tully",1,3
+"activemq-core/src/main/java/org/apache/activemq/network/NetworkConnector.java","Bosanac Dejan",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/network/NetworkConnector.java","Gary Tully",0.5,4
+"activemq-core/src/main/java/org/apache/activemq/network/NetworkConnector.java","Robert Davies",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/openwire/v1/RemoveSubscriptionInfoMarshaller.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v1/SubscriptionInfoMarshaller.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v2/RemoveSubscriptionInfoMarshaller.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v2/SubscriptionInfoMarshaller.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v3/RemoveSubscriptionInfoMarshaller.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v3/SubscriptionInfoMarshaller.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v4/RemoveSubscriptionInfoMarshaller.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v4/SubscriptionInfoMarshaller.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v5/RemoveSubscriptionInfoMarshaller.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v5/SubscriptionInfoMarshaller.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/plugin/DiscardingDLQBrokerPlugin.java","Gary Tully",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/plugin/DiscardingDLQBrokerPlugin.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/plugin/ForcePersistencyModeBroker.java","Gary Tully",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/plugin/ForcePersistencyModeBroker.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/plugin/ForcePersistencyModeBrokerPlugin.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/plugin/StatisticsBroker.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/plugin/StatisticsBrokerPlugin.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/RedeliveryPolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/security/AuthorizationBroker.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/state/ConnectionState.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/amq/AMQPersistenceAdapter.java","Bosanac Dejan",0.6,5
+"activemq-core/src/main/java/org/apache/activemq/store/amq/AMQPersistenceAdapter.java","Gary Tully",0.2,5
+"activemq-core/src/main/java/org/apache/activemq/store/amq/AMQPersistenceAdapter.java","Robert Davies",0.2,5
+"activemq-core/src/main/java/org/apache/activemq/store/amq/AMQTopicMessageStore.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/amq/AMQTransactionStore.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/AxionJDBCAdapter.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/DB2JDBCAdapter.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/DefaultJDBCAdapter.java","Bosanac Dejan",0.4,5
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/DefaultJDBCAdapter.java","Gary Tully",0.2,5
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/DefaultJDBCAdapter.java","Hiram R. Chirino",0.4,5
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/HsqldbJDBCAdapter.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/InformixJDBCAdapter.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/MaxDBJDBCAdapter.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/MaxDBJDBCAdapter.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/MySqlJDBCAdapter.java","Hiram R. Chirino",1,3
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/OracleJDBCAdapter.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/PostgresqlJDBCAdapter.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/SybaseJDBCAdapter.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/SybaseJDBCAdapter.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/TransactDatabaseLocker.java","Gary Tully",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/TransactDatabaseLocker.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/adapter/TransactJDBCAdapter.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/DatabaseLocker.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/DefaultDatabaseLocker.java","Bruce Snyder",0.142857142857143,7
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/DefaultDatabaseLocker.java","Gary Tully",0.571428571428571,7
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/DefaultDatabaseLocker.java","Hiram R. Chirino",0.285714285714286,7
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/JDBCPersistenceAdapter.java","Gary Tully",1,2
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/Statements.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/TransactionContext.java","Bosanac Dejan",1,2
+"activemq-core/src/main/java/org/apache/activemq/store/journal/JournalPersistenceAdapterFactory.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/kahadaptor/KahaPersistenceAdapter.java","Gary Tully",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/kahadaptor/KahaPersistenceAdapter.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/kahadaptor/KahaReferenceStoreAdapter.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/kahadaptor/KahaReferenceStoreAdapter.java","Gary Tully",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/kahadb/KahaDBPersistenceAdapter.java","Gary Tully",0.714285714285714,7
+"activemq-core/src/main/java/org/apache/activemq/store/kahadb/KahaDBPersistenceAdapter.java","Hiram R. Chirino",0.142857142857143,7
+"activemq-core/src/main/java/org/apache/activemq/store/kahadb/KahaDBPersistenceAdapter.java","Robert Davies",0.142857142857143,7
+"activemq-core/src/main/java/org/apache/activemq/store/kahadb/KahaDBStore.java","Gary Tully",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/kahadb/KahaDBStore.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/store/kahadb/MessageDatabase.java","Bosanac Dejan",0.133333333333333,15
+"activemq-core/src/main/java/org/apache/activemq/store/kahadb/MessageDatabase.java","Gary Tully",0.466666666666667,15
+"activemq-core/src/main/java/org/apache/activemq/store/kahadb/MessageDatabase.java","Hiram R. Chirino",0.4,15
+"activemq-core/src/main/java/org/apache/activemq/store/kahadb/TempMessageDatabase.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/ReferenceStoreAdapter.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/thread/Scheduler.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/thread/TaskRunnerFactory.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/transaction/XATransaction.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/TransactionContext.java","Gary Tully",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/TransactionContext.java","Robert Davies",0.666666666666667,3
+"activemq-core/src/main/java/org/apache/activemq/transport/discovery/DiscoveryTransport.java","Gary Tully",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/discovery/DiscoveryTransportFactory.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/discovery/multicast/MulticastDiscoveryAgent.java","Gary Tully",1,3
+"activemq-core/src/main/java/org/apache/activemq/transport/discovery/simple/SimpleDiscoveryAgent.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/failover/FailoverTransport.java","Gary Tully",0.428571428571429,7
+"activemq-core/src/main/java/org/apache/activemq/transport/failover/FailoverTransport.java","Robert Davies",0.571428571428571,7
+"activemq-core/src/main/java/org/apache/activemq/transport/InactivityMonitor.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/nio/NIOBufferedInputStream.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/nio/SelectorManager.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/nio/SelectorSelection.java","Gary Tully",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/nio/SelectorWorker.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/ResponseCorrelator.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/ProtocolConverter.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/ProtocolConverter.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompConnection.java","Bosanac Dejan",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompNIOTransport.java","Bosanac Dejan",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompNIOTransportFactory.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompSubscription.java","Bosanac Dejan",0.666666666666667,3
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompSubscription.java","Timothy A. Bish",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompTransportFilter.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/ExceededMaximumConnectionsException.java","Bruce Snyder",0.75,4
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/ExceededMaximumConnectionsException.java","Hiram R. Chirino",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/SslTransport.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/TcpTransport.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/TcpTransportFactory.java","Gary Tully",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/TcpTransportServer.java","Bruce Snyder",0.75,4
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/TcpTransportServer.java","Gary Tully",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportFactory.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportLoggerFactory.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportLoggerFactory.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportLoggerView.java","Bosanac Dejan",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportLoggerView.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportSupport.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/udp/UdpTransportFactory.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/vm/VMTransport.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/usage/Usage.java","Bruce Snyder",0.2,5
+"activemq-core/src/main/java/org/apache/activemq/usage/Usage.java","Gary Tully",0.8,5
+"activemq-core/src/main/java/org/apache/activemq/util/BooleanEditor.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/BrokerSupport.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/FactoryFinder.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/Handler.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/IdGenerator.java","Bosanac Dejan",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/IntrospectionSupport.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/URISupport.java","Gary Tully",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/XStreamFactoryBean.java","Bosanac Dejan",1,2
+"activemq-core/src/test/java/org/apache/activemq/advisory/MasterSlaveTempQueueMemoryTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/advisory/TempQueueMemoryTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/AutoFailTestSupport.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/blob/FTPBlobDownloadStrategyTest.java","Bosanac Dejan",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/blob/FTPBlobDownloadStrategyTest.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/blob/FTPBlobTest.java","Bosanac Dejan",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/blob/FTPBlobTest.java","Gary Tully",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/blob/FTPBlobTest.java","Robert Davies",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/blob/FTPBlobUploadStrategyTest.java","Bosanac Dejan",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/blob/FTPBlobUploadStrategyTest.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/broker/BrokerTest.java","Gary Tully",1,4
+"activemq-core/src/test/java/org/apache/activemq/broker/BrokerTestSupport.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/ConcurrentConnectSimulationTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/ft/DbRestartJDBCQueueMasterSlaveTest.java","Gary Tully",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/broker/ft/DbRestartJDBCQueueMasterSlaveTest.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/broker/ft/JDBCQueueMasterSlaveTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/ft/MasterSlaveSlaveDieTest.java","Gary Tully",1,2
+"activemq-core/src/test/java/org/apache/activemq/broker/ft/QueueMasterSlaveSingleUrlTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/ft/TransactedTopicMasterSlaveTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/jmx/MBeanTest.java","Bosanac Dejan",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/broker/jmx/MBeanTest.java","Gary Tully",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/broker/jmx/MBeanTest.java","Robert Davies",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/broker/MessageExpirationTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/NioQueueSubscriptionTest.java","Bosanac Dejan",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/broker/NioQueueSubscriptionTest.java","Gary Tully",0.666666666666667,3
+"activemq-core/src/test/java/org/apache/activemq/broker/policy/NoConsumerDeadLetterTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/QueueSubscriptionTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/region/cursors/CursorSupport.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/region/cursors/NegativeQueueTest.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/broker/region/cursors/StoreBasedCursorTest.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/broker/region/DestinationRemoveRestartTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/region/group/MessageGroupTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/region/QueueDuplicatesFromStoreTest.java","Gary Tully",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/broker/region/QueueDuplicatesFromStoreTest.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/broker/region/QueuePurgeTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/store/TransactionStoreTest.java","Gary Tully",1,2
+"activemq-core/src/test/java/org/apache/activemq/broker/util/PluginBrokerTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/virtual/VirtualTopicPubSubTest.java","Gary Tully",1,2
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ1282.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ1687Test.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ1917Test.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ1936Test.java","Bosanac Dejan",0.166666666666667,6
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ1936Test.java","Gary Tully",0.5,6
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ1936Test.java","Robert Davies",0.333333333333333,6
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2021Test.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2102Test.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2149Test.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2183Test.java","Bosanac Dejan",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2183Test.java","Gary Tully",0.666666666666667,3
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2356Test.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2364Test.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2383Test.java","Gary Tully",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2383Test.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2401Test.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2413Test.java","Bosanac Dejan",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2413Test.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/bugs/AMQ2439Test.java","Gary Tully",1,2
+"activemq-core/src/test/java/org/apache/activemq/bugs/DurableConsumerTest.java","Bosanac Dejan",0.714285714285714,7
+"activemq-core/src/test/java/org/apache/activemq/bugs/DurableConsumerTest.java","Gary Tully",0.285714285714286,7
+"activemq-core/src/test/java/org/apache/activemq/bugs/MessageExpirationReaperTest.java","Bruce Snyder",0.2,5
+"activemq-core/src/test/java/org/apache/activemq/bugs/MessageExpirationReaperTest.java","Gary Tully",0.4,5
+"activemq-core/src/test/java/org/apache/activemq/bugs/MessageExpirationReaperTest.java","Hiram R. Chirino",0.2,5
+"activemq-core/src/test/java/org/apache/activemq/bugs/MessageExpirationReaperTest.java","Robert Davies",0.2,5
+"activemq-core/src/test/java/org/apache/activemq/bugs/RawRollbackSharedConsumerTests.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/RawRollbackTests.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/CombinationTestSupport.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/command/ActiveMQMapMessageTest.java","Gary Tully",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/command/ActiveMQMapMessageTest.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/command/DataStructureTestSupport.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/config/ConfigTest.java","Gary Tully",1,2
+"activemq-core/src/test/java/org/apache/activemq/EmbeddedBrokerTestSupport.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/filter/DestinationFilterTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/JMSConsumerTest.java","Bosanac Dejan",0.142857142857143,7
+"activemq-core/src/test/java/org/apache/activemq/JMSConsumerTest.java","Gary Tully",0.571428571428571,7
+"activemq-core/src/test/java/org/apache/activemq/JMSConsumerTest.java","Hiram R. Chirino",0.142857142857143,7
+"activemq-core/src/test/java/org/apache/activemq/JMSConsumerTest.java","Robert Davies",0.142857142857143,7
+"activemq-core/src/test/java/org/apache/activemq/JMSIndividualAckTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/jndi/InitialContextTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/kaha/impl/async/JournalImplTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/network/DemandForwardingBridgeFilterTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/network/DemandForwardingBridgeTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/network/DuplexNetworkTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/network/SimpleNetworkTest.java","Bosanac Dejan",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/network/SimpleNetworkTest.java","Gary Tully",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/openwire/v1/RemoveSubscriptionInfoTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/openwire/v1/SubscriptionInfoTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/openwire/v2/RemoveSubscriptionInfoTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/openwire/v2/SubscriptionInfoTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/openwire/v3/RemoveSubscriptionInfoTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/openwire/v3/SubscriptionInfoTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/openwire/v4/RemoveSubscriptionInfoTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/openwire/v4/SubscriptionInfoTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/openwire/v5/RemoveSubscriptionInfoTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/openwire/v5/SubscriptionInfoTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/perf/KahaQueueTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/perf/NumberOfDestinationsTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleTopicTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/plugin/BrokerStatisticsPluginTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/ProducerFlowControlSendFailTest.java","Gary Tully",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/ProducerFlowControlSendFailTest.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/ProducerFlowControlTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/QueueConsumerPriorityTest.java","Bosanac Dejan",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/QueueConsumerPriorityTest.java","Gary Tully",0.666666666666667,3
+"activemq-core/src/test/java/org/apache/activemq/security/SecurityJMXTest.java","Bosanac Dejan",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/security/SecurityJMXTest.java","Gary Tully",0.666666666666667,3
+"activemq-core/src/test/java/org/apache/activemq/spring/ConsumerBean.java","Gary Tully",0.666666666666667,3
+"activemq-core/src/test/java/org/apache/activemq/spring/ConsumerBean.java","Robert Davies",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/store/jdbc/JDBCPersistenceAdapterTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/store/jdbc/JDBCStoreBrokerTest.java","Bosanac Dejan",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/store/jdbc/JDBCStoreBrokerTest.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/store/kahadb/KahaDBPersistenceAdapterTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/store/kahadb/KahaDBStoreBrokerTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/store/kahadb/KahaDBTest.java","Hiram R. Chirino",1,2
+"activemq-core/src/test/java/org/apache/activemq/store/PersistenceAdapterTestSupport.java","Hiram R. Chirino",1,2
+"activemq-core/src/test/java/org/apache/activemq/test/JmsSendReceiveTestSupport.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/test/retroactive/RetroactiveConsumerTestWithLastImagePolicyWithWildcardTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/discovery/DiscoveryNetworkReconnectTest.java","Gary Tully",1,5
+"activemq-core/src/test/java/org/apache/activemq/transport/discovery/DiscoveryTransportBrokerTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/discovery/DiscoveryTransportNoBrokerTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/failover/AMQ1925Test.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/failover/FailoverRandomTest.java","Gary Tully",1,2
+"activemq-core/src/test/java/org/apache/activemq/transport/failover/FailoverTimeoutTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/failover/SlowConnectionTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/stomp/SamplePojo.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/stomp/StompNIOTest.java","Bosanac Dejan",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/transport/stomp/StompNIOTest.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/transport/stomp/StompTest.java","Bosanac Dejan",0.8,10
+"activemq-core/src/test/java/org/apache/activemq/transport/stomp/StompTest.java","Robert Davies",0.2,10
+"activemq-core/src/test/java/org/apache/activemq/transport/tcp/SslBrokerServiceTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/tcp/TcpTransportBindTest.java","Bosanac Dejan",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/tcp/WireformatNegociationTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/vm/VMTransportWaitForTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/usecases/ExpiredMessagesTest.java","Bosanac Dejan",0.111111111111111,9
+"activemq-core/src/test/java/org/apache/activemq/usecases/ExpiredMessagesTest.java","Gary Tully",0.777777777777778,9
+"activemq-core/src/test/java/org/apache/activemq/usecases/ExpiredMessagesTest.java","Robert Davies",0.111111111111111,9
+"activemq-core/src/test/java/org/apache/activemq/usecases/ExpiredMessagesWithNoConsumerTest.java","Bosanac Dejan",0.272727272727273,11
+"activemq-core/src/test/java/org/apache/activemq/usecases/ExpiredMessagesWithNoConsumerTest.java","Gary Tully",0.545454545454545,11
+"activemq-core/src/test/java/org/apache/activemq/usecases/ExpiredMessagesWithNoConsumerTest.java","Robert Davies",0.181818181818182,11
+"activemq-core/src/test/java/org/apache/activemq/usecases/NoDuplicateOnTopicNetworkTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/usecases/ThreeBrokerQueueNetworkTest.java","Bosanac Dejan",0.5,4
+"activemq-core/src/test/java/org/apache/activemq/usecases/ThreeBrokerQueueNetworkTest.java","Gary Tully",0.5,4
+"activemq-core/src/test/java/org/apache/activemq/util/BitArrayBinTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/util/ReflectionSupportTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/util/URISupportTest.java","Gary Tully",1,1
+"activemq-core/src/test/java/org/apache/activemq/util/Wait.java","Gary Tully",1,2
+"activemq-core/src/test/java/org/apache/activemq/xbean/ConnectorXBeanConfigTest.java","Bosanac Dejan",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/xbean/ConnectorXBeanConfigTest.java","Gary Tully",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/xbean/ManagementContextXBeanConfigTest.java","Robert Davies",1,1
+"activemq-fileserver/src/main/java/org/apache/activemq/util/RestFilter.java","Bosanac Dejan",1,1
+"activemq-jaas/src/main/java/org/apache/activemq/jaas/LDAPLoginModule.java","Bosanac Dejan",1,1
+"activemq-jaas/src/main/java/org/apache/activemq/jaas/LDAPLoginProperty.java","Bosanac Dejan",1,1
+"activemq-jaas/src/test/java/org/apache/activemq/jaas/LDAPLoginModuleTest.java","Bosanac Dejan",0.5,2
+"activemq-jaas/src/test/java/org/apache/activemq/jaas/LDAPLoginModuleTest.java","Hiram R. Chirino",0.5,2
+"activemq-jaas/src/test/java/org/apache/activemq/jaas/PropertiesLoginModuleTest.java","Bosanac Dejan",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSCache.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSConstants.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSEntry.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSIncoming.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSListener.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSOutgoing.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSQuestion.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSRecord.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSState.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/HostInfo.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/JmDNS.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/ServiceEvent.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/ServiceInfo.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/ServiceListener.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/ServiceTypeListener.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/store/amq/AMQJournalTool.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/store/amq/AMQJournalToolCommand.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/store/amq/CommandLineSupport.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/store/amq/CustomResourceLoader.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/store/amq/Entry.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/store/amq/MessageBodyFormatter.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/store/amq/reader/AMQIterator.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/store/amq/reader/AMQReader.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/store/amq/reader/MessageLocation.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/transport/discovery/http/DiscoveryRegistryServlet.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/transport/discovery/http/EmbeddedJettyServer.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/transport/discovery/http/HTTPDiscoveryAgent.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/transport/discovery/http/HTTPDiscoveryAgentFactory.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/transport/http/BlockingQueueTransport.java","Bosanac Dejan",1,1
+"activemq-optional/src/main/java/org/apache/activemq/transport/http/HttpClientTransport.java","Bosanac Dejan",1,1
+"activemq-optional/src/main/java/org/apache/activemq/transport/http/HttpTunnelServlet.java","Bosanac Dejan",1,2
+"activemq-optional/src/main/java/org/apache/activemq/util/oxm/AbstractXMLMessageTransformer.java","Bosanac Dejan",1,1
+"activemq-optional/src/main/java/org/apache/activemq/util/oxm/OXMMessageTransformer.java","Bosanac Dejan",1,1
+"activemq-optional/src/main/java/org/apache/activemq/util/oxm/XStreamMessageTransformer.java","Bosanac Dejan",1,1
+"activemq-optional/src/main/java/org/apache/activemq/util/xstream/XStreamMessageTransformer.java","Bosanac Dejan",1,1
+"activemq-optional/src/test/java/org/apache/activemq/store/amq/reader/AMQReaderTest.java","Hiram R. Chirino",1,1
+"activemq-optional/src/test/java/org/apache/activemq/transport/http/HttpClientReconnectTest.java","Bosanac Dejan",1,2
+"activemq-optional/src/test/java/org/apache/activemq/transport/http/HttpSpringTest.java","Bosanac Dejan",1,1
+"activemq-optional/src/test/java/org/apache/activemq/transport/http/HttpTransportBrokerTest.java","Bosanac Dejan",1,1
+"activemq-optional/src/test/java/org/apache/activemq/transport/https/HttpsTransportBrokerTest.java","Bosanac Dejan",0.5,2
+"activemq-optional/src/test/java/org/apache/activemq/transport/https/HttpsTransportBrokerTest.java","Gary Tully",0.5,2
+"activemq-optional/src/test/java/org/apache/activemq/util/JmsLogAppenderTest.java","Bosanac Dejan",1,1
+"activemq-optional/src/test/java/org/apache/activemq/util/oxm/AbstractXMLMessageTransformerTest.java","Bosanac Dejan",1,1
+"activemq-optional/src/test/java/org/apache/activemq/util/oxm/OXMMessageTransformTest.java","Bosanac Dejan",1,1
+"activemq-optional/src/test/java/org/apache/activemq/util/oxm/XStreamMessageTransformTest.java","Bosanac Dejan",1,1
+"activemq-optional/src/test/java/org/apache/activemq/util/xstream/XStreamTransformTest.java","Bosanac Dejan",1,1
+"activemq-pool/src/main/java/org/apache/activemq/pool/AmqJNDIPooledConnectionFactory.java","Robert Davies",1,1
+"activemq-pool/src/main/java/org/apache/activemq/pool/PooledSession.java","Gary Tully",0.5,2
+"activemq-pool/src/main/java/org/apache/activemq/pool/PooledSession.java","Robert Davies",0.5,2
+"activemq-pool/src/main/java/org/apache/activemq/pool/SessionPool.java","Robert Davies",1,1
+"activemq-pool/src/test/java/org/apache/activemq/usecases/ConsumerThread.java","Bosanac Dejan",1,2
+"activemq-pool/src/test/java/org/apache/activemq/usecases/JDBCSpringTest.java","Bosanac Dejan",1,2
+"activemq-pool/src/test/java/org/apache/activemq/usecases/MessageDrivenPojo.java","Bosanac Dejan",1,1
+"activemq-pool/src/test/java/org/apache/activemq/usecases/ProducerThread.java","Bosanac Dejan",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQActivationSpec.java","Gary Tully",0.5,2
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQActivationSpec.java","Robert Davies",0.5,2
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQConnectionRequestInfo.java","Robert Davies",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQConnectionSupport.java","Robert Davies",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQEndpointWorker.java","Bosanac Dejan",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQManagedConnection.java","David Jencks",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ManagedConnectionProxy.java","David Jencks",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ManagedSessionProxy.java","David Jencks",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/MessageActivationSpec.java","Robert Davies",1,1
+"activemq-ra/src/test/java/org/apache/activemq/ra/FailoverManagedConnectionTest.java","Gary Tully",1,1
+"activemq-ra/src/test/java/org/apache/activemq/ra/JmsXARollback2CxTransactionTest.java","David Jencks",0.5,2
+"activemq-ra/src/test/java/org/apache/activemq/ra/JmsXARollback2CxTransactionTest.java","Gary Tully",0.5,2
+"activemq-ra/src/test/java/org/apache/activemq/ra/MessageEndpointProxyTest.java","Gary Tully",1,1
+"activemq-ra/src/test/java/org/apache/activemq/ra/ServerSessionImplTest.java","Gary Tully",1,1
+"activemq-ra/src/test/java/org/apache/activemq/ra/UnsubscribeResubscribeTest.java","Robert Davies",1,1
+"activemq-web/src/main/java/org/apache/activemq/web/BrokerFacadeSupport.java","Robert Davies",1,1
+"activemq-web/src/main/java/org/apache/activemq/web/config/SystemPropertiesConfiguration.java","Bosanac Dejan",1,3
+"activemq-web/src/main/java/org/apache/activemq/web/ConnectionQuery.java","Hiram R. Chirino",1,1
+"activemq-web/src/main/java/org/apache/activemq/web/LocalBrokerFacade.java","Robert Davies",1,1
+"activemq-web/src/main/java/org/apache/activemq/web/RemoteJMXBrokerFacade.java","Bosanac Dejan",1,1
+"activemq-xmpp/src/test/java/org/apache/activemq/transport/xmpp/XmppTest.java","Bosanac Dejan",1,1
+"assembly/src/release/example/src/Log4jJMSAppenderExample.java","Bosanac Dejan",1,1
+"kahadb/src/main/java/org/apache/kahadb/index/BTreeNode.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/index/BTreeVisitor.java","Hiram R. Chirino",1,2
+"kahadb/src/main/java/org/apache/kahadb/index/HashBin.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/index/HashIndex.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/journal/DataFile.java","Gary Tully",0.666666666666667,3
+"kahadb/src/main/java/org/apache/kahadb/journal/DataFile.java","Hiram R. Chirino",0.333333333333333,3
+"kahadb/src/main/java/org/apache/kahadb/journal/DataFileAccessor.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/journal/DataFileAppender.java","Gary Tully",1,1
+"kahadb/src/main/java/org/apache/kahadb/journal/Journal.java","Gary Tully",0.75,4
+"kahadb/src/main/java/org/apache/kahadb/journal/Journal.java","Hiram R. Chirino",0.25,4
+"kahadb/src/main/java/org/apache/kahadb/journal/ReadOnlyDataFile.java","Gary Tully",1,2
+"kahadb/src/main/java/org/apache/kahadb/page/PageFile.java","Gary Tully",1,1
+"kahadb/src/main/java/org/apache/kahadb/util/ByteSequence.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/util/BytesMarshaller.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/util/IntegerMarshaller.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/util/LockFile.java","Gary Tully",1,3
+"kahadb/src/main/java/org/apache/kahadb/util/LongMarshaller.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/util/Marshaller.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/util/ObjectMarshaller.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/util/SequenceSet.java","Hiram R. Chirino",1,3
+"kahadb/src/main/java/org/apache/kahadb/util/StringMarshaller.java","Hiram R. Chirino",1,1
+"kahadb/src/main/java/org/apache/kahadb/util/VariableMarshaller.java","Hiram R. Chirino",1,1

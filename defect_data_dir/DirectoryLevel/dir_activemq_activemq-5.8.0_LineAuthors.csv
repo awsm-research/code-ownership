@@ -1,0 +1,1426 @@
+Author,File,NumLines
+Adrian T. Co,activemq-broker/src/main/java/org/apache/activemq/store/memory,4.0
+Adrian T. Co,activemq-broker/src/test/java/org/apache/activemq,95.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/advisory,56.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/memory,3.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/memory/list,3.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/plugin,75.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/store,122.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/store/memory,13.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/transaction,34.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/usage,34.0
+Bosanac Dejan,activemq-broker/src/test/java/org/apache/activemq,38.0
+Bosanac Dejan,activemq-broker/src/test/java/org/apache/activemq/store,2.0
+Bosanac Dejan,activemq-broker/src/test/java/org/apache/activemq/test,3.0
+Bosanac Dejan,activemq-broker/src/test/java/org/apache/activemq/util,3.0
+Bosanac Dejan,activemq-fileserver/src/main/java/org/apache/activemq/util,163.0
+Bosanac Dejan,activemq-fileserver/src/test/java/org/apache/activemq/util,187.0
+Bosanac Dejan,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc,313.0
+Bosanac Dejan,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc/adapter,110.0
+Bosanac Dejan,activemq-jdbc-store/src/main/java/org/apache/activemq/store/journal,41.0
+Bosanac Dejan,activemq-jdbc-store/src/main/java/org/apache/activemq/util,81.0
+Bosanac Dejan,activemq-karaf/src/main/java/org/apache/activemq/karaf/commands,253.0
+Bosanac Dejan,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v2,10.0
+Bosanac Dejan,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v3,10.0
+Bosanac Dejan,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v4,10.0
+Bosanac Dejan,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v5,10.0
+Bruce Snyder,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc,39.0
+Christian Posta,activemq-broker/src/main/java/org/apache/activemq/advisory,1.0
+Claus Ibsen,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc,43.0
+Claus Ibsen,activemq-jdbc-store/src/main/java/org/apache/activemq/store/journal,3.0
+Claus Ibsen,activemq-jdbc-store/src/main/java/org/apache/activemq/util,3.0
+David Jencks,activemq-broker/src/main/java/org/apache/activemq/store,14.0
+David Jencks,activemq-broker/src/main/java/org/apache/activemq/store/memory,18.0
+David Jencks,activemq-broker/src/test/java/org/apache/activemq,146.0
+David Jencks,activemq-broker/src/test/java/org/apache/activemq/test,3.0
+David Jencks,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc,16.0
+David Jencks,activemq-jdbc-store/src/main/java/org/apache/activemq/store/journal,18.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/advisory,44.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/plugin,7.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/store,38.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/store/memory,111.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/transaction,105.0
+Gary Tully,activemq-broker/src/test/java/org/apache/activemq,18.0
+Gary Tully,activemq-broker/src/test/java/org/apache/activemq/store,13.0
+Gary Tully,activemq-broker/src/test/java/org/apache/activemq/util,443.0
+Gary Tully,activemq-fileserver/src/test/java/org/apache/activemq/util,2.0
+Gary Tully,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc,1687.0
+Gary Tully,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc/adapter,654.0
+Gary Tully,activemq-jdbc-store/src/main/java/org/apache/activemq/store/journal,52.0
+Gary Tully,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v4,9107.0
+Gary Tully,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v5,9112.0
+Gary Tully,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v6,9132.0
+Gary Tully,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v7,814.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/advisory,112.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/memory,174.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/memory/buffer,64.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/memory/list,59.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/store,624.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/store/memory,373.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/transaction,145.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/usage,166.0
+Hiram R. Chirino,activemq-broker/src/test/java/org/apache/activemq,275.0
+Hiram R. Chirino,activemq-broker/src/test/java/org/apache/activemq/store,759.0
+Hiram R. Chirino,activemq-broker/src/test/java/org/apache/activemq/test,228.0
+Hiram R. Chirino,activemq-fileserver/src/main/java/org/apache/activemq/util,249.0
+Hiram R. Chirino,activemq-fileserver/src/test/java/org/apache/activemq/util,30.0
+Hiram R. Chirino,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc,883.0
+Hiram R. Chirino,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc/adapter,732.0
+Hiram R. Chirino,activemq-jdbc-store/src/main/java/org/apache/activemq/store/journal,729.0
+Hiram R. Chirino,activemq-leveldb-store/src/main/java/org/apache/activemq/leveldb,107.0
+Hiram R. Chirino,activemq-leveldb-store/src/main/java/org/apache/activemq/store/leveldb,1.0
+Hiram R. Chirino,activemq-leveldb-store/src/main/scala/org/apache/activemq/leveldb,21.0
+Hiram R. Chirino,activemq-leveldb-store/src/test/scala/org/apache/activemq/leveldb,50.0
+Hiram R. Chirino,activemq-openwire-generator/src/main/java/org/apache/activemq/openwire/tool,4518.0
+Hiram R. Chirino,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v2,8447.0
+Hiram R. Chirino,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v3,8610.0
+Hiram R. Chirino,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v4,62.0
+Hiram R. Chirino,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v5,62.0
+Hiram R. Chirino,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v6,62.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/advisory,76.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/memory,271.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/memory/buffer,277.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/memory/list,131.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/store,239.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/store/memory,289.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/transaction,185.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/usage,5.0
+James Strachan,activemq-broker/src/test/java/org/apache/activemq,485.0
+James Strachan,activemq-broker/src/test/java/org/apache/activemq/test,257.0
+James Strachan,activemq-fileserver/src/main/java/org/apache/activemq/util,45.0
+James Strachan,activemq-fileserver/src/test/java/org/apache/activemq/util,34.0
+James Strachan,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc,804.0
+James Strachan,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc/adapter,463.0
+James Strachan,activemq-jdbc-store/src/main/java/org/apache/activemq/store/journal,989.0
+James Strachan,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v3,554.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/advisory,8.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/memory,77.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/memory/buffer,28.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/memory/list,21.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/store,58.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/store/memory,18.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/transaction,24.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/usage,16.0
+Jonas B. Lim,activemq-broker/src/test/java/org/apache/activemq,16.0
+Jonas B. Lim,activemq-broker/src/test/java/org/apache/activemq/test,16.0
+Jonas B. Lim,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc,20.0
+Jonas B. Lim,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc/adapter,33.0
+Jonas B. Lim,activemq-jdbc-store/src/main/java/org/apache/activemq/store/journal,33.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/advisory,202.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/memory,24.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/memory/list,39.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/plugin,844.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/store,392.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/store/memory,149.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/transaction,51.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/usage,171.0
+Robert Davies,activemq-broker/src/test/java/org/apache/activemq,23.0
+Robert Davies,activemq-broker/src/test/java/org/apache/activemq/test,8.0
+Robert Davies,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc,211.0
+Robert Davies,activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc/adapter,148.0
+Robert Davies,activemq-jdbc-store/src/main/java/org/apache/activemq/store/journal,136.0
+Robert Davies,activemq-leveldb-store/src/main/java/org/apache/activemq/store/leveldb,29.0
+Robert Davies,activemq-leveldb-store/src/main/scala/org/apache/activemq/leveldb,22.0
+Robert Davies,activemq-openwire-generator/src/main/java/org/apache/activemq/openwire/tool,10.0
+Robert Davies,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v2,379.0
+Robert Davies,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v3,21.0
+Robert Davies,activemq-openwire-legacy/src/main/java/org/apache/activemq/openwire/v6,20.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/advisory,73.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/plugin,16.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/store,122.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/store/memory,34.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/usage,101.0
+Timothy A. Bish,activemq-fileserver/src/main/java/org/apache/activemq/util,3.0
+Timothy A. Bish,activemq-fileserver/src/test/java/org/apache/activemq/util,20.0
+Timothy A. Bish,activemq-openwire-generator/src/main/java/org/apache/activemq/openwire/tool,35.0
+Adrian T. Co,activemq-broker/src/main/java/org/apache/activemq/broker,9.0
+Adrian T. Co,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool,18.0
+Adrian T. Co,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/sampler,1.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/broker,775.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/broker/cluster,3.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,556.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/broker/region,560.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/broker/region/cursors,28.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/broker/region/policy,122.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/broker/region/virtual,58.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/broker/scheduler,6.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/broker/util,517.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/broker/view,25.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/filter,23.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/network,214.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/network/jms,10.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/proxy,30.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/security,1512.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/transport,17.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/transport/logwriters,16.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/transport/peer,1.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/transport/vm,13.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/util,164.0
+Bosanac Dejan,activemq-broker/src/main/java/org/apache/activemq/util/osgi,4.0
+Bosanac Dejan,activemq-tooling/activemq-memtest-maven-plugin/src/main/java/org/apache/activemq/tool,9.0
+Bosanac Dejan,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool,76.0
+Bosanac Dejan,activemq-tooling/activemq-perf-maven-plugin/src/test/java/org/apache/activemq/tool/properties,120.0
+Bruce Snyder,activemq-broker/src/main/java/org/apache/activemq/broker,1.0
+Bruce Snyder,activemq-broker/src/main/java/org/apache/activemq/broker/region,1.0
+Christian Posta,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,12.0
+Christian Posta,activemq-broker/src/main/java/org/apache/activemq/broker/region,8.0
+Christian Posta,activemq-broker/src/main/java/org/apache/activemq/network,11.0
+Christian Posta,activemq-mqtt/src/main/java/org/apache/activemq/transport/mqtt,67.0
+Christian Posta,activemq-mqtt/src/test/java/org/apache/activemq/transport/mqtt,46.0
+Christian Posta,activemq-tooling/activemq-perf-maven-plugin/src/test/java/org/apache/activemq/tool,4.0
+Claus Ibsen,activemq-broker/src/main/java/org/apache/activemq/broker,102.0
+Claus Ibsen,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,121.0
+Claus Ibsen,activemq-broker/src/main/java/org/apache/activemq/broker/region,5.0
+Claus Ibsen,activemq-broker/src/main/java/org/apache/activemq/filter,1.0
+Claus Ibsen,activemq-broker/src/main/java/org/apache/activemq/network,8.0
+Claus Ibsen,activemq-broker/src/main/java/org/apache/activemq/network/jms,3.0
+Claus Ibsen,activemq-broker/src/main/java/org/apache/activemq/transport/vm,15.0
+Claus Ibsen,activemq-broker/src/main/java/org/apache/activemq/util,28.0
+Claus Ibsen,activemq-broker/src/main/java/org/apache/activemq/util/osgi,4.0
+Claus Ibsen,activemq-mqtt/src/main/java/org/apache/activemq/transport/mqtt,2.0
+Colin W Macnaughton,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,73.0
+Colin W Macnaughton,activemq-broker/src/main/java/org/apache/activemq/broker/region,430.0
+Colin W Macnaughton,activemq-broker/src/main/java/org/apache/activemq/broker/region/policy,23.0
+Colin W Macnaughton,activemq-broker/src/main/java/org/apache/activemq/network,67.0
+David Jencks,activemq-broker/src/main/java/org/apache/activemq/broker,14.0
+David Jencks,activemq-broker/src/main/java/org/apache/activemq/broker/region,26.0
+David Jencks,activemq-broker/src/main/java/org/apache/activemq/broker/region/cursors,34.0
+David Jencks,activemq-broker/src/main/java/org/apache/activemq/broker/util,22.0
+David Jencks,activemq-broker/src/main/java/org/apache/activemq/util/osgi,1.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/broker,632.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,768.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/broker/region,1322.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/broker/region/cursors,370.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/broker/region/policy,710.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/broker/region/virtual,75.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/broker/util,705.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/network,970.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/security,49.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/transport,32.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/transport/peer,3.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/transport/vm,86.0
+Gary Tully,activemq-broker/src/main/java/org/apache/activemq/util,270.0
+Guillaume Nodet,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,3.0
+Guillaume Nodet,activemq-broker/src/main/java/org/apache/activemq/broker/region,2.0
+Guillaume Nodet,activemq-broker/src/main/java/org/apache/activemq/broker/region/virtual,1.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker,2620.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker/cluster,1.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,2020.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker/region,1976.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker/region/cursors,442.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker/region/group,132.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker/region/policy,905.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker/region/virtual,101.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker/scheduler,68.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker/util,461.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/broker/view,90.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/filter,103.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/network,943.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/network/jms,657.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/proxy,97.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/security,818.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/transport,698.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/transport/logwriters,214.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/transport/peer,37.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/transport/vm,292.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/util,760.0
+Hiram R. Chirino,activemq-broker/src/main/java/org/apache/activemq/util/osgi,219.0
+Hiram R. Chirino,activemq-mqtt/src/main/java/org/apache/activemq/transport/mqtt,16.0
+Hiram R. Chirino,activemq-mqtt/src/test/java/org/apache/activemq/transport/mqtt,73.0
+Hiram R. Chirino,activemq-tooling/activemq-memtest-maven-plugin/src/main/java/org/apache/activemq/maven,109.0
+Hiram R. Chirino,activemq-tooling/activemq-memtest-maven-plugin/src/main/java/org/apache/activemq/tool,957.0
+Hiram R. Chirino,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/maven,267.0
+Hiram R. Chirino,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool,1110.0
+Hiram R. Chirino,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/sampler,398.0
+Hiram R. Chirino,activemq-tooling/activemq-perf-maven-plugin/src/test/java/org/apache/activemq/tool,345.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/broker,2350.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,1469.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/broker/region,1610.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/broker/region/group,290.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/broker/region/policy,890.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/broker/region/virtual,576.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/broker/util,278.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/broker/view,513.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/filter,51.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/network,613.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/network/jms,834.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/proxy,157.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/security,963.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/transport,19.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/transport/peer,62.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/transport/vm,164.0
+James Strachan,activemq-broker/src/main/java/org/apache/activemq/util,161.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/broker,127.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,70.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/broker/region,126.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/broker/region/policy,78.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/filter,8.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/network,18.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/network/jms,91.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/proxy,9.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/security,108.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/transport,8.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/transport/peer,8.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/transport/vm,9.0
+Jonas B. Lim,activemq-broker/src/main/java/org/apache/activemq/util,33.0
+Patrick Edward Lapus Villacorta,activemq-broker/src/main/java/org/apache/activemq/broker/region,2.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/broker,2756.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/broker/cluster,88.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,1551.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/broker/region,3631.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/broker/region/cursors,2065.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/broker/region/policy,1027.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/broker/region/virtual,143.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/broker/scheduler,506.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/broker/util,112.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/broker/view,32.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/network,574.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/network/jms,218.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/proxy,7.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/security,14.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/transport,8.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/transport/vm,72.0
+Robert Davies,activemq-broker/src/main/java/org/apache/activemq/util,214.0
+Robert Davies,activemq-mqtt/src/main/java/org/apache/activemq/transport/mqtt,2005.0
+Robert Davies,activemq-mqtt/src/test/java/org/apache/activemq/transport/mqtt,552.0
+Robert Davies,activemq-tooling/activemq-memtest-maven-plugin/src/main/java/org/apache/activemq/tool,8.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/broker,824.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/broker/jmx,1532.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/broker/region,877.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/broker/region/cursors,173.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/broker/region/policy,44.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/broker/region/virtual,1.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/broker/scheduler,173.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/broker/util,90.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/network,1173.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/network/jms,1030.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/security,105.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/transport/vm,175.0
+Timothy A. Bish,activemq-broker/src/main/java/org/apache/activemq/util,50.0
+Timothy A. Bish,activemq-mqtt/src/main/java/org/apache/activemq/transport/mqtt,72.0
+Timothy A. Bish,activemq-mqtt/src/test/java/org/apache/activemq/transport/mqtt,19.0
+Timothy A. Bish,activemq-tooling/activemq-memtest-maven-plugin/src/main/java/org/apache/activemq/maven,15.0
+Timothy A. Bish,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/maven,13.0
+Timothy A. Bish,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool,111.0
+Torsten Mielke,activemq-broker/src/main/java/org/apache/activemq/broker,8.0
+Adrian T. Co,activemq-client/src/main/java/org/apache/activemq,73.0
+Adrian T. Co,activemq-client/src/main/java/org/apache/activemq/command,131.0
+Adrian T. Co,activemq-client/src/test/java/org/apache/activemq/util,97.0
+Adrian T. Co,activemq-http/src/main/java/org/apache/activemq/transport/http,51.0
+Adrian T. Co,activemq-http/src/test/java/org/apache/activemq/transport/http,4.0
+Adrian T. Co,activemq-tooling/activemq-maven-plugin/src/main/java/org/apache/activemq/maven,67.0
+Adrian T. Co,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/properties,9.0
+Adrian T. Co,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/reports,153.0
+Adrian T. Co,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/reports/plugins,117.0
+Adrian T. Co,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/spi,1.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq,191.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/blob,335.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/command,160.0
+Bosanac Dejan,activemq-client/src/test/java/org/apache/activemq/thread,3.0
+Bosanac Dejan,activemq-client/src/test/java/org/apache/activemq/util,33.0
+Bosanac Dejan,activemq-http/src/main/java/org/apache/activemq/transport,272.0
+Bosanac Dejan,activemq-http/src/main/java/org/apache/activemq/transport/discovery/http,11.0
+Bosanac Dejan,activemq-http/src/main/java/org/apache/activemq/transport/http,104.0
+Bosanac Dejan,activemq-http/src/main/java/org/apache/activemq/transport/https,9.0
+Bosanac Dejan,activemq-http/src/main/java/org/apache/activemq/transport/ws,297.0
+Bosanac Dejan,activemq-http/src/main/java/org/apache/activemq/transport/wss,87.0
+Bosanac Dejan,activemq-http/src/main/java/org/apache/activemq/transport/xstream,2.0
+Bosanac Dejan,activemq-http/src/test/java/org/apache/activemq/bugs,63.0
+Bosanac Dejan,activemq-http/src/test/java/org/apache/activemq/transport/http,127.0
+Bosanac Dejan,activemq-http/src/test/java/org/apache/activemq/transport/ws,95.0
+Bosanac Dejan,activemq-http/src/test/java/org/apache/activemq/transport/wss,46.0
+Bosanac Dejan,activemq-http/src/test/java/org/apache/activemq/transport/xstream,3.0
+Bosanac Dejan,activemq-osgi/src/main/java/org/apache/activemq/osgi,139.0
+Bosanac Dejan,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/properties,93.0
+Bosanac Dejan,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/reports,3.0
+Bosanac Dejan,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/reports/plugins,3.0
+Bosanac Dejan,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/spi,3.0
+Bruce Snyder,activemq-client/src/main/java/org/apache/activemq,18.0
+Christian Posta,activemq-client/src/test/java/org/apache/activemq/util,53.0
+Christian Posta,activemq-tooling/activemq-maven-plugin/src/main/java/org/apache/activemq/maven,5.0
+Christian Posta,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/properties,1.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq,19.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/blob,10.0
+Claus Ibsen,activemq-client/src/test/java/org/apache/activemq/util,128.0
+Claus Ibsen,activemq-http/src/main/java/org/apache/activemq/transport,8.0
+Claus Ibsen,activemq-http/src/main/java/org/apache/activemq/transport/discovery/http,1.0
+Claus Ibsen,activemq-http/src/main/java/org/apache/activemq/transport/http,22.0
+Claus Ibsen,activemq-http/src/main/java/org/apache/activemq/transport/https,12.0
+Claus Ibsen,activemq-http/src/main/java/org/apache/activemq/transport/ws,4.0
+Claus Ibsen,activemq-http/src/main/java/org/apache/activemq/transport/wss,8.0
+Claus Ibsen,activemq-http/src/main/java/org/apache/activemq/transport/xstream,3.0
+Claus Ibsen,activemq-http/src/test/java/org/apache/activemq/bugs,8.0
+Claus Ibsen,activemq-http/src/test/java/org/apache/activemq/transport/http,4.0
+Claus Ibsen,activemq-http/src/test/java/org/apache/activemq/transport/ws,2.0
+David Jencks,activemq-client/src/main/java/org/apache/activemq,80.0
+David Jencks,activemq-client/src/main/java/org/apache/activemq/command,11.0
+Frederick G. Oconer,activemq-client/src/main/java/org/apache/activemq,3.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq,1277.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/blob,2.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/command,342.0
+Gary Tully,activemq-client/src/test/java/org/apache/activemq/broker/scheduler,23.0
+Gary Tully,activemq-client/src/test/java/org/apache/activemq/thread,14.0
+Gary Tully,activemq-client/src/test/java/org/apache/activemq/usage,74.0
+Gary Tully,activemq-client/src/test/java/org/apache/activemq/util,184.0
+Gary Tully,activemq-http/src/main/java/org/apache/activemq/transport/http,45.0
+Gary Tully,activemq-http/src/main/java/org/apache/activemq/transport/https,3.0
+Gary Tully,activemq-http/src/test/java/org/apache/activemq,2.0
+Gary Tully,activemq-http/src/test/java/org/apache/activemq/bugs,235.0
+Gary Tully,activemq-http/src/test/java/org/apache/activemq/transport/http,51.0
+Gary Tully,activemq-http/src/test/java/org/apache/activemq/transport/https,2.0
+Guillaume Nodet,activemq-client/src/main/java/org/apache/activemq,3.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq,3702.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/blob,28.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/command,3566.0
+Hiram R. Chirino,activemq-client/src/test/java/org/apache/activemq/thread,116.0
+Hiram R. Chirino,activemq-client/src/test/java/org/apache/activemq/util,59.0
+Hiram R. Chirino,activemq-http/src/main/java/org/apache/activemq/transport/discovery/http,419.0
+Hiram R. Chirino,activemq-http/src/main/java/org/apache/activemq/transport/http,323.0
+Hiram R. Chirino,activemq-http/src/main/java/org/apache/activemq/transport/https,118.0
+Hiram R. Chirino,activemq-http/src/main/java/org/apache/activemq/transport/util,40.0
+Hiram R. Chirino,activemq-http/src/main/java/org/apache/activemq/transport/xstream,45.0
+Hiram R. Chirino,activemq-http/src/test/java/org/apache/activemq,10.0
+Hiram R. Chirino,activemq-http/src/test/java/org/apache/activemq/transport/http,125.0
+Hiram R. Chirino,activemq-http/src/test/java/org/apache/activemq/transport/https,85.0
+Hiram R. Chirino,activemq-http/src/test/java/org/apache/activemq/transport/xstream,25.0
+Hiram R. Chirino,activemq-tooling/activemq-maven-plugin/src/main/java/org/apache/activemq/maven,81.0
+Hiram R. Chirino,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/properties,819.0
+Hiram R. Chirino,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/reports,551.0
+Hiram R. Chirino,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/reports/plugins,250.0
+Hiram R. Chirino,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/sampler/plugins,148.0
+Hiram R. Chirino,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/spi,312.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq,6358.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/blob,256.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/command,6232.0
+James Strachan,activemq-client/src/test/java/org/apache/activemq/thread,45.0
+James Strachan,activemq-client/src/test/java/org/apache/activemq/util,47.0
+James Strachan,activemq-http/src/main/java/org/apache/activemq/transport/http,348.0
+James Strachan,activemq-http/src/main/java/org/apache/activemq/transport/https,17.0
+James Strachan,activemq-http/src/main/java/org/apache/activemq/transport/util,15.0
+James Strachan,activemq-http/src/main/java/org/apache/activemq/transport/xstream,78.0
+James Strachan,activemq-http/src/test/java/org/apache/activemq,24.0
+James Strachan,activemq-http/src/test/java/org/apache/activemq/transport/http,68.0
+James Strachan,activemq-http/src/test/java/org/apache/activemq/transport/xstream,20.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq,277.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/command,397.0
+Jonas B. Lim,activemq-client/src/test/java/org/apache/activemq/thread,8.0
+Jonas B. Lim,activemq-client/src/test/java/org/apache/activemq/util,7.0
+Jonathan Anstey,activemq-client/src/main/java/org/apache/activemq,5.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq,1548.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/blob,249.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/command,817.0
+Robert Davies,activemq-client/src/test/java/org/apache/activemq/broker/scheduler,133.0
+Robert Davies,activemq-client/src/test/java/org/apache/activemq/thread,91.0
+Robert Davies,activemq-client/src/test/java/org/apache/activemq/usage,18.0
+Robert Davies,activemq-client/src/test/java/org/apache/activemq/util,138.0
+Robert Davies,activemq-http/src/main/java/org/apache/activemq/transport/http,10.0
+Robert Davies,activemq-http/src/main/java/org/apache/activemq/transport/util,17.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq,1352.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/blob,12.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/command,526.0
+Timothy A. Bish,activemq-client/src/test/java/org/apache/activemq,109.0
+Timothy A. Bish,activemq-client/src/test/java/org/apache/activemq/broker/scheduler,205.0
+Timothy A. Bish,activemq-client/src/test/java/org/apache/activemq/util,96.0
+Timothy A. Bish,activemq-http/src/main/java/org/apache/activemq/transport/discovery/http,142.0
+Timothy A. Bish,activemq-http/src/main/java/org/apache/activemq/transport/http,229.0
+Timothy A. Bish,activemq-http/src/main/java/org/apache/activemq/transport/https,164.0
+Timothy A. Bish,activemq-http/src/main/java/org/apache/activemq/transport/util,6.0
+Timothy A. Bish,activemq-http/src/main/java/org/apache/activemq/transport/ws,46.0
+Timothy A. Bish,activemq-http/src/main/java/org/apache/activemq/transport/xstream,15.0
+Timothy A. Bish,activemq-http/src/test/java/org/apache/activemq/transport/http,767.0
+Timothy A. Bish,activemq-http/src/test/java/org/apache/activemq/transport/https,176.0
+Timothy A. Bish,activemq-http/src/test/java/org/apache/activemq/transport/ws,162.0
+Timothy A. Bish,activemq-tooling/activemq-maven-plugin/src/main/java/org/apache/activemq/maven,111.0
+Timothy A. Bish,activemq-tooling/activemq-maven-plugin/src/test/java/org/apache/activemq/maven,49.0
+Timothy A. Bish,activemq-tooling/activemq-perf-maven-plugin/src/main/java/org/apache/activemq/tool/properties,32.0
+Torsten Mielke,activemq-client/src/main/java/org/apache/activemq,10.0
+Adrian T. Co,activemq-client/src/main/java/org/apache/activemq/openwire,4.0
+Adrian T. Co,activemq-client/src/main/java/org/apache/activemq/transport/failover,9.0
+Adrian T. Co,activemq-client/src/main/java/org/apache/activemq/transport/fanout,1.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/advisory,34.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/filter,52.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/jndi,6.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/management,3.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/openwire,40.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/openwire/v1,10.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/openwire/v8,813.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/state,5.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/thread,28.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport,38.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/discovery,6.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/discovery/multicast,7.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/discovery/simple,3.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/discovery/zeroconf,3.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/failover,134.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/fanout,15.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/multicast,3.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/nio,539.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/reliable,6.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/tcp,35.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/transport/udp,25.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/usage,6.0
+Bruce Snyder,activemq-client/src/main/java/org/apache/activemq/transport/tcp,51.0
+Bruce Snyder,activemq-client/src/main/java/org/apache/activemq/transport/udp,2.0
+Bruce Snyder,activemq-client/src/main/java/org/apache/activemq/usage,1.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/jndi,7.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/state,3.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/thread,93.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/transport,18.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/transport/discovery/multicast,5.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/transport/discovery/simple,11.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/transport/discovery/zeroconf,12.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/transport/failover,27.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/transport/fanout,26.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/transport/nio,14.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/transport/tcp,15.0
+Colin W Macnaughton,activemq-client/src/main/java/org/apache/activemq/transport,11.0
+David Jencks,activemq-client/src/main/java/org/apache/activemq/filter,2.0
+David Jencks,activemq-client/src/main/java/org/apache/activemq/transport/tcp,6.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/advisory,8.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/broker/region/policy,66.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/broker/scheduler,4.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/filter,83.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/jndi,14.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/management,10.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/openwire,6.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/openwire/v9,814.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/state,292.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/thread,91.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport,326.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport/discovery,33.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport/discovery/masterslave,131.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport/discovery/multicast,99.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport/discovery/simple,11.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport/discovery/zeroconf,11.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport/failover,146.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport/fanout,5.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport/nio,49.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport/tcp,121.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/transport/udp,1.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/usage,48.0
+Hadrian Zbarcea,activemq-client/src/main/java/org/apache/activemq/transport/fanout,2.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/advisory,202.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/broker,135.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/broker/region,32.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/filter,842.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/jndi,448.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/management,356.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/openwire,617.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/openwire/v1,4788.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/state,773.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/thread,283.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transaction,18.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport,826.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/discovery,125.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/discovery/multicast,320.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/discovery/simple,164.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/discovery/zeroconf,94.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/failover,178.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/fanout,217.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/mock,89.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/multicast,44.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/nio,829.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/reliable,102.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/tcp,748.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/transport/udp,382.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/usage,178.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/wireformat,151.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/advisory,550.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/broker/region,21.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/filter,2084.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/jndi,555.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/management,1153.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/openwire,274.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/openwire/v1,3503.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/state,245.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/thread,128.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transaction,7.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport,767.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/discovery,177.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/discovery/multicast,161.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/discovery/simple,72.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/discovery/zeroconf,205.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/failover,225.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/fanout,368.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/mock,93.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/multicast,185.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/reliable,550.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/tcp,637.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/transport/udp,1424.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/usage,10.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/advisory,43.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/broker/region,8.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/filter,168.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/jndi,33.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/management,153.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/openwire,24.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/state,48.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/thread,33.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/transaction,8.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/transport,105.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/transport/discovery,24.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/transport/discovery/multicast,8.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/transport/discovery/simple,8.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/transport/discovery/zeroconf,18.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/transport/failover,9.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/transport/fanout,30.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/transport/mock,16.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/transport/tcp,41.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/usage,24.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/advisory,544.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/broker/region,6.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/broker/scheduler,177.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/filter,96.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/jndi,37.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/management,116.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/openwire,58.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/openwire/v1,442.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/state,137.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/thread,178.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transaction,3.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport,270.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport/discovery,3.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport/discovery/multicast,43.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport/discovery/simple,2.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport/discovery/zeroconf,1.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport/failover,520.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport/fanout,41.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport/mock,34.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport/reliable,3.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport/tcp,540.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/transport/udp,1.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/usage,438.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/wireformat,12.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/advisory,53.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/broker/scheduler,180.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/filter,157.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/jndi,22.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/openwire/v8,1.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/thread,17.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/transport,631.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/transport/discovery/simple,14.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/transport/failover,261.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/transport/nio,347.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/transport/reliable,9.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/transport/tcp,137.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/transport/udp,49.0
+Adrian T. Co,activemq-client/src/main/java/org/apache/activemq/util,70.0
+Adrian T. Co,trash/activemq-optional/src/test/java/org/apache/activemq/util/xstream,107.0
+Bosanac Dejan,activemq-client/src/main/java/org/apache/activemq/util,98.0
+Bosanac Dejan,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb,159.0
+Bosanac Dejan,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/index,7.0
+Bosanac Dejan,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/journal,36.0
+Bosanac Dejan,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/page,127.0
+Bosanac Dejan,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/scheduler,19.0
+Bosanac Dejan,activemq-spring/src/main/java/org/apache/activemq/hooks,38.0
+Bosanac Dejan,activemq-spring/src/main/java/org/apache/activemq/pool,19.0
+Bosanac Dejan,activemq-spring/src/main/java/org/apache/activemq/spring,46.0
+Bosanac Dejan,activemq-spring/src/main/java/org/apache/activemq/xbean,10.0
+Bosanac Dejan,activemq-spring/src/test/java/org/apache/activemq/spring,357.0
+Bosanac Dejan,activemq-spring/src/test/java/org/apache/activemq/usecases,6.0
+Bosanac Dejan,activemq-spring/src/test/java/org/apache/bugs,22.0
+Bosanac Dejan,trash/activemq-optional/src/main/java/org/apache/activemq/tool,4.0
+Bosanac Dejan,trash/activemq-optional/src/main/java/org/apache/activemq/util/oxm,319.0
+Bosanac Dejan,trash/activemq-optional/src/test/java/org/apache/activemq/util/oxm,388.0
+Bosanac Dejan,trash/activemq-optional/src/test/java/org/apache/activemq/util/xstream,92.0
+Bruce Snyder,activemq-client/src/main/java/org/apache/activemq/util,42.0
+Christian Posta,activemq-client/src/main/java/org/apache/activemq/util,11.0
+Claus Ibsen,activemq-client/src/main/java/org/apache/activemq/util,653.0
+Claus Ibsen,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb,5.0
+Claus Ibsen,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/plist,1.0
+Claus Ibsen,activemq-spring/src/main/java/org/apache/activemq/hooks/osgi,1.0
+Claus Ibsen,activemq-spring/src/main/java/org/apache/activemq/xbean,10.0
+Claus Ibsen,activemq-spring/src/test/java/org/apache/bugs,2.0
+Claus Ibsen,trash/activemq-optional/src/main/java/org/apache/activemq/util/oxm,20.0
+Claus Ibsen,trash/activemq-optional/src/test/java/org/apache/activemq/util/oxm,14.0
+Claus Ibsen,trash/activemq-optional/src/test/java/org/apache/activemq/util/xstream,4.0
+David Jencks,activemq-client/src/main/java/org/apache/activemq/util,4.0
+David Jencks,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb,15.0
+David Jencks,activemq-spring/src/main/java/org/apache/activemq/pool,15.0
+David Jencks,activemq-spring/src/main/java/org/apache/activemq/spring,24.0
+David Jencks,activemq-spring/src/main/java/org/apache/activemq/xbean,14.0
+Gary Tully,activemq-client/src/main/java/org/apache/activemq/util,104.0
+Gary Tully,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb,2654.0
+Gary Tully,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/index,643.0
+Gary Tully,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/journal,381.0
+Gary Tully,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/page,75.0
+Gary Tully,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/util,70.0
+Gary Tully,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/plist,328.0
+Gary Tully,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/index,753.0
+Gary Tully,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/plist,16.0
+Gary Tully,activemq-spring/src/main/java/org/apache/activemq/hooks/osgi,50.0
+Gary Tully,activemq-spring/src/main/java/org/apache/activemq/security,16.0
+Gary Tully,activemq-spring/src/main/java/org/apache/activemq/spring,52.0
+Gary Tully,activemq-spring/src/main/java/org/apache/activemq/xbean,47.0
+Gary Tully,activemq-spring/src/test/java/org/apache/activemq/spring,6.0
+Gary Tully,activemq-spring/src/test/java/org/apache/bugs,651.0
+Guillaume Nodet,activemq-spring/src/main/java/org/apache/activemq/pool,153.0
+Guillaume Nodet,activemq-spring/src/test/java/org/apache/activemq/usecases,9.0
+Hiram R. Chirino,activemq-client/src/main/java/org/apache/activemq/util,1801.0
+Hiram R. Chirino,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb,2483.0
+Hiram R. Chirino,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/index,2114.0
+Hiram R. Chirino,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/journal,1650.0
+Hiram R. Chirino,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/page,1552.0
+Hiram R. Chirino,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/util,2276.0
+Hiram R. Chirino,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/plist,107.0
+Hiram R. Chirino,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/scheduler,388.0
+Hiram R. Chirino,activemq-kahadb-store/src/main/java/org/apache/activemq/util,1.0
+Hiram R. Chirino,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/index,689.0
+Hiram R. Chirino,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/journal,111.0
+Hiram R. Chirino,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/page,201.0
+Hiram R. Chirino,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/util,1.0
+Hiram R. Chirino,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/plist,52.0
+Hiram R. Chirino,activemq-spring/src/main/java/org/apache/activemq/network/jms,56.0
+Hiram R. Chirino,activemq-spring/src/main/java/org/apache/activemq/security,26.0
+Hiram R. Chirino,activemq-spring/src/main/java/org/apache/activemq/spring,200.0
+Hiram R. Chirino,activemq-spring/src/main/java/org/apache/activemq/store,10.0
+Hiram R. Chirino,activemq-spring/src/main/java/org/apache/activemq/xbean,208.0
+Hiram R. Chirino,activemq-spring/src/test/java/org/apache/activemq/usecases,503.0
+Hiram R. Chirino,trash/activemq-optional/src/main/java/org/apache/activemq/benchmark,108.0
+Hiram R. Chirino,trash/activemq-optional/src/main/java/org/apache/activemq/tool,350.0
+Hiram R. Chirino,trash/activemq-optional/src/test/java/org/apache/activemq/util/xstream,44.0
+James Strachan,activemq-client/src/main/java/org/apache/activemq/util,942.0
+James Strachan,activemq-spring/src/main/java/org/apache/activemq/network/jms,32.0
+James Strachan,activemq-spring/src/main/java/org/apache/activemq/spring,261.0
+James Strachan,activemq-spring/src/main/java/org/apache/activemq/store,29.0
+James Strachan,activemq-spring/src/main/java/org/apache/activemq/xbean,191.0
+James Strachan,activemq-spring/src/test/java/org/apache/activemq/usecases,204.0
+James Strachan,trash/activemq-optional/src/main/java/org/apache/activemq/benchmark,477.0
+James Strachan,trash/activemq-optional/src/main/java/org/apache/activemq/tool,457.0
+James Strachan,trash/activemq-optional/src/test/java/org/apache/activemq/util/xstream,120.0
+Jonas B. Lim,activemq-client/src/main/java/org/apache/activemq/util,74.0
+Jonas B. Lim,activemq-spring/src/main/java/org/apache/activemq/network/jms,21.0
+Jonas B. Lim,activemq-spring/src/main/java/org/apache/activemq/store,7.0
+Jonas B. Lim,activemq-spring/src/main/java/org/apache/activemq/xbean,11.0
+Robert Davies,activemq-client/src/main/java/org/apache/activemq/util,692.0
+Robert Davies,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb,1689.0
+Robert Davies,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/journal,18.0
+Robert Davies,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/page,319.0
+Robert Davies,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/plist,349.0
+Robert Davies,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/scheduler,848.0
+Robert Davies,activemq-kahadb-store/src/main/java/org/apache/activemq/util,235.0
+Robert Davies,activemq-spring/src/main/java/org/apache/activemq/store,2.0
+Robert Davies,activemq-spring/src/test/java/org/apache/activemq/store/leveldb,127.0
+Robert Davies,activemq-spring/src/test/java/org/apache/activemq/usecases,249.0
+Robert Davies,trash/activemq-optional/src/main/java/org/apache/activemq/benchmark,2.0
+Timothy A. Bish,activemq-client/src/main/java/org/apache/activemq/util,341.0
+Timothy A. Bish,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb,789.0
+Timothy A. Bish,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/index,198.0
+Timothy A. Bish,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/journal,153.0
+Timothy A. Bish,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/page,102.0
+Timothy A. Bish,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/util,213.0
+Timothy A. Bish,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/plist,8.0
+Timothy A. Bish,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/scheduler,120.0
+Timothy A. Bish,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/index,451.0
+Timothy A. Bish,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/journal,11.0
+Timothy A. Bish,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/page,1.0
+Timothy A. Bish,activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/util,138.0
+Timothy A. Bish,activemq-spring/src/main/java/org/apache/activemq/spring,10.0
+Timothy A. Bish,activemq-spring/src/main/java/org/apache/activemq/xbean,9.0
+Timothy A. Bish,activemq-spring/src/test/java/org/apache/activemq/store/leveldb,4.0
+Willem Ning Jiang,activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb,5.0
+Adrian T. Co,activemq-console/src/main/java/org/apache/activemq/console,147.0
+Adrian T. Co,activemq-console/src/main/java/org/apache/activemq/console/command,58.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq,309.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/command,16.0
+Adrian T. Co,activemq-web/src/main/java/org/apache/activemq/web,34.0
+Alex Dean,activemq-web-demo/src/test/java/org/apache/activemq/web,395.0
+Alex Dean,activemq-web/src/main/java/org/apache/activemq/web,99.0
+Bosanac Dejan,activemq-console/src/main/java/org/apache/activemq/console,2.0
+Bosanac Dejan,activemq-console/src/main/java/org/apache/activemq/console/command,670.0
+Bosanac Dejan,activemq-console/src/main/java/org/apache/activemq/console/command/store/amq,123.0
+Bosanac Dejan,activemq-console/src/main/java/org/apache/activemq/console/filter,60.0
+Bosanac Dejan,activemq-console/src/main/java/org/apache/activemq/console/util,18.0
+Bosanac Dejan,activemq-console/src/test/java/org/apache/activemq/simple,3.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq,449.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/blob,289.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/command,42.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/memory,3.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/memory/buffer,3.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/plugin,27.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/streams,40.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/test,20.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/test/message,6.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/test/retroactive,9.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/test/rollback,9.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/usage,155.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/xbean,115.0
+Bosanac Dejan,activemq-web-demo/src/test/java/org/apache/activemq/web,307.0
+Bosanac Dejan,activemq-web/src/main/java/org/apache/activemq/web,1156.0
+Bosanac Dejan,activemq-web/src/main/java/org/apache/activemq/web/config,250.0
+Bosanac Dejan,activemq-web/src/main/java/org/apache/activemq/web/view,1.0
+Bruce Snyder,activemq-console/src/main/java/org/apache/activemq/console,94.0
+Christian Posta,activemq-console/src/main/java/org/apache/activemq/console/command,2.0
+Christian Posta,activemq-unit-tests/src/test/java/org/apache/activemq,35.0
+Christian Posta,activemq-web/src/main/java/org/apache/activemq/web,2.0
+Christian Posta,activemq-web/src/test/java/org/apache/activemq/web,85.0
+Claus Ibsen,activemq-console/src/main/java/org/apache/activemq/console,22.0
+Claus Ibsen,activemq-console/src/main/java/org/apache/activemq/console/command,2.0
+Claus Ibsen,activemq-itests-spring31/src/test/java/org/apache/activemq/itest/spring31,78.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq,104.0
+Claus Ibsen,activemq-web/src/main/java/org/apache/activemq/web,58.0
+David Jencks,activemq-unit-tests/src/test/java/org/apache/activemq,16.0
+Dennis Cook,activemq-console/src/main/java/org/apache/activemq/console,12.0
+Gary Tully,activemq-console/src/main/java/org/apache/activemq/console/command,14.0
+Gary Tully,activemq-rar/src/test/java/org/apache/activemq,30.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq,4066.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/blob,17.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/command,96.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/jmx,34.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/memory,3.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/test,27.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/test/message,2.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/test/retroactive,2.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/test/rollback,145.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/xbean,66.0
+Gary Tully,activemq-web/src/main/java/org/apache/activemq/web,6.0
+Gregory John Wilkins,activemq-web/src/main/java/org/apache/activemq/web,339.0
+Guillaume Nodet,activemq-console/src/main/java/org/apache/activemq/console/command,130.0
+Guillaume Nodet,activemq-console/src/main/java/org/apache/activemq/console/filter,27.0
+Guillaume Nodet,activemq-console/src/main/java/org/apache/activemq/console/formatter,1.0
+Guillaume Nodet,activemq-console/src/main/java/org/apache/activemq/console/util,20.0
+Guillaume Nodet,activemq-unit-tests/src/test/java/org/apache/activemq,1.0
+Guillaume Nodet,activemq-web/src/main/java/org/apache/activemq/web,12.0
+Hadrian Zbarcea,activemq-web/src/main/java/org/apache/activemq/web,17.0
+Hiram R. Chirino,activemq-console/src/main/java/org/apache/activemq/console,353.0
+Hiram R. Chirino,activemq-console/src/main/java/org/apache/activemq/console/command,1985.0
+Hiram R. Chirino,activemq-console/src/main/java/org/apache/activemq/console/command/store,348.0
+Hiram R. Chirino,activemq-console/src/main/java/org/apache/activemq/console/command/store/tar,2248.0
+Hiram R. Chirino,activemq-console/src/main/java/org/apache/activemq/console/filter,1715.0
+Hiram R. Chirino,activemq-console/src/main/java/org/apache/activemq/console/formatter,390.0
+Hiram R. Chirino,activemq-console/src/main/java/org/apache/activemq/console/util,177.0
+Hiram R. Chirino,activemq-console/src/test/java/org/apache/activemq/simple,150.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq,3975.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/blob,2.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/command,419.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/memory,77.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/memory/buffer,43.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/streams,33.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/test,183.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/test/message,49.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/test/retroactive,93.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/test/rollback,141.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/xbean,315.0
+Hiram R. Chirino,activemq-web/src/main/java/org/apache/activemq/web,532.0
+Hiram R. Chirino,activemq-web/src/main/java/org/apache/activemq/web/config,4.0
+Hiram R. Chirino,activemq-web/src/main/java/org/apache/activemq/web/view,69.0
+James Strachan,activemq-console/src/main/java/org/apache/activemq/console,124.0
+James Strachan,activemq-console/src/main/java/org/apache/activemq/console/command,19.0
+James Strachan,activemq-console/src/main/java/org/apache/activemq/console/filter,2.0
+James Strachan,activemq-console/src/main/java/org/apache/activemq/console/formatter,1.0
+James Strachan,activemq-console/src/main/java/org/apache/activemq/console/util,45.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq,5143.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/blob,30.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/command,3051.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/memory/buffer,159.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/streams,83.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/test,492.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/test/message,128.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/test/retroactive,244.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/test/rollback,90.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/xbean,213.0
+James Strachan,activemq-web/src/main/java/org/apache/activemq/web,1591.0
+James Strachan,activemq-web/src/main/java/org/apache/activemq/web/view,275.0
+Jonas B. Lim,activemq-console/src/main/java/org/apache/activemq/console,1.0
+Jonas B. Lim,activemq-console/src/main/java/org/apache/activemq/console/formatter,1.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq,482.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/command,59.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/memory/buffer,28.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/streams,7.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/test,32.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/test/retroactive,35.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/xbean,43.0
+Jonas B. Lim,activemq-web/src/main/java/org/apache/activemq/web,47.0
+Patrick Edward Lapus Villacorta,activemq-unit-tests/src/test/java/org/apache/activemq/streams,1.0
+Robert Davies,activemq-console/src/main/java/org/apache/activemq/console,18.0
+Robert Davies,activemq-console/src/main/java/org/apache/activemq/console/command,144.0
+Robert Davies,activemq-console/src/main/java/org/apache/activemq/console/util,1.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq,552.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/blob,131.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/command,45.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/jmx,2.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/memory/buffer,8.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/plugin,103.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/test/message,4.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/test/retroactive,2.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/test/rollback,1.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/usage,1.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/xbean,13.0
+Robert Davies,activemq-web/src/main/java/org/apache/activemq/web,202.0
+Timothy A. Bish,activemq-console/src/main/java/org/apache/activemq/console,76.0
+Timothy A. Bish,activemq-console/src/main/java/org/apache/activemq/console/command,138.0
+Timothy A. Bish,activemq-console/src/main/java/org/apache/activemq/console/filter,41.0
+Timothy A. Bish,activemq-console/src/main/java/org/apache/activemq/console/formatter,6.0
+Timothy A. Bish,activemq-console/src/test/java/org/apache/activemq/console/filter,58.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq,878.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/blob,59.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/command,80.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/jmx,79.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/plugin,48.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/streams,116.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/usage,112.0
+Timothy A. Bish,activemq-web-demo/src/test/java/org/apache/activemq/web,222.0
+Timothy A. Bish,activemq-web/src/main/java/org/apache/activemq/web,140.0
+Timothy A. Bish,activemq-web/src/main/java/org/apache/activemq/web/config,72.0
+Torsten Mielke,activemq-console/src/main/java/org/apache/activemq/console/command,72.0
+Torsten Mielke,activemq-console/src/main/java/org/apache/activemq/console/filter,1.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/broker,209.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/config,66.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/perf,3.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/spring,13.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/usecases,7.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/advisory,226.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker,56.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/jmx,106.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/store,3.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/config,6.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/demo,12.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/network,947.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/network/jms,6.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/openwire,45.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v1,20.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v2,20.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v3,2.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v4,2.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v5,2.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v8,82.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/perf,41.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/selector,31.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/spring,23.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/store,414.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/store/jdbc,458.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/store/kahadb,91.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/store/kahadb/perf,3.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/usecases,4177.0
+Bruce Snyder,activemq-unit-tests/src/test/java/org/apache/activemq/broker,2.0
+Bruce Snyder,activemq-unit-tests/src/test/java/org/apache/activemq/network,289.0
+Christian Posta,activemq-unit-tests/src/test/java/org/apache/activemq/network,187.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/broker,3.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/broker/jmx,2.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/network,2.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/usecases,9.0
+David Jencks,activemq-unit-tests/src/test/java/org/apache/activemq/usecases,1.0
+Frederick G. Oconer,activemq-unit-tests/src/test/java/org/apache/activemq/usecases,4.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/advisory,91.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/broker,1899.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/broker/jmx,189.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/broker/store,204.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/config,83.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/leveldb,37.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/network,1042.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/openwire,8.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v4,2728.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v5,2729.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v6,2733.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v7,83.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v9,83.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/perf,51.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/selector,1.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/spring,6.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/store,795.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/store/jdbc,1025.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/store/kahadb,684.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/store/kahadb/plist,454.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/usecases,13413.0
+Guillaume Nodet,activemq-unit-tests/src/test/java/org/apache/activemq/selector,3.0
+Hadrian Zbarcea,activemq-unit-tests/src/test/java/org/apache/activemq/perf,4.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/advisory,183.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker,1870.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/jmx,46.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/store,70.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/config,83.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/demo,187.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/joramtests,210.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/leveldb,76.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/management,68.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/network,663.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/network/jms,110.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/openwire,214.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v1,1467.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v2,2994.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v3,2452.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v4,47.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v5,46.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v6,46.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v7,1.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v8,1.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v9,1.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/perf,1027.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/selector,94.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/spring,71.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/store/jdbc,57.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/store/kahadb,574.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/store/kahadb/perf,282.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/store/kahadb/plist,40.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/store/leveldb,1.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/usecases,1254.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/advisory,233.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker,2126.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/jmx,349.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/store,113.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/config,358.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/demo,416.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/management,216.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/network,264.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/network/jms,161.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/openwire,554.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v1,1351.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v3,28.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/perf,198.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/selector,329.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/spring,503.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/usecases,4046.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/advisory,7.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/broker,92.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/broker/store,24.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/demo,32.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/management,48.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/network,24.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/network/jms,23.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/openwire,36.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/perf,49.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/selector,16.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/spring,32.0
+Patrick Edward Lapus Villacorta,activemq-unit-tests/src/test/java/org/apache/activemq/broker/jmx,40.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/advisory,478.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/broker,153.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/broker/jmx,182.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/config,86.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/management,1.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/network,729.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v1,8.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v2,7.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v3,5.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v6,4.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/perf,1411.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/spring,43.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/store/kahadb,113.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/store/kahadb/plist,103.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/store/leveldb,67.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/usecases,477.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/advisory,57.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/broker,60.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/broker/jmx,1299.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/config,108.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/joramtests,14.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/network,740.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/network/jms,1387.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/openwire/v8,1.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/perf,2.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/store/kahadb/plist,159.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/usecases,4367.0
+Torsten Mielke,activemq-unit-tests/src/test/java/org/apache/activemq/network,3.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/broker/policy,217.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/proxy,7.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/transport/discovery,5.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/transport/failover,22.0
+Adrian T. Co,activemq-unit-tests/src/test/java/org/apache/activemq/transport/tcp,3.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/advisory,260.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/ft,33.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/policy,130.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region,159.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region/cursors,17.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region/group,165.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/scheduler,49.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/util,36.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/virtual,31.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,892.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/filter,44.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/jndi,3.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/load,6.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/proxy,96.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport,11.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/discovery,78.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/failover,755.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/fanout,100.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/multicast,3.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/nio,182.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/peer,3.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/reliable,12.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/tcp,93.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/udp,10.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/vm,54.0
+Bruce Snyder,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,66.0
+Christian Posta,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,152.0
+Christian Posta,activemq-unit-tests/src/test/java/org/apache/activemq/transport/tcp,79.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/broker/scheduler,2.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,16.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/jndi,4.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/transport/failover,3.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/transport/vm,5.0
+David Jencks,activemq-unit-tests/src/test/java/org/apache/activemq/transport/tcp,27.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/broker/ft,624.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/broker/policy,464.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region,526.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region/cursors,440.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/broker/scheduler,2.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/broker/util,75.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/broker/virtual,270.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,6459.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/bugs/embedded,1.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/jndi,45.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/proxy,1.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/transport,301.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/transport/discovery,282.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/transport/failover,2437.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/transport/tcp,567.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/transport/vm,145.0
+Guillaume Nodet,activemq-unit-tests/src/test/java/org/apache/activemq/broker/message/security,43.0
+Hadrian Zbarcea,activemq-unit-tests/src/test/java/org/apache/activemq/transport/fanout,2.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/advisory,33.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/ft,74.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/message/security,1.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/policy,167.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region/cursors,139.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region/group,47.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/scheduler,6.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/util,11.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/broker/virtual,56.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,632.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/bugs/amq1095,396.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/filter,87.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/jndi,185.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/load,3.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/pool,11.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/proxy,68.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport,108.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport/discovery,99.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport/failover,378.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport/fanout,49.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport/multicast,12.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport/nio,190.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport/peer,85.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport/reliable,109.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport/tcp,1547.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport/udp,88.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/transport/vm,47.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/advisory,293.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/ft,8.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/message/security,55.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/policy,344.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region/cursors,1.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region/group,103.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/util,39.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/broker/virtual,396.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,171.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/filter,479.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/jndi,207.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/pool,32.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/proxy,144.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/transport,285.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/discovery,106.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/failover,137.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/fanout,148.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/multicast,48.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/peer,58.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/reliable,309.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/tcp,192.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/udp,388.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/transport/vm,90.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/broker/policy,13.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,4.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/filter,37.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/jndi,40.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/pool,1.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/proxy,16.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/transport,1.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/transport/discovery,8.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/transport/failover,15.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/transport/fanout,1.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/transport/peer,8.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/transport/tcp,8.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/transport/vm,16.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/broker/advisory,5.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/broker/ft,92.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/broker/policy,204.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region,101.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region/cursors,615.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/broker/scheduler,438.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/broker/virtual,178.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,3005.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/bugs/amq1974,281.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/bugs/embedded,281.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/filter,43.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/jndi,1.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/load,484.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/proxy,2.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/transport/failover,514.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/transport/peer,2.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/transport/tcp,406.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/broker/ft,21.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/broker/policy,23.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region,273.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/broker/region/cursors,808.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/broker/scheduler,681.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/broker/util,326.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/broker/virtual,586.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,9403.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/filter,3.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/jndi,39.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/proxy,3.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/transport,27.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/transport/discovery,93.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/transport/failover,1127.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/transport/nio,108.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/transport/tcp,11.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/transport/udp,43.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/transport/vm,874.0
+Torsten Mielke,activemq-unit-tests/src/test/java/org/apache/activemq/bugs,104.0
+Torsten Mielke,activemq-unit-tests/src/test/java/org/apache/activemq/transport/vm,61.0
+Adrian T. Co,activemq-web-console/src/main/java/org/apache/activemq/web/controller,38.0
+Adrian T. Co,assembly/src/release/example/src,26.0
+Bosanac Dejan,activemq-amqp/src/main/java/org/apache/activemq/transport/amqp,29.0
+Bosanac Dejan,activemq-amqp/src/test/java/org/apache/activemq/transport/amqp,10.0
+Bosanac Dejan,activemq-camel/src/main/java/org/apache/activemq/camel/component,55.0
+Bosanac Dejan,activemq-camel/src/main/java/org/apache/activemq/camel/converter,1.0
+Bosanac Dejan,activemq-camel/src/test/java/org/apache/activemq/camel,271.0
+Bosanac Dejan,activemq-camel/src/test/java/org/apache/activemq/camel/component,35.0
+Bosanac Dejan,activemq-jaas/src/main/java/org/apache/activemq/jaas,233.0
+Bosanac Dejan,activemq-jaas/src/test/java/org/apache/activemq/jaas,166.0
+Bosanac Dejan,activemq-stomp/src/test/java/org/apache/activemq/transport/stomp,433.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/console/command,730.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/security,1799.0
+Bosanac Dejan,activemq-unit-tests/src/test/java/org/apache/activemq/util,235.0
+Bosanac Dejan,activemq-web-console/src/main/java/org/apache/activemq/web,29.0
+Bosanac Dejan,activemq-web-console/src/main/java/org/apache/activemq/web/config,89.0
+Bosanac Dejan,activemq-web-console/src/main/java/org/apache/activemq/web/controller,165.0
+Bosanac Dejan,activemq-web-console/src/main/java/org/apache/activemq/web/filter,5.0
+Bosanac Dejan,activemq-web-console/src/main/java/org/apache/activemq/web/handler,6.0
+Bosanac Dejan,activemq-web-console/src/test/java/org/apache/activemq/web/tool,5.0
+Bosanac Dejan,activemq-xmpp/src/main/java/org/apache/activemq/transport/xmpp,11.0
+Bosanac Dejan,activemq-xmpp/src/test/java/org/apache/activemq/transport/xmpp,7.0
+Bosanac Dejan,assembly/src/release/example/src,147.0
+Bosanac Dejan,assembly/src/test/java/org/apache/activemq/config,3.0
+Brian McCallister,activemq-stomp/src/test/java/org/apache/activemq/transport/stomp,66.0
+Claus Ibsen,activemq-camel/src/main/java/org/apache/activemq/camel/component,27.0
+Claus Ibsen,activemq-camel/src/test/java/org/apache/activemq/camel,47.0
+Claus Ibsen,activemq-camel/src/test/java/org/apache/activemq/camel/component,79.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/security,2.0
+Claus Ibsen,activemq-unit-tests/src/test/java/org/apache/activemq/util,13.0
+Claus Ibsen,activemq-web-console/src/main/java/org/apache/activemq/web,1.0
+Claus Ibsen,assembly/src/release/example/ruby,29.0
+David Jencks,activemq-camel/src/main/java/org/apache/activemq/camel/component,17.0
+Gary Tully,activemq-amqp/src/main/java/org/apache/activemq/transport/amqp,38.0
+Gary Tully,activemq-camel/src/main/java/org/apache/activemq/camel,12.0
+Gary Tully,activemq-camel/src/main/java/org/apache/activemq/camel/component,4.0
+Gary Tully,activemq-camel/src/main/java/org/apache/activemq/camel/converter,56.0
+Gary Tully,activemq-camel/src/test/java/org/apache/activemq/camel,680.0
+Gary Tully,activemq-jaas/src/main/java/org/apache/activemq/jaas,126.0
+Gary Tully,activemq-jaas/src/test/java/org/apache/activemq/jaas,19.0
+Gary Tully,activemq-stomp/src/test/java/org/apache/activemq/transport/stomp,552.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/security,399.0
+Gary Tully,activemq-unit-tests/src/test/java/org/apache/activemq/util,109.0
+Gary Tully,activemq-web-console/src/main/java/org/apache/activemq/web/filter,3.0
+Gary Tully,activemq-web-console/src/test/java/org/apache/activemq/web/tool,5.0
+Gary Tully,assembly/src/release/example/src,132.0
+Gary Tully,assembly/src/test/java/org/apache/activemq/config,205.0
+Guillaume Nodet,activemq-camel/src/main/java/org/apache/activemq/camel/component,2.0
+Hiram R. Chirino,activemq-amqp/src/main/java/org/apache/activemq/transport/amqp,2187.0
+Hiram R. Chirino,activemq-amqp/src/test-swiftmq/java/org/apache/activemq/transport/amqp,101.0
+Hiram R. Chirino,activemq-amqp/src/test/java/org/apache/activemq/transport/amqp,543.0
+Hiram R. Chirino,activemq-amqp/src/test/java/org/apache/activemq/transport/amqp/joram,273.0
+Hiram R. Chirino,activemq-camel/src/main/java/org/apache/activemq/camel,115.0
+Hiram R. Chirino,activemq-camel/src/main/java/org/apache/activemq/camel/component,115.0
+Hiram R. Chirino,activemq-camel/src/main/java/org/apache/activemq/camel/converter,42.0
+Hiram R. Chirino,activemq-camel/src/test/java/org/apache/activemq/camel,15.0
+Hiram R. Chirino,activemq-camel/src/test/java/org/apache/activemq/camel/component,287.0
+Hiram R. Chirino,activemq-camel/src/test/java/org/apache/activemq/camel/converter,2.0
+Hiram R. Chirino,activemq-jaas/src/main/java/org/apache/activemq/jaas,1013.0
+Hiram R. Chirino,activemq-jaas/src/test/java/org/apache/activemq/jaas,499.0
+Hiram R. Chirino,activemq-stomp/src/test/java/org/apache/activemq/transport/stomp,479.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/console/command,4.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/security,605.0
+Hiram R. Chirino,activemq-unit-tests/src/test/java/org/apache/activemq/util,294.0
+Hiram R. Chirino,activemq-web-console/src/main/java/org/apache/activemq/web,39.0
+Hiram R. Chirino,activemq-web-console/src/main/java/org/apache/activemq/web/controller,110.0
+Hiram R. Chirino,activemq-web-console/src/main/java/org/apache/activemq/web/filter,30.0
+Hiram R. Chirino,activemq-web-console/src/main/java/org/apache/activemq/web/handler,9.0
+Hiram R. Chirino,activemq-web-console/src/test/java/org/apache/activemq/web/tool,21.0
+Hiram R. Chirino,activemq-xmpp/src/main/java/org/apache/activemq/transport/xmpp,196.0
+Hiram R. Chirino,activemq-xmpp/src/main/java/org/apache/activemq/transport/xmpp/command,4.0
+Hiram R. Chirino,activemq-xmpp/src/test/java/org/apache/activemq/transport/xmpp,9.0
+Hiram R. Chirino,assembly/src/release/example/ruby,190.0
+Hiram R. Chirino,assembly/src/release/example/src,1133.0
+Hiram R. Chirino,assembly/src/test/java/org/apache/activemq/benchmark,89.0
+James Strachan,activemq-camel/src/main/java/org/apache/activemq/camel,864.0
+James Strachan,activemq-camel/src/main/java/org/apache/activemq/camel/component,352.0
+James Strachan,activemq-camel/src/main/java/org/apache/activemq/camel/converter,102.0
+James Strachan,activemq-camel/src/test/java/org/apache/activemq/camel,314.0
+James Strachan,activemq-camel/src/test/java/org/apache/activemq/camel/component,277.0
+James Strachan,activemq-camel/src/test/java/org/apache/activemq/camel/converter,122.0
+James Strachan,activemq-stomp/src/test/java/org/apache/activemq/transport/stomp,147.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/security,466.0
+James Strachan,activemq-unit-tests/src/test/java/org/apache/activemq/util,201.0
+James Strachan,activemq-web-console/src/main/java/org/apache/activemq/web,33.0
+James Strachan,activemq-web-console/src/main/java/org/apache/activemq/web/controller,332.0
+James Strachan,activemq-web-console/src/main/java/org/apache/activemq/web/filter,163.0
+James Strachan,activemq-web-console/src/main/java/org/apache/activemq/web/handler,46.0
+James Strachan,activemq-web-console/src/test/java/org/apache/activemq/web/tool,45.0
+James Strachan,activemq-xmpp/src/main/java/org/apache/activemq/transport/xmpp,992.0
+James Strachan,activemq-xmpp/src/main/java/org/apache/activemq/transport/xmpp/command,63.0
+James Strachan,activemq-xmpp/src/test/java/org/apache/activemq/transport/xmpp,108.0
+James Strachan,assembly/src/release/example/ruby,5.0
+James Strachan,assembly/src/release/example/src,68.0
+James Strachan,assembly/src/test/java/org/apache/activemq/benchmark,489.0
+Jonas B. Lim,activemq-stomp/src/test/java/org/apache/activemq/transport/stomp,99.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/security,46.0
+Jonas B. Lim,activemq-unit-tests/src/test/java/org/apache/activemq/util,24.0
+Jonas B. Lim,assembly/src/release/example/src,15.0
+Jonas B. Lim,assembly/src/test/java/org/apache/activemq/benchmark,4.0
+Jonathan Anstey,activemq-camel/src/test/java/org/apache/activemq/camel/component,103.0
+Nathan Christopher Mittler,activemq-stomp/src/test/java/org/apache/activemq/transport/stomp,4.0
+Robert Davies,activemq-camel/src/main/java/org/apache/activemq/camel/component,23.0
+Robert Davies,activemq-camel/src/test/java/org/apache/activemq/camel/component,3.0
+Robert Davies,activemq-jaas/src/main/java/org/apache/activemq/jaas,95.0
+Robert Davies,activemq-jaas/src/test/java/org/apache/activemq/jaas,92.0
+Robert Davies,activemq-stomp/src/test/java/org/apache/activemq/transport/stomp,194.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/security,80.0
+Robert Davies,activemq-unit-tests/src/test/java/org/apache/activemq/util,11.0
+Robert Davies,activemq-web-console/src/main/java/org/apache/activemq/web/controller,94.0
+Robert Davies,activemq-xmpp/src/main/java/org/apache/activemq/transport/xmpp,116.0
+Robert Davies,activemq-xmpp/src/test/java/org/apache/activemq/transport/xmpp,197.0
+Robert Davies,assembly/src/release/example/transactions/src,591.0
+Robert Davies,assembly/src/test/java/org/apache/activemq/benchmark,1.0
+Timothy A. Bish,activemq-amqp/src/main/java/org/apache/activemq/transport/amqp,27.0
+Timothy A. Bish,activemq-camel/src/main/java/org/apache/activemq/camel/component,9.0
+Timothy A. Bish,activemq-camel/src/test/java/org/apache/activemq/camel,69.0
+Timothy A. Bish,activemq-camel/src/test/java/org/apache/activemq/camel/component,217.0
+Timothy A. Bish,activemq-jaas/src/main/java/org/apache/activemq/jaas,96.0
+Timothy A. Bish,activemq-jaas/src/test/java/org/apache/activemq/jaas,191.0
+Timothy A. Bish,activemq-stomp/src/test/java/org/apache/activemq/transport/stomp,4345.0
+Timothy A. Bish,activemq-unit-tests/src/test/java/org/apache/activemq/security,98.0
+Timothy A. Bish,activemq-web-console/src/main/java/org/apache/activemq/web/controller,21.0
+Timothy A. Bish,activemq-web-console/src/main/java/org/apache/activemq/web/handler,18.0
+Timothy A. Bish,activemq-xmpp/src/main/java/org/apache/activemq/transport/xmpp,9.0
+Timothy A. Bish,activemq-xmpp/src/test/java/org/apache/activemq/transport/xmpp,64.0
+Timothy A. Bish,assembly/src/test/java/org/apache/activemq/config,35.0
+Torsten Mielke,activemq-unit-tests/src/test/java/org/apache/activemq/console/command,209.0
+Willem Ning Jiang,activemq-camel/src/main/java/org/apache/activemq/camel/component,2.0
+Willem Ning Jiang,activemq-camel/src/test/java/org/apache/activemq/camel,16.0
+Willem Ning Jiang,activemq-camel/src/test/java/org/apache/activemq/camel/component,35.0
+Willem Ning Jiang,activemq-camel/src/test/java/org/apache/activemq/camel/converter,9.0
+Adrian T. Co,activemq-log4j-appender/src/main/java/org/apache/activemq/util,348.0
+Adrian T. Co,activemq-log4j-appender/src/test/java/org/apache/activemq/util,93.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/console/command/store/amq,608.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/console/command/store/amq/reader,307.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/kaha,5.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl,7.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/async,57.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/container,9.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index,7.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index/hash,6.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index/tree,8.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/store,8.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/store/amq,88.0
+Bosanac Dejan,activemq-amq-store/src/main/java/org/apache/activemq/store/kahadaptor,54.0
+Bosanac Dejan,activemq-amq-store/src/test/java/org/apache/activemq/kaha,9.0
+Bosanac Dejan,activemq-amq-store/src/test/java/org/apache/activemq/kaha/impl/async,41.0
+Bosanac Dejan,activemq-karaf-itest/src/test/java/org/apache/activemq/karaf/itest,38.0
+Bosanac Dejan,activemq-log4j-appender/src/test/java/org/apache/activemq/util,1.0
+Bosanac Dejan,activemq-pool/src/main/java/org/apache/activemq/pool,13.0
+Bosanac Dejan,activemq-pool/src/test/java/org/apache/activemq/pool,62.0
+Bosanac Dejan,activemq-ra/src/main/java/org/apache/activemq/ra,122.0
+Bosanac Dejan,activemq-ra/src/test/java/org/apache/activemq/ra,51.0
+Bosanac Dejan,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp,738.0
+Brian McCallister,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp,169.0
+Claus Ibsen,activemq-amq-store/src/main/java/org/apache/activemq/store/amq,2.0
+Claus Ibsen,activemq-amq-store/src/main/java/org/apache/activemq/store/amq/reader,1.0
+Claus Ibsen,activemq-amq-store/src/test/java/org/apache/activemq/store/amq/reader,1.0
+Claus Ibsen,activemq-pool/src/main/java/org/apache/activemq/pool,56.0
+Claus Ibsen,activemq-pool/src/test/java/org/apache/activemq/pool,1.0
+Claus Ibsen,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp,9.0
+David Jencks,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl,20.0
+David Jencks,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/async,1.0
+David Jencks,activemq-amq-store/src/main/java/org/apache/activemq/store/amq,17.0
+David Jencks,activemq-amq-store/src/main/java/org/apache/activemq/store/kahadaptor,18.0
+David Jencks,activemq-ra/src/main/java/org/apache/activemq/ra,174.0
+David Jencks,activemq-ra/src/test/java/org/apache/activemq/ra,315.0
+Gary Tully,activemq-amq-store/src/main/java/org/apache/activemq/kaha,29.0
+Gary Tully,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/async,25.0
+Gary Tully,activemq-amq-store/src/main/java/org/apache/activemq/store/amq,108.0
+Gary Tully,activemq-amq-store/src/main/java/org/apache/activemq/store/kahadaptor,266.0
+Gary Tully,activemq-amq-store/src/test/java/org/apache/activemq/kaha,68.0
+Gary Tully,activemq-karaf-itest/src/test/java/org/apache/activemq/karaf/itest,242.0
+Gary Tully,activemq-pool/src/main/java/org/apache/activemq/pool,129.0
+Gary Tully,activemq-pool/src/test/java/org/apache/activemq/pool,243.0
+Gary Tully,activemq-ra/src/main/java/org/apache/activemq/ra,75.0
+Gary Tully,activemq-ra/src/test/java/org/apache/activemq/ra,719.0
+Gary Tully,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp,100.0
+Guillaume Nodet,activemq-pool/src/main/java/org/apache/activemq/pool,444.0
+Guillaume Nodet,activemq-pool/src/test/java/org/apache/activemq/pool,2.0
+Guillaume Nodet,activemq-ra/src/main/java/org/apache/activemq/ra,1.0
+Hadrian Zbarcea,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/async,4.0
+Hadrian Zbarcea,activemq-amq-store/src/test/java/org/apache/activemq/kaha/impl/async,3.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/console/command/store/amq,10.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/kaha,579.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl,395.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/async,2393.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/container,1165.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/data,879.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index,1036.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index/hash,266.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index/tree,328.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/store,72.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/store/amq,1537.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/store/amq/reader,315.0
+Hiram R. Chirino,activemq-amq-store/src/main/java/org/apache/activemq/store/kahadaptor,1330.0
+Hiram R. Chirino,activemq-amq-store/src/test/java/org/apache/activemq/kaha,409.0
+Hiram R. Chirino,activemq-amq-store/src/test/java/org/apache/activemq/kaha/impl/async,393.0
+Hiram R. Chirino,activemq-amq-store/src/test/java/org/apache/activemq/kaha/impl/index,301.0
+Hiram R. Chirino,activemq-amq-store/src/test/java/org/apache/activemq/kaha/impl/index/hash,77.0
+Hiram R. Chirino,activemq-amq-store/src/test/java/org/apache/activemq/kaha/impl/index/tree,62.0
+Hiram R. Chirino,activemq-amq-store/src/test/java/org/apache/activemq/store/amq/reader,55.0
+Hiram R. Chirino,activemq-karaf-itest/src/test/java/org/apache/activemq/karaf/itest,152.0
+Hiram R. Chirino,activemq-log4j-appender/src/main/java/org/apache/activemq/util,64.0
+Hiram R. Chirino,activemq-log4j-appender/src/test/java/org/apache/activemq/util,20.0
+Hiram R. Chirino,activemq-pool/src/main/java/org/apache/activemq/pool,231.0
+Hiram R. Chirino,activemq-pool/src/test/java/org/apache/activemq/pool,123.0
+Hiram R. Chirino,activemq-ra/src/main/java/org/apache/activemq/ra,887.0
+Hiram R. Chirino,activemq-ra/src/test/java/org/apache/activemq/ra,307.0
+Hiram R. Chirino,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp,1218.0
+James Strachan,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index/hash,146.0
+James Strachan,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index/tree,317.0
+James Strachan,activemq-amq-store/src/main/java/org/apache/activemq/store/amq,35.0
+James Strachan,activemq-amq-store/src/main/java/org/apache/activemq/store/kahadaptor,18.0
+James Strachan,activemq-amq-store/src/test/java/org/apache/activemq/kaha,2.0
+James Strachan,activemq-amq-store/src/test/java/org/apache/activemq/kaha/impl/index/hash,1.0
+James Strachan,activemq-pool/src/main/java/org/apache/activemq/pool,664.0
+James Strachan,activemq-pool/src/test/java/org/apache/activemq/pool,45.0
+James Strachan,activemq-ra/src/main/java/org/apache/activemq/ra,3698.0
+James Strachan,activemq-ra/src/test/java/org/apache/activemq/ra,1006.0
+James Strachan,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp,136.0
+Jonas B. Lim,activemq-pool/src/main/java/org/apache/activemq/pool,62.0
+Jonas B. Lim,activemq-ra/src/main/java/org/apache/activemq/ra,124.0
+Jonas B. Lim,activemq-ra/src/test/java/org/apache/activemq/ra,65.0
+Jonas B. Lim,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp,8.0
+Nathan Christopher Mittler,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp,2.0
+Robert Davies,activemq-amq-store/src/main/java/org/apache/activemq/kaha,977.0
+Robert Davies,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl,386.0
+Robert Davies,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/async,231.0
+Robert Davies,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/container,1313.0
+Robert Davies,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index,899.0
+Robert Davies,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index/hash,1054.0
+Robert Davies,activemq-amq-store/src/main/java/org/apache/activemq/kaha/impl/index/tree,768.0
+Robert Davies,activemq-amq-store/src/main/java/org/apache/activemq/store,34.0
+Robert Davies,activemq-amq-store/src/main/java/org/apache/activemq/store/amq,1769.0
+Robert Davies,activemq-amq-store/src/main/java/org/apache/activemq/store/kahadaptor,1509.0
+Robert Davies,activemq-amq-store/src/test/java/org/apache/activemq/kaha,591.0
+Robert Davies,activemq-amq-store/src/test/java/org/apache/activemq/kaha/impl/index,378.0
+Robert Davies,activemq-amq-store/src/test/java/org/apache/activemq/kaha/impl/index/hash,112.0
+Robert Davies,activemq-amq-store/src/test/java/org/apache/activemq/kaha/impl/index/tree,74.0
+Robert Davies,activemq-pool/src/main/java/org/apache/activemq/pool,118.0
+Robert Davies,activemq-ra/src/main/java/org/apache/activemq/ra,731.0
+Robert Davies,activemq-ra/src/test/java/org/apache/activemq/ra,221.0
+Robert Davies,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp,65.0
+Timothy A. Bish,activemq-amq-store/src/main/java/org/apache/activemq/console/command/store/amq/reader,10.0
+Timothy A. Bish,activemq-amq-store/src/main/java/org/apache/activemq/store/amq,137.0
+Timothy A. Bish,activemq-amq-store/src/main/java/org/apache/activemq/store/kahadaptor,74.0
+Timothy A. Bish,activemq-pool/src/main/java/org/apache/activemq/pool,927.0
+Timothy A. Bish,activemq-pool/src/test/java/org/apache/activemq/pool,1193.0
+Timothy A. Bish,activemq-ra/src/test/java/org/apache/activemq/ra,41.0
+Timothy A. Bish,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp,1588.0
+Timothy A. Bish,activemq-stomp/src/test/java/org/apache/activemq/transport/stomp/util,278.0
+Torsten Mielke,activemq-amq-store/src/main/java/org/apache/activemq/console/command/store/amq,31.0
+Torsten Mielke,activemq-amq-store/src/test/java/org/apache/activemq/console/command,438.0
+Torsten Mielke,activemq-pool/src/main/java/org/apache/activemq/pool,2.0
+Torsten Mielke,activemq-pool/src/test/java/org/apache/activemq/pool,91.0

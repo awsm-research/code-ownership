@@ -1,0 +1,1163 @@
+Author,File,NumLines
+Alan Moore,src/org/jruby,484.0
+Alan Moore,src/org/jruby/parser,3.0
+Anders Bengtsson,src/org/jruby,788.0
+Anders Bengtsson,src/org/jruby/ast,117.0
+Anders Bengtsson,src/org/jruby/ast/types,4.0
+Anders Bengtsson,src/org/jruby/ast/util,4.0
+Anders Bengtsson,src/org/jruby/internal/runtime,26.0
+Anders Bengtsson,src/org/jruby/internal/runtime/methods,21.0
+Anders Bengtsson,src/org/jruby/javasupport,412.0
+Anders Bengtsson,src/org/jruby/javasupport/bsf,29.0
+Anders Bengtsson,src/org/jruby/libraries,28.0
+Anders Bengtsson,src/org/jruby/parser,54.0
+Anders Bengtsson,src/org/jruby/runtime,151.0
+Anders Bengtsson,src/org/jruby/runtime/builtin,4.0
+Anders Bengtsson,src/org/jruby/runtime/callback,11.0
+Anders Bengtsson,src/org/jruby/runtime/load,46.0
+Anders Bengtsson,src/org/jruby/runtime/marshal,195.0
+Benoit Cerrina,src/org/jruby,25.0
+Benoit Cerrina,src/org/jruby/ast,90.0
+Benoit Cerrina,src/org/jruby/ast/types,1.0
+Benoit Cerrina,src/org/jruby/javasupport,2.0
+Benoit Cerrina,src/org/jruby/parser,1.0
+Benoit Cerrina,src/org/jruby/runtime,8.0
+Bill Dortch,src/org/jruby,1094.0
+Bill Dortch,src/org/jruby/ast,10.0
+Bill Dortch,src/org/jruby/demo,1.0
+Bill Dortch,src/org/jruby/ext/socket,47.0
+Bill Dortch,src/org/jruby/javasupport,1036.0
+Bill Dortch,src/org/jruby/javasupport/proxy,89.0
+Bill Dortch,src/org/jruby/javasupport/util,31.0
+Bill Dortch,src/org/jruby/libraries,1.0
+Bill Dortch,src/org/jruby/runtime,17.0
+Bill Dortch,src/org/jruby/runtime/builtin,103.0
+Bill Dortch,src/org/jruby/runtime/component,39.0
+Bill Dortch,src/org/jruby/runtime/marshal,29.0
+Bob McWhirter,src/org/jruby,75.0
+Brice Figureau,src/org/jruby/ext/socket,18.0
+Chad Fowler,src/org/jruby,22.0
+Charles Oliver Nutter,src/org/jruby,18851.0
+Charles Oliver Nutter,src/org/jruby/ast,2171.0
+Charles Oliver Nutter,src/org/jruby/ast/executable,979.0
+Charles Oliver Nutter,src/org/jruby/ast/java_signature,30.0
+Charles Oliver Nutter,src/org/jruby/ast/util,51.0
+Charles Oliver Nutter,src/org/jruby/ast/visitor,97.0
+Charles Oliver Nutter,src/org/jruby/demo,341.0
+Charles Oliver Nutter,src/org/jruby/demo/ext,34.0
+Charles Oliver Nutter,src/org/jruby/embed/internal,22.0
+Charles Oliver Nutter,src/org/jruby/environment,70.0
+Charles Oliver Nutter,src/org/jruby/ext,779.0
+Charles Oliver Nutter,src/org/jruby/ext/ffi,20.0
+Charles Oliver Nutter,src/org/jruby/ext/ffi/jffi,9.0
+Charles Oliver Nutter,src/org/jruby/ext/socket,470.0
+Charles Oliver Nutter,src/org/jruby/internal/runtime,726.0
+Charles Oliver Nutter,src/org/jruby/internal/runtime/methods,5076.0
+Charles Oliver Nutter,src/org/jruby/java/addons,411.0
+Charles Oliver Nutter,src/org/jruby/java/codegen,575.0
+Charles Oliver Nutter,src/org/jruby/java/dispatch,439.0
+Charles Oliver Nutter,src/org/jruby/java/invokers,1011.0
+Charles Oliver Nutter,src/org/jruby/java/proxies,1187.0
+Charles Oliver Nutter,src/org/jruby/javasupport,4306.0
+Charles Oliver Nutter,src/org/jruby/javasupport/bsf,19.0
+Charles Oliver Nutter,src/org/jruby/javasupport/proxy,203.0
+Charles Oliver Nutter,src/org/jruby/javasupport/util,1561.0
+Charles Oliver Nutter,src/org/jruby/libraries,584.0
+Charles Oliver Nutter,src/org/jruby/management,471.0
+Charles Oliver Nutter,src/org/jruby/parser,740.0
+Charles Oliver Nutter,src/org/jruby/platform,8.0
+Charles Oliver Nutter,src/org/jruby/runtime,4977.0
+Charles Oliver Nutter,src/org/jruby/runtime/assigner,3.0
+Charles Oliver Nutter,src/org/jruby/runtime/builtin,316.0
+Charles Oliver Nutter,src/org/jruby/runtime/callback,1769.0
+Charles Oliver Nutter,src/org/jruby/runtime/callsite,1323.0
+Charles Oliver Nutter,src/org/jruby/runtime/encoding,2.0
+Charles Oliver Nutter,src/org/jruby/runtime/invokedynamic,664.0
+Charles Oliver Nutter,src/org/jruby/runtime/load,1159.0
+Charles Oliver Nutter,src/org/jruby/runtime/marshal,384.0
+Charles Oliver Nutter,src/org/jruby/runtime/scope,1321.0
+Charles Oliver Nutter,src/org/jruby/threading,16.0
+Chris Andrews,src/org/jruby/internal/runtime,3.0
+Christoffer Sawicki,src/org/jruby,2.0
+Colin Jones,src/org/jruby,5.0
+Daniel Luz,src/org/jruby,18.0
+David Calavera,src/org/jruby,1075.0
+David Calavera,src/org/jruby/ext/socket,3.0
+David Calavera,src/org/jruby/javasupport,32.0
+David Calavera,src/org/jruby/javasupport/util,9.0
+David Calavera,src/org/jruby/runtime/load,108.0
+David Corbin,src/org/jruby,80.0
+David Corbin,src/org/jruby/ast,416.0
+David Corbin,src/org/jruby/javasupport,126.0
+David Corbin,src/org/jruby/libraries,2.0
+David Kellum,src/org/jruby,30.0
+David Kellum,src/org/jruby/libraries,14.0
+Don Schwartz,src/org/jruby,1.0
+Don Schwartz,src/org/jruby/javasupport,3.0
+Ed Sinjiashvili,src/org/jruby,2.0
+Frederic Jean,src/org/jruby/java/proxies,5.0
+Hiro Asari,src/org/jruby,660.0
+Hiro Asari,src/org/jruby/javasupport,24.0
+Hiro Asari,src/org/jruby/javasupport/proxy,5.0
+Hiro Asari,src/org/jruby/libraries,24.0
+Hiro Asari,src/org/jruby/runtime,3.0
+Hiro Asari,src/org/jruby/runtime/callback,3.0
+Hiro Asari,src/org/jruby/runtime/load,8.0
+Hiroshi Nakamura,src/org/jruby,15.0
+Hiroshi Nakamura,src/org/jruby/runtime/marshal,34.0
+Hongli Lai,src/org/jruby/ext/socket,68.0
+Jan Arne Petersen,src/org/jruby,2259.0
+Jan Arne Petersen,src/org/jruby/ast,2093.0
+Jan Arne Petersen,src/org/jruby/ast/types,16.0
+Jan Arne Petersen,src/org/jruby/ast/util,11.0
+Jan Arne Petersen,src/org/jruby/ast/visitor,9.0
+Jan Arne Petersen,src/org/jruby/internal/runtime,240.0
+Jan Arne Petersen,src/org/jruby/internal/runtime/methods,135.0
+Jan Arne Petersen,src/org/jruby/javasupport,54.0
+Jan Arne Petersen,src/org/jruby/javasupport/bsf,208.0
+Jan Arne Petersen,src/org/jruby/parser,409.0
+Jan Arne Petersen,src/org/jruby/runtime,94.0
+Jan Arne Petersen,src/org/jruby/runtime/builtin,57.0
+Jan Arne Petersen,src/org/jruby/runtime/callback,9.0
+Jan Arne Petersen,src/org/jruby/runtime/load,25.0
+Jan Arne Petersen,src/org/jruby/runtime/marshal,58.0
+Jason Voegele,src/org/jruby,82.0
+Joe,src/org/jruby,16.0
+Joe,src/org/jruby/ext/socket,96.0
+Joey Gibson,src/org/jruby,9.0
+John F. Douthat,src/org/jruby,13.0
+John F. Douthat,src/org/jruby/runtime/marshal,4.0
+Joseph LaFata,src/org/jruby/ext/socket,10.0
+Josh Matthews,src/org/jruby,1.0
+Koichiro Ohba,src/org/jruby,15.0
+Marcin Mielżyński,src/org/jruby,15487.0
+Marcin Mielżyński,src/org/jruby/ast,2.0
+Marcin Mielżyński,src/org/jruby/ext,2.0
+Marcin Mielżyński,src/org/jruby/ext/socket,3.0
+Marcin Mielżyński,src/org/jruby/internal/runtime,19.0
+Marcin Mielżyński,src/org/jruby/internal/runtime/methods,3.0
+Marcin Mielżyński,src/org/jruby/javasupport,13.0
+Marcin Mielżyński,src/org/jruby/javasupport/util,40.0
+Marcin Mielżyński,src/org/jruby/libraries,4.0
+Marcin Mielżyński,src/org/jruby/runtime,9.0
+Marcin Mielżyński,src/org/jruby/runtime/builtin,709.0
+Marcin Mielżyński,src/org/jruby/runtime/encoding,172.0
+Marcin Mielżyński,src/org/jruby/runtime/marshal,29.0
+Martin Traverso,src/org/jruby,48.0
+Matjaz Gregoric,src/org/jruby/runtime/marshal,25.0
+MenTaLguY,src/org/jruby,1361.0
+MenTaLguY,src/org/jruby/demo,275.0
+MenTaLguY,src/org/jruby/ext,3.0
+MenTaLguY,src/org/jruby/javasupport,19.0
+MenTaLguY,src/org/jruby/libraries,46.0
+MenTaLguY,src/org/jruby/runtime,40.0
+NAKAMURA,src/org/jruby,1211.0
+NAKAMURA,src/org/jruby/runtime/load,6.0
+Nick Sieger,maven/jruby-rake-plugin/src/main/java/org/jruby/maven,396.0
+Nick Sieger,src/org/jruby,1439.0
+Nick Sieger,src/org/jruby/ant,12.0
+Nick Sieger,src/org/jruby/ast,9.0
+Nick Sieger,src/org/jruby/demo,17.0
+Nick Sieger,src/org/jruby/embed,3.0
+Nick Sieger,src/org/jruby/environment,9.0
+Nick Sieger,src/org/jruby/ext/ffi/io,1.0
+Nick Sieger,src/org/jruby/ext/socket,18.0
+Nick Sieger,src/org/jruby/internal/runtime,18.0
+Nick Sieger,src/org/jruby/internal/runtime/methods,17.0
+Nick Sieger,src/org/jruby/java/codegen,9.0
+Nick Sieger,src/org/jruby/java/proxies,17.0
+Nick Sieger,src/org/jruby/javasupport,155.0
+Nick Sieger,src/org/jruby/libraries,231.0
+Nick Sieger,src/org/jruby/parser,50.0
+Nick Sieger,src/org/jruby/runtime,65.0
+Nick Sieger,src/org/jruby/runtime/load,73.0
+Nick Sieger,src/org/jruby/runtime/marshal,22.0
+Ola Bini,src/org/jruby,7038.0
+Ola Bini,src/org/jruby/ast,45.0
+Ola Bini,src/org/jruby/ast/util,1.0
+Ola Bini,src/org/jruby/demo,13.0
+Ola Bini,src/org/jruby/ext,138.0
+Ola Bini,src/org/jruby/ext/socket,1312.0
+Ola Bini,src/org/jruby/internal/runtime,18.0
+Ola Bini,src/org/jruby/internal/runtime/methods,226.0
+Ola Bini,src/org/jruby/java/invokers,2.0
+Ola Bini,src/org/jruby/javasupport,328.0
+Ola Bini,src/org/jruby/javasupport/proxy,1608.0
+Ola Bini,src/org/jruby/javasupport/util,496.0
+Ola Bini,src/org/jruby/libraries,119.0
+Ola Bini,src/org/jruby/management,52.0
+Ola Bini,src/org/jruby/parser,16.0
+Ola Bini,src/org/jruby/runtime,218.0
+Ola Bini,src/org/jruby/runtime/builtin,89.0
+Ola Bini,src/org/jruby/runtime/callback,56.0
+Ola Bini,src/org/jruby/runtime/load,87.0
+Ola Bini,src/org/jruby/runtime/marshal,110.0
+Olov Lassus,src/org/jruby,1.0
+Ryan Brown,src/org/jruby,25.0
+Ryan Brown,src/org/jruby/java/proxies,2.0
+Ryan Brown,src/org/jruby/javasupport,2.0
+Stefan Matthias Aust,src/org/jruby,129.0
+Stefan Matthias Aust,src/org/jruby/ast,27.0
+Stefan Matthias Aust,src/org/jruby/ast/util,2.0
+Stefan Matthias Aust,src/org/jruby/ast/visitor,93.0
+Stefan Matthias Aust,src/org/jruby/internal/runtime,4.0
+Stefan Matthias Aust,src/org/jruby/javasupport,57.0
+Stefan Matthias Aust,src/org/jruby/javasupport/bsf,18.0
+Stefan Matthias Aust,src/org/jruby/libraries,11.0
+Stefan Matthias Aust,src/org/jruby/parser,15.0
+Stefan Matthias Aust,src/org/jruby/runtime,4.0
+Stefan Matthias Aust,src/org/jruby/runtime/builtin,1.0
+Stefan Matthias Aust,src/org/jruby/runtime/load,16.0
+Stefan Matthias Aust,src/org/jruby/runtime/marshal,19.0
+Stephen Bannasch,src/org/jruby,1.0
+Thomas E. Enebo,src/org/jruby,1862.0
+Thomas E. Enebo,src/org/jruby/ant,88.0
+Thomas E. Enebo,src/org/jruby/ast,673.0
+Thomas E. Enebo,src/org/jruby/ast/java_signature,427.0
+Thomas E. Enebo,src/org/jruby/ast/util,78.0
+Thomas E. Enebo,src/org/jruby/ast/visitor,4.0
+Thomas E. Enebo,src/org/jruby/ext,144.0
+Thomas E. Enebo,src/org/jruby/ext/mathn,72.0
+Thomas E. Enebo,src/org/jruby/ext/socket,26.0
+Thomas E. Enebo,src/org/jruby/internal/runtime/methods,114.0
+Thomas E. Enebo,src/org/jruby/interpreter,180.0
+Thomas E. Enebo,src/org/jruby/java/invokers,13.0
+Thomas E. Enebo,src/org/jruby/javasupport,14.0
+Thomas E. Enebo,src/org/jruby/javasupport/util,87.0
+Thomas E. Enebo,src/org/jruby/libraries,44.0
+Thomas E. Enebo,src/org/jruby/management,5.0
+Thomas E. Enebo,src/org/jruby/parser,11952.0
+Thomas E. Enebo,src/org/jruby/runtime,346.0
+Thomas E. Enebo,src/org/jruby/runtime/assigner,2967.0
+Thomas E. Enebo,src/org/jruby/runtime/callsite,1.0
+Thomas E. Enebo,src/org/jruby/runtime/load,6.0
+Thomas E. Enebo,src/org/jruby/runtime/marshal,14.0
+Thomas E. Enebo,src/org/jruby/runtime/scope,3.0
+Thomas Enebo,src/org/jruby,11294.0
+Thomas Enebo,src/org/jruby/ast,10001.0
+Thomas Enebo,src/org/jruby/ast/types,105.0
+Thomas Enebo,src/org/jruby/ast/util,347.0
+Thomas Enebo,src/org/jruby/ast/visitor,39.0
+Thomas Enebo,src/org/jruby/demo,9.0
+Thomas Enebo,src/org/jruby/environment,4.0
+Thomas Enebo,src/org/jruby/ext,162.0
+Thomas Enebo,src/org/jruby/ext/socket,57.0
+Thomas Enebo,src/org/jruby/internal/runtime,205.0
+Thomas Enebo,src/org/jruby/internal/runtime/methods,1152.0
+Thomas Enebo,src/org/jruby/java/addons,1.0
+Thomas Enebo,src/org/jruby/java/invokers,6.0
+Thomas Enebo,src/org/jruby/java/proxies,111.0
+Thomas Enebo,src/org/jruby/javasupport,1038.0
+Thomas Enebo,src/org/jruby/javasupport/bsf,95.0
+Thomas Enebo,src/org/jruby/javasupport/proxy,324.0
+Thomas Enebo,src/org/jruby/javasupport/util,105.0
+Thomas Enebo,src/org/jruby/libraries,378.0
+Thomas Enebo,src/org/jruby/parser,6963.0
+Thomas Enebo,src/org/jruby/runtime,1173.0
+Thomas Enebo,src/org/jruby/runtime/builtin,44.0
+Thomas Enebo,src/org/jruby/runtime/callback,70.0
+Thomas Enebo,src/org/jruby/runtime/callsite,41.0
+Thomas Enebo,src/org/jruby/runtime/component,5.0
+Thomas Enebo,src/org/jruby/runtime/load,247.0
+Thomas Enebo,src/org/jruby/runtime/marshal,155.0
+Thomas Enebo,src/org/jruby/runtime/scope,156.0
+Vladimir Sizikov,src/org/jruby,3028.0
+Vladimir Sizikov,src/org/jruby/ast,10.0
+Vladimir Sizikov,src/org/jruby/ast/util,3.0
+Vladimir Sizikov,src/org/jruby/demo,64.0
+Vladimir Sizikov,src/org/jruby/ext,53.0
+Vladimir Sizikov,src/org/jruby/ext/ffi,2.0
+Vladimir Sizikov,src/org/jruby/ext/socket,366.0
+Vladimir Sizikov,src/org/jruby/internal/runtime,7.0
+Vladimir Sizikov,src/org/jruby/internal/runtime/methods,34.0
+Vladimir Sizikov,src/org/jruby/javasupport,15.0
+Vladimir Sizikov,src/org/jruby/javasupport/proxy,3.0
+Vladimir Sizikov,src/org/jruby/javasupport/util,10.0
+Vladimir Sizikov,src/org/jruby/libraries,37.0
+Vladimir Sizikov,src/org/jruby/management,1.0
+Vladimir Sizikov,src/org/jruby/parser,1.0
+Vladimir Sizikov,src/org/jruby/platform,1.0
+Vladimir Sizikov,src/org/jruby/runtime,41.0
+Vladimir Sizikov,src/org/jruby/runtime/builtin,1.0
+Vladimir Sizikov,src/org/jruby/runtime/callback,18.0
+Vladimir Sizikov,src/org/jruby/runtime/load,127.0
+Vladimir Sizikov,src/org/jruby/runtime/marshal,4.0
+Wayne Meissner,src/org/jruby,646.0
+Wayne Meissner,src/org/jruby/ext,37.0
+Wayne Meissner,src/org/jruby/ext/ffi,7593.0
+Wayne Meissner,src/org/jruby/ext/ffi/io,215.0
+Wayne Meissner,src/org/jruby/ext/ffi/jffi,4828.0
+Wayne Meissner,src/org/jruby/ext/socket,611.0
+Wayne Meissner,src/org/jruby/libraries,71.0
+Wayne Meissner,src/org/jruby/platform,119.0
+Wayne Meissner,src/org/jruby/runtime,42.0
+Wayne Meissner,src/org/jruby/runtime/load,3.0
+Wayne Meissner,src/org/jruby/runtime/marshal,9.0
+Yoko Harada,src/org/jruby,59.0
+Yoko Harada,src/org/jruby/embed,3030.0
+Yoko Harada,src/org/jruby/embed/bsf,259.0
+Yoko Harada,src/org/jruby/embed/internal,1916.0
+Yoko Harada,src/org/jruby/embed/io,716.0
+Yoko Harada,src/org/jruby/embed/jsr223,1498.0
+Yoko Harada,src/org/jruby/embed/variable,1682.0
+takeru,src/org/jruby,2.0
+unknown,src/org/jruby,1.0
+Alan Moore,src/org/jruby/exceptions,10.0
+Alan Moore,test/org/jruby/test,33.0
+Anders Bengtsson,src/org/jruby/evaluator,2.0
+Anders Bengtsson,src/org/jruby/exceptions,13.0
+Anders Bengtsson,src/org/jruby/lexer/yacc,3.0
+Anders Bengtsson,src/org/jruby/util,590.0
+Anders Bengtsson,test,845.0
+Anders Bengtsson,test/org/jruby/javasupport/test,26.0
+Anders Bengtsson,test/org/jruby/test,226.0
+Benoit Cerrina,test,208.0
+Benoit Cerrina,test/org/jruby/test,51.0
+Bill Dortch,src/org/jruby/compiler,3.0
+Bill Dortch,src/org/jruby/util,64.0
+Bill Dortch,test,253.0
+Bill Dortch,test/org/jruby/test,9.0
+Chad Fowler,test/org/jruby/test,54.0
+Charles Oliver Nutter,src/builtin,883.0
+Charles Oliver Nutter,src/builtin/yaml,1.0
+Charles Oliver Nutter,src/jruby,2.0
+Charles Oliver Nutter,src/org/jruby/anno,929.0
+Charles Oliver Nutter,src/org/jruby/common,9.0
+Charles Oliver Nutter,src/org/jruby/compiler,6339.0
+Charles Oliver Nutter,src/org/jruby/compiler/impl,7571.0
+Charles Oliver Nutter,src/org/jruby/compiler/ir,176.0
+Charles Oliver Nutter,src/org/jruby/compiler/ir/instructions,88.0
+Charles Oliver Nutter,src/org/jruby/compiler/ir/operands,26.0
+Charles Oliver Nutter,src/org/jruby/compiler/ir/targets,282.0
+Charles Oliver Nutter,src/org/jruby/compiler/util,466.0
+Charles Oliver Nutter,src/org/jruby/evaluator,343.0
+Charles Oliver Nutter,src/org/jruby/exceptions,234.0
+Charles Oliver Nutter,src/org/jruby/lexer/yacc,150.0
+Charles Oliver Nutter,src/org/jruby/util,3048.0
+Charles Oliver Nutter,src/org/jruby/util/collections,399.0
+Charles Oliver Nutter,src/org/jruby/util/func,165.0
+Charles Oliver Nutter,src/org/jruby/util/io,2499.0
+Charles Oliver Nutter,src/org/jruby/util/string,235.0
+Charles Oliver Nutter,src/org/jruby/util/unsafe,111.0
+Charles Oliver Nutter,test,6286.0
+Charles Oliver Nutter,test/dir1,1.0
+Charles Oliver Nutter,test/externals/ruby1.8,4.0
+Charles Oliver Nutter,test/externals/ruby1.8/dbm,545.0
+Charles Oliver Nutter,test/externals/ruby1.8/digest,119.0
+Charles Oliver Nutter,test/externals/ruby1.8/stringio,43.0
+Charles Oliver Nutter,test/mri/sample,2017.0
+Charles Oliver Nutter,test/org/jruby/bench,57.0
+Charles Oliver Nutter,test/org/jruby/embed,17.0
+Charles Oliver Nutter,test/org/jruby/embed/jsr223,3.0
+Charles Oliver Nutter,test/org/jruby/javasupport,27.0
+Charles Oliver Nutter,test/org/jruby/javasupport/test,249.0
+Charles Oliver Nutter,test/org/jruby/runtime,51.0
+Charles Oliver Nutter,test/org/jruby/test,1018.0
+Charles Oliver Nutter,test/org/jruby/test/bench,291.0
+Charles Oliver Nutter,test/org/jruby/util,62.0
+Charles Oliver Nutter,test/thread-safety,28.0
+Charles Oliver Nutter,test/tracing,237.0
+Daniel Hahn,test,10.0
+David Calavera,src/org/jruby/exceptions,4.0
+David Calavera,src/org/jruby/util,174.0
+David Calavera,src/org/jruby/util/io,4.0
+David Calavera,test,146.0
+David Calavera,test/org/jruby/test,15.0
+David Calavera,test/org/jruby/util,71.0
+David Corbin,src/builtin,2.0
+David Corbin,src/org/jruby/exceptions,15.0
+David Corbin,src/org/jruby/lexer/yacc,1.0
+David Corbin,test,161.0
+David Corbin,test/org/jruby/javasupport,14.0
+David Corbin,test/org/jruby/javasupport/test,17.0
+David Corbin,test/org/jruby/test,309.0
+Don Schwartz,test/org/jruby/javasupport/test,108.0
+Hiro Asari,src/org/jruby/compiler/impl,3.0
+Hiro Asari,src/org/jruby/lexer/yacc,16.0
+Hiro Asari,src/org/jruby/util,115.0
+Hiro Asari,test,72.0
+Hiro Asari,test/externals/ruby1.8,3.0
+Hiro Asari,test/externals/ruby1.8/digest,1.0
+Hiro Asari,test/externals/ruby1.8/stringio,13.0
+Hiro Asari,test/org/jruby/test,8.0
+Hiroshi Nakamura,src/org/jruby/util/io,2.0
+Hiroshi Nakamura,test,54.0
+Ian Dees,test,29.0
+James Abley,test/org/jruby/test,29.0
+Jan Arne Petersen,src/org/jruby/common,37.0
+Jan Arne Petersen,src/org/jruby/evaluator,7.0
+Jan Arne Petersen,src/org/jruby/exceptions,35.0
+Jan Arne Petersen,src/org/jruby/lexer/yacc,515.0
+Jan Arne Petersen,src/org/jruby/util,299.0
+Jan Arne Petersen,test,91.0
+Jan Arne Petersen,test/org/jruby/javasupport/test,18.0
+Jan Arne Petersen,test/org/jruby/test,286.0
+Jason Voegele,test/org/jruby/test,7.0
+Joe,src/org/jruby/util,35.0
+Joey Gibson,test,1.0
+Joey Gibson,test/org/jruby/test,5.0
+Marcin Mielżyński,src/org/jruby/common,17.0
+Marcin Mielżyński,src/org/jruby/compiler,4.0
+Marcin Mielżyński,src/org/jruby/compiler/impl,19.0
+Marcin Mielżyński,src/org/jruby/util,1475.0
+Marcin Mielżyński,src/org/jruby/util/unsafe,6.0
+Marcin Mielżyński,test,491.0
+Marcin Mielżyński,test/org/jruby/test,9.0
+Martin Traverso,src/org/jruby/util,81.0
+MenTaLguY,src/builtin,20.0
+MenTaLguY,src/org/jruby/util,351.0
+MenTaLguY,test,147.0
+MenTaLguY,test/org/jruby/test,16.0
+NAKAMURA,test,332.0
+"Naoto ""Kevin"" IMAI TOYODA",src/org/jruby/lexer/yacc,4.0
+Nick Sieger,src/builtin,14.0
+Nick Sieger,src/jruby,99.0
+Nick Sieger,src/org/jruby/compiler/impl,14.0
+Nick Sieger,src/org/jruby/embed/util,8.0
+Nick Sieger,src/org/jruby/exceptions,50.0
+Nick Sieger,src/org/jruby/lexer/yacc,373.0
+Nick Sieger,src/org/jruby/util,1077.0
+Nick Sieger,src/org/jruby/util/io,462.0
+Nick Sieger,test,2913.0
+Nick Sieger,test/mri/sample,2.0
+Nick Sieger,test/org/jruby/ext/posix,23.0
+Nick Sieger,test/org/jruby/javasupport,1.0
+Nick Sieger,test/org/jruby/javasupport/test,72.0
+Nick Sieger,test/org/jruby/lexer/yacc,279.0
+Nick Sieger,test/org/jruby/runtime/load,28.0
+Nick Sieger,test/org/jruby/test,436.0
+Nick Sieger,test/org/jruby/util,251.0
+Nick Sieger,test/tracing,2.0
+Ola Bini,src/builtin,424.0
+Ola Bini,src/builtin/yaml,1837.0
+Ola Bini,src/org/jruby/anno,62.0
+Ola Bini,src/org/jruby/common,14.0
+Ola Bini,src/org/jruby/compiler,174.0
+Ola Bini,src/org/jruby/compiler/impl,31.0
+Ola Bini,src/org/jruby/evaluator,4.0
+Ola Bini,src/org/jruby/exceptions,21.0
+Ola Bini,src/org/jruby/lexer/yacc,21.0
+Ola Bini,src/org/jruby/util,2236.0
+Ola Bini,src/org/jruby/util/collections,73.0
+Ola Bini,src/org/jruby/util/io,109.0
+Ola Bini,test,5279.0
+Ola Bini,test/mri/sample,1.0
+Ola Bini,test/org/jruby/javasupport,47.0
+Ola Bini,test/org/jruby/javasupport/test,63.0
+Ola Bini,test/org/jruby/test,180.0
+Ola Bini,test/org/jruby/util,7.0
+Ryan Brown,src/org/jruby/util,35.0
+Stefan Matthias Aust,src/org/jruby/lexer/yacc,16.0
+Stefan Matthias Aust,src/org/jruby/util,38.0
+Stefan Matthias Aust,test,39.0
+Stefan Matthias Aust,test/org/jruby/test,10.0
+Subramanya Sastry,src/org/jruby/compiler/ir,3181.0
+Subramanya Sastry,src/org/jruby/compiler/ir/compiler_pass,129.0
+Subramanya Sastry,src/org/jruby/compiler/ir/compiler_pass/opts,181.0
+Subramanya Sastry,src/org/jruby/compiler/ir/dataflow,307.0
+Subramanya Sastry,src/org/jruby/compiler/ir/dataflow/analyses,879.0
+Subramanya Sastry,src/org/jruby/compiler/ir/instructions,1132.0
+Subramanya Sastry,src/org/jruby/compiler/ir/operands,908.0
+Subramanya Sastry,src/org/jruby/compiler/ir/representations,410.0
+Subramanya Sastry,src/org/jruby/compiler/ir/targets,46.0
+Thomas E. Enebo,src/builtin,3.0
+Thomas E. Enebo,src/jruby,5.0
+Thomas E. Enebo,src/org/jruby/anno,1.0
+Thomas E. Enebo,src/org/jruby/common,1.0
+Thomas E. Enebo,src/org/jruby/compiler,74.0
+Thomas E. Enebo,src/org/jruby/compiler/impl,35.0
+Thomas E. Enebo,src/org/jruby/compiler/ir,656.0
+Thomas E. Enebo,src/org/jruby/compiler/ir/compiler_pass,29.0
+Thomas E. Enebo,src/org/jruby/compiler/ir/compiler_pass/opts,19.0
+Thomas E. Enebo,src/org/jruby/compiler/ir/dataflow/analyses,136.0
+Thomas E. Enebo,src/org/jruby/compiler/ir/instructions,433.0
+Thomas E. Enebo,src/org/jruby/compiler/ir/operands,172.0
+Thomas E. Enebo,src/org/jruby/compiler/ir/representations,149.0
+Thomas E. Enebo,src/org/jruby/compiler/ir/targets,19.0
+Thomas E. Enebo,src/org/jruby/evaluator,5.0
+Thomas E. Enebo,src/org/jruby/lexer,981.0
+Thomas E. Enebo,src/org/jruby/lexer/yacc,174.0
+Thomas E. Enebo,src/org/jruby/util,385.0
+Thomas E. Enebo,src/org/jruby/util/io,69.0
+Thomas E. Enebo,test,38.0
+Thomas Enebo,src/builtin,1.0
+Thomas Enebo,src/jruby,1.0
+Thomas Enebo,src/org/jruby/common,186.0
+Thomas Enebo,src/org/jruby/compiler,136.0
+Thomas Enebo,src/org/jruby/compiler/impl,5.0
+Thomas Enebo,src/org/jruby/evaluator,163.0
+Thomas Enebo,src/org/jruby/exceptions,103.0
+Thomas Enebo,src/org/jruby/lexer/yacc,2841.0
+Thomas Enebo,src/org/jruby/util,2487.0
+Thomas Enebo,src/org/jruby/util/io,1.0
+Thomas Enebo,test,4406.0
+Thomas Enebo,test/mri/sample,8.0
+Thomas Enebo,test/org/jruby/ext/posix,3.0
+Thomas Enebo,test/org/jruby/javasupport/test,497.0
+Thomas Enebo,test/org/jruby/test,884.0
+Thomas Enebo,test/org/jruby/util,60.0
+Thomas Enebo,test/tracing,2.0
+Vladimir Sizikov,src/builtin,1.0
+Vladimir Sizikov,src/jruby,97.0
+Vladimir Sizikov,src/org/jruby/anno,10.0
+Vladimir Sizikov,src/org/jruby/common,13.0
+Vladimir Sizikov,src/org/jruby/exceptions,1.0
+Vladimir Sizikov,src/org/jruby/lexer/yacc,8.0
+Vladimir Sizikov,src/org/jruby/util,691.0
+Vladimir Sizikov,src/org/jruby/util/io,233.0
+Vladimir Sizikov,test,2802.0
+Vladimir Sizikov,test/mri/sample,2.0
+Vladimir Sizikov,test/org/jruby/embed,2.0
+Vladimir Sizikov,test/org/jruby/lexer/yacc,12.0
+Vladimir Sizikov,test/org/jruby/test,35.0
+Vladimir Sizikov,test/testapp,16.0
+Wayne Meissner,src/org/jruby/common,2.0
+Wayne Meissner,src/org/jruby/util,209.0
+Wayne Meissner,src/org/jruby/util/collections,1.0
+Wayne Meissner,src/org/jruby/util/io,821.0
+Wayne Meissner,test,25.0
+Yoko Harada,src/org/jruby/embed/util,238.0
+Yoko Harada,test/org/jruby/embed,3324.0
+Yoko Harada,test/org/jruby/embed/bsf,369.0
+Yoko Harada,test/org/jruby/embed/jsr223,2159.0
+Yoko Harada,test/org/jruby/embed/ruby,260.0
+qbproger,src/org/jruby/util,1.0
+retnuh,test,31.0
+Charles Oliver Nutter,test/externals/ruby1.8/csv,1753.0
+Charles Oliver Nutter,test/externals/ruby1.8/gdbm,692.0
+Charles Oliver Nutter,test/externals/ruby1.8/iconv,144.0
+Charles Oliver Nutter,test/externals/ruby1.8/io/nonblock,25.0
+Charles Oliver Nutter,test/externals/ruby1.8/matrix,86.0
+Charles Oliver Nutter,test/externals/ruby1.8/monitor,160.0
+Charles Oliver Nutter,test/externals/ruby1.8/net/http,354.0
+Charles Oliver Nutter,test/externals/ruby1.8/net/imap,11.0
+Charles Oliver Nutter,test/externals/ruby1.8/net/pop,132.0
+Charles Oliver Nutter,test/externals/ruby1.8/nkf,87.0
+Charles Oliver Nutter,test/externals/ruby1.8/optparse,309.0
+Charles Oliver Nutter,test/externals/ruby1.8/pathname,487.0
+Charles Oliver Nutter,test/externals/ruby1.8/rdoc/parsers,261.0
+Charles Oliver Nutter,test/externals/ruby1.8/readline,84.0
+Charles Oliver Nutter,test/externals/ruby1.8/rexml,66.0
+Charles Oliver Nutter,test/externals/ruby1.8/rss,12976.0
+Charles Oliver Nutter,test/externals/ruby1.8/ruby,3931.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap,2334.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap/asp.net,111.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap/calc,254.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap/fault,58.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap/header,477.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap/helloworld,56.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap/marshal,129.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap/ssl,261.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap/struct,77.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap/swa,73.0
+Charles Oliver Nutter,test/externals/ruby1.8/soap/wsdlDriver,285.0
+Charles Oliver Nutter,test/externals/ruby1.8/socket,403.0
+Charles Oliver Nutter,test/externals/ruby1.8/strscan,571.0
+Charles Oliver Nutter,test/externals/ruby1.8/testunit/collector,23.0
+Charles Oliver Nutter,test/externals/ruby1.8/thread,141.0
+Charles Oliver Nutter,test/externals/ruby1.8/webrick,1062.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl,111.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/any,178.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/axisArray,96.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/datetime,147.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/document,477.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/map,99.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/marshal,102.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/qualified,297.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/raa,616.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/ref,144.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/rpc,595.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/simpletype,99.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/simpletype/rpc,273.0
+Charles Oliver Nutter,test/externals/ruby1.8/wsdl/soap,79.0
+Charles Oliver Nutter,test/externals/ruby1.8/xmlrpc,616.0
+Charles Oliver Nutter,test/externals/ruby1.8/yaml,1365.0
+David Calavera,test/externals/ruby1.8/ruby,3.0
+Hiro Asari,test/externals/ruby1.8/iconv,6.0
+Hiro Asari,test/externals/ruby1.8/io/nonblock,3.0
+Hiro Asari,test/externals/ruby1.8/monitor,29.0
+Hiro Asari,test/externals/ruby1.8/ruby,126.0
+Hiro Asari,test/externals/ruby1.8/yaml,1.0
+Nick Sieger,test/externals/ruby1.8/ruby,4471.0
+Ola Bini,test/externals/ruby1.8/testunit,1095.0
+Ola Bini,test/externals/ruby1.8/testunit/collector,481.0
+Ola Bini,test/externals/ruby1.8/testunit/runit,686.0
+Ola Bini,test/externals/ruby1.8/testunit/util,179.0
+Vladimir Sizikov,test/externals/ruby1.8/monitor,6.0
+Vladimir Sizikov,test/externals/ruby1.8/ruby,8.0
+Vladimir Sizikov,test/externals/ruby1.8/webrick,179.0
+Charles Oliver Nutter,test/externals/ruby1.8/drb,1381.0
+Charles Oliver Nutter,test/externals/ruby1.8/erb,430.0
+Charles Oliver Nutter,test/externals/ruby1.8/fileutils,1296.0
+Charles Oliver Nutter,test/externals/ruby1.8/logger,380.0
+Charles Oliver Nutter,test/externals/ruby1.8/openssl,2777.0
+Charles Oliver Nutter,test/externals/ruby1.8/ostruct,59.0
+Charles Oliver Nutter,test/externals/ruby1.8/rinda,544.0
+Charles Oliver Nutter,test/externals/ruby1.8/sdbm,534.0
+Charles Oliver Nutter,test/externals/ruby1.8/uri,1106.0
+Charles Oliver Nutter,test/externals/ruby1.8/xsd,1565.0
+Charles Oliver Nutter,test/externals/ruby1.8/xsd/codegen,214.0
+Charles Oliver Nutter,test/externals/ruby1.8/zlib,45.0
+Charles Oliver Nutter,test/externals/ruby1.9,2415.0
+Charles Oliver Nutter,test/externals/ruby1.9/base64,99.0
+Charles Oliver Nutter,test/externals/ruby1.9/cgi,1668.0
+Charles Oliver Nutter,test/externals/ruby1.9/csv,2566.0
+Charles Oliver Nutter,test/externals/ruby1.9/date,3284.0
+Charles Oliver Nutter,test/externals/ruby1.9/dbm,559.0
+Charles Oliver Nutter,test/externals/ruby1.9/digest,123.0
+Charles Oliver Nutter,test/externals/ruby1.9/dl,561.0
+Charles Oliver Nutter,test/externals/ruby1.9/gdbm,715.0
+Charles Oliver Nutter,test/externals/ruby1.9/iconv,169.0
+Charles Oliver Nutter,test/externals/ruby1.9/io/nonblock,36.0
+Charles Oliver Nutter,test/externals/ruby1.9/json,824.0
+Charles Oliver Nutter,test/externals/ruby1.9/matrix,98.0
+Charles Oliver Nutter,test/externals/ruby1.9/minitest,1238.0
+Charles Oliver Nutter,test/externals/ruby1.9/monitor,163.0
+Charles Oliver Nutter,test/externals/ruby1.9/net/http,867.0
+Charles Oliver Nutter,test/externals/ruby1.9/net/imap,353.0
+Charles Oliver Nutter,test/externals/ruby1.9/net/pop,132.0
+Charles Oliver Nutter,test/externals/ruby1.9/nkf,96.0
+Charles Oliver Nutter,test/externals/ruby1.9/open-uri,1040.0
+Charles Oliver Nutter,test/externals/ruby1.9/optparse,331.0
+Charles Oliver Nutter,test/externals/ruby1.9/pathname,606.0
+Charles Oliver Nutter,test/externals/ruby1.9/rake,3972.0
+Charles Oliver Nutter,test/externals/ruby1.9/rake/contrib,55.0
+Charles Oliver Nutter,test/externals/ruby1.9/rake/data/rbext,3.0
+Charles Oliver Nutter,test/externals/ruby1.9/rdoc,3585.0
+Charles Oliver Nutter,test/externals/ruby1.9/readline,637.0
+Charles Oliver Nutter,test/externals/ruby1.9/rexml,66.0
+Charles Oliver Nutter,test/externals/ruby1.9/rinda,717.0
+Charles Oliver Nutter,test/externals/ruby1.9/rss,13210.0
+Charles Oliver Nutter,test/externals/ruby1.9/ruby,41519.0
+Charles Oliver Nutter,test/externals/ruby1.9/ruby/enc,974.0
+Charles Oliver Nutter,test/externals/ruby1.9/scanf,420.0
+Charles Oliver Nutter,test/externals/ruby1.9/socket,2041.0
+Charles Oliver Nutter,test/externals/ruby1.9/stringio,428.0
+Charles Oliver Nutter,test/externals/ruby1.9/strscan,693.0
+Charles Oliver Nutter,test/externals/ruby1.9/webrick,1702.0
+Charles Oliver Nutter,test/externals/ruby1.9/win32ole,2576.0
+Charles Oliver Nutter,test/externals/ruby1.9/xmlrpc,617.0
+Charles Oliver Nutter,test/externals/ruby1.9/yaml,1400.0
+Hiro Asari,test/externals/ruby1.8/fileutils,5.0
+Hiro Asari,test/externals/ruby1.8/ostruct,7.0
+Vladimir Sizikov,test/externals/ruby1.8/zlib,759.0
+Charles Oliver Nutter,test/externals/ruby1.9/bigdecimal,776.0
+Charles Oliver Nutter,test/externals/ruby1.9/drb,1376.0
+Charles Oliver Nutter,test/externals/ruby1.9/erb,585.0
+Charles Oliver Nutter,test/externals/ruby1.9/etc,101.0
+Charles Oliver Nutter,test/externals/ruby1.9/fileutils,1364.0
+Charles Oliver Nutter,test/externals/ruby1.9/logger,380.0
+Charles Oliver Nutter,test/externals/ruby1.9/mkmf,47.0
+Charles Oliver Nutter,test/externals/ruby1.9/openssl,2959.0
+Charles Oliver Nutter,test/externals/ruby1.9/ostruct,51.0
+Charles Oliver Nutter,test/externals/ruby1.9/ripper,1666.0
+Charles Oliver Nutter,test/externals/ruby1.9/rubygems,14326.0
+Charles Oliver Nutter,test/externals/ruby1.9/rubygems/fake_certlib,7.0
+Charles Oliver Nutter,test/externals/ruby1.9/sdbm,554.0
+Charles Oliver Nutter,test/externals/ruby1.9/uri,1141.0
+Charles Oliver Nutter,test/externals/ruby1.9/zlib,678.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Array/class,93.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Array/instance,3412.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Bignum/instance,741.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Binding/instance,54.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Enumerable/instance,951.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/FalseClass/instance,103.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/FileStat/instance,1266.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Float/class,26.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Float/instance,212.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/GC/class,78.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/GC/instance,16.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/IO/class,451.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/IO/instance,1165.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Kernel/class,207.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Marshal/class,18.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/MatchData/instance,560.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Misc/global_constants,83.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Misc/special_instances,33.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/NilClass/instance,187.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Numeric/instance,575.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/ObjectSpace/class,100.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Process/class,398.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/ProcessUID/class,325.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Signal/class,191.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/String/class,40.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/String/instance,4391.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Struct/class,104.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Struct/instance,349.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Time/class,525.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Time/instance,1274.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/TrueClass/class,23.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/TrueClass/instance,103.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/UnboundMethod/instance,110.0
+Marcin Mielżyński,test/externals/ruby_test/test/core/Array/instance,22.0
+Nick Sieger,test/externals/miniunit/test,102.0
+Nick Sieger,test/externals/miniunit/test/unit,2.0
+Wayne Meissner,test/externals/ruby_test/test/core/Time/instance,27.0
+Charles Oliver Nutter,test/compiler,89.0
+Charles Oliver Nutter,test/dir_with_plusses_+++,1.0
+Charles Oliver Nutter,test/externals/ruby_test/bench/core,1715.0
+Charles Oliver Nutter,test/externals/ruby_test/bench/core/Array,91.0
+Charles Oliver Nutter,test/externals/ruby_test/bench/misc,161.0
+Charles Oliver Nutter,test/externals/ruby_test/bench/stdlib,227.0
+Charles Oliver Nutter,test/externals/ruby_test/lib/test,366.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Class/class,88.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Class/instance,91.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Comparable/instance,297.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Dir/class,562.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Dir/instance,318.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Errno/class,24.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Exception/class,145.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Exception/instance,322.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/File/class,2810.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/File/instance,417.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Fixnum/instance,448.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Hash/class,82.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Hash/instance,1544.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Integer/instance,332.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Math/class,955.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Method/instance,333.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Module/class,108.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Module/instance,799.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Object/instance,858.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/ProcessGID/class,317.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/ProcessSys/class,295.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Range/class,93.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Range/instance,540.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Regexp/class,23.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Regexp/instance,274.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Symbol/class,19.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Symbol/instance,71.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Thread/class,46.0
+Charles Oliver Nutter,test/externals/ruby_test/test/core/Thread/instance,619.0
+Charles Oliver Nutter,test/externals/ruby_test/test/stdlib/English,147.0
+Charles Oliver Nutter,test/externals/ruby_test/test/stdlib/Etc,199.0
+Charles Oliver Nutter,test/externals/ruby_test/test/stdlib/OpenStruct,68.0
+Charles Oliver Nutter,test/externals/ruby_test/test/stdlib/Pathname,322.0
+Charles Oliver Nutter,test/externals/ruby_test/test/stdlib/Rational,321.0
+Charles Oliver Nutter,test/externals/ruby_test/test/stdlib/Set,83.0
+Charles Oliver Nutter,test/externals/ruby_test/test/stdlib/Socket/class,30.0
+Charles Oliver Nutter,test/externals/ruby_test/test/stdlib/Tmpdir,110.0
+Charles Oliver Nutter,test/externals/ruby_test/test/stdlib/Weakref,65.0
+Charles Oliver Nutter,test/load,17.0
+Charles Oliver Nutter,test/rubicon,15835.0
+Charles Oliver Nutter,test/test_require_once_jruby_3234,7.0
+Charles Oliver Nutter,tool,495.0
+Charles Oliver Nutter,tool/experimental,92.0
+Charles Oliver Nutter,tool/nailgun/src/c,641.0
+Marcin Mielżyński,test/rubicon,4.0
+Nick Sieger,test/externals/ruby_test/test/core/File/class,9.0
+Nick Sieger,test/externals/ruby_test/test/core/Module/instance,2.0
+Nick Sieger,test/externals/ruby_test/test/core/Symbol/class,1.0
+Nick Sieger,test/rubicon,5.0
+Nick Sieger,tool,9.0
+Ola Bini,tool,128.0
+Ole Christian Rynning,tool/nailgun/src/c,1.0
+Thomas E. Enebo,test/externals/ruby_test/test/stdlib/Rational,2.0
+Thomas Enebo,test/rubicon,34.0
+Thomas Enebo,tool,12.0
+Vladimir Sizikov,test/externals/ruby_test/lib/test,2.0
+Vladimir Sizikov,test/externals/ruby_test/test/core/Dir/class,8.0
+Vladimir Sizikov,test/externals/ruby_test/test/core/Dir/instance,1.0
+Vladimir Sizikov,test/externals/ruby_test/test/core/File/class,1.0
+Vladimir Sizikov,test/rubicon,24.0
+Anders Bengtsson,samples,6.0
+Charles Oliver Nutter,gem/lib,12.0
+Charles Oliver Nutter,lib/ruby/1.9,27618.0
+Charles Oliver Nutter,lib/ruby/1.9/cgi,2540.0
+Charles Oliver Nutter,lib/ruby/1.9/cgi/session,108.0
+Charles Oliver Nutter,lib/ruby/1.9/date,1310.0
+Charles Oliver Nutter,lib/ruby/1.9/irb,3452.0
+Charles Oliver Nutter,lib/ruby/1.9/irb/cmd,249.0
+Charles Oliver Nutter,lib/ruby/1.9/irb/lc,25.0
+Charles Oliver Nutter,lib/ruby/1.9/minitest,617.0
+Charles Oliver Nutter,lib/ruby/1.9/net,9524.0
+Charles Oliver Nutter,lib/ruby/1.9/optparse,109.0
+Charles Oliver Nutter,lib/ruby/1.9/racc,440.0
+Charles Oliver Nutter,lib/ruby/1.9/rake,660.0
+Charles Oliver Nutter,lib/ruby/1.9/rake/loaders,24.0
+Charles Oliver Nutter,lib/ruby/1.9/rbconfig,10.0
+Charles Oliver Nutter,lib/ruby/1.9/rdoc,4445.0
+Charles Oliver Nutter,lib/ruby/1.9/rdoc/generator,978.0
+Charles Oliver Nutter,lib/ruby/1.9/rdoc/generator/chm,99.0
+Charles Oliver Nutter,lib/ruby/1.9/rdoc/generator/html,1725.0
+Charles Oliver Nutter,lib/ruby/1.9/rdoc/generator/xml,236.0
+Charles Oliver Nutter,lib/ruby/1.9/rdoc/markup,2124.0
+Charles Oliver Nutter,lib/ruby/1.9/rdoc/parser,5461.0
+Charles Oliver Nutter,lib/ruby/1.9/rdoc/ri,2312.0
+Charles Oliver Nutter,lib/ruby/1.9/rexml,5257.0
+Charles Oliver Nutter,lib/ruby/1.9/rexml/dtd,171.0
+Charles Oliver Nutter,lib/ruby/1.9/rexml/encodings,390.0
+Charles Oliver Nutter,lib/ruby/1.9/rexml/formatters,302.0
+Charles Oliver Nutter,lib/ruby/1.9/rexml/light,196.0
+Charles Oliver Nutter,lib/ruby/1.9/rexml/parsers,1885.0
+Charles Oliver Nutter,lib/ruby/1.9/rexml/validation,703.0
+Charles Oliver Nutter,lib/ruby/1.9/rinda,1174.0
+Charles Oliver Nutter,lib/ruby/1.9/rss,5557.0
+Charles Oliver Nutter,lib/ruby/1.9/rss/content,20.0
+Charles Oliver Nutter,lib/ruby/1.9/rss/dublincore,40.0
+Charles Oliver Nutter,lib/ruby/1.9/rss/maker,3430.0
+Charles Oliver Nutter,lib/ruby/1.9/shell,1327.0
+Charles Oliver Nutter,lib/ruby/1.9/test,57.0
+Charles Oliver Nutter,lib/ruby/1.9/test/unit,133.0
+Charles Oliver Nutter,lib/ruby/1.9/webrick,3083.0
+Charles Oliver Nutter,lib/ruby/1.9/webrick/httpauth,742.0
+Charles Oliver Nutter,lib/ruby/1.9/webrick/httpservlet,732.0
+Charles Oliver Nutter,lib/ruby/1.9/xmlrpc,2848.0
+Charles Oliver Nutter,lib/ruby/1.9/yaml,1682.0
+Charles Oliver Nutter,samples,54.0
+Charles Oliver Nutter,samples/ext,36.0
+Charles Oliver Nutter,samples/ffi,7.0
+Charles Oliver Nutter,samples/jrubyc_java,240.0
+David Corbin,samples,1.0
+Hiro Asari,lib/ruby/1.9,407.0
+Hiroshi Nakamura,lib/ruby/1.9/webrick,1.0
+Jan Arne Petersen,samples,26.0
+Nick Sieger,gem/lib,1.0
+Thomas E. Enebo,bin,2.0
+Thomas E. Enebo,lib/ruby/1.9,3312.0
+Thomas E. Enebo,lib/ruby/1.9/bigdecimal,534.0
+Thomas E. Enebo,lib/ruby/1.9/cgi,128.0
+Thomas E. Enebo,lib/ruby/1.9/cgi/session,3.0
+Thomas E. Enebo,lib/ruby/1.9/date,403.0
+Thomas E. Enebo,lib/ruby/1.9/date/delta,301.0
+Thomas E. Enebo,lib/ruby/1.9/irb,383.0
+Thomas E. Enebo,lib/ruby/1.9/irb/cmd,39.0
+Thomas E. Enebo,lib/ruby/1.9/irb/lc,4.0
+Thomas E. Enebo,lib/ruby/1.9/minitest,81.0
+Thomas E. Enebo,lib/ruby/1.9/net,727.0
+Thomas E. Enebo,lib/ruby/1.9/racc,1.0
+Thomas E. Enebo,lib/ruby/1.9/rake,103.0
+Thomas E. Enebo,lib/ruby/1.9/rake/loaders,14.0
+Thomas E. Enebo,lib/ruby/1.9/rbconfig,10.0
+Thomas E. Enebo,lib/ruby/1.9/rdoc,20.0
+Thomas E. Enebo,lib/ruby/1.9/rdoc/generator,4.0
+Thomas E. Enebo,lib/ruby/1.9/rdoc/generator/chm,1.0
+Thomas E. Enebo,lib/ruby/1.9/rdoc/generator/html,10.0
+Thomas E. Enebo,lib/ruby/1.9/rdoc/markup,3.0
+Thomas E. Enebo,lib/ruby/1.9/rdoc/parser,67.0
+Thomas E. Enebo,lib/ruby/1.9/rdoc/ri,67.0
+Thomas E. Enebo,lib/ruby/1.9/rexml,232.0
+Thomas E. Enebo,lib/ruby/1.9/rexml/dtd,2.0
+Thomas E. Enebo,lib/ruby/1.9/rexml/encodings,4.0
+Thomas E. Enebo,lib/ruby/1.9/rexml/formatters,4.0
+Thomas E. Enebo,lib/ruby/1.9/rexml/parsers,46.0
+Thomas E. Enebo,lib/ruby/1.9/rexml/validation,20.0
+Thomas E. Enebo,lib/ruby/1.9/rinda,22.0
+Thomas E. Enebo,lib/ruby/1.9/rss,186.0
+Thomas E. Enebo,lib/ruby/1.9/rss/maker,132.0
+Thomas E. Enebo,lib/ruby/1.9/shell,53.0
+Thomas E. Enebo,lib/ruby/1.9/test,9.0
+Thomas E. Enebo,lib/ruby/1.9/test/unit,19.0
+Thomas E. Enebo,lib/ruby/1.9/webrick,39.0
+Thomas E. Enebo,lib/ruby/1.9/webrick/httpauth,10.0
+Thomas E. Enebo,lib/ruby/1.9/webrick/httpservlet,17.0
+Thomas E. Enebo,lib/ruby/1.9/xmlrpc,340.0
+Thomas E. Enebo,lib/ruby/1.9/yaml,33.0
+Thomas Enebo,bin,280.0
+Thomas Enebo,lib/ruby/1.9,3240.0
+Thomas Enebo,samples,68.0
+Vladimir Sizikov,lib/ruby/1.9,80.0
+Vladimir Sizikov,lib/ruby/1.9/win32,1197.0
+Vladimir Sizikov,samples,1.0
+Vladimir Sizikov,samples/ffi,16.0
+Wayne Meissner,samples/ffi,182.0
+Charles Oliver Nutter,lib/ruby/1.8,30876.0
+Charles Oliver Nutter,lib/ruby/1.8/date,162.0
+Charles Oliver Nutter,lib/ruby/1.8/net,8989.0
+Charles Oliver Nutter,lib/ruby/1.8/optparse,109.0
+Charles Oliver Nutter,lib/ruby/1.8/racc,442.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc,2452.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/dot,255.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/generators,2019.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/generators/template/chm,87.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/generators/template/html,2414.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/generators/template/xml,224.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/markup,476.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/markup/sample,58.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/markup/simple_markup,1702.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/markup/test,659.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/parsers,5349.0
+Charles Oliver Nutter,lib/ruby/1.8/rdoc/ri,2199.0
+Charles Oliver Nutter,lib/ruby/1.8/rexml,5330.0
+Charles Oliver Nutter,lib/ruby/1.8/rexml/dtd,173.0
+Charles Oliver Nutter,lib/ruby/1.8/rexml/encodings,392.0
+Charles Oliver Nutter,lib/ruby/1.8/rexml/formatters,301.0
+Charles Oliver Nutter,lib/ruby/1.8/rexml/light,196.0
+Charles Oliver Nutter,lib/ruby/1.8/rexml/parsers,1841.0
+Charles Oliver Nutter,lib/ruby/1.8/rexml/validation,723.0
+Charles Oliver Nutter,lib/ruby/1.8/soap,3786.0
+Charles Oliver Nutter,lib/ruby/1.8/soap/encodingstyle,1121.0
+Charles Oliver Nutter,lib/ruby/1.8/soap/header,171.0
+Charles Oliver Nutter,lib/ruby/1.8/soap/mapping,2500.0
+Charles Oliver Nutter,lib/ruby/1.8/soap/rpc,2235.0
+Charles Oliver Nutter,lib/ruby/1.8/test,277.0
+Charles Oliver Nutter,lib/ruby/1.8/test/unit,1322.0
+Charles Oliver Nutter,lib/ruby/1.8/test/unit/collector,141.0
+Charles Oliver Nutter,lib/ruby/1.8/test/unit/ui,114.0
+Charles Oliver Nutter,lib/ruby/1.8/test/unit/ui/console,127.0
+Charles Oliver Nutter,lib/ruby/1.8/test/unit/ui/fox,268.0
+Charles Oliver Nutter,lib/ruby/1.8/test/unit/ui/gtk,416.0
+Charles Oliver Nutter,lib/ruby/1.8/test/unit/ui/gtk2,465.0
+Charles Oliver Nutter,lib/ruby/1.8/test/unit/ui/tk,260.0
+Charles Oliver Nutter,lib/ruby/1.8/test/unit/util,178.0
+Charles Oliver Nutter,lib/ruby/1.8/webrick,2917.0
+Charles Oliver Nutter,lib/ruby/1.8/webrick/httpauth,751.0
+Charles Oliver Nutter,lib/ruby/1.8/webrick/httpservlet,686.0
+Charles Oliver Nutter,lib/ruby/1.8/wsdl,1444.0
+Charles Oliver Nutter,lib/ruby/1.8/wsdl/soap,2182.0
+Charles Oliver Nutter,lib/ruby/1.8/wsdl/xmlSchema,2013.0
+Charles Oliver Nutter,lib/ruby/1.8/xmlrpc,3160.0
+Charles Oliver Nutter,lib/ruby/1.9/drb,2567.0
+Charles Oliver Nutter,lib/ruby/1.9/irb/ext,757.0
+Charles Oliver Nutter,lib/ruby/1.9/irb/lc/ja,31.0
+Charles Oliver Nutter,lib/ruby/1.9/uri,2495.0
+Hiro Asari,lib/ruby/1.8,430.0
+Hiro Asari,lib/ruby/1.8/net,10.0
+Hiro Asari,lib/ruby/1.8/rexml,2.0
+Hiro Asari,lib/ruby/1.8/test,4.0
+Hiro Asari,lib/ruby/1.8/webrick,31.0
+Hiroshi Nakamura,lib/ruby/1.8/webrick,3.0
+Marcin Mielżyński,lib/ruby/1.8/rexml,1.0
+MenTaLguY,lib/ruby/1.8,106.0
+Ola Bini,lib/ruby/1.8,2500.0
+Ola Bini,lib/ruby/1.8/date,244.0
+Ola Bini,lib/ruby/1.8/net,920.0
+Ola Bini,lib/ruby/1.8/rdoc,1.0
+Ola Bini,lib/ruby/1.8/rdoc/parsers,14.0
+Ola Bini,lib/ruby/1.8/rdoc/ri,45.0
+Ola Bini,lib/ruby/1.8/rexml,55.0
+Ola Bini,lib/ruby/1.8/rexml/encodings,2.0
+Ola Bini,lib/ruby/1.8/rexml/formatters,2.0
+Ola Bini,lib/ruby/1.8/rexml/parsers,53.0
+Ola Bini,lib/ruby/1.8/soap,1.0
+Ola Bini,lib/ruby/1.8/webrick,9.0
+Ola Bini,lib/ruby/1.8/webrick/httpservlet,4.0
+Ola Bini,lib/ruby/1.8/xmlrpc,32.0
+Thomas E. Enebo,lib/ruby/1.9/drb,126.0
+Thomas E. Enebo,lib/ruby/1.9/irb/ext,84.0
+Thomas E. Enebo,lib/ruby/1.9/irb/lc/ja,4.0
+Thomas E. Enebo,lib/ruby/1.9/uri,155.0
+Thomas Enebo,lib/ruby/1.8,44.0
+Thomas Enebo,lib/ruby/1.8/date,784.0
+Thomas Enebo,lib/ruby/gems/1.8/gems/sources-0.0.1/lib,6.0
+Vladimir Sizikov,lib/ruby/1.8,11.0
+Vladimir Sizikov,lib/ruby/1.8/net,2.0
+Vladimir Sizikov,lib/ruby/1.8/rdoc/ri,1.0
+Vladimir Sizikov,lib/ruby/1.8/webrick/httpservlet,58.0
+Wayne Meissner,lib/ruby/1.8,311.0
+Anders Bengtsson,lib/ruby/site_ruby/shared/builtin,3.0
+Bill Dortch,lib/ruby/site_ruby/shared/builtin/java,11.0
+Bill Dortch,lib/ruby/site_ruby/shared/builtin/javasupport,18.0
+Bill Dortch,lib/ruby/site_ruby/shared/builtin/javasupport/core_ext,27.0
+Bill Dortch,lib/ruby/site_ruby/shared/builtin/javasupport/utilities,2.0
+Charles Oliver Nutter,lib/ruby/1.8/bigdecimal,546.0
+Charles Oliver Nutter,lib/ruby/1.8/cgi,467.0
+Charles Oliver Nutter,lib/ruby/1.8/cgi/session,110.0
+Charles Oliver Nutter,lib/ruby/1.8/drb,2598.0
+Charles Oliver Nutter,lib/ruby/1.8/io,23.0
+Charles Oliver Nutter,lib/ruby/1.8/irb,3516.0
+Charles Oliver Nutter,lib/ruby/1.8/irb/cmd,278.0
+Charles Oliver Nutter,lib/ruby/1.8/irb/ext,796.0
+Charles Oliver Nutter,lib/ruby/1.8/irb/lc,28.0
+Charles Oliver Nutter,lib/ruby/1.8/irb/lc/ja,25.0
+Charles Oliver Nutter,lib/ruby/1.8/rinda,1119.0
+Charles Oliver Nutter,lib/ruby/1.8/rss,3619.0
+Charles Oliver Nutter,lib/ruby/1.8/rss/maker,1025.0
+Charles Oliver Nutter,lib/ruby/1.8/runit,205.0
+Charles Oliver Nutter,lib/ruby/1.8/runit/cui,51.0
+Charles Oliver Nutter,lib/ruby/1.8/shell,1311.0
+Charles Oliver Nutter,lib/ruby/1.8/uri,2377.0
+Charles Oliver Nutter,lib/ruby/1.8/xsd,1937.0
+Charles Oliver Nutter,lib/ruby/1.8/xsd/codegen,657.0
+Charles Oliver Nutter,lib/ruby/1.8/xsd/xmlparser,347.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/builtin,11.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/builtin/java,74.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/builtin/javasupport,37.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/builtin/javasupport/core_ext,150.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/builtin/javasupport/proxy,37.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/builtin/javasupport/utilities,35.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/ffi,35.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/java,22.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/jruby,370.0
+David Calavera,lib/ruby/site_ruby/shared,13.0
+David Calavera,lib/ruby/site_ruby/shared/builtin/javasupport/core_ext,3.0
+David Corbin,lib/ruby/site_ruby/shared/builtin/java,6.0
+Hiro Asari,lib/ruby/1.8/irb,36.0
+Hiro Asari,lib/ruby/1.8/irb/cmd,16.0
+Hiro Asari,lib/ruby/1.8/irb/ext,55.0
+Hiro Asari,lib/ruby/1.8/irb/lc,2.0
+Hiro Asari,lib/ruby/1.8/irb/lc/ja,2.0
+Ian Dees,lib/ruby/site_ruby/shared/ant,2.0
+Jan Arne Petersen,lib/ruby/site_ruby/shared/builtin,1.0
+MenTaLguY,lib/ruby/1.8/drb,1.0
+Nick Sieger,lib/ruby/site_ruby/shared,96.0
+Nick Sieger,lib/ruby/site_ruby/shared/ant,421.0
+Nick Sieger,lib/ruby/site_ruby/shared/builtin/java,44.0
+Ola Bini,lib/ruby/1.8/cgi,33.0
+Ola Bini,lib/ruby/1.8/cgi/session,1.0
+Ola Bini,lib/ruby/1.8/drb,98.0
+Ola Bini,lib/ruby/1.8/rinda,77.0
+Ola Bini,lib/ruby/1.8/rss,2079.0
+Ola Bini,lib/ruby/1.8/rss/content,22.0
+Ola Bini,lib/ruby/1.8/rss/dublincore,43.0
+Ola Bini,lib/ruby/1.8/rss/maker,2459.0
+Ola Bini,lib/ruby/1.8/shell,20.0
+Ola Bini,lib/ruby/1.8/uri,142.0
+Ola Bini,lib/ruby/site_ruby/shared/builtin,269.0
+Ola Bini,lib/ruby/site_ruby/shared/builtin/core_ext,5.0
+Ola Bini,lib/ruby/site_ruby/shared/builtin/java,180.0
+Ola Bini,lib/ruby/site_ruby/shared/builtin/javasupport/core_ext,31.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared,229.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ant,121.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ant/tasks,29.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/builtin/java,2.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi,660.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/i386-darwin,2040.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/i386-linux,2040.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/i386-openbsd,1576.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/i386-solaris,2040.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/i386-windows,1601.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/powerpc-aix,2040.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/powerpc-darwin,2040.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/sparc-solaris,2040.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/sparcv9-solaris,2040.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/x86_64-darwin,2040.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/x86_64-linux,2040.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/platform/x86_64-solaris,2040.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/ffi/tools,590.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/jruby/win32ole,8.0
+Thomas Enebo,lib/ruby/site_ruby/shared/builtin,28.0
+Thomas Enebo,lib/ruby/site_ruby/shared/builtin/java,75.0
+Thomas Enebo,lib/ruby/site_ruby/shared/builtin/javasupport,10.0
+Thomas Enebo,lib/ruby/site_ruby/shared/builtin/javasupport/core_ext,9.0
+Thomas Enebo,lib/ruby/site_ruby/shared/builtin/javasupport/utilities,3.0
+Vladimir Sizikov,lib/ruby/1.8/irb,4.0
+Vladimir Sizikov,lib/ruby/1.8/win32,1197.0
+Vladimir Sizikov,lib/ruby/site_ruby/shared,44.0
+Vladimir Sizikov,lib/ruby/site_ruby/shared/ant,1.0
+Wayne Meissner,lib/ruby/1.8/dl,644.0
+Wayne Meissner,lib/ruby/site_ruby/shared,71.0
+Wayne Meissner,lib/ruby/site_ruby/shared/ffi,400.0
+Charles Oliver Nutter,bench,2678.0
+Charles Oliver Nutter,bench/compiler,282.0
+Charles Oliver Nutter,bench/concurrency,18.0
+Charles Oliver Nutter,bench/java,300.0
+Charles Oliver Nutter,bench/language,3804.0
+Charles Oliver Nutter,bench/rails,61.0
+Charles Oliver Nutter,bench/rails/app/controllers,22.0
+Charles Oliver Nutter,bench/rails/app/helpers,5.0
+Charles Oliver Nutter,bench/rails/config,217.0
+Charles Oliver Nutter,bench/rails/config/environments,61.0
+Charles Oliver Nutter,bench/rails/config/initializers,30.0
+Charles Oliver Nutter,bench/rails/public,10.0
+Charles Oliver Nutter,bench/rails/test,38.0
+Charles Oliver Nutter,bench/rails/test/functional,8.0
+Charles Oliver Nutter,bench/yarv,2868.0
+Charles Oliver Nutter,lib/ruby/site_ruby/1.8,469.0
+Charles Oliver Nutter,lib/ruby/site_ruby/1.8/rubygems,7504.0
+Charles Oliver Nutter,lib/ruby/site_ruby/1.8/rubygems/commands,2535.0
+Charles Oliver Nutter,lib/ruby/site_ruby/1.8/rubygems/digest,58.0
+Charles Oliver Nutter,lib/ruby/site_ruby/1.8/rubygems/ext,134.0
+Charles Oliver Nutter,lib/ruby/site_ruby/1.8/rubygems/package,125.0
+Charles Oliver Nutter,lib/ruby/site_ruby/1.8/rubygems/package/tar_reader,43.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/jruby/compiler,846.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/jruby/openssl,112.0
+Charles Oliver Nutter,lib/ruby/site_ruby/shared/jruby/openssl/autoloads,90.0
+Charles Oliver Nutter,spec/compiler,60.0
+Charles Oliver Nutter,spec/java_integration/addons,312.0
+Charles Oliver Nutter,spec/java_integration/exceptions,26.0
+Charles Oliver Nutter,spec/java_integration/extensions,9.0
+Charles Oliver Nutter,spec/java_integration/fields,20.0
+Charles Oliver Nutter,spec/java_integration/fixtures,1127.0
+Charles Oliver Nutter,spec/java_integration/fixtures/_funky,5.0
+Charles Oliver Nutter,spec/java_integration/interfaces,532.0
+Charles Oliver Nutter,spec/java_integration/jrubyc/java,572.0
+Charles Oliver Nutter,spec/java_integration/methods,730.0
+Charles Oliver Nutter,spec/java_integration/object,16.0
+Charles Oliver Nutter,spec/java_integration/packages,55.0
+Charles Oliver Nutter,spec/java_integration/reflection,245.0
+Charles Oliver Nutter,spec/java_integration/reify,36.0
+Charles Oliver Nutter,spec/java_integration/types,2070.0
+Charles Oliver Nutter,spec/java_integration/utilities,130.0
+Colin Jones,lib/ruby/site_ruby/1.8/rubygems/defaults,12.0
+David Calavera,spec/java_integration/ant,34.0
+David Calavera,spec/java_integration/fields,13.0
+David Calavera,spec/java_integration/fixtures,14.0
+David Calavera,spec/java_integration/methods,34.0
+David Calavera,spec/java_integration/packages,24.0
+David Kellum,lib/ruby/site_ruby/1.8/rubygems/defaults,9.0
+Frederic Jean,spec/java_integration/types,33.0
+Hiro Asari,spec/java_integration/fixtures,20.0
+Hiro Asari,spec/java_integration/interfaces,16.0
+Hiro Asari,spec/java_integration/methods,19.0
+Marcin Mielżyński,bench,12.0
+MenTaLguY,spec/java_integration/addons,68.0
+Mike Dalessio,spec/ffi,205.0
+NAKAMURA,lib/ruby/site_ruby/shared/jruby/openssl,61.0
+Nick Sieger,bench,445.0
+Nick Sieger,lib/ruby/site_ruby/1.8,7.0
+Nick Sieger,lib/ruby/site_ruby/1.8/rubygems,25.0
+Nick Sieger,lib/ruby/site_ruby/1.8/rubygems/commands,173.0
+Nick Sieger,lib/ruby/site_ruby/1.8/rubygems/defaults,54.0
+Nick Sieger,lib/ruby/site_ruby/1.8/rubygems/digest,58.0
+Nick Sieger,lib/ruby/site_ruby/shared/jruby/openssl,48.0
+Nick Sieger,spec/java_integration,127.0
+Nick Sieger,spec/java_integration/ant,316.0
+Nick Sieger,spec/java_integration/fixtures,59.0
+Nick Sieger,spec/java_integration/interfaces,122.0
+Nick Sieger,spec/java_integration/reify,18.0
+Nick Sieger,spec/java_integration/utilities,31.0
+Ola Bini,bench,242.0
+Ola Bini,bench/java,22.0
+Ola Bini,bench/language,347.0
+Ola Bini,spec/java_integration/extensions,45.0
+Ola Bini,spec/java_integration/fixtures,58.0
+Ola Bini,spec/java_integration/interfaces,32.0
+Ola Bini,spec/java_integration/methods,91.0
+Ola Bini,spec/java_integration/reflection,100.0
+Ola Bini,spec/java_integration/types,699.0
+Thomas E. Enebo,bench,47.0
+Thomas E. Enebo,bench/core/array,140.0
+Thomas E. Enebo,bench/language,151.0
+Thomas E. Enebo,lib/ruby/site_ruby/shared/jruby/compiler,51.0
+Thomas E. Enebo,spec/grammar/java_signature,29.0
+Thomas E. Enebo,spec/grammar/java_signature/helpers,168.0
+Thomas E. Enebo,spec/java_integration/extensions,12.0
+Thomas E. Enebo,spec/java_integration/fields,3.0
+Thomas E. Enebo,spec/java_integration/fixtures,8.0
+Thomas E. Enebo,spec/java_integration/jrubyc/java,12.0
+Thomas E. Enebo,spec/java_integration/object,17.0
+Thomas E. Enebo,spec/java_integration/types,15.0
+Thomas E. Enebo,spec/java_integration/utilities,26.0
+Thomas Enebo,bench,189.0
+Thomas Enebo,bench/language,51.0
+Thomas Enebo,lib/ruby/site_ruby/1.8,89.0
+Thomas Enebo,lib/ruby/site_ruby/1.8/rbconfig,10.0
+Thomas Enebo,lib/ruby/site_ruby/1.8/rubygems,632.0
+Thomas Enebo,spec/java_integration/addons,7.0
+Thomas Enebo,spec/java_integration/fields,68.0
+Thomas Enebo,spec/java_integration/fixtures,48.0
+Thomas Enebo,spec/java_integration/interfaces,37.0
+Thomas Enebo,spec/java_integration/methods,44.0
+Thomas Enebo,spec/java_integration/types,18.0
+Vladimir Sizikov,bench,1688.0
+Vladimir Sizikov,bench/core/array,47.0
+Vladimir Sizikov,lib/ruby/site_ruby/1.8,637.0
+Vladimir Sizikov,lib/ruby/site_ruby/1.8/rbconfig,10.0
+Vladimir Sizikov,lib/ruby/site_ruby/1.8/rubygems,3150.0
+Vladimir Sizikov,lib/ruby/site_ruby/1.8/rubygems/commands,694.0
+Vladimir Sizikov,lib/ruby/site_ruby/1.8/rubygems/defaults,38.0
+Vladimir Sizikov,lib/ruby/site_ruby/1.8/rubygems/package,863.0
+Vladimir Sizikov,lib/ruby/site_ruby/1.8/rubygems/package/tar_reader,96.0
+Vladimir Sizikov,spec,69.0
+Vladimir Sizikov,spec/java_integration,1.0
+Vladimir Sizikov,spec/java_integration/ant,2.0
+Vladimir Sizikov,spec/java_integration/fixtures,4.0
+Vladimir Sizikov,spec/java_integration/interfaces,2.0
+Vladimir Sizikov,spec/java_integration/methods,1.0
+Vladimir Sizikov,spec/java_integration/types,1.0
+Vladimir Sizikov,spec/java_integration/utilities,8.0
+Wayne Meissner,bench,139.0
+Wayne Meissner,bench/ffi,493.0
+Wayne Meissner,spec/ffi,279.0
+Wayne Meissner,spec/java_integration/packages,2.0

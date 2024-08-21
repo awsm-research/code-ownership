@@ -1,0 +1,1851 @@
+File,Author,ChurnSize
+,Uwe Schindler,16802.0
+contrib,Uwe Schindler,625.0
+contrib/analyzers/common,Uwe Schindler,1325.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar,Uwe Schindler,3279.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/br,Uwe Schindler,3279.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk,Uwe Schindler,3279.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn,Uwe Schindler,1325.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound,Uwe Schindler,3587.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation,Uwe Schindler,909.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz,Uwe Schindler,1954.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/de,Uwe Schindler,3748.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/el,Uwe Schindler,3279.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa,Uwe Schindler,1943.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr,Uwe Schindler,6010.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous,Uwe Schindler,3675.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram,Uwe Schindler,4207.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl,Uwe Schindler,3748.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads,Uwe Schindler,3587.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/position,Uwe Schindler,3587.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/query,Uwe Schindler,1804.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse,Uwe Schindler,1325.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru,Uwe Schindler,3748.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle,Uwe Schindler,5870.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks,Uwe Schindler,3587.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/th,Uwe Schindler,4951.0
+contrib/analyzers/common/src/resources/org/apache/lucene/analysis/ar,Uwe Schindler,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar,Uwe Schindler,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/br,Uwe Schindler,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk,Uwe Schindler,1325.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn,Uwe Schindler,1325.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound,Uwe Schindler,1325.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz,Uwe Schindler,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/de,Uwe Schindler,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/el,Uwe Schindler,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa,Uwe Schindler,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr,Uwe Schindler,1325.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous,Uwe Schindler,3592.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram,Uwe Schindler,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl,Uwe Schindler,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads,Uwe Schindler,1325.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/position,Uwe Schindler,1325.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/query,Uwe Schindler,1922.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse,Uwe Schindler,1325.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru,Uwe Schindler,1325.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle,Uwe Schindler,3325.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks,Uwe Schindler,1325.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/th,Uwe Schindler,
+contrib/analyzers/smartcn,Uwe Schindler,1325.0
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart,Uwe Schindler,1794.0
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm,Uwe Schindler,1365.0
+contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart,Uwe Schindler,
+contrib/ant/src/java/org/apache/lucene/ant,Uwe Schindler,2870.0
+contrib/ant/src/test/org/apache/lucene/ant,Uwe Schindler,1961.0
+contrib/benchmark,Uwe Schindler,
+contrib/benchmark/conf,Uwe Schindler,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask,Uwe Schindler,1713.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds,Uwe Schindler,2169.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats,Uwe Schindler,486.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks,Uwe Schindler,5068.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils,Uwe Schindler,2358.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality,Uwe Schindler,519.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec,Uwe Schindler,1083.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils,Uwe Schindler,2447.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/stats,Uwe Schindler,486.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/utils,Uwe Schindler,486.0
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask,Uwe Schindler,597.0
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds,Uwe Schindler,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks,Uwe Schindler,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/quality,Uwe Schindler,597.0
+contrib/collation/src/java/org/apache/lucene/collation,Uwe Schindler,1325.0
+contrib/collation/src/test/org/apache/lucene/collation,Uwe Schindler,1714.0
+contrib/db/bdb-je/src/java/org/apache/lucene/store/je,Uwe Schindler,1037.0
+contrib/db/bdb-je/src/test/org/apache/lucene/store/je,Uwe Schindler,
+contrib/db/bdb/src/java/org/apache/lucene/store/db,Uwe Schindler,1037.0
+contrib/db/bdb/src/test/org/apache/lucene/store/db,Uwe Schindler,
+contrib/fast-vector-highlighter,Uwe Schindler,12.0
+contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight,Uwe Schindler,597.0
+contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight,Uwe Schindler,2010.0
+contrib/highlighter,Uwe Schindler,
+contrib/highlighter/src/java/org/apache/lucene/search/highlight,Uwe Schindler,2275.0
+contrib/highlighter/src/test/org/apache/lucene/search/highlight,Uwe Schindler,4451.0
+contrib/instantiated,Uwe Schindler,12.0
+contrib/instantiated/src/java/org/apache/lucene/store/instantiated,Uwe Schindler,2777.0
+contrib/instantiated/src/test/org/apache/lucene/store/instantiated,Uwe Schindler,3864.0
+contrib/lucli/src/java/lucli,Uwe Schindler,3846.0
+contrib/memory/src/java/org/apache/lucene/index/memory,Uwe Schindler,3445.0
+contrib/memory/src/test/org/apache/lucene/index/memory,Uwe Schindler,4821.0
+contrib/misc/src/java/org/apache/lucene/index,Uwe Schindler,1452.0
+contrib/misc/src/java/org/apache/lucene/misc,Uwe Schindler,1901.0
+contrib/misc/src/java/org/apache/lucene/queryParser/analyzing,Uwe Schindler,2173.0
+contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase,Uwe Schindler,379.0
+contrib/misc/src/java/org/apache/lucene/queryParser/precedence,Uwe Schindler,4688.0
+contrib/misc/src/test/org/apache/lucene/index,Uwe Schindler,1961.0
+contrib/misc/src/test/org/apache/lucene/misc,Uwe Schindler,597.0
+contrib/misc/src/test/org/apache/lucene/queryParser/analyzing,Uwe Schindler,2262.0
+contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase,Uwe Schindler,1961.0
+contrib/misc/src/test/org/apache/lucene/queryParser/precedence,Uwe Schindler,3108.0
+contrib/queries/src/java/org/apache/lucene/search,Uwe Schindler,3079.0
+contrib/queries/src/java/org/apache/lucene/search/similar,Uwe Schindler,4651.0
+contrib/queries/src/test/org/apache/lucene/search,Uwe Schindler,1963.0
+contrib/queries/src/test/org/apache/lucene/search/similar,Uwe Schindler,1820.0
+contrib/queryparser,Uwe Schindler,12.0
+contrib/queryparser/src/java,Uwe Schindler,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core,Uwe Schindler,86.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders,Uwe Schindler,86.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config,Uwe Schindler,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes,Uwe Schindler,1631.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors,Uwe Schindler,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util,Uwe Schindler,469.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard,Uwe Schindler,2414.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders,Uwe Schindler,86.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config,Uwe Schindler,1325.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes,Uwe Schindler,10.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser,Uwe Schindler,86.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors,Uwe Schindler,1411.0
+contrib/queryparser/src/test/org/apache/lucene/queryParser/spans,Uwe Schindler,1325.0
+contrib/queryparser/src/test/org/apache/lucene/queryParser/standard,Uwe Schindler,6004.0
+contrib/regex/src/java/org/apache/lucene/search/regex,Uwe Schindler,1041.0
+contrib/regex/src/test/org/apache/lucene/search/regex,Uwe Schindler,1961.0
+contrib/remote/src/java/org/apache/lucene/search,Uwe Schindler,1195.0
+contrib/remote/src/test/org/apache/lucene/search,Uwe Schindler,3337.0
+contrib/snowball,Uwe Schindler,
+contrib/snowball/src/java,Uwe Schindler,
+contrib/snowball/src/java/org/apache/lucene/analysis/snowball,Uwe Schindler,5391.0
+contrib/snowball/src/java/org/tartarus/snowball,Uwe Schindler,
+contrib/snowball/src/java/org/tartarus/snowball/ext,Uwe Schindler,
+contrib/snowball/src/test/org/apache/lucene/analysis/snowball,Uwe Schindler,1325.0
+contrib/spatial,Uwe Schindler,12.0
+contrib/spatial/src/java/org/apache/lucene/spatial/geohash,Uwe Schindler,456.0
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry,Uwe Schindler,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape,Uwe Schindler,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier,Uwe Schindler,909.0
+contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections,Uwe Schindler,456.0
+contrib/spatial/src/test/org/apache/lucene/spatial/tier,Uwe Schindler,1053.0
+contrib/spellchecker/src/java/org/apache/lucene/search/spell,Uwe Schindler,1037.0
+contrib/spellchecker/src/test/org/apache/lucene/search/spell,Uwe Schindler,597.0
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/parser,Uwe Schindler,1008.0
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/query,Uwe Schindler,961.0
+contrib/surround/src/test/org/apache/lucene/queryParser/surround/query,Uwe Schindler,1227.0
+contrib/swing/src/java/org/apache/lucene/swing/models,Uwe Schindler,1198.0
+contrib/swing/src/test/org/apache/lucene/swing/models,Uwe Schindler,
+contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis,Uwe Schindler,4201.0
+contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis,Uwe Schindler,1325.0
+contrib/wordnet/src/java/org/apache/lucene/wordnet,Uwe Schindler,3810.0
+contrib/wordnet/src/test/org/apache/lucene/wordnet,Uwe Schindler,
+contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo,Uwe Schindler,1961.0
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser,Uwe Schindler,614.0
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders,Uwe Schindler,1552.0
+contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser,Uwe Schindler,1961.0
+docs,Uwe Schindler,1782.0
+docs/lucene-contrib,Uwe Schindler,1782.0
+docs/skin,Uwe Schindler,1366.0
+docs/skin/images,Uwe Schindler,1366.0
+src/demo/org/apache/lucene/demo,Uwe Schindler,
+src/demo/org/apache/lucene/demo/html,Uwe Schindler,1153.0
+src/java/org/apache/lucene/analysis,Uwe Schindler,8480.0
+src/java/org/apache/lucene/analysis/standard,Uwe Schindler,6816.0
+src/java/org/apache/lucene/analysis/tokenattributes,Uwe Schindler,1350.0
+src/java/org/apache/lucene/document,Uwe Schindler,4247.0
+src/java/org/apache/lucene/index,Uwe Schindler,9860.0
+src/java/org/apache/lucene/messages,Uwe Schindler,1464.0
+src/java/org/apache/lucene/queryParser,Uwe Schindler,3745.0
+src/java/org/apache/lucene/search,Uwe Schindler,14181.0
+src/java/org/apache/lucene/search/function,Uwe Schindler,2702.0
+src/java/org/apache/lucene/search/payloads,Uwe Schindler,3746.0
+src/java/org/apache/lucene/search/spans,Uwe Schindler,3558.0
+src/java/org/apache/lucene/store,Uwe Schindler,5308.0
+src/java/org/apache/lucene/util,Uwe Schindler,7278.0
+src/java/org/apache/lucene/util/cache,Uwe Schindler,1058.0
+src/site/changes,Uwe Schindler,24.0
+src/site/src/documentation/content/xdocs,Uwe Schindler,1782.0
+src/test/org/apache/lucene,Uwe Schindler,11300.0
+src/test/org/apache/lucene/analysis,Uwe Schindler,16094.0
+src/test/org/apache/lucene/analysis/tokenattributes,Uwe Schindler,469.0
+src/test/org/apache/lucene/document,Uwe Schindler,10077.0
+src/test/org/apache/lucene/index,Uwe Schindler,15978.0
+src/test/org/apache/lucene/messages,Uwe Schindler,86.0
+src/test/org/apache/lucene/queryParser,Uwe Schindler,13230.0
+src/test/org/apache/lucene/search,Uwe Schindler,18813.0
+src/test/org/apache/lucene/search/function,Uwe Schindler,11979.0
+src/test/org/apache/lucene/search/payloads,Uwe Schindler,11511.0
+src/test/org/apache/lucene/search/spans,Uwe Schindler,13230.0
+src/test/org/apache/lucene/store,Uwe Schindler,13487.0
+src/test/org/apache/lucene/util,Uwe Schindler,14740.0
+src/test/org/apache/lucene/util/cache,Uwe Schindler,456.0
+,Michael McCandless,6937.0
+contrib,Michael McCandless,2475.0
+contrib/analyzers/common,Michael McCandless,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar,Michael McCandless,1224.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/br,Michael McCandless,1237.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk,Michael McCandless,1224.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn,Michael McCandless,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound,Michael McCandless,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation,Michael McCandless,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz,Michael McCandless,1237.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/de,Michael McCandless,1399.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/el,Michael McCandless,1237.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa,Michael McCandless,1224.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr,Michael McCandless,1399.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous,Michael McCandless,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram,Michael McCandless,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl,Michael McCandless,1237.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads,Michael McCandless,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/position,Michael McCandless,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/query,Michael McCandless,1224.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse,Michael McCandless,162.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru,Michael McCandless,1386.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle,Michael McCandless,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks,Michael McCandless,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/th,Michael McCandless,1237.0
+contrib/analyzers/common/src/resources/org/apache/lucene/analysis/ar,Michael McCandless,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar,Michael McCandless,1224.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/br,Michael McCandless,1224.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk,Michael McCandless,1224.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn,Michael McCandless,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound,Michael McCandless,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz,Michael McCandless,1224.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/de,Michael McCandless,1224.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/el,Michael McCandless,1224.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa,Michael McCandless,1224.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr,Michael McCandless,1224.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous,Michael McCandless,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram,Michael McCandless,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl,Michael McCandless,1224.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads,Michael McCandless,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/position,Michael McCandless,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/query,Michael McCandless,1224.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse,Michael McCandless,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru,Michael McCandless,1386.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle,Michael McCandless,3159.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks,Michael McCandless,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/th,Michael McCandless,1224.0
+contrib/analyzers/smartcn,Michael McCandless,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart,Michael McCandless,1224.0
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm,Michael McCandless,
+contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart,Michael McCandless,1224.0
+contrib/ant/src/java/org/apache/lucene/ant,Michael McCandless,
+contrib/ant/src/test/org/apache/lucene/ant,Michael McCandless,1224.0
+contrib/benchmark,Michael McCandless,848.0
+contrib/benchmark/conf,Michael McCandless,1935.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask,Michael McCandless,2629.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds,Michael McCandless,1495.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats,Michael McCandless,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks,Michael McCandless,2693.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils,Michael McCandless,694.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality,Michael McCandless,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec,Michael McCandless,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils,Michael McCandless,1224.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/stats,Michael McCandless,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/utils,Michael McCandless,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask,Michael McCandless,2002.0
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds,Michael McCandless,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks,Michael McCandless,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/quality,Michael McCandless,
+contrib/collation/src/java/org/apache/lucene/collation,Michael McCandless,
+contrib/collation/src/test/org/apache/lucene/collation,Michael McCandless,1224.0
+contrib/db/bdb-je/src/java/org/apache/lucene/store/je,Michael McCandless,
+contrib/db/bdb-je/src/test/org/apache/lucene/store/je,Michael McCandless,
+contrib/db/bdb/src/java/org/apache/lucene/store/db,Michael McCandless,
+contrib/db/bdb/src/test/org/apache/lucene/store/db,Michael McCandless,
+contrib/fast-vector-highlighter,Michael McCandless,
+contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight,Michael McCandless,1224.0
+contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight,Michael McCandless,1224.0
+contrib/highlighter,Michael McCandless,
+contrib/highlighter/src/java/org/apache/lucene/search/highlight,Michael McCandless,
+contrib/highlighter/src/test/org/apache/lucene/search/highlight,Michael McCandless,3205.0
+contrib/instantiated,Michael McCandless,
+contrib/instantiated/src/java/org/apache/lucene/store/instantiated,Michael McCandless,
+contrib/instantiated/src/test/org/apache/lucene/store/instantiated,Michael McCandless,1935.0
+contrib/lucli/src/java/lucli,Michael McCandless,3159.0
+contrib/memory/src/java/org/apache/lucene/index/memory,Michael McCandless,1237.0
+contrib/memory/src/test/org/apache/lucene/index/memory,Michael McCandless,1224.0
+contrib/misc/src/java/org/apache/lucene/index,Michael McCandless,7.0
+contrib/misc/src/java/org/apache/lucene/misc,Michael McCandless,162.0
+contrib/misc/src/java/org/apache/lucene/queryParser/analyzing,Michael McCandless,1224.0
+contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase,Michael McCandless,1224.0
+contrib/misc/src/java/org/apache/lucene/queryParser/precedence,Michael McCandless,
+contrib/misc/src/test/org/apache/lucene/index,Michael McCandless,1935.0
+contrib/misc/src/test/org/apache/lucene/misc,Michael McCandless,1935.0
+contrib/misc/src/test/org/apache/lucene/queryParser/analyzing,Michael McCandless,1224.0
+contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase,Michael McCandless,1224.0
+contrib/misc/src/test/org/apache/lucene/queryParser/precedence,Michael McCandless,
+contrib/queries/src/java/org/apache/lucene/search,Michael McCandless,
+contrib/queries/src/java/org/apache/lucene/search/similar,Michael McCandless,60.0
+contrib/queries/src/test/org/apache/lucene/search,Michael McCandless,1935.0
+contrib/queries/src/test/org/apache/lucene/search/similar,Michael McCandless,
+contrib/queryparser,Michael McCandless,
+contrib/queryparser/src/java,Michael McCandless,13.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser,Michael McCandless,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors,Michael McCandless,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/spans,Michael McCandless,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/standard,Michael McCandless,1224.0
+contrib/regex/src/java/org/apache/lucene/search/regex,Michael McCandless,
+contrib/regex/src/test/org/apache/lucene/search/regex,Michael McCandless,1935.0
+contrib/remote/src/java/org/apache/lucene/search,Michael McCandless,162.0
+contrib/remote/src/test/org/apache/lucene/search,Michael McCandless,162.0
+contrib/snowball,Michael McCandless,
+contrib/snowball/src/java,Michael McCandless,
+contrib/snowball/src/java/org/apache/lucene/analysis/snowball,Michael McCandless,1224.0
+contrib/snowball/src/java/org/tartarus/snowball,Michael McCandless,
+contrib/snowball/src/java/org/tartarus/snowball/ext,Michael McCandless,
+contrib/snowball/src/test/org/apache/lucene/analysis/snowball,Michael McCandless,1224.0
+contrib/spatial,Michael McCandless,
+contrib/spatial/src/java/org/apache/lucene/spatial/geohash,Michael McCandless,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry,Michael McCandless,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape,Michael McCandless,358.0
+contrib/spatial/src/java/org/apache/lucene/spatial/tier,Michael McCandless,358.0
+contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections,Michael McCandless,
+contrib/spatial/src/test/org/apache/lucene/spatial/tier,Michael McCandless,2293.0
+contrib/spellchecker/src/java/org/apache/lucene/search/spell,Michael McCandless,1935.0
+contrib/spellchecker/src/test/org/apache/lucene/search/spell,Michael McCandless,1935.0
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/parser,Michael McCandless,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/query,Michael McCandless,
+contrib/surround/src/test/org/apache/lucene/queryParser/surround/query,Michael McCandless,
+contrib/swing/src/java/org/apache/lucene/swing/models,Michael McCandless,3159.0
+contrib/swing/src/test/org/apache/lucene/swing/models,Michael McCandless,
+contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis,Michael McCandless,
+contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis,Michael McCandless,
+contrib/wordnet/src/java/org/apache/lucene/wordnet,Michael McCandless,
+contrib/wordnet/src/test/org/apache/lucene/wordnet,Michael McCandless,
+contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo,Michael McCandless,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser,Michael McCandless,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders,Michael McCandless,1224.0
+contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser,Michael McCandless,1935.0
+docs,Michael McCandless,423.0
+docs/lucene-contrib,Michael McCandless,
+docs/skin,Michael McCandless,
+docs/skin/images,Michael McCandless,
+src/demo/org/apache/lucene/demo,Michael McCandless,1224.0
+src/demo/org/apache/lucene/demo/html,Michael McCandless,
+src/java/org/apache/lucene/analysis,Michael McCandless,1457.0
+src/java/org/apache/lucene/analysis/standard,Michael McCandless,1386.0
+src/java/org/apache/lucene/analysis/tokenattributes,Michael McCandless,
+src/java/org/apache/lucene/document,Michael McCandless,
+src/java/org/apache/lucene/index,Michael McCandless,2882.0
+src/java/org/apache/lucene/messages,Michael McCandless,
+src/java/org/apache/lucene/queryParser,Michael McCandless,1224.0
+src/java/org/apache/lucene/search,Michael McCandless,960.0
+src/java/org/apache/lucene/search/function,Michael McCandless,
+src/java/org/apache/lucene/search/payloads,Michael McCandless,356.0
+src/java/org/apache/lucene/search/spans,Michael McCandless,
+src/java/org/apache/lucene/store,Michael McCandless,343.0
+src/java/org/apache/lucene/util,Michael McCandless,188.0
+src/java/org/apache/lucene/util/cache,Michael McCandless,
+src/site/changes,Michael McCandless,
+src/site/src/documentation/content/xdocs,Michael McCandless,423.0
+src/test/org/apache/lucene,Michael McCandless,3498.0
+src/test/org/apache/lucene/analysis,Michael McCandless,1224.0
+src/test/org/apache/lucene/analysis/tokenattributes,Michael McCandless,
+src/test/org/apache/lucene/document,Michael McCandless,162.0
+src/test/org/apache/lucene/index,Michael McCandless,4042.0
+src/test/org/apache/lucene/messages,Michael McCandless,
+src/test/org/apache/lucene/queryParser,Michael McCandless,1224.0
+src/test/org/apache/lucene/search,Michael McCandless,2224.0
+src/test/org/apache/lucene/search/function,Michael McCandless,1224.0
+src/test/org/apache/lucene/search/payloads,Michael McCandless,2289.0
+src/test/org/apache/lucene/search/spans,Michael McCandless,3159.0
+src/test/org/apache/lucene/store,Michael McCandless,162.0
+src/test/org/apache/lucene/util,Michael McCandless,162.0
+src/test/org/apache/lucene/util/cache,Michael McCandless,
+,Robert Muir,127.0
+contrib,Robert Muir,2174.0
+contrib/analyzers/common,Robert Muir,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar,Robert Muir,1365.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/br,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn,Robert Muir,1116.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/de,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/el,Robert Muir,2677.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr,Robert Muir,1149.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl,Robert Muir,1228.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/position,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/query,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru,Robert Muir,2679.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks,Robert Muir,1097.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/th,Robert Muir,1097.0
+contrib/analyzers/common/src/resources/org/apache/lucene/analysis/ar,Robert Muir,244.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar,Robert Muir,24.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/br,Robert Muir,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk,Robert Muir,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/de,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/el,Robert Muir,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa,Robert Muir,9.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr,Robert Muir,25.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/position,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/query,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse,Robert Muir,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru,Robert Muir,2677.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks,Robert Muir,1097.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/th,Robert Muir,1117.0
+contrib/analyzers/smartcn,Robert Muir,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart,Robert Muir,1255.0
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm,Robert Muir,1349.0
+contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart,Robert Muir,22.0
+contrib/ant/src/java/org/apache/lucene/ant,Robert Muir,1097.0
+contrib/ant/src/test/org/apache/lucene/ant,Robert Muir,1097.0
+contrib/benchmark,Robert Muir,29.0
+contrib/benchmark/conf,Robert Muir,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask,Robert Muir,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds,Robert Muir,1508.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats,Robert Muir,1097.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks,Robert Muir,1495.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils,Robert Muir,1097.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality,Robert Muir,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec,Robert Muir,16.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils,Robert Muir,1097.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/stats,Robert Muir,1097.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/utils,Robert Muir,398.0
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask,Robert Muir,1097.0
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds,Robert Muir,1097.0
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks,Robert Muir,1097.0
+contrib/benchmark/src/test/org/apache/lucene/benchmark/quality,Robert Muir,
+contrib/collation/src/java/org/apache/lucene/collation,Robert Muir,1097.0
+contrib/collation/src/test/org/apache/lucene/collation,Robert Muir,1097.0
+contrib/db/bdb-je/src/java/org/apache/lucene/store/je,Robert Muir,1097.0
+contrib/db/bdb-je/src/test/org/apache/lucene/store/je,Robert Muir,1097.0
+contrib/db/bdb/src/java/org/apache/lucene/store/db,Robert Muir,1097.0
+contrib/db/bdb/src/test/org/apache/lucene/store/db,Robert Muir,1097.0
+contrib/fast-vector-highlighter,Robert Muir,
+contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight,Robert Muir,1097.0
+contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight,Robert Muir,1097.0
+contrib/highlighter,Robert Muir,
+contrib/highlighter/src/java/org/apache/lucene/search/highlight,Robert Muir,1495.0
+contrib/highlighter/src/test/org/apache/lucene/search/highlight,Robert Muir,1495.0
+contrib/instantiated,Robert Muir,
+contrib/instantiated/src/java/org/apache/lucene/store/instantiated,Robert Muir,1097.0
+contrib/instantiated/src/test/org/apache/lucene/store/instantiated,Robert Muir,1097.0
+contrib/lucli/src/java/lucli,Robert Muir,1097.0
+contrib/memory/src/java/org/apache/lucene/index/memory,Robert Muir,
+contrib/memory/src/test/org/apache/lucene/index/memory,Robert Muir,442.0
+contrib/misc/src/java/org/apache/lucene/index,Robert Muir,1097.0
+contrib/misc/src/java/org/apache/lucene/misc,Robert Muir,1495.0
+contrib/misc/src/java/org/apache/lucene/queryParser/analyzing,Robert Muir,1097.0
+contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase,Robert Muir,1097.0
+contrib/misc/src/java/org/apache/lucene/queryParser/precedence,Robert Muir,
+contrib/misc/src/test/org/apache/lucene/index,Robert Muir,1097.0
+contrib/misc/src/test/org/apache/lucene/misc,Robert Muir,1097.0
+contrib/misc/src/test/org/apache/lucene/queryParser/analyzing,Robert Muir,1097.0
+contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase,Robert Muir,1097.0
+contrib/misc/src/test/org/apache/lucene/queryParser/precedence,Robert Muir,1097.0
+contrib/queries/src/java/org/apache/lucene/search,Robert Muir,1495.0
+contrib/queries/src/java/org/apache/lucene/search/similar,Robert Muir,1097.0
+contrib/queries/src/test/org/apache/lucene/search,Robert Muir,1097.0
+contrib/queries/src/test/org/apache/lucene/search/similar,Robert Muir,1097.0
+contrib/queryparser,Robert Muir,
+contrib/queryparser/src/java,Robert Muir,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core,Robert Muir,1097.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders,Robert Muir,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config,Robert Muir,1097.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes,Robert Muir,1097.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors,Robert Muir,1097.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util,Robert Muir,1097.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard,Robert Muir,1097.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders,Robert Muir,1097.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config,Robert Muir,1097.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes,Robert Muir,1097.0
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser,Robert Muir,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors,Robert Muir,1097.0
+contrib/queryparser/src/test/org/apache/lucene/queryParser/spans,Robert Muir,1097.0
+contrib/queryparser/src/test/org/apache/lucene/queryParser/standard,Robert Muir,1097.0
+contrib/regex/src/java/org/apache/lucene/search/regex,Robert Muir,1097.0
+contrib/regex/src/test/org/apache/lucene/search/regex,Robert Muir,1097.0
+contrib/remote/src/java/org/apache/lucene/search,Robert Muir,1097.0
+contrib/remote/src/test/org/apache/lucene/search,Robert Muir,1097.0
+contrib/snowball,Robert Muir,
+contrib/snowball/src/java,Robert Muir,
+contrib/snowball/src/java/org/apache/lucene/analysis/snowball,Robert Muir,1097.0
+contrib/snowball/src/java/org/tartarus/snowball,Robert Muir,
+contrib/snowball/src/java/org/tartarus/snowball/ext,Robert Muir,
+contrib/snowball/src/test/org/apache/lucene/analysis/snowball,Robert Muir,1097.0
+contrib/spatial,Robert Muir,
+contrib/spatial/src/java/org/apache/lucene/spatial/geohash,Robert Muir,1097.0
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry,Robert Muir,1097.0
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape,Robert Muir,398.0
+contrib/spatial/src/java/org/apache/lucene/spatial/tier,Robert Muir,1097.0
+contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections,Robert Muir,
+contrib/spatial/src/test/org/apache/lucene/spatial/tier,Robert Muir,1097.0
+contrib/spellchecker/src/java/org/apache/lucene/search/spell,Robert Muir,1097.0
+contrib/spellchecker/src/test/org/apache/lucene/search/spell,Robert Muir,1097.0
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/parser,Robert Muir,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/query,Robert Muir,1097.0
+contrib/surround/src/test/org/apache/lucene/queryParser/surround/query,Robert Muir,1097.0
+contrib/swing/src/java/org/apache/lucene/swing/models,Robert Muir,1097.0
+contrib/swing/src/test/org/apache/lucene/swing/models,Robert Muir,1097.0
+contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis,Robert Muir,1228.0
+contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis,Robert Muir,
+contrib/wordnet/src/java/org/apache/lucene/wordnet,Robert Muir,1268.0
+contrib/wordnet/src/test/org/apache/lucene/wordnet,Robert Muir,1151.0
+contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo,Robert Muir,1097.0
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser,Robert Muir,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders,Robert Muir,1097.0
+contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser,Robert Muir,1097.0
+docs,Robert Muir,
+docs/lucene-contrib,Robert Muir,
+docs/skin,Robert Muir,
+docs/skin/images,Robert Muir,
+src/demo/org/apache/lucene/demo,Robert Muir,1097.0
+src/demo/org/apache/lucene/demo/html,Robert Muir,1097.0
+src/java/org/apache/lucene/analysis,Robert Muir,
+src/java/org/apache/lucene/analysis/standard,Robert Muir,
+src/java/org/apache/lucene/analysis/tokenattributes,Robert Muir,
+src/java/org/apache/lucene/document,Robert Muir,
+src/java/org/apache/lucene/index,Robert Muir,
+src/java/org/apache/lucene/messages,Robert Muir,
+src/java/org/apache/lucene/queryParser,Robert Muir,
+src/java/org/apache/lucene/search,Robert Muir,
+src/java/org/apache/lucene/search/function,Robert Muir,
+src/java/org/apache/lucene/search/payloads,Robert Muir,
+src/java/org/apache/lucene/search/spans,Robert Muir,
+src/java/org/apache/lucene/store,Robert Muir,
+src/java/org/apache/lucene/util,Robert Muir,
+src/java/org/apache/lucene/util/cache,Robert Muir,
+src/site/changes,Robert Muir,
+src/site/src/documentation/content/xdocs,Robert Muir,
+src/test/org/apache/lucene,Robert Muir,
+src/test/org/apache/lucene/analysis,Robert Muir,
+src/test/org/apache/lucene/analysis/tokenattributes,Robert Muir,
+src/test/org/apache/lucene/document,Robert Muir,
+src/test/org/apache/lucene/index,Robert Muir,
+src/test/org/apache/lucene/messages,Robert Muir,
+src/test/org/apache/lucene/queryParser,Robert Muir,
+src/test/org/apache/lucene/search,Robert Muir,
+src/test/org/apache/lucene/search/function,Robert Muir,
+src/test/org/apache/lucene/search/payloads,Robert Muir,
+src/test/org/apache/lucene/search/spans,Robert Muir,
+src/test/org/apache/lucene/store,Robert Muir,
+src/test/org/apache/lucene/util,Robert Muir,
+src/test/org/apache/lucene/util/cache,Robert Muir,
+,Simon Willnauer,95.0
+contrib,Simon Willnauer,7.0
+contrib/analyzers/common,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar,Simon Willnauer,180.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/br,Simon Willnauer,26.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz,Simon Willnauer,26.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/de,Simon Willnauer,26.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/el,Simon Willnauer,26.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa,Simon Willnauer,206.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr,Simon Willnauer,26.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram,Simon Willnauer,4.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/position,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/query,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru,Simon Willnauer,26.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle,Simon Willnauer,2.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks,Simon Willnauer,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/th,Simon Willnauer,
+contrib/analyzers/common/src/resources/org/apache/lucene/analysis/ar,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/br,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/de,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/el,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/position,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/query,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks,Simon Willnauer,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/th,Simon Willnauer,
+contrib/analyzers/smartcn,Simon Willnauer,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart,Simon Willnauer,82.0
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm,Simon Willnauer,
+contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart,Simon Willnauer,82.0
+contrib/ant/src/java/org/apache/lucene/ant,Simon Willnauer,
+contrib/ant/src/test/org/apache/lucene/ant,Simon Willnauer,
+contrib/benchmark,Simon Willnauer,
+contrib/benchmark/conf,Simon Willnauer,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask,Simon Willnauer,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds,Simon Willnauer,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats,Simon Willnauer,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks,Simon Willnauer,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils,Simon Willnauer,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality,Simon Willnauer,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec,Simon Willnauer,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils,Simon Willnauer,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/stats,Simon Willnauer,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/utils,Simon Willnauer,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask,Simon Willnauer,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds,Simon Willnauer,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks,Simon Willnauer,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/quality,Simon Willnauer,
+contrib/collation/src/java/org/apache/lucene/collation,Simon Willnauer,
+contrib/collation/src/test/org/apache/lucene/collation,Simon Willnauer,
+contrib/db/bdb-je/src/java/org/apache/lucene/store/je,Simon Willnauer,
+contrib/db/bdb-je/src/test/org/apache/lucene/store/je,Simon Willnauer,
+contrib/db/bdb/src/java/org/apache/lucene/store/db,Simon Willnauer,
+contrib/db/bdb/src/test/org/apache/lucene/store/db,Simon Willnauer,
+contrib/fast-vector-highlighter,Simon Willnauer,
+contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight,Simon Willnauer,
+contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight,Simon Willnauer,
+contrib/highlighter,Simon Willnauer,
+contrib/highlighter/src/java/org/apache/lucene/search/highlight,Simon Willnauer,117.0
+contrib/highlighter/src/test/org/apache/lucene/search/highlight,Simon Willnauer,25.0
+contrib/instantiated,Simon Willnauer,
+contrib/instantiated/src/java/org/apache/lucene/store/instantiated,Simon Willnauer,
+contrib/instantiated/src/test/org/apache/lucene/store/instantiated,Simon Willnauer,
+contrib/lucli/src/java/lucli,Simon Willnauer,
+contrib/memory/src/java/org/apache/lucene/index/memory,Simon Willnauer,
+contrib/memory/src/test/org/apache/lucene/index/memory,Simon Willnauer,
+contrib/misc/src/java/org/apache/lucene/index,Simon Willnauer,
+contrib/misc/src/java/org/apache/lucene/misc,Simon Willnauer,
+contrib/misc/src/java/org/apache/lucene/queryParser/analyzing,Simon Willnauer,
+contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase,Simon Willnauer,
+contrib/misc/src/java/org/apache/lucene/queryParser/precedence,Simon Willnauer,
+contrib/misc/src/test/org/apache/lucene/index,Simon Willnauer,
+contrib/misc/src/test/org/apache/lucene/misc,Simon Willnauer,
+contrib/misc/src/test/org/apache/lucene/queryParser/analyzing,Simon Willnauer,
+contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase,Simon Willnauer,
+contrib/misc/src/test/org/apache/lucene/queryParser/precedence,Simon Willnauer,
+contrib/queries/src/java/org/apache/lucene/search,Simon Willnauer,
+contrib/queries/src/java/org/apache/lucene/search/similar,Simon Willnauer,
+contrib/queries/src/test/org/apache/lucene/search,Simon Willnauer,
+contrib/queries/src/test/org/apache/lucene/search/similar,Simon Willnauer,
+contrib/queryparser,Simon Willnauer,
+contrib/queryparser/src/java,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser,Simon Willnauer,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors,Simon Willnauer,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/spans,Simon Willnauer,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/standard,Simon Willnauer,
+contrib/regex/src/java/org/apache/lucene/search/regex,Simon Willnauer,
+contrib/regex/src/test/org/apache/lucene/search/regex,Simon Willnauer,
+contrib/remote/src/java/org/apache/lucene/search,Simon Willnauer,
+contrib/remote/src/test/org/apache/lucene/search,Simon Willnauer,
+contrib/snowball,Simon Willnauer,
+contrib/snowball/src/java,Simon Willnauer,
+contrib/snowball/src/java/org/apache/lucene/analysis/snowball,Simon Willnauer,
+contrib/snowball/src/java/org/tartarus/snowball,Simon Willnauer,
+contrib/snowball/src/java/org/tartarus/snowball/ext,Simon Willnauer,
+contrib/snowball/src/test/org/apache/lucene/analysis/snowball,Simon Willnauer,
+contrib/spatial,Simon Willnauer,
+contrib/spatial/src/java/org/apache/lucene/spatial/geohash,Simon Willnauer,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry,Simon Willnauer,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape,Simon Willnauer,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier,Simon Willnauer,95.0
+contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections,Simon Willnauer,
+contrib/spatial/src/test/org/apache/lucene/spatial/tier,Simon Willnauer,
+contrib/spellchecker/src/java/org/apache/lucene/search/spell,Simon Willnauer,
+contrib/spellchecker/src/test/org/apache/lucene/search/spell,Simon Willnauer,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/parser,Simon Willnauer,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/query,Simon Willnauer,
+contrib/surround/src/test/org/apache/lucene/queryParser/surround/query,Simon Willnauer,
+contrib/swing/src/java/org/apache/lucene/swing/models,Simon Willnauer,
+contrib/swing/src/test/org/apache/lucene/swing/models,Simon Willnauer,
+contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis,Simon Willnauer,
+contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis,Simon Willnauer,
+contrib/wordnet/src/java/org/apache/lucene/wordnet,Simon Willnauer,20.0
+contrib/wordnet/src/test/org/apache/lucene/wordnet,Simon Willnauer,
+contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo,Simon Willnauer,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser,Simon Willnauer,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders,Simon Willnauer,
+contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser,Simon Willnauer,
+docs,Simon Willnauer,
+docs/lucene-contrib,Simon Willnauer,
+docs/skin,Simon Willnauer,
+docs/skin/images,Simon Willnauer,
+src/demo/org/apache/lucene/demo,Simon Willnauer,
+src/demo/org/apache/lucene/demo/html,Simon Willnauer,
+src/java/org/apache/lucene/analysis,Simon Willnauer,
+src/java/org/apache/lucene/analysis/standard,Simon Willnauer,
+src/java/org/apache/lucene/analysis/tokenattributes,Simon Willnauer,
+src/java/org/apache/lucene/document,Simon Willnauer,
+src/java/org/apache/lucene/index,Simon Willnauer,
+src/java/org/apache/lucene/messages,Simon Willnauer,
+src/java/org/apache/lucene/queryParser,Simon Willnauer,
+src/java/org/apache/lucene/search,Simon Willnauer,
+src/java/org/apache/lucene/search/function,Simon Willnauer,
+src/java/org/apache/lucene/search/payloads,Simon Willnauer,
+src/java/org/apache/lucene/search/spans,Simon Willnauer,
+src/java/org/apache/lucene/store,Simon Willnauer,
+src/java/org/apache/lucene/util,Simon Willnauer,
+src/java/org/apache/lucene/util/cache,Simon Willnauer,
+src/site/changes,Simon Willnauer,
+src/site/src/documentation/content/xdocs,Simon Willnauer,
+src/test/org/apache/lucene,Simon Willnauer,
+src/test/org/apache/lucene/analysis,Simon Willnauer,
+src/test/org/apache/lucene/analysis/tokenattributes,Simon Willnauer,
+src/test/org/apache/lucene/document,Simon Willnauer,
+src/test/org/apache/lucene/index,Simon Willnauer,
+src/test/org/apache/lucene/messages,Simon Willnauer,
+src/test/org/apache/lucene/queryParser,Simon Willnauer,
+src/test/org/apache/lucene/search,Simon Willnauer,
+src/test/org/apache/lucene/search/function,Simon Willnauer,
+src/test/org/apache/lucene/search/payloads,Simon Willnauer,
+src/test/org/apache/lucene/search/spans,Simon Willnauer,
+src/test/org/apache/lucene/store,Simon Willnauer,
+src/test/org/apache/lucene/util,Simon Willnauer,
+src/test/org/apache/lucene/util/cache,Simon Willnauer,
+,Mark Robert Miller,125.0
+contrib,Mark Robert Miller,5.0
+contrib/analyzers/common,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/br,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/de,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/el,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/position,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/query,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks,Mark Robert Miller,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/th,Mark Robert Miller,
+contrib/analyzers/common/src/resources/org/apache/lucene/analysis/ar,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/br,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/de,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/el,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/position,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/query,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks,Mark Robert Miller,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/th,Mark Robert Miller,
+contrib/analyzers/smartcn,Mark Robert Miller,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart,Mark Robert Miller,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm,Mark Robert Miller,
+contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart,Mark Robert Miller,
+contrib/ant/src/java/org/apache/lucene/ant,Mark Robert Miller,
+contrib/ant/src/test/org/apache/lucene/ant,Mark Robert Miller,
+contrib/benchmark,Mark Robert Miller,
+contrib/benchmark/conf,Mark Robert Miller,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask,Mark Robert Miller,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds,Mark Robert Miller,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats,Mark Robert Miller,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks,Mark Robert Miller,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils,Mark Robert Miller,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality,Mark Robert Miller,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec,Mark Robert Miller,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils,Mark Robert Miller,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/stats,Mark Robert Miller,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/utils,Mark Robert Miller,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask,Mark Robert Miller,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds,Mark Robert Miller,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks,Mark Robert Miller,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/quality,Mark Robert Miller,
+contrib/collation/src/java/org/apache/lucene/collation,Mark Robert Miller,
+contrib/collation/src/test/org/apache/lucene/collation,Mark Robert Miller,
+contrib/db/bdb-je/src/java/org/apache/lucene/store/je,Mark Robert Miller,
+contrib/db/bdb-je/src/test/org/apache/lucene/store/je,Mark Robert Miller,
+contrib/db/bdb/src/java/org/apache/lucene/store/db,Mark Robert Miller,
+contrib/db/bdb/src/test/org/apache/lucene/store/db,Mark Robert Miller,
+contrib/fast-vector-highlighter,Mark Robert Miller,
+contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight,Mark Robert Miller,
+contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight,Mark Robert Miller,
+contrib/highlighter,Mark Robert Miller,125.0
+contrib/highlighter/src/java/org/apache/lucene/search/highlight,Mark Robert Miller,198.0
+contrib/highlighter/src/test/org/apache/lucene/search/highlight,Mark Robert Miller,198.0
+contrib/instantiated,Mark Robert Miller,
+contrib/instantiated/src/java/org/apache/lucene/store/instantiated,Mark Robert Miller,
+contrib/instantiated/src/test/org/apache/lucene/store/instantiated,Mark Robert Miller,
+contrib/lucli/src/java/lucli,Mark Robert Miller,
+contrib/memory/src/java/org/apache/lucene/index/memory,Mark Robert Miller,
+contrib/memory/src/test/org/apache/lucene/index/memory,Mark Robert Miller,
+contrib/misc/src/java/org/apache/lucene/index,Mark Robert Miller,
+contrib/misc/src/java/org/apache/lucene/misc,Mark Robert Miller,
+contrib/misc/src/java/org/apache/lucene/queryParser/analyzing,Mark Robert Miller,
+contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase,Mark Robert Miller,
+contrib/misc/src/java/org/apache/lucene/queryParser/precedence,Mark Robert Miller,
+contrib/misc/src/test/org/apache/lucene/index,Mark Robert Miller,
+contrib/misc/src/test/org/apache/lucene/misc,Mark Robert Miller,
+contrib/misc/src/test/org/apache/lucene/queryParser/analyzing,Mark Robert Miller,
+contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase,Mark Robert Miller,
+contrib/misc/src/test/org/apache/lucene/queryParser/precedence,Mark Robert Miller,
+contrib/queries/src/java/org/apache/lucene/search,Mark Robert Miller,
+contrib/queries/src/java/org/apache/lucene/search/similar,Mark Robert Miller,
+contrib/queries/src/test/org/apache/lucene/search,Mark Robert Miller,
+contrib/queries/src/test/org/apache/lucene/search/similar,Mark Robert Miller,
+contrib/queryparser,Mark Robert Miller,
+contrib/queryparser/src/java,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser,Mark Robert Miller,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors,Mark Robert Miller,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/spans,Mark Robert Miller,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/standard,Mark Robert Miller,
+contrib/regex/src/java/org/apache/lucene/search/regex,Mark Robert Miller,
+contrib/regex/src/test/org/apache/lucene/search/regex,Mark Robert Miller,
+contrib/remote/src/java/org/apache/lucene/search,Mark Robert Miller,
+contrib/remote/src/test/org/apache/lucene/search,Mark Robert Miller,
+contrib/snowball,Mark Robert Miller,
+contrib/snowball/src/java,Mark Robert Miller,
+contrib/snowball/src/java/org/apache/lucene/analysis/snowball,Mark Robert Miller,
+contrib/snowball/src/java/org/tartarus/snowball,Mark Robert Miller,
+contrib/snowball/src/java/org/tartarus/snowball/ext,Mark Robert Miller,
+contrib/snowball/src/test/org/apache/lucene/analysis/snowball,Mark Robert Miller,
+contrib/spatial,Mark Robert Miller,
+contrib/spatial/src/java/org/apache/lucene/spatial/geohash,Mark Robert Miller,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry,Mark Robert Miller,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape,Mark Robert Miller,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier,Mark Robert Miller,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections,Mark Robert Miller,
+contrib/spatial/src/test/org/apache/lucene/spatial/tier,Mark Robert Miller,
+contrib/spellchecker/src/java/org/apache/lucene/search/spell,Mark Robert Miller,
+contrib/spellchecker/src/test/org/apache/lucene/search/spell,Mark Robert Miller,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/parser,Mark Robert Miller,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/query,Mark Robert Miller,
+contrib/surround/src/test/org/apache/lucene/queryParser/surround/query,Mark Robert Miller,
+contrib/swing/src/java/org/apache/lucene/swing/models,Mark Robert Miller,
+contrib/swing/src/test/org/apache/lucene/swing/models,Mark Robert Miller,
+contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis,Mark Robert Miller,
+contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis,Mark Robert Miller,
+contrib/wordnet/src/java/org/apache/lucene/wordnet,Mark Robert Miller,
+contrib/wordnet/src/test/org/apache/lucene/wordnet,Mark Robert Miller,
+contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo,Mark Robert Miller,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser,Mark Robert Miller,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders,Mark Robert Miller,
+contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser,Mark Robert Miller,
+docs,Mark Robert Miller,
+docs/lucene-contrib,Mark Robert Miller,
+docs/skin,Mark Robert Miller,
+docs/skin/images,Mark Robert Miller,
+src/demo/org/apache/lucene/demo,Mark Robert Miller,
+src/demo/org/apache/lucene/demo/html,Mark Robert Miller,
+src/java/org/apache/lucene/analysis,Mark Robert Miller,
+src/java/org/apache/lucene/analysis/standard,Mark Robert Miller,
+src/java/org/apache/lucene/analysis/tokenattributes,Mark Robert Miller,
+src/java/org/apache/lucene/document,Mark Robert Miller,
+src/java/org/apache/lucene/index,Mark Robert Miller,13.0
+src/java/org/apache/lucene/messages,Mark Robert Miller,
+src/java/org/apache/lucene/queryParser,Mark Robert Miller,
+src/java/org/apache/lucene/search,Mark Robert Miller,13.0
+src/java/org/apache/lucene/search/function,Mark Robert Miller,
+src/java/org/apache/lucene/search/payloads,Mark Robert Miller,
+src/java/org/apache/lucene/search/spans,Mark Robert Miller,
+src/java/org/apache/lucene/store,Mark Robert Miller,
+src/java/org/apache/lucene/util,Mark Robert Miller,
+src/java/org/apache/lucene/util/cache,Mark Robert Miller,
+src/site/changes,Mark Robert Miller,
+src/site/src/documentation/content/xdocs,Mark Robert Miller,
+src/test/org/apache/lucene,Mark Robert Miller,
+src/test/org/apache/lucene/analysis,Mark Robert Miller,
+src/test/org/apache/lucene/analysis/tokenattributes,Mark Robert Miller,
+src/test/org/apache/lucene/document,Mark Robert Miller,
+src/test/org/apache/lucene/index,Mark Robert Miller,
+src/test/org/apache/lucene/messages,Mark Robert Miller,
+src/test/org/apache/lucene/queryParser,Mark Robert Miller,
+src/test/org/apache/lucene/search,Mark Robert Miller,
+src/test/org/apache/lucene/search/function,Mark Robert Miller,
+src/test/org/apache/lucene/search/payloads,Mark Robert Miller,
+src/test/org/apache/lucene/search/spans,Mark Robert Miller,
+src/test/org/apache/lucene/store,Mark Robert Miller,
+src/test/org/apache/lucene/util,Mark Robert Miller,
+src/test/org/apache/lucene/util/cache,Mark Robert Miller,
+,Grant Ingersoll,8.0
+contrib,Grant Ingersoll,
+contrib/analyzers/common,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/br,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/de,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/el,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/position,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/query,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks,Grant Ingersoll,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/th,Grant Ingersoll,
+contrib/analyzers/common/src/resources/org/apache/lucene/analysis/ar,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/br,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/de,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/el,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/position,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/query,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks,Grant Ingersoll,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/th,Grant Ingersoll,
+contrib/analyzers/smartcn,Grant Ingersoll,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart,Grant Ingersoll,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm,Grant Ingersoll,
+contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart,Grant Ingersoll,
+contrib/ant/src/java/org/apache/lucene/ant,Grant Ingersoll,
+contrib/ant/src/test/org/apache/lucene/ant,Grant Ingersoll,
+contrib/benchmark,Grant Ingersoll,
+contrib/benchmark/conf,Grant Ingersoll,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask,Grant Ingersoll,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds,Grant Ingersoll,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats,Grant Ingersoll,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks,Grant Ingersoll,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils,Grant Ingersoll,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality,Grant Ingersoll,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec,Grant Ingersoll,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils,Grant Ingersoll,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/stats,Grant Ingersoll,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/utils,Grant Ingersoll,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask,Grant Ingersoll,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds,Grant Ingersoll,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks,Grant Ingersoll,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/quality,Grant Ingersoll,
+contrib/collation/src/java/org/apache/lucene/collation,Grant Ingersoll,
+contrib/collation/src/test/org/apache/lucene/collation,Grant Ingersoll,
+contrib/db/bdb-je/src/java/org/apache/lucene/store/je,Grant Ingersoll,
+contrib/db/bdb-je/src/test/org/apache/lucene/store/je,Grant Ingersoll,
+contrib/db/bdb/src/java/org/apache/lucene/store/db,Grant Ingersoll,
+contrib/db/bdb/src/test/org/apache/lucene/store/db,Grant Ingersoll,
+contrib/fast-vector-highlighter,Grant Ingersoll,
+contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight,Grant Ingersoll,
+contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight,Grant Ingersoll,
+contrib/highlighter,Grant Ingersoll,
+contrib/highlighter/src/java/org/apache/lucene/search/highlight,Grant Ingersoll,
+contrib/highlighter/src/test/org/apache/lucene/search/highlight,Grant Ingersoll,
+contrib/instantiated,Grant Ingersoll,
+contrib/instantiated/src/java/org/apache/lucene/store/instantiated,Grant Ingersoll,
+contrib/instantiated/src/test/org/apache/lucene/store/instantiated,Grant Ingersoll,
+contrib/lucli/src/java/lucli,Grant Ingersoll,
+contrib/memory/src/java/org/apache/lucene/index/memory,Grant Ingersoll,
+contrib/memory/src/test/org/apache/lucene/index/memory,Grant Ingersoll,
+contrib/misc/src/java/org/apache/lucene/index,Grant Ingersoll,
+contrib/misc/src/java/org/apache/lucene/misc,Grant Ingersoll,
+contrib/misc/src/java/org/apache/lucene/queryParser/analyzing,Grant Ingersoll,
+contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase,Grant Ingersoll,
+contrib/misc/src/java/org/apache/lucene/queryParser/precedence,Grant Ingersoll,
+contrib/misc/src/test/org/apache/lucene/index,Grant Ingersoll,
+contrib/misc/src/test/org/apache/lucene/misc,Grant Ingersoll,
+contrib/misc/src/test/org/apache/lucene/queryParser/analyzing,Grant Ingersoll,
+contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase,Grant Ingersoll,
+contrib/misc/src/test/org/apache/lucene/queryParser/precedence,Grant Ingersoll,
+contrib/queries/src/java/org/apache/lucene/search,Grant Ingersoll,
+contrib/queries/src/java/org/apache/lucene/search/similar,Grant Ingersoll,
+contrib/queries/src/test/org/apache/lucene/search,Grant Ingersoll,
+contrib/queries/src/test/org/apache/lucene/search/similar,Grant Ingersoll,
+contrib/queryparser,Grant Ingersoll,
+contrib/queryparser/src/java,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser,Grant Ingersoll,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors,Grant Ingersoll,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/spans,Grant Ingersoll,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/standard,Grant Ingersoll,
+contrib/regex/src/java/org/apache/lucene/search/regex,Grant Ingersoll,
+contrib/regex/src/test/org/apache/lucene/search/regex,Grant Ingersoll,
+contrib/remote/src/java/org/apache/lucene/search,Grant Ingersoll,
+contrib/remote/src/test/org/apache/lucene/search,Grant Ingersoll,
+contrib/snowball,Grant Ingersoll,
+contrib/snowball/src/java,Grant Ingersoll,
+contrib/snowball/src/java/org/apache/lucene/analysis/snowball,Grant Ingersoll,
+contrib/snowball/src/java/org/tartarus/snowball,Grant Ingersoll,
+contrib/snowball/src/java/org/tartarus/snowball/ext,Grant Ingersoll,
+contrib/snowball/src/test/org/apache/lucene/analysis/snowball,Grant Ingersoll,
+contrib/spatial,Grant Ingersoll,
+contrib/spatial/src/java/org/apache/lucene/spatial/geohash,Grant Ingersoll,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry,Grant Ingersoll,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape,Grant Ingersoll,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier,Grant Ingersoll,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections,Grant Ingersoll,
+contrib/spatial/src/test/org/apache/lucene/spatial/tier,Grant Ingersoll,
+contrib/spellchecker/src/java/org/apache/lucene/search/spell,Grant Ingersoll,
+contrib/spellchecker/src/test/org/apache/lucene/search/spell,Grant Ingersoll,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/parser,Grant Ingersoll,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/query,Grant Ingersoll,
+contrib/surround/src/test/org/apache/lucene/queryParser/surround/query,Grant Ingersoll,
+contrib/swing/src/java/org/apache/lucene/swing/models,Grant Ingersoll,
+contrib/swing/src/test/org/apache/lucene/swing/models,Grant Ingersoll,
+contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis,Grant Ingersoll,
+contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis,Grant Ingersoll,
+contrib/wordnet/src/java/org/apache/lucene/wordnet,Grant Ingersoll,
+contrib/wordnet/src/test/org/apache/lucene/wordnet,Grant Ingersoll,
+contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo,Grant Ingersoll,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser,Grant Ingersoll,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders,Grant Ingersoll,
+contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser,Grant Ingersoll,
+docs,Grant Ingersoll,
+docs/lucene-contrib,Grant Ingersoll,
+docs/skin,Grant Ingersoll,
+docs/skin/images,Grant Ingersoll,
+src/demo/org/apache/lucene/demo,Grant Ingersoll,
+src/demo/org/apache/lucene/demo/html,Grant Ingersoll,
+src/java/org/apache/lucene/analysis,Grant Ingersoll,
+src/java/org/apache/lucene/analysis/standard,Grant Ingersoll,
+src/java/org/apache/lucene/analysis/tokenattributes,Grant Ingersoll,
+src/java/org/apache/lucene/document,Grant Ingersoll,
+src/java/org/apache/lucene/index,Grant Ingersoll,
+src/java/org/apache/lucene/messages,Grant Ingersoll,
+src/java/org/apache/lucene/queryParser,Grant Ingersoll,
+src/java/org/apache/lucene/search,Grant Ingersoll,
+src/java/org/apache/lucene/search/function,Grant Ingersoll,
+src/java/org/apache/lucene/search/payloads,Grant Ingersoll,
+src/java/org/apache/lucene/search/spans,Grant Ingersoll,
+src/java/org/apache/lucene/store,Grant Ingersoll,
+src/java/org/apache/lucene/util,Grant Ingersoll,
+src/java/org/apache/lucene/util/cache,Grant Ingersoll,
+src/site/changes,Grant Ingersoll,
+src/site/src/documentation/content/xdocs,Grant Ingersoll,
+src/test/org/apache/lucene,Grant Ingersoll,
+src/test/org/apache/lucene/analysis,Grant Ingersoll,
+src/test/org/apache/lucene/analysis/tokenattributes,Grant Ingersoll,
+src/test/org/apache/lucene/document,Grant Ingersoll,
+src/test/org/apache/lucene/index,Grant Ingersoll,
+src/test/org/apache/lucene/messages,Grant Ingersoll,
+src/test/org/apache/lucene/queryParser,Grant Ingersoll,
+src/test/org/apache/lucene/search,Grant Ingersoll,
+src/test/org/apache/lucene/search/function,Grant Ingersoll,
+src/test/org/apache/lucene/search/payloads,Grant Ingersoll,
+src/test/org/apache/lucene/search/spans,Grant Ingersoll,
+src/test/org/apache/lucene/store,Grant Ingersoll,
+src/test/org/apache/lucene/util,Grant Ingersoll,
+src/test/org/apache/lucene/util/cache,Grant Ingersoll,
+,Michael Busch,4348.0
+contrib,Michael Busch,
+contrib/analyzers/common,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/br,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/de,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/el,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/position,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/query,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks,Michael Busch,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/th,Michael Busch,
+contrib/analyzers/common/src/resources/org/apache/lucene/analysis/ar,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/br,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/de,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/el,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/position,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/query,Michael Busch,1098.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle,Michael Busch,1098.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks,Michael Busch,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/th,Michael Busch,
+contrib/analyzers/smartcn,Michael Busch,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart,Michael Busch,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm,Michael Busch,
+contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart,Michael Busch,
+contrib/ant/src/java/org/apache/lucene/ant,Michael Busch,1098.0
+contrib/ant/src/test/org/apache/lucene/ant,Michael Busch,1098.0
+contrib/benchmark,Michael Busch,
+contrib/benchmark/conf,Michael Busch,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask,Michael Busch,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds,Michael Busch,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats,Michael Busch,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks,Michael Busch,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils,Michael Busch,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality,Michael Busch,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec,Michael Busch,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils,Michael Busch,220.0
+contrib/benchmark/src/java/org/apache/lucene/benchmark/stats,Michael Busch,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/utils,Michael Busch,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask,Michael Busch,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds,Michael Busch,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks,Michael Busch,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/quality,Michael Busch,
+contrib/collation/src/java/org/apache/lucene/collation,Michael Busch,
+contrib/collation/src/test/org/apache/lucene/collation,Michael Busch,
+contrib/db/bdb-je/src/java/org/apache/lucene/store/je,Michael Busch,
+contrib/db/bdb-je/src/test/org/apache/lucene/store/je,Michael Busch,
+contrib/db/bdb/src/java/org/apache/lucene/store/db,Michael Busch,
+contrib/db/bdb/src/test/org/apache/lucene/store/db,Michael Busch,
+contrib/fast-vector-highlighter,Michael Busch,
+contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight,Michael Busch,
+contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight,Michael Busch,
+contrib/highlighter,Michael Busch,
+contrib/highlighter/src/java/org/apache/lucene/search/highlight,Michael Busch,
+contrib/highlighter/src/test/org/apache/lucene/search/highlight,Michael Busch,1098.0
+contrib/instantiated,Michael Busch,
+contrib/instantiated/src/java/org/apache/lucene/store/instantiated,Michael Busch,1338.0
+contrib/instantiated/src/test/org/apache/lucene/store/instantiated,Michael Busch,879.0
+contrib/lucli/src/java/lucli,Michael Busch,1098.0
+contrib/memory/src/java/org/apache/lucene/index/memory,Michael Busch,274.0
+contrib/memory/src/test/org/apache/lucene/index/memory,Michael Busch,
+contrib/misc/src/java/org/apache/lucene/index,Michael Busch,605.0
+contrib/misc/src/java/org/apache/lucene/misc,Michael Busch,825.0
+contrib/misc/src/java/org/apache/lucene/queryParser/analyzing,Michael Busch,
+contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase,Michael Busch,
+contrib/misc/src/java/org/apache/lucene/queryParser/precedence,Michael Busch,
+contrib/misc/src/test/org/apache/lucene/index,Michael Busch,274.0
+contrib/misc/src/test/org/apache/lucene/misc,Michael Busch,1938.0
+contrib/misc/src/test/org/apache/lucene/queryParser/analyzing,Michael Busch,
+contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase,Michael Busch,
+contrib/misc/src/test/org/apache/lucene/queryParser/precedence,Michael Busch,
+contrib/queries/src/java/org/apache/lucene/search,Michael Busch,786.0
+contrib/queries/src/java/org/apache/lucene/search/similar,Michael Busch,1318.0
+contrib/queries/src/test/org/apache/lucene/search,Michael Busch,1664.0
+contrib/queries/src/test/org/apache/lucene/search/similar,Michael Busch,
+contrib/queryparser,Michael Busch,
+contrib/queryparser/src/java,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser,Michael Busch,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors,Michael Busch,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/spans,Michael Busch,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/standard,Michael Busch,191.0
+contrib/regex/src/java/org/apache/lucene/search/regex,Michael Busch,
+contrib/regex/src/test/org/apache/lucene/search/regex,Michael Busch,1098.0
+contrib/remote/src/java/org/apache/lucene/search,Michael Busch,566.0
+contrib/remote/src/test/org/apache/lucene/search,Michael Busch,
+contrib/snowball,Michael Busch,
+contrib/snowball/src/java,Michael Busch,
+contrib/snowball/src/java/org/apache/lucene/analysis/snowball,Michael Busch,
+contrib/snowball/src/java/org/tartarus/snowball,Michael Busch,
+contrib/snowball/src/java/org/tartarus/snowball/ext,Michael Busch,
+contrib/snowball/src/test/org/apache/lucene/analysis/snowball,Michael Busch,
+contrib/spatial,Michael Busch,
+contrib/spatial/src/java/org/apache/lucene/spatial/geohash,Michael Busch,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry,Michael Busch,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape,Michael Busch,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier,Michael Busch,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections,Michael Busch,
+contrib/spatial/src/test/org/apache/lucene/spatial/tier,Michael Busch,1563.0
+contrib/spellchecker/src/java/org/apache/lucene/search/spell,Michael Busch,1318.0
+contrib/spellchecker/src/test/org/apache/lucene/search/spell,Michael Busch,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/parser,Michael Busch,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/query,Michael Busch,
+contrib/surround/src/test/org/apache/lucene/queryParser/surround/query,Michael Busch,
+contrib/swing/src/java/org/apache/lucene/swing/models,Michael Busch,1098.0
+contrib/swing/src/test/org/apache/lucene/swing/models,Michael Busch,
+contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis,Michael Busch,
+contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis,Michael Busch,
+contrib/wordnet/src/java/org/apache/lucene/wordnet,Michael Busch,1098.0
+contrib/wordnet/src/test/org/apache/lucene/wordnet,Michael Busch,
+contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo,Michael Busch,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser,Michael Busch,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders,Michael Busch,
+contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser,Michael Busch,1098.0
+docs,Michael Busch,
+docs/lucene-contrib,Michael Busch,
+docs/skin,Michael Busch,
+docs/skin/images,Michael Busch,
+src/demo/org/apache/lucene/demo,Michael Busch,
+src/demo/org/apache/lucene/demo/html,Michael Busch,
+src/java/org/apache/lucene/analysis,Michael Busch,
+src/java/org/apache/lucene/analysis/standard,Michael Busch,
+src/java/org/apache/lucene/analysis/tokenattributes,Michael Busch,
+src/java/org/apache/lucene/document,Michael Busch,1147.0
+src/java/org/apache/lucene/index,Michael Busch,1800.0
+src/java/org/apache/lucene/messages,Michael Busch,
+src/java/org/apache/lucene/queryParser,Michael Busch,
+src/java/org/apache/lucene/search,Michael Busch,3259.0
+src/java/org/apache/lucene/search/function,Michael Busch,647.0
+src/java/org/apache/lucene/search/payloads,Michael Busch,
+src/java/org/apache/lucene/search/spans,Michael Busch,867.0
+src/java/org/apache/lucene/store,Michael Busch,
+src/java/org/apache/lucene/util,Michael Busch,265.0
+src/java/org/apache/lucene/util/cache,Michael Busch,
+src/site/changes,Michael Busch,
+src/site/src/documentation/content/xdocs,Michael Busch,
+src/test/org/apache/lucene,Michael Busch,
+src/test/org/apache/lucene/analysis,Michael Busch,
+src/test/org/apache/lucene/analysis/tokenattributes,Michael Busch,
+src/test/org/apache/lucene/document,Michael Busch,459.0
+src/test/org/apache/lucene/index,Michael Busch,1568.0
+src/test/org/apache/lucene/messages,Michael Busch,
+src/test/org/apache/lucene/queryParser,Michael Busch,191.0
+src/test/org/apache/lucene/search,Michael Busch,3186.0
+src/test/org/apache/lucene/search/function,Michael Busch,
+src/test/org/apache/lucene/search/payloads,Michael Busch,
+src/test/org/apache/lucene/search/spans,Michael Busch,343.0
+src/test/org/apache/lucene/store,Michael Busch,605.0
+src/test/org/apache/lucene/util,Michael Busch,220.0
+src/test/org/apache/lucene/util/cache,Michael Busch,
+,Andrzej Bialecki,374.0
+contrib,Andrzej Bialecki,374.0
+contrib/analyzers/common,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/br,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/de,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/el,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/position,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/query,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks,Andrzej Bialecki,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/th,Andrzej Bialecki,
+contrib/analyzers/common/src/resources/org/apache/lucene/analysis/ar,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/br,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/de,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/el,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/position,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/query,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks,Andrzej Bialecki,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/th,Andrzej Bialecki,
+contrib/analyzers/smartcn,Andrzej Bialecki,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart,Andrzej Bialecki,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm,Andrzej Bialecki,
+contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart,Andrzej Bialecki,
+contrib/ant/src/java/org/apache/lucene/ant,Andrzej Bialecki,
+contrib/ant/src/test/org/apache/lucene/ant,Andrzej Bialecki,
+contrib/benchmark,Andrzej Bialecki,
+contrib/benchmark/conf,Andrzej Bialecki,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask,Andrzej Bialecki,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds,Andrzej Bialecki,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats,Andrzej Bialecki,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks,Andrzej Bialecki,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils,Andrzej Bialecki,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality,Andrzej Bialecki,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec,Andrzej Bialecki,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils,Andrzej Bialecki,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/stats,Andrzej Bialecki,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/utils,Andrzej Bialecki,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask,Andrzej Bialecki,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds,Andrzej Bialecki,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks,Andrzej Bialecki,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/quality,Andrzej Bialecki,
+contrib/collation/src/java/org/apache/lucene/collation,Andrzej Bialecki,
+contrib/collation/src/test/org/apache/lucene/collation,Andrzej Bialecki,
+contrib/db/bdb-je/src/java/org/apache/lucene/store/je,Andrzej Bialecki,
+contrib/db/bdb-je/src/test/org/apache/lucene/store/je,Andrzej Bialecki,
+contrib/db/bdb/src/java/org/apache/lucene/store/db,Andrzej Bialecki,
+contrib/db/bdb/src/test/org/apache/lucene/store/db,Andrzej Bialecki,
+contrib/fast-vector-highlighter,Andrzej Bialecki,
+contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight,Andrzej Bialecki,
+contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight,Andrzej Bialecki,
+contrib/highlighter,Andrzej Bialecki,
+contrib/highlighter/src/java/org/apache/lucene/search/highlight,Andrzej Bialecki,
+contrib/highlighter/src/test/org/apache/lucene/search/highlight,Andrzej Bialecki,
+contrib/instantiated,Andrzej Bialecki,
+contrib/instantiated/src/java/org/apache/lucene/store/instantiated,Andrzej Bialecki,
+contrib/instantiated/src/test/org/apache/lucene/store/instantiated,Andrzej Bialecki,
+contrib/lucli/src/java/lucli,Andrzej Bialecki,
+contrib/memory/src/java/org/apache/lucene/index/memory,Andrzej Bialecki,
+contrib/memory/src/test/org/apache/lucene/index/memory,Andrzej Bialecki,
+contrib/misc/src/java/org/apache/lucene/index,Andrzej Bialecki,
+contrib/misc/src/java/org/apache/lucene/misc,Andrzej Bialecki,
+contrib/misc/src/java/org/apache/lucene/queryParser/analyzing,Andrzej Bialecki,
+contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase,Andrzej Bialecki,
+contrib/misc/src/java/org/apache/lucene/queryParser/precedence,Andrzej Bialecki,
+contrib/misc/src/test/org/apache/lucene/index,Andrzej Bialecki,
+contrib/misc/src/test/org/apache/lucene/misc,Andrzej Bialecki,
+contrib/misc/src/test/org/apache/lucene/queryParser/analyzing,Andrzej Bialecki,
+contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase,Andrzej Bialecki,
+contrib/misc/src/test/org/apache/lucene/queryParser/precedence,Andrzej Bialecki,
+contrib/queries/src/java/org/apache/lucene/search,Andrzej Bialecki,
+contrib/queries/src/java/org/apache/lucene/search/similar,Andrzej Bialecki,
+contrib/queries/src/test/org/apache/lucene/search,Andrzej Bialecki,
+contrib/queries/src/test/org/apache/lucene/search/similar,Andrzej Bialecki,
+contrib/queryparser,Andrzej Bialecki,
+contrib/queryparser/src/java,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser,Andrzej Bialecki,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors,Andrzej Bialecki,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/spans,Andrzej Bialecki,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/standard,Andrzej Bialecki,
+contrib/regex/src/java/org/apache/lucene/search/regex,Andrzej Bialecki,
+contrib/regex/src/test/org/apache/lucene/search/regex,Andrzej Bialecki,
+contrib/remote/src/java/org/apache/lucene/search,Andrzej Bialecki,
+contrib/remote/src/test/org/apache/lucene/search,Andrzej Bialecki,
+contrib/snowball,Andrzej Bialecki,
+contrib/snowball/src/java,Andrzej Bialecki,
+contrib/snowball/src/java/org/apache/lucene/analysis/snowball,Andrzej Bialecki,
+contrib/snowball/src/java/org/tartarus/snowball,Andrzej Bialecki,
+contrib/snowball/src/java/org/tartarus/snowball/ext,Andrzej Bialecki,
+contrib/snowball/src/test/org/apache/lucene/analysis/snowball,Andrzej Bialecki,
+contrib/spatial,Andrzej Bialecki,
+contrib/spatial/src/java/org/apache/lucene/spatial/geohash,Andrzej Bialecki,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry,Andrzej Bialecki,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape,Andrzej Bialecki,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier,Andrzej Bialecki,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections,Andrzej Bialecki,
+contrib/spatial/src/test/org/apache/lucene/spatial/tier,Andrzej Bialecki,
+contrib/spellchecker/src/java/org/apache/lucene/search/spell,Andrzej Bialecki,
+contrib/spellchecker/src/test/org/apache/lucene/search/spell,Andrzej Bialecki,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/parser,Andrzej Bialecki,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/query,Andrzej Bialecki,
+contrib/surround/src/test/org/apache/lucene/queryParser/surround/query,Andrzej Bialecki,
+contrib/swing/src/java/org/apache/lucene/swing/models,Andrzej Bialecki,
+contrib/swing/src/test/org/apache/lucene/swing/models,Andrzej Bialecki,
+contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis,Andrzej Bialecki,
+contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis,Andrzej Bialecki,
+contrib/wordnet/src/java/org/apache/lucene/wordnet,Andrzej Bialecki,
+contrib/wordnet/src/test/org/apache/lucene/wordnet,Andrzej Bialecki,
+contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo,Andrzej Bialecki,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser,Andrzej Bialecki,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders,Andrzej Bialecki,
+contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser,Andrzej Bialecki,
+docs,Andrzej Bialecki,
+docs/lucene-contrib,Andrzej Bialecki,
+docs/skin,Andrzej Bialecki,
+docs/skin/images,Andrzej Bialecki,
+src/demo/org/apache/lucene/demo,Andrzej Bialecki,
+src/demo/org/apache/lucene/demo/html,Andrzej Bialecki,
+src/java/org/apache/lucene/analysis,Andrzej Bialecki,
+src/java/org/apache/lucene/analysis/standard,Andrzej Bialecki,
+src/java/org/apache/lucene/analysis/tokenattributes,Andrzej Bialecki,
+src/java/org/apache/lucene/document,Andrzej Bialecki,
+src/java/org/apache/lucene/index,Andrzej Bialecki,
+src/java/org/apache/lucene/messages,Andrzej Bialecki,
+src/java/org/apache/lucene/queryParser,Andrzej Bialecki,
+src/java/org/apache/lucene/search,Andrzej Bialecki,
+src/java/org/apache/lucene/search/function,Andrzej Bialecki,
+src/java/org/apache/lucene/search/payloads,Andrzej Bialecki,
+src/java/org/apache/lucene/search/spans,Andrzej Bialecki,
+src/java/org/apache/lucene/store,Andrzej Bialecki,
+src/java/org/apache/lucene/util,Andrzej Bialecki,
+src/java/org/apache/lucene/util/cache,Andrzej Bialecki,
+src/site/changes,Andrzej Bialecki,
+src/site/src/documentation/content/xdocs,Andrzej Bialecki,
+src/test/org/apache/lucene,Andrzej Bialecki,
+src/test/org/apache/lucene/analysis,Andrzej Bialecki,
+src/test/org/apache/lucene/analysis/tokenattributes,Andrzej Bialecki,
+src/test/org/apache/lucene/document,Andrzej Bialecki,
+src/test/org/apache/lucene/index,Andrzej Bialecki,
+src/test/org/apache/lucene/messages,Andrzej Bialecki,
+src/test/org/apache/lucene/queryParser,Andrzej Bialecki,
+src/test/org/apache/lucene/search,Andrzej Bialecki,
+src/test/org/apache/lucene/search/function,Andrzej Bialecki,
+src/test/org/apache/lucene/search/payloads,Andrzej Bialecki,
+src/test/org/apache/lucene/search/spans,Andrzej Bialecki,
+src/test/org/apache/lucene/store,Andrzej Bialecki,
+src/test/org/apache/lucene/util,Andrzej Bialecki,
+src/test/org/apache/lucene/util/cache,Andrzej Bialecki,
+,Koji Sekiguchi,
+contrib,Koji Sekiguchi,20.0
+contrib/analyzers/common,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/br,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/de,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/el,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/position,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/query,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks,Koji Sekiguchi,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/th,Koji Sekiguchi,
+contrib/analyzers/common/src/resources/org/apache/lucene/analysis/ar,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/br,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/de,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/el,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/position,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/query,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks,Koji Sekiguchi,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/th,Koji Sekiguchi,
+contrib/analyzers/smartcn,Koji Sekiguchi,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart,Koji Sekiguchi,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm,Koji Sekiguchi,
+contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart,Koji Sekiguchi,
+contrib/ant/src/java/org/apache/lucene/ant,Koji Sekiguchi,
+contrib/ant/src/test/org/apache/lucene/ant,Koji Sekiguchi,
+contrib/benchmark,Koji Sekiguchi,
+contrib/benchmark/conf,Koji Sekiguchi,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask,Koji Sekiguchi,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds,Koji Sekiguchi,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats,Koji Sekiguchi,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks,Koji Sekiguchi,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils,Koji Sekiguchi,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality,Koji Sekiguchi,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec,Koji Sekiguchi,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils,Koji Sekiguchi,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/stats,Koji Sekiguchi,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/utils,Koji Sekiguchi,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask,Koji Sekiguchi,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds,Koji Sekiguchi,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks,Koji Sekiguchi,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/quality,Koji Sekiguchi,
+contrib/collation/src/java/org/apache/lucene/collation,Koji Sekiguchi,
+contrib/collation/src/test/org/apache/lucene/collation,Koji Sekiguchi,
+contrib/db/bdb-je/src/java/org/apache/lucene/store/je,Koji Sekiguchi,
+contrib/db/bdb-je/src/test/org/apache/lucene/store/je,Koji Sekiguchi,
+contrib/db/bdb/src/java/org/apache/lucene/store/db,Koji Sekiguchi,
+contrib/db/bdb/src/test/org/apache/lucene/store/db,Koji Sekiguchi,
+contrib/fast-vector-highlighter,Koji Sekiguchi,
+contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight,Koji Sekiguchi,20.0
+contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight,Koji Sekiguchi,20.0
+contrib/highlighter,Koji Sekiguchi,
+contrib/highlighter/src/java/org/apache/lucene/search/highlight,Koji Sekiguchi,
+contrib/highlighter/src/test/org/apache/lucene/search/highlight,Koji Sekiguchi,
+contrib/instantiated,Koji Sekiguchi,
+contrib/instantiated/src/java/org/apache/lucene/store/instantiated,Koji Sekiguchi,
+contrib/instantiated/src/test/org/apache/lucene/store/instantiated,Koji Sekiguchi,
+contrib/lucli/src/java/lucli,Koji Sekiguchi,
+contrib/memory/src/java/org/apache/lucene/index/memory,Koji Sekiguchi,
+contrib/memory/src/test/org/apache/lucene/index/memory,Koji Sekiguchi,
+contrib/misc/src/java/org/apache/lucene/index,Koji Sekiguchi,
+contrib/misc/src/java/org/apache/lucene/misc,Koji Sekiguchi,
+contrib/misc/src/java/org/apache/lucene/queryParser/analyzing,Koji Sekiguchi,
+contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase,Koji Sekiguchi,
+contrib/misc/src/java/org/apache/lucene/queryParser/precedence,Koji Sekiguchi,
+contrib/misc/src/test/org/apache/lucene/index,Koji Sekiguchi,
+contrib/misc/src/test/org/apache/lucene/misc,Koji Sekiguchi,
+contrib/misc/src/test/org/apache/lucene/queryParser/analyzing,Koji Sekiguchi,
+contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase,Koji Sekiguchi,
+contrib/misc/src/test/org/apache/lucene/queryParser/precedence,Koji Sekiguchi,
+contrib/queries/src/java/org/apache/lucene/search,Koji Sekiguchi,
+contrib/queries/src/java/org/apache/lucene/search/similar,Koji Sekiguchi,
+contrib/queries/src/test/org/apache/lucene/search,Koji Sekiguchi,
+contrib/queries/src/test/org/apache/lucene/search/similar,Koji Sekiguchi,
+contrib/queryparser,Koji Sekiguchi,
+contrib/queryparser/src/java,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser,Koji Sekiguchi,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors,Koji Sekiguchi,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/spans,Koji Sekiguchi,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/standard,Koji Sekiguchi,
+contrib/regex/src/java/org/apache/lucene/search/regex,Koji Sekiguchi,
+contrib/regex/src/test/org/apache/lucene/search/regex,Koji Sekiguchi,
+contrib/remote/src/java/org/apache/lucene/search,Koji Sekiguchi,
+contrib/remote/src/test/org/apache/lucene/search,Koji Sekiguchi,
+contrib/snowball,Koji Sekiguchi,
+contrib/snowball/src/java,Koji Sekiguchi,
+contrib/snowball/src/java/org/apache/lucene/analysis/snowball,Koji Sekiguchi,
+contrib/snowball/src/java/org/tartarus/snowball,Koji Sekiguchi,
+contrib/snowball/src/java/org/tartarus/snowball/ext,Koji Sekiguchi,
+contrib/snowball/src/test/org/apache/lucene/analysis/snowball,Koji Sekiguchi,
+contrib/spatial,Koji Sekiguchi,
+contrib/spatial/src/java/org/apache/lucene/spatial/geohash,Koji Sekiguchi,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry,Koji Sekiguchi,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape,Koji Sekiguchi,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier,Koji Sekiguchi,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections,Koji Sekiguchi,
+contrib/spatial/src/test/org/apache/lucene/spatial/tier,Koji Sekiguchi,
+contrib/spellchecker/src/java/org/apache/lucene/search/spell,Koji Sekiguchi,
+contrib/spellchecker/src/test/org/apache/lucene/search/spell,Koji Sekiguchi,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/parser,Koji Sekiguchi,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/query,Koji Sekiguchi,
+contrib/surround/src/test/org/apache/lucene/queryParser/surround/query,Koji Sekiguchi,
+contrib/swing/src/java/org/apache/lucene/swing/models,Koji Sekiguchi,
+contrib/swing/src/test/org/apache/lucene/swing/models,Koji Sekiguchi,
+contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis,Koji Sekiguchi,
+contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis,Koji Sekiguchi,
+contrib/wordnet/src/java/org/apache/lucene/wordnet,Koji Sekiguchi,
+contrib/wordnet/src/test/org/apache/lucene/wordnet,Koji Sekiguchi,
+contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo,Koji Sekiguchi,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser,Koji Sekiguchi,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders,Koji Sekiguchi,
+contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser,Koji Sekiguchi,
+docs,Koji Sekiguchi,
+docs/lucene-contrib,Koji Sekiguchi,
+docs/skin,Koji Sekiguchi,
+docs/skin/images,Koji Sekiguchi,
+src/demo/org/apache/lucene/demo,Koji Sekiguchi,
+src/demo/org/apache/lucene/demo/html,Koji Sekiguchi,
+src/java/org/apache/lucene/analysis,Koji Sekiguchi,
+src/java/org/apache/lucene/analysis/standard,Koji Sekiguchi,
+src/java/org/apache/lucene/analysis/tokenattributes,Koji Sekiguchi,
+src/java/org/apache/lucene/document,Koji Sekiguchi,
+src/java/org/apache/lucene/index,Koji Sekiguchi,
+src/java/org/apache/lucene/messages,Koji Sekiguchi,
+src/java/org/apache/lucene/queryParser,Koji Sekiguchi,
+src/java/org/apache/lucene/search,Koji Sekiguchi,
+src/java/org/apache/lucene/search/function,Koji Sekiguchi,
+src/java/org/apache/lucene/search/payloads,Koji Sekiguchi,
+src/java/org/apache/lucene/search/spans,Koji Sekiguchi,
+src/java/org/apache/lucene/store,Koji Sekiguchi,
+src/java/org/apache/lucene/util,Koji Sekiguchi,
+src/java/org/apache/lucene/util/cache,Koji Sekiguchi,
+src/site/changes,Koji Sekiguchi,
+src/site/src/documentation/content/xdocs,Koji Sekiguchi,
+src/test/org/apache/lucene,Koji Sekiguchi,
+src/test/org/apache/lucene/analysis,Koji Sekiguchi,
+src/test/org/apache/lucene/analysis/tokenattributes,Koji Sekiguchi,
+src/test/org/apache/lucene/document,Koji Sekiguchi,
+src/test/org/apache/lucene/index,Koji Sekiguchi,
+src/test/org/apache/lucene/messages,Koji Sekiguchi,
+src/test/org/apache/lucene/queryParser,Koji Sekiguchi,
+src/test/org/apache/lucene/search,Koji Sekiguchi,
+src/test/org/apache/lucene/search/function,Koji Sekiguchi,
+src/test/org/apache/lucene/search/payloads,Koji Sekiguchi,
+src/test/org/apache/lucene/search/spans,Koji Sekiguchi,
+src/test/org/apache/lucene/store,Koji Sekiguchi,
+src/test/org/apache/lucene/util,Koji Sekiguchi,
+src/test/org/apache/lucene/util/cache,Koji Sekiguchi,
+,Karl-Johan Wettin,
+contrib,Karl-Johan Wettin,38.0
+contrib/analyzers/common,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/br,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/de,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/el,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/position,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/query,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle,Karl-Johan Wettin,137.0
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks,Karl-Johan Wettin,
+contrib/analyzers/common/src/java/org/apache/lucene/analysis/th,Karl-Johan Wettin,
+contrib/analyzers/common/src/resources/org/apache/lucene/analysis/ar,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/br,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/de,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/el,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/position,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/query,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle,Karl-Johan Wettin,137.0
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks,Karl-Johan Wettin,
+contrib/analyzers/common/src/test/org/apache/lucene/analysis/th,Karl-Johan Wettin,
+contrib/analyzers/smartcn,Karl-Johan Wettin,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart,Karl-Johan Wettin,
+contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm,Karl-Johan Wettin,
+contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart,Karl-Johan Wettin,
+contrib/ant/src/java/org/apache/lucene/ant,Karl-Johan Wettin,
+contrib/ant/src/test/org/apache/lucene/ant,Karl-Johan Wettin,
+contrib/benchmark,Karl-Johan Wettin,
+contrib/benchmark/conf,Karl-Johan Wettin,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask,Karl-Johan Wettin,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds,Karl-Johan Wettin,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats,Karl-Johan Wettin,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks,Karl-Johan Wettin,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils,Karl-Johan Wettin,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality,Karl-Johan Wettin,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec,Karl-Johan Wettin,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils,Karl-Johan Wettin,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/stats,Karl-Johan Wettin,
+contrib/benchmark/src/java/org/apache/lucene/benchmark/utils,Karl-Johan Wettin,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask,Karl-Johan Wettin,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds,Karl-Johan Wettin,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks,Karl-Johan Wettin,
+contrib/benchmark/src/test/org/apache/lucene/benchmark/quality,Karl-Johan Wettin,
+contrib/collation/src/java/org/apache/lucene/collation,Karl-Johan Wettin,
+contrib/collation/src/test/org/apache/lucene/collation,Karl-Johan Wettin,
+contrib/db/bdb-je/src/java/org/apache/lucene/store/je,Karl-Johan Wettin,
+contrib/db/bdb-je/src/test/org/apache/lucene/store/je,Karl-Johan Wettin,
+contrib/db/bdb/src/java/org/apache/lucene/store/db,Karl-Johan Wettin,
+contrib/db/bdb/src/test/org/apache/lucene/store/db,Karl-Johan Wettin,
+contrib/fast-vector-highlighter,Karl-Johan Wettin,
+contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight,Karl-Johan Wettin,
+contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight,Karl-Johan Wettin,
+contrib/highlighter,Karl-Johan Wettin,
+contrib/highlighter/src/java/org/apache/lucene/search/highlight,Karl-Johan Wettin,
+contrib/highlighter/src/test/org/apache/lucene/search/highlight,Karl-Johan Wettin,
+contrib/instantiated,Karl-Johan Wettin,
+contrib/instantiated/src/java/org/apache/lucene/store/instantiated,Karl-Johan Wettin,19.0
+contrib/instantiated/src/test/org/apache/lucene/store/instantiated,Karl-Johan Wettin,
+contrib/lucli/src/java/lucli,Karl-Johan Wettin,
+contrib/memory/src/java/org/apache/lucene/index/memory,Karl-Johan Wettin,
+contrib/memory/src/test/org/apache/lucene/index/memory,Karl-Johan Wettin,
+contrib/misc/src/java/org/apache/lucene/index,Karl-Johan Wettin,
+contrib/misc/src/java/org/apache/lucene/misc,Karl-Johan Wettin,
+contrib/misc/src/java/org/apache/lucene/queryParser/analyzing,Karl-Johan Wettin,
+contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase,Karl-Johan Wettin,
+contrib/misc/src/java/org/apache/lucene/queryParser/precedence,Karl-Johan Wettin,
+contrib/misc/src/test/org/apache/lucene/index,Karl-Johan Wettin,
+contrib/misc/src/test/org/apache/lucene/misc,Karl-Johan Wettin,
+contrib/misc/src/test/org/apache/lucene/queryParser/analyzing,Karl-Johan Wettin,
+contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase,Karl-Johan Wettin,
+contrib/misc/src/test/org/apache/lucene/queryParser/precedence,Karl-Johan Wettin,
+contrib/queries/src/java/org/apache/lucene/search,Karl-Johan Wettin,
+contrib/queries/src/java/org/apache/lucene/search/similar,Karl-Johan Wettin,
+contrib/queries/src/test/org/apache/lucene/search,Karl-Johan Wettin,
+contrib/queries/src/test/org/apache/lucene/search/similar,Karl-Johan Wettin,
+contrib/queryparser,Karl-Johan Wettin,
+contrib/queryparser/src/java,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser,Karl-Johan Wettin,
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors,Karl-Johan Wettin,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/spans,Karl-Johan Wettin,
+contrib/queryparser/src/test/org/apache/lucene/queryParser/standard,Karl-Johan Wettin,
+contrib/regex/src/java/org/apache/lucene/search/regex,Karl-Johan Wettin,
+contrib/regex/src/test/org/apache/lucene/search/regex,Karl-Johan Wettin,
+contrib/remote/src/java/org/apache/lucene/search,Karl-Johan Wettin,
+contrib/remote/src/test/org/apache/lucene/search,Karl-Johan Wettin,
+contrib/snowball,Karl-Johan Wettin,181.0
+contrib/snowball/src/java,Karl-Johan Wettin,181.0
+contrib/snowball/src/java/org/apache/lucene/analysis/snowball,Karl-Johan Wettin,
+contrib/snowball/src/java/org/tartarus/snowball,Karl-Johan Wettin,181.0
+contrib/snowball/src/java/org/tartarus/snowball/ext,Karl-Johan Wettin,181.0
+contrib/snowball/src/test/org/apache/lucene/analysis/snowball,Karl-Johan Wettin,
+contrib/spatial,Karl-Johan Wettin,
+contrib/spatial/src/java/org/apache/lucene/spatial/geohash,Karl-Johan Wettin,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry,Karl-Johan Wettin,
+contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape,Karl-Johan Wettin,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier,Karl-Johan Wettin,
+contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections,Karl-Johan Wettin,
+contrib/spatial/src/test/org/apache/lucene/spatial/tier,Karl-Johan Wettin,
+contrib/spellchecker/src/java/org/apache/lucene/search/spell,Karl-Johan Wettin,
+contrib/spellchecker/src/test/org/apache/lucene/search/spell,Karl-Johan Wettin,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/parser,Karl-Johan Wettin,
+contrib/surround/src/java/org/apache/lucene/queryParser/surround/query,Karl-Johan Wettin,
+contrib/surround/src/test/org/apache/lucene/queryParser/surround/query,Karl-Johan Wettin,
+contrib/swing/src/java/org/apache/lucene/swing/models,Karl-Johan Wettin,
+contrib/swing/src/test/org/apache/lucene/swing/models,Karl-Johan Wettin,
+contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis,Karl-Johan Wettin,
+contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis,Karl-Johan Wettin,
+contrib/wordnet/src/java/org/apache/lucene/wordnet,Karl-Johan Wettin,
+contrib/wordnet/src/test/org/apache/lucene/wordnet,Karl-Johan Wettin,
+contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo,Karl-Johan Wettin,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser,Karl-Johan Wettin,
+contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders,Karl-Johan Wettin,
+contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser,Karl-Johan Wettin,
+docs,Karl-Johan Wettin,
+docs/lucene-contrib,Karl-Johan Wettin,
+docs/skin,Karl-Johan Wettin,
+docs/skin/images,Karl-Johan Wettin,
+src/demo/org/apache/lucene/demo,Karl-Johan Wettin,
+src/demo/org/apache/lucene/demo/html,Karl-Johan Wettin,
+src/java/org/apache/lucene/analysis,Karl-Johan Wettin,
+src/java/org/apache/lucene/analysis/standard,Karl-Johan Wettin,
+src/java/org/apache/lucene/analysis/tokenattributes,Karl-Johan Wettin,
+src/java/org/apache/lucene/document,Karl-Johan Wettin,
+src/java/org/apache/lucene/index,Karl-Johan Wettin,
+src/java/org/apache/lucene/messages,Karl-Johan Wettin,
+src/java/org/apache/lucene/queryParser,Karl-Johan Wettin,
+src/java/org/apache/lucene/search,Karl-Johan Wettin,
+src/java/org/apache/lucene/search/function,Karl-Johan Wettin,
+src/java/org/apache/lucene/search/payloads,Karl-Johan Wettin,
+src/java/org/apache/lucene/search/spans,Karl-Johan Wettin,
+src/java/org/apache/lucene/store,Karl-Johan Wettin,
+src/java/org/apache/lucene/util,Karl-Johan Wettin,
+src/java/org/apache/lucene/util/cache,Karl-Johan Wettin,
+src/site/changes,Karl-Johan Wettin,
+src/site/src/documentation/content/xdocs,Karl-Johan Wettin,
+src/test/org/apache/lucene,Karl-Johan Wettin,
+src/test/org/apache/lucene/analysis,Karl-Johan Wettin,
+src/test/org/apache/lucene/analysis/tokenattributes,Karl-Johan Wettin,
+src/test/org/apache/lucene/document,Karl-Johan Wettin,
+src/test/org/apache/lucene/index,Karl-Johan Wettin,
+src/test/org/apache/lucene/messages,Karl-Johan Wettin,
+src/test/org/apache/lucene/queryParser,Karl-Johan Wettin,
+src/test/org/apache/lucene/search,Karl-Johan Wettin,
+src/test/org/apache/lucene/search/function,Karl-Johan Wettin,
+src/test/org/apache/lucene/search/payloads,Karl-Johan Wettin,
+src/test/org/apache/lucene/search/spans,Karl-Johan Wettin,
+src/test/org/apache/lucene/store,Karl-Johan Wettin,
+src/test/org/apache/lucene/util,Karl-Johan Wettin,
+src/test/org/apache/lucene/util/cache,Karl-Johan Wettin,

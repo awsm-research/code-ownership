@@ -1,0 +1,888 @@
+Author,File,NumLines
+Claus Ibsen,components/camel-bam/src/main/java/org/apache/camel/bam/model,11.0
+Claus Ibsen,components/camel-bam/src/main/java/org/apache/camel/bam/processor,24.0
+Claus Ibsen,components/camel-bam/src/main/java/org/apache/camel/bam/rules,3.0
+Claus Ibsen,components/camel-bam/src/test/java/org/apache/camel/bam,8.0
+Claus Ibsen,components/camel-ftp/src/main/java/org/apache/camel/component/file/remote,56.0
+Claus Ibsen,components/camel-ftp/src/test/java/org/apache/camel/component/file/remote,74.0
+Claus Ibsen,components/camel-jaxb/src/test/java/org/apache/camel/converter/jaxb,10.0
+Claus Ibsen,components/camel-jaxb/src/test/java/org/apache/camel/example,42.0
+Claus Ibsen,components/camel-jaxb/src/test/java/org/apache/camel/jaxb,11.0
+Claus Ibsen,components/camel-juel/src/test/java/org/apache/camel/language/juel,1.0
+Claus Ibsen,components/camel-juel/src/test/java/org/apache/camel/processor/juel,26.0
+Claus Ibsen,components/camel-swing/src/main/java/org/apache/camel/component/uface/swing,3.0
+Hadrian Zbarcea,components/camel-ftp/src/main/java/org/apache/camel/component/file/remote,242.0
+Hadrian Zbarcea,components/camel-ftp/src/test/java/org/apache/camel/component/file/remote,67.0
+Hiram R. Chirino,components/camel-bam/src/main/java/org/apache/camel/bam,23.0
+Hiram R. Chirino,components/camel-bam/src/main/java/org/apache/camel/bam/model,36.0
+Hiram R. Chirino,components/camel-bam/src/main/java/org/apache/camel/bam/processor,54.0
+Hiram R. Chirino,components/camel-bam/src/main/java/org/apache/camel/bam/rules,21.0
+Hiram R. Chirino,components/camel-bam/src/test/java/org/apache/camel/bam,1.0
+Hiram R. Chirino,components/camel-ftp/src/main/java/org/apache/camel/component/file/remote,57.0
+Hiram R. Chirino,components/camel-ftp/src/test/java/org/apache/camel/component/file/remote,1.0
+Hiram R. Chirino,components/camel-irc/src/main/java/org/apache/camel/component/irc,86.0
+Hiram R. Chirino,components/camel-irc/src/test/java/org/apache/camel/component/irc,77.0
+Hiram R. Chirino,components/camel-jaxb/src/test/java/org/apache/camel/example,7.0
+Hiram R. Chirino,components/camel-juel/src/main/java/org/apache/camel/language/juel,8.0
+Hiram R. Chirino,components/camel-juel/src/test/java/org/apache/camel/language/juel,6.0
+Hiram R. Chirino,components/camel-msv/src/main/java/org/apache/camel/component/validator/msv,8.0
+Hiram R. Chirino,components/camel-msv/src/test/java/org/apache/camel/component/validator/msv,1.0
+Hiram R. Chirino,components/camel-quartz/src/main/java/org/apache/camel/component/quartz,36.0
+Hiram R. Chirino,components/camel-quartz/src/test/java/org/apache/camel/component/quartz,7.0
+Hiram R. Chirino,tests/camel-itest/src/test/java/org/apache/camel/itest/jms,3.0
+James Strachan,components/camel-bam/src/main/java/org/apache/camel/bam,373.0
+James Strachan,components/camel-bam/src/main/java/org/apache/camel/bam/model,533.0
+James Strachan,components/camel-bam/src/main/java/org/apache/camel/bam/processor,571.0
+James Strachan,components/camel-bam/src/main/java/org/apache/camel/bam/rules,335.0
+James Strachan,components/camel-bam/src/test/java/org/apache/camel/bam,193.0
+James Strachan,components/camel-ftp/src/main/java/org/apache/camel/component/file/remote,996.0
+James Strachan,components/camel-ftp/src/test/java/org/apache/camel/component/file/remote,76.0
+James Strachan,components/camel-irc/src/main/java/org/apache/camel/component/irc,1017.0
+James Strachan,components/camel-irc/src/test/java/org/apache/camel/component/irc,124.0
+James Strachan,components/camel-jaxb/src/test/java/org/apache/camel/converter/jaxb,45.0
+James Strachan,components/camel-jaxb/src/test/java/org/apache/camel/example,333.0
+James Strachan,components/camel-jaxb/src/test/java/org/apache/camel/jaxb,35.0
+James Strachan,components/camel-juel/src/main/java/org/apache/camel/language/juel,257.0
+James Strachan,components/camel-juel/src/test/java/org/apache/camel/language/juel,124.0
+James Strachan,components/camel-juel/src/test/java/org/apache/camel/language/juel/issues,76.0
+James Strachan,components/camel-juel/src/test/java/org/apache/camel/processor/juel,58.0
+James Strachan,components/camel-msv/src/main/java/org/apache/camel/component/validator/msv,45.0
+James Strachan,components/camel-msv/src/test/java/org/apache/camel/component/validator/msv,29.0
+James Strachan,components/camel-quartz/src/main/java/org/apache/camel/component/quartz,523.0
+James Strachan,components/camel-quartz/src/test/java/org/apache/camel/component/quartz,111.0
+James Strachan,components/camel-swing/src/main/java/org/apache/camel/component/uface/swing,119.0
+James Strachan,components/camel-swing/src/test/java/org/apache/camel/component/swing,93.0
+James Strachan,tests/camel-itest-spring-2.0/src/test/java/org/apache/camel/itest/spring2,63.0
+James Strachan,tests/camel-itest/src/test/java/org/apache/camel/itest/jms,355.0
+James Strachan,tests/camel-partial-classpath-test/src/test/java/org/apache/camel/tests/partialclasspath,150.0
+Willem Ning Jiang,components/camel-bam/src/main/java/org/apache/camel/bam,4.0
+Willem Ning Jiang,components/camel-bam/src/main/java/org/apache/camel/bam/model,22.0
+Willem Ning Jiang,components/camel-bam/src/main/java/org/apache/camel/bam/processor,41.0
+Willem Ning Jiang,components/camel-bam/src/main/java/org/apache/camel/bam/rules,3.0
+Willem Ning Jiang,components/camel-bam/src/test/java/org/apache/camel/bam,13.0
+Willem Ning Jiang,components/camel-ftp/src/main/java/org/apache/camel/component/file/remote,116.0
+Willem Ning Jiang,components/camel-ftp/src/test/java/org/apache/camel/component/file/remote,466.0
+Willem Ning Jiang,components/camel-irc/src/main/java/org/apache/camel/component/irc,9.0
+Willem Ning Jiang,components/camel-irc/src/test/java/org/apache/camel/component/irc,2.0
+Willem Ning Jiang,components/camel-jaxb/src/test/java/org/apache/camel/converter/jaxb,5.0
+Willem Ning Jiang,components/camel-jaxb/src/test/java/org/apache/camel/example,14.0
+Willem Ning Jiang,components/camel-jaxb/src/test/java/org/apache/camel/jaxb,13.0
+Willem Ning Jiang,components/camel-juel/src/main/java/org/apache/camel/language/juel,22.0
+Willem Ning Jiang,components/camel-juel/src/test/java/org/apache/camel/language/juel,4.0
+Willem Ning Jiang,components/camel-juel/src/test/java/org/apache/camel/language/juel/issues,2.0
+Willem Ning Jiang,components/camel-juel/src/test/java/org/apache/camel/processor/juel,6.0
+Willem Ning Jiang,components/camel-msv/src/main/java/org/apache/camel/component/validator/msv,1.0
+Willem Ning Jiang,components/camel-msv/src/test/java/org/apache/camel/component/validator/msv,1.0
+Willem Ning Jiang,components/camel-quartz/src/main/java/org/apache/camel/component/quartz,11.0
+Willem Ning Jiang,components/camel-quartz/src/test/java/org/apache/camel/component/quartz,2.0
+Willem Ning Jiang,components/camel-swing/src/main/java/org/apache/camel/component/uface/swing,8.0
+Willem Ning Jiang,components/camel-swing/src/test/java/org/apache/camel/component/swing,3.0
+Willem Ning Jiang,tests/camel-itest-spring-2.0/src/test/java/org/apache/camel/itest/spring2,2.0
+Willem Ning Jiang,tests/camel-itest/src/test/java/org/apache/camel/itest/customerrelations,122.0
+Willem Ning Jiang,tests/camel-itest/src/test/java/org/apache/camel/itest/jms,9.0
+Willem Ning Jiang,tests/camel-partial-classpath-test/src/test/java/org/apache/camel/tests/partialclasspath,5.0
+Claus Ibsen,components/camel-atom/src/main/java/org/apache/camel/component/atom,220.0
+Claus Ibsen,components/camel-atom/src/test/java/org/apache/camel/component/atom,329.0
+Claus Ibsen,components/camel-csv/src/main/java/org/apache/camel/dataformat/csv,1.0
+Claus Ibsen,components/camel-csv/src/test/java/org/apache/camel/dataformat/csv,14.0
+Claus Ibsen,components/camel-http/src/main/java/org/apache/camel/component/http,4.0
+Claus Ibsen,components/camel-jaxb/src/main/java/org/apache/camel/converter/jaxb,5.0
+Claus Ibsen,components/camel-jetty/src/main/java/org/apache/camel/component/jetty,25.0
+Claus Ibsen,components/camel-jetty/src/test/java/org/apache/camel/component/jetty,80.0
+Claus Ibsen,components/camel-jhc/src/main/java/org/apache/camel/component/jhc,2.0
+Claus Ibsen,components/camel-stringtemplate/src/main/java/org/apache/camel/component/stringtemplate,9.0
+Claus Ibsen,components/camel-stringtemplate/src/test/java/org/apache/camel/component/stringtemplate,117.0
+Gert Vanthienen,components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath,5.0
+Guillaume Nodet,components/camel-jhc/src/main/java/org/apache/camel/component/jhc,1412.0
+Guillaume Nodet,components/camel-jhc/src/test/java/org/apache/camel/component/jhc,112.0
+Guillaume Nodet,components/camel-osgi/src/main/java/org/apache/camel/osgi,243.0
+Hadrian Zbarcea,components/camel-http/src/main/java/org/apache/camel/component/http,36.0
+Hadrian Zbarcea,components/camel-jcr/src/main/java/org/apache/camel/component/jcr,305.0
+Hadrian Zbarcea,components/camel-jcr/src/test/java/org/apache/camel/component/jcr,150.0
+Hadrian Zbarcea,components/camel-jetty/src/main/java/org/apache/camel/component/jetty,2.0
+Hadrian Zbarcea,components/camel-jetty/src/test/java/org/apache/camel/component/jetty,128.0
+Hadrian Zbarcea,components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath,2.0
+Hadrian Zbarcea,components/camel-osgi/src/main/java/org/apache/camel/osgi,1.0
+Hiram R. Chirino,components/camel-http/src/main/java/org/apache/camel/component/http,207.0
+Hiram R. Chirino,components/camel-http/src/test/java/org/apache/camel/component/http,14.0
+Hiram R. Chirino,components/camel-jaxb/src/main/java/org/apache/camel/converter/jaxb,12.0
+Hiram R. Chirino,components/camel-jetty/src/main/java/org/apache/camel/component/jetty,404.0
+Hiram R. Chirino,components/camel-jetty/src/test/java/org/apache/camel/component/jetty,124.0
+Hiram R. Chirino,components/camel-jhc/src/main/java/org/apache/camel/component/jhc,82.0
+Hiram R. Chirino,components/camel-osgi/src/main/java/org/apache/camel/osgi,48.0
+Hiram R. Chirino,components/camel-ruby/src/main/resources,16.0
+Hiram R. Chirino,components/camel-ruby/src/test/java/org/apache/camel/ruby,32.0
+James Strachan,components/camel-amqp/src/main/java/org/apache/camel/component/amqp,52.0
+James Strachan,components/camel-amqp/src/test/java/org/apache/camel/component/amqp,154.0
+James Strachan,components/camel-atom/src/main/java/org/apache/camel/component/atom,306.0
+James Strachan,components/camel-atom/src/test/java/org/apache/camel/component/atom,62.0
+James Strachan,components/camel-csv/src/main/java/org/apache/camel/dataformat/csv,106.0
+James Strachan,components/camel-csv/src/test/java/org/apache/camel/dataformat/csv,68.0
+James Strachan,components/camel-http/src/main/java/org/apache/camel/component/http,647.0
+James Strachan,components/camel-http/src/test/java/org/apache/camel/component/http,146.0
+James Strachan,components/camel-jaxb/src/main/java/org/apache/camel/converter/jaxb,800.0
+James Strachan,components/camel-jcr/src/main/java/org/apache/camel/component/jcr,7.0
+James Strachan,components/camel-jetty/src/main/java/org/apache/camel/component/jetty,113.0
+James Strachan,components/camel-jetty/src/test/java/org/apache/camel/component/jetty,161.0
+James Strachan,components/camel-jhc/src/main/java/org/apache/camel/component/jhc,6.0
+James Strachan,components/camel-jxpath/src/main/java/org/apache/camel/language/jxpath,105.0
+James Strachan,components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath,277.0
+James Strachan,components/camel-ruby/src/main/java/org/apache/camel/ruby,121.0
+James Strachan,components/camel-ruby/src/main/resources,65.0
+James Strachan,components/camel-ruby/src/test/java/org/apache/camel/ruby,191.0
+James Strachan,components/camel-stringtemplate/src/main/java/org/apache/camel/component/stringtemplate,95.0
+James Strachan,components/camel-stringtemplate/src/test/java/org/apache/camel/component/stringtemplate,59.0
+James Strachan,components/camel-supercsv/src/main/java/org/apache/camel/dataformat/supercsv,110.0
+James Strachan,components/camel-supercsv/src/test/java/org/apache/camel/dataformat/supercsv,63.0
+Roman Kalukiewicz,components/camel-http/src/main/java/org/apache/camel/component/http,15.0
+Roman Kalukiewicz,components/camel-http/src/test/java/org/apache/camel/component/http,87.0
+Roman Kalukiewicz,components/camel-jetty/src/main/java/org/apache/camel/component/jetty,4.0
+Roman Kalukiewicz,components/camel-jhc/src/main/java/org/apache/camel/component/jhc,49.0
+Willem Ning Jiang,components/camel-amqp/src/main/java/org/apache/camel/component/amqp,10.0
+Willem Ning Jiang,components/camel-amqp/src/test/java/org/apache/camel/component/amqp,6.0
+Willem Ning Jiang,components/camel-atom/src/main/java/org/apache/camel/component/atom,84.0
+Willem Ning Jiang,components/camel-atom/src/test/java/org/apache/camel/component/atom,77.0
+Willem Ning Jiang,components/camel-csv/src/main/java/org/apache/camel/dataformat/csv,5.0
+Willem Ning Jiang,components/camel-csv/src/test/java/org/apache/camel/dataformat/csv,26.0
+Willem Ning Jiang,components/camel-http/src/main/java/org/apache/camel/component/http,218.0
+Willem Ning Jiang,components/camel-http/src/main/java/org/apache/camel/component/http/helper,53.0
+Willem Ning Jiang,components/camel-http/src/test/java/org/apache/camel/component/http,135.0
+Willem Ning Jiang,components/camel-jaxb/src/main/java/org/apache/camel/converter/jaxb,77.0
+Willem Ning Jiang,components/camel-jcr/src/main/java/org/apache/camel/component/jcr,1.0
+Willem Ning Jiang,components/camel-jcr/src/test/java/org/apache/camel/component/jcr,6.0
+Willem Ning Jiang,components/camel-jetty/src/main/java/org/apache/camel/component/jetty,63.0
+Willem Ning Jiang,components/camel-jetty/src/test/java/org/apache/camel/component/jetty,225.0
+Willem Ning Jiang,components/camel-jhc/src/main/java/org/apache/camel/component/jhc,211.0
+Willem Ning Jiang,components/camel-jhc/src/test/java/org/apache/camel/component/jhc,1.0
+Willem Ning Jiang,components/camel-jxpath/src/main/java/org/apache/camel/language/jxpath,55.0
+Willem Ning Jiang,components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath,76.0
+Willem Ning Jiang,components/camel-osgi/src/main/java/org/apache/camel/osgi,20.0
+Willem Ning Jiang,components/camel-ruby/src/main/java/org/apache/camel/ruby,2.0
+Willem Ning Jiang,components/camel-ruby/src/test/java/org/apache/camel/ruby,3.0
+Willem Ning Jiang,components/camel-stringtemplate/src/main/java/org/apache/camel/component/stringtemplate,4.0
+Willem Ning Jiang,components/camel-stringtemplate/src/test/java/org/apache/camel/component/stringtemplate,23.0
+Willem Ning Jiang,components/camel-supercsv/src/main/java/org/apache/camel/dataformat/supercsv,1.0
+Willem Ning Jiang,components/camel-supercsv/src/test/java/org/apache/camel/dataformat/supercsv,1.0
+Claus Ibsen,components/camel-mina/src/main/java/org/apache/camel/component/mina,208.0
+Claus Ibsen,components/camel-mina/src/test/java/org/apache/camel/component/mina,45.0
+Claus Ibsen,components/camel-spring/src/test/java/org/apache/camel/component/xslt,6.0
+Claus Ibsen,components/camel-spring/src/test/java/org/apache/camel/spring,41.0
+Claus Ibsen,components/camel-spring/src/test/java/org/apache/camel/spring/config,82.0
+Claus Ibsen,components/camel-spring/src/test/java/org/apache/camel/spring/interceptor,66.0
+Claus Ibsen,components/camel-velocity/src/main/java/org/apache/camel/component/velocity,17.0
+Claus Ibsen,components/camel-velocity/src/test/java/org/apache/camel/component/velocity,77.0
+Gert Vanthienen,components/camel-spring/src/test/java/org/apache/camel/spring/interceptor,33.0
+Hadrian Zbarcea,components/camel-mina/src/main/java/org/apache/camel/component/mina,21.0
+Hadrian Zbarcea,components/camel-mina/src/test/java/org/apache/camel/component/mina,20.0
+Hadrian Zbarcea,components/camel-spring/src/test/java/org/apache/camel/component/bean,2.0
+Hadrian Zbarcea,components/camel-spring/src/test/java/org/apache/camel/component/file,2.0
+Hadrian Zbarcea,components/camel-spring/src/test/java/org/apache/camel/spring,48.0
+Hadrian Zbarcea,components/camel-spring/src/test/java/org/apache/camel/spring/config,10.0
+Hadrian Zbarcea,components/camel-spring/src/test/java/org/apache/camel/spring/config/scan,1.0
+Hadrian Zbarcea,components/camel-spring/src/test/java/org/apache/camel/spring/debug,3.0
+Hadrian Zbarcea,components/camel-spring/src/test/java/org/apache/camel/spring/example,4.0
+Hiram R. Chirino,components/camel-jing/src/main/java/org/apache/camel/component/validator/jing,25.0
+Hiram R. Chirino,components/camel-jing/src/test/java/org/apache/camel/component/validator/jing,2.0
+Hiram R. Chirino,components/camel-mina/src/main/java/org/apache/camel/component/mina,25.0
+Hiram R. Chirino,components/camel-mina/src/test/java/org/apache/camel/component/mina,5.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/component/bean,5.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/component/event,2.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/component/validator,1.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/spring,28.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/spring/config,18.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/spring/example,24.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/spring/example/test1,1.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/spring/managment,2.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/spring/remoting,131.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/spring/xml,23.0
+James Strachan,components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack,527.0
+James Strachan,components/camel-flatpack/src/test/java/org/apache/camel/component/flatpack,295.0
+James Strachan,components/camel-jing/src/main/java/org/apache/camel/component/validator/jing,214.0
+James Strachan,components/camel-jing/src/test/java/org/apache/camel/component/validator/jing,56.0
+James Strachan,components/camel-mina/src/main/java/org/apache/camel/component/mina,464.0
+James Strachan,components/camel-mina/src/test/java/org/apache/camel/component/mina,528.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/component/bean,145.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/component/dataset,34.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/component/event,89.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/component/file,56.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/component/test,59.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/component/validator,62.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/component/xslt,86.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring,714.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/config,395.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/debug,77.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/example,413.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/example/test1,27.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/interceptor,2.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/managment,31.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/remoting,52.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/xml,145.0
+James Strachan,components/camel-velocity/src/main/java/org/apache/camel/component/velocity,130.0
+James Strachan,components/camel-velocity/src/test/java/org/apache/camel/component/velocity,58.0
+Willem Ning Jiang,components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack,34.0
+Willem Ning Jiang,components/camel-flatpack/src/test/java/org/apache/camel/component/flatpack,12.0
+Willem Ning Jiang,components/camel-jing/src/main/java/org/apache/camel/component/validator/jing,7.0
+Willem Ning Jiang,components/camel-jing/src/test/java/org/apache/camel/component/validator/jing,2.0
+Willem Ning Jiang,components/camel-mina/src/main/java/org/apache/camel/component/mina,401.0
+Willem Ning Jiang,components/camel-mina/src/test/java/org/apache/camel/component/mina,1177.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/component/bean,7.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/component/dataset,2.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/component/event,2.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/component/file,4.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/component/test,2.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/component/validator,1.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/component/xslt,56.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring,338.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/config,33.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/config/scan,42.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/config/scan/route,46.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/debug,5.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/example,11.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/interceptor,168.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/managment,8.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/remoting,3.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/xml,3.0
+Willem Ning Jiang,components/camel-velocity/src/main/java/org/apache/camel/component/velocity,11.0
+Willem Ning Jiang,components/camel-velocity/src/test/java/org/apache/camel/component/velocity,235.0
+Claus Ibsen,components/camel-cxf/src/main/java/org/apache/camel/component/cxf,2.0
+Claus Ibsen,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/transport,1.0
+Claus Ibsen,components/camel-mail/src/main/java/org/apache/camel/component/mail,563.0
+Claus Ibsen,components/camel-mail/src/main/java/org/apache/camel/component/mail/security,148.0
+Claus Ibsen,components/camel-mail/src/test/java/org/apache/camel/component/mail,654.0
+Claus Ibsen,components/camel-spring/src/main/java/org/apache/camel/component,58.0
+Claus Ibsen,components/camel-spring/src/main/java/org/apache/camel/component/event,3.0
+Claus Ibsen,components/camel-spring/src/main/java/org/apache/camel/component/test,13.0
+Claus Ibsen,components/camel-spring/src/main/java/org/apache/camel/component/validator,2.0
+Claus Ibsen,components/camel-spring/src/main/java/org/apache/camel/component/xslt,1.0
+Claus Ibsen,components/camel-spring/src/main/java/org/apache/camel/spring,79.0
+Claus Ibsen,components/camel-spring/src/main/java/org/apache/camel/spring/factory,3.0
+Claus Ibsen,components/camel-spring/src/main/java/org/apache/camel/spring/handler,4.0
+Claus Ibsen,components/camel-spring/src/main/java/org/apache/camel/spring/spi,127.0
+Claus Ibsen,components/camel-spring/src/main/java/org/apache/camel/spring/util,5.0
+Gert Vanthienen,components/camel-cxf/src/main/java/org/apache/camel/component/cxf,10.0
+Guillaume Nodet,components/camel-cxf/src/main/java/org/apache/camel/component/cxf,550.0
+Guillaume Nodet,components/camel-cxf/src/test/java/org/apache/camel/component/cxf,73.0
+Guillaume Nodet,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/transport,3.0
+Guillaume Nodet,components/camel-spring/src/main/java/org/apache/camel/spring,19.0
+Guillaume Nodet,components/camel-spring/src/main/java/org/apache/camel/spring/handler,85.0
+Hadrian Zbarcea,components/camel-cxf/src/main/java/org/apache/camel/component/cxf,17.0
+Hadrian Zbarcea,components/camel-cxf/src/test/java/org/apache/camel/component/cxf,35.0
+Hadrian Zbarcea,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/transport,50.0
+Hadrian Zbarcea,components/camel-spring/src/main/java/org/apache/camel/spring,56.0
+Hadrian Zbarcea,components/camel-spring/src/main/java/org/apache/camel/spring/handler,1.0
+Hadrian Zbarcea,components/camel-spring/src/test/java/org/apache/camel/spring/processor,56.0
+Hiram R. Chirino,components/camel-cxf/src/main/java/org/apache/camel/component/cxf,189.0
+Hiram R. Chirino,components/camel-cxf/src/test/java/org/apache/camel/component/cxf,113.0
+Hiram R. Chirino,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring,16.0
+Hiram R. Chirino,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/transport,64.0
+Hiram R. Chirino,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/util,30.0
+Hiram R. Chirino,components/camel-mail/src/main/java/org/apache/camel/component/mail,78.0
+Hiram R. Chirino,components/camel-mail/src/test/java/org/apache/camel/component/mail,45.0
+Hiram R. Chirino,components/camel-spring/src/main/java/org/apache/camel/component,6.0
+Hiram R. Chirino,components/camel-spring/src/main/java/org/apache/camel/component/event,13.0
+Hiram R. Chirino,components/camel-spring/src/main/java/org/apache/camel/component/validator,11.0
+Hiram R. Chirino,components/camel-spring/src/main/java/org/apache/camel/spring,161.0
+Hiram R. Chirino,components/camel-spring/src/main/java/org/apache/camel/spring/handler,15.0
+Hiram R. Chirino,components/camel-spring/src/main/java/org/apache/camel/spring/remoting,10.0
+Hiram R. Chirino,components/camel-spring/src/main/java/org/apache/camel/spring/spi,102.0
+Hiram R. Chirino,components/camel-spring/src/main/java/org/apache/camel/spring/util,33.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/spring/bind,21.0
+Hiram R. Chirino,components/camel-spring/src/test/java/org/apache/camel/spring/processor,10.0
+James Strachan,components/camel-cxf/src/main/java/org/apache/camel/component/cxf,658.0
+James Strachan,components/camel-cxf/src/test/java/org/apache/camel/component/cxf,310.0
+James Strachan,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring,11.0
+James Strachan,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/transport,259.0
+James Strachan,components/camel-hamcrest/src/main/java/org/apache/camel/hamcrest,51.0
+James Strachan,components/camel-hamcrest/src/test/java/org/apache/camel/hamcrest,39.0
+James Strachan,components/camel-mail/src/main/java/org/apache/camel/component/mail,764.0
+James Strachan,components/camel-mail/src/test/java/org/apache/camel/component/mail,325.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/component,105.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/component/event,259.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/component/test,114.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/component/validator,86.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/component/xslt,69.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/spring,1535.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/spring/factory,42.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/spring/handler,349.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/spring/remoting,259.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/spring/spi,380.0
+James Strachan,components/camel-spring/src/main/java/org/apache/camel/spring/util,286.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/bind,214.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/mock,79.0
+James Strachan,components/camel-spring/src/test/java/org/apache/camel/spring/processor,539.0
+Willem Ning Jiang,components/camel-cxf/src/main/java/org/apache/camel/component/cxf,765.0
+Willem Ning Jiang,components/camel-cxf/src/test/java/org/apache/camel/component/cxf,1219.0
+Willem Ning Jiang,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring,87.0
+Willem Ning Jiang,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/transport,62.0
+Willem Ning Jiang,components/camel-cxf/src/test/java/org/apache/camel/component/cxf/util,127.0
+Willem Ning Jiang,components/camel-cxf/src/test/java/org/apache/camel/wsdl_first,102.0
+Willem Ning Jiang,components/camel-hamcrest/src/main/java/org/apache/camel/hamcrest,7.0
+Willem Ning Jiang,components/camel-hamcrest/src/test/java/org/apache/camel/hamcrest,3.0
+Willem Ning Jiang,components/camel-mail/src/main/java/org/apache/camel/component/mail,101.0
+Willem Ning Jiang,components/camel-mail/src/main/java/org/apache/camel/component/mail/security,5.0
+Willem Ning Jiang,components/camel-mail/src/test/java/org/apache/camel/component/mail,151.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/component,8.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/component/event,7.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/component/test,9.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/component/validator,6.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/component/xslt,4.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/spring,334.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/spring/factory,6.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/spring/handler,48.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/spring/remoting,4.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/spring/spi,17.0
+Willem Ning Jiang,components/camel-spring/src/main/java/org/apache/camel/spring/util,6.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/bind,10.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/config/scan/component,31.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/mock,6.0
+Willem Ning Jiang,components/camel-spring/src/test/java/org/apache/camel/spring/processor,278.0
+Aaron Mulder,components/camel-script/src/main/java/org/apache/camel/builder/script,3.0
+Aaron Mulder,components/camel-script/src/test/java/org/apache/camel/builder/script,159.0
+Claus Ibsen,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors,1.0
+Claus Ibsen,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport,8.0
+Claus Ibsen,components/camel-jms/src/test/java/org/apache/camel/component/jms,80.0
+Claus Ibsen,components/camel-jms/src/test/java/org/apache/camel/component/jms/issues,543.0
+Claus Ibsen,components/camel-jms/src/test/java/org/apache/camel/component/jms/tx,159.0
+Claus Ibsen,components/camel-script/src/main/java/org/apache/camel/builder/script,29.0
+Claus Ibsen,components/camel-testng/src/main/java/org/apache/camel/testng,1.0
+Guillaume Nodet,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport,31.0
+Guillaume Nodet,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util,434.0
+Hadrian Zbarcea,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker,23.0
+Hadrian Zbarcea,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/spring,1.0
+Hadrian Zbarcea,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport,21.0
+Hadrian Zbarcea,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport/spring,85.0
+Hadrian Zbarcea,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util,1.0
+Hadrian Zbarcea,components/camel-jms/src/test/java/org/apache/camel/component/jms,305.0
+Hadrian Zbarcea,components/camel-ognl/src/test/java/org/apache/camel/language/ognl,8.0
+Hiram R. Chirino,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors,1022.0
+Hiram R. Chirino,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker,505.0
+Hiram R. Chirino,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/spring,19.0
+Hiram R. Chirino,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport,31.0
+Hiram R. Chirino,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util,221.0
+Hiram R. Chirino,components/camel-jms/src/test/java/org/apache/camel/component/jms,416.0
+Hiram R. Chirino,components/camel-ognl/src/main/java/org/apache/camel/language/ognl,15.0
+Hiram R. Chirino,components/camel-ognl/src/test/java/org/apache/camel/language/ognl,1.0
+Hiram R. Chirino,components/camel-script/src/main/java/org/apache/camel/builder/script,52.0
+Hiram R. Chirino,components/camel-script/src/test/java/org/apache/camel/builder/script,4.0
+Hiram R. Chirino,components/camel-script/src/test/java/org/apache/camel/builder/script/example,3.0
+James Strachan,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker,29.0
+James Strachan,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/spring,88.0
+James Strachan,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport,473.0
+James Strachan,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util,5.0
+James Strachan,components/camel-ibatis/src/main/java/org/apache/camel/component/ibatis,278.0
+James Strachan,components/camel-ibatis/src/test/java/org/apache/camel/component/ibatis,137.0
+James Strachan,components/camel-jms/src/test/java/org/apache/camel/component/jms,848.0
+James Strachan,components/camel-jms/src/test/java/org/apache/camel/component/jms/discovery,156.0
+James Strachan,components/camel-jms/src/test/java/org/apache/camel/component/jms/issues,200.0
+James Strachan,components/camel-jms/src/test/java/org/apache/camel/component/jms/remoting,62.0
+James Strachan,components/camel-jms/src/test/java/org/apache/camel/component/jms/temp,188.0
+James Strachan,components/camel-ognl/src/main/java/org/apache/camel/language/ognl,201.0
+James Strachan,components/camel-ognl/src/test/java/org/apache/camel/language/ognl,33.0
+James Strachan,components/camel-script/src/main/java/org/apache/camel/builder/script,729.0
+James Strachan,components/camel-script/src/test/java/org/apache/camel/builder/script,28.0
+James Strachan,components/camel-script/src/test/java/org/apache/camel/builder/script/example,34.0
+James Strachan,components/camel-script/src/test/java/org/apache/camel/language/script,59.0
+James Strachan,components/camel-testng/src/main/java/org/apache/camel/testng,82.0
+James Strachan,components/camel-testng/src/test/java/org/apache/camel/testng,77.0
+James Strachan,components/camel-testng/src/test/java/org/apache/camel/testng/example,48.0
+James Strachan,components/camel-uface/src/main/java/org/apache/camel/component/uface,213.0
+James Strachan,components/camel-uface/src/test/java/org/apache/camel/component/uface,105.0
+Willem Ning Jiang,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/feature,344.0
+Willem Ning Jiang,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors,139.0
+Willem Ning Jiang,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker,144.0
+Willem Ning Jiang,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/spring,40.0
+Willem Ning Jiang,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport,96.0
+Willem Ning Jiang,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport/spring,62.0
+Willem Ning Jiang,components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util,132.0
+Willem Ning Jiang,components/camel-ibatis/src/main/java/org/apache/camel/component/ibatis,17.0
+Willem Ning Jiang,components/camel-ibatis/src/test/java/org/apache/camel/component/ibatis,7.0
+Willem Ning Jiang,components/camel-jms/src/test/java/org/apache/camel/component/jms,348.0
+Willem Ning Jiang,components/camel-jms/src/test/java/org/apache/camel/component/jms/discovery,8.0
+Willem Ning Jiang,components/camel-jms/src/test/java/org/apache/camel/component/jms/issues,97.0
+Willem Ning Jiang,components/camel-jms/src/test/java/org/apache/camel/component/jms/remoting,6.0
+Willem Ning Jiang,components/camel-jms/src/test/java/org/apache/camel/component/jms/temp,15.0
+Willem Ning Jiang,components/camel-jms/src/test/java/org/apache/camel/component/jms/tx,530.0
+Willem Ning Jiang,components/camel-ognl/src/main/java/org/apache/camel/language/ognl,8.0
+Willem Ning Jiang,components/camel-ognl/src/test/java/org/apache/camel/language/ognl,6.0
+Willem Ning Jiang,components/camel-script/src/main/java/org/apache/camel/builder/script,74.0
+Willem Ning Jiang,components/camel-script/src/test/java/org/apache/camel/builder/script,29.0
+Willem Ning Jiang,components/camel-script/src/test/java/org/apache/camel/builder/script/example,2.0
+Willem Ning Jiang,components/camel-script/src/test/java/org/apache/camel/language/script,11.0
+Willem Ning Jiang,components/camel-testng/src/main/java/org/apache/camel/testng,1.0
+Willem Ning Jiang,components/camel-testng/src/test/java/org/apache/camel/testng,2.0
+Willem Ning Jiang,components/camel-testng/src/test/java/org/apache/camel/testng/example,1.0
+Willem Ning Jiang,components/camel-uface/src/main/java/org/apache/camel/component/uface,10.0
+Willem Ning Jiang,components/camel-uface/src/test/java/org/apache/camel/component/uface,5.0
+Claus Ibsen,components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc,21.0
+Claus Ibsen,components/camel-jdbc/src/test/java/org/apache/camel/component/jdbc,141.0
+Claus Ibsen,components/camel-jms/src/main/java/org/apache/camel/component/jms,126.0
+Claus Ibsen,components/camel-jms/src/main/java/org/apache/camel/component/jms/requestor,3.0
+Claus Ibsen,components/camel-jms/src/test/java/org/apache/camel/component/jms/bind,2.0
+Claus Ibsen,components/camel-saxon/src/main/java/org/apache/camel/component/xquery,80.0
+Claus Ibsen,components/camel-saxon/src/test/java/org/apache/camel/component/xquery,243.0
+Claus Ibsen,components/camel-stream/src/main/java/org/apache/camel/component/stream,198.0
+Claus Ibsen,components/camel-stream/src/test/java/org/apache/camel/component/stream,181.0
+Claus Ibsen,components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp,8.0
+Hadrian Zbarcea,components/camel-jms/src/main/java/org/apache/camel/component/jms,186.0
+Hadrian Zbarcea,components/camel-jms/src/main/java/org/apache/camel/component/jms/requestor,196.0
+Hadrian Zbarcea,components/camel-jpa/src/test/java/org/apache/camel/component/jpa,4.0
+Hadrian Zbarcea,components/camel-saxon/src/test/java/org/apache/camel/component/xquery,48.0
+Hadrian Zbarcea,components/camel-stream/src/main/java/org/apache/camel/component/stream,141.0
+Hadrian Zbarcea,components/camel-stream/src/test/java/org/apache/camel/component/stream,24.0
+Hadrian Zbarcea,components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp,10.0
+Hadrian Zbarcea,components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp,16.0
+Hiram R. Chirino,components/camel-groovy/src/test/java/org/apache/camel/language/groovy,5.0
+Hiram R. Chirino,components/camel-jms/src/main/java/org/apache/camel/component/jms,218.0
+Hiram R. Chirino,components/camel-josql/src/main/java/org/apache/camel/builder/sql,18.0
+Hiram R. Chirino,components/camel-josql/src/test/java/org/apache/camel/builder/sql,13.0
+Hiram R. Chirino,components/camel-jpa/src/main/java/org/apache/camel/component/jpa,100.0
+Hiram R. Chirino,components/camel-jpa/src/main/java/org/apache/camel/processor/idempotent/jpa,50.0
+Hiram R. Chirino,components/camel-jpa/src/test/java/org/apache/camel/component/jpa,32.0
+Hiram R. Chirino,components/camel-jpa/src/test/java/org/apache/camel/examples,8.0
+Hiram R. Chirino,components/camel-jpa/src/test/java/org/apache/camel/processor/jpa,8.0
+Hiram R. Chirino,components/camel-saxon/src/main/java/org/apache/camel/component/xquery,5.0
+Hiram R. Chirino,components/camel-saxon/src/test/java/org/apache/camel/builder/saxon,6.0
+Hiram R. Chirino,components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp,84.0
+Hiram R. Chirino,components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp,15.0
+James Strachan,components/camel-groovy/src/main/java/org/apache/camel/language/groovy,206.0
+James Strachan,components/camel-groovy/src/test/java/org/apache/camel/language/groovy,165.0
+James Strachan,components/camel-groovy/src/test/java/org/apache/camel/processor/groovy,38.0
+James Strachan,components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc,218.0
+James Strachan,components/camel-jdbc/src/test/java/org/apache/camel/component/jdbc,44.0
+James Strachan,components/camel-jms/src/main/java/org/apache/camel/component/jms,2882.0
+James Strachan,components/camel-jms/src/main/java/org/apache/camel/component/jms/requestor,248.0
+James Strachan,components/camel-jms/src/test/java/org/apache/camel/component/jms/bind,100.0
+James Strachan,components/camel-josql/src/main/java/org/apache/camel/builder/sql,150.0
+James Strachan,components/camel-josql/src/test/java/org/apache/camel/builder/sql,134.0
+James Strachan,components/camel-jpa/src/main/java/org/apache/camel/component/jpa,993.0
+James Strachan,components/camel-jpa/src/main/java/org/apache/camel/processor/idempotent/jpa,100.0
+James Strachan,components/camel-jpa/src/test/java/org/apache/camel/component/jpa,281.0
+James Strachan,components/camel-jpa/src/test/java/org/apache/camel/examples,145.0
+James Strachan,components/camel-jpa/src/test/java/org/apache/camel/processor/jpa,76.0
+James Strachan,components/camel-saxon/src/main/java/org/apache/camel/component/xquery,529.0
+James Strachan,components/camel-saxon/src/test/java/org/apache/camel/builder/saxon,315.0
+James Strachan,components/camel-saxon/src/test/java/org/apache/camel/component/xquery,80.0
+James Strachan,components/camel-stream/src/main/java/org/apache/camel/component/stream,5.0
+James Strachan,components/camel-xmlbeans/src/main/java/org/apache/camel/converter/xmlbeans,140.0
+James Strachan,components/camel-xmlbeans/src/test/java/org/apache/camel/converter/xmlbeans,151.0
+James Strachan,components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp,812.0
+James Strachan,components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp,188.0
+James Strachan,components/camel-xstream/src/main/java/org/apache/camel/dataformat/xstream,86.0
+James Strachan,components/camel-xstream/src/test/java/org/apache/camel/dataformat/xstream,129.0
+Robert Davies,components/camel-jms/src/main/java/org/apache/camel/component/jms,124.0
+Willem Ning Jiang,components/camel-groovy/src/main/java/org/apache/camel/language/groovy,12.0
+Willem Ning Jiang,components/camel-groovy/src/test/java/org/apache/camel/language/groovy,3.0
+Willem Ning Jiang,components/camel-groovy/src/test/java/org/apache/camel/processor/groovy,2.0
+Willem Ning Jiang,components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc,5.0
+Willem Ning Jiang,components/camel-jdbc/src/test/java/org/apache/camel/component/jdbc,5.0
+Willem Ning Jiang,components/camel-jms/src/main/java/org/apache/camel/component/jms,460.0
+Willem Ning Jiang,components/camel-jms/src/main/java/org/apache/camel/component/jms/requestor,502.0
+Willem Ning Jiang,components/camel-jms/src/test/java/org/apache/camel/component/jms/bind,5.0
+Willem Ning Jiang,components/camel-josql/src/main/java/org/apache/camel/builder/sql,6.0
+Willem Ning Jiang,components/camel-josql/src/test/java/org/apache/camel/builder/sql,2.0
+Willem Ning Jiang,components/camel-jpa/src/main/java/org/apache/camel/processor/idempotent/jpa,3.0
+Willem Ning Jiang,components/camel-jpa/src/test/java/org/apache/camel/component/jpa,2.0
+Willem Ning Jiang,components/camel-jpa/src/test/java/org/apache/camel/processor/jpa,4.0
+Willem Ning Jiang,components/camel-saxon/src/main/java/org/apache/camel/component/xquery,63.0
+Willem Ning Jiang,components/camel-saxon/src/test/java/org/apache/camel/builder/saxon,8.0
+Willem Ning Jiang,components/camel-saxon/src/test/java/org/apache/camel/component/xquery,10.0
+Willem Ning Jiang,components/camel-stream/src/main/java/org/apache/camel/component/stream,152.0
+Willem Ning Jiang,components/camel-stream/src/test/java/org/apache/camel/component/stream,72.0
+Willem Ning Jiang,components/camel-xmlbeans/src/main/java/org/apache/camel/converter/xmlbeans,9.0
+Willem Ning Jiang,components/camel-xmlbeans/src/test/java/org/apache/camel/converter/xmlbeans,4.0
+Willem Ning Jiang,components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp,6.0
+Willem Ning Jiang,components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp,1.0
+Willem Ning Jiang,components/camel-xstream/src/main/java/org/apache/camel/dataformat/xstream,8.0
+Willem Ning Jiang,components/camel-xstream/src/test/java/org/apache/camel/dataformat/xstream,10.0
+Adrian T. Co,tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven,2.0
+Claus Ibsen,components/camel-rmi/src/main/java/org/apache/camel/component/rmi,1.0
+Claus Ibsen,examples/camel-example-bam/src/main/java/org/apache/camel/example/bam,6.0
+Claus Ibsen,examples/camel-example-docs/src/main/java/org/apache/camel/example/docs,1.0
+Claus Ibsen,examples/camel-example-docs/src/test/java/org/apache/camel/example/docs,1.0
+Claus Ibsen,examples/camel-example-etl/src/main/java/org/apache/camel/example/etl,2.0
+Claus Ibsen,examples/camel-example-jms-file/src/main/java/org/apache/camel/example/jmstofile,8.0
+Claus Ibsen,examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/client,99.0
+Claus Ibsen,examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/server,78.0
+Claus Ibsen,tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven,45.0
+Guillaume Nodet,examples/camel-example-bam/src/main/java/org/apache/camel/example/bam,2.0
+Guillaume Nodet,tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven,1.0
+Hadrian Zbarcea,components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter,4.0
+Hadrian Zbarcea,examples/camel-example-jms-file/src/main/java/org/apache/camel/example/jmstofile,2.0
+Hadrian Zbarcea,examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/queue/version,2.0
+Hadrian Zbarcea,examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/client,1.0
+Hadrian Zbarcea,tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven,478.0
+Hiram R. Chirino,components/camel-rmi/src/main/java/org/apache/camel/component/rmi,292.0
+Hiram R. Chirino,components/camel-rmi/src/test/java/org/apache/camel/component/rmi,154.0
+Hiram R. Chirino,examples/camel-example-bam/src/main/java/org/apache/camel/example/bam,6.0
+Hiram R. Chirino,examples/camel-example-etl/src/main/java/org/apache/camel/example/etl,22.0
+Hiram R. Chirino,examples/camel-example-jms-file/src/main/java/org/apache/camel/example/jmstofile,24.0
+Hiram R. Chirino,tooling/archetypes/camel-router/src/main/resources/archetype-resources/src/main/java,1.0
+Hiram R. Chirino,tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven,328.0
+Hiram R. Chirino,tooling/maven/maven-html-to-pdf/src/main/java/org/apache/camel/maven,265.0
+James Strachan,components/camel-rmi/src/main/java/org/apache/camel/component/rmi,78.0
+James Strachan,components/camel-rmi/src/test/java/org/apache/camel/component/rmi,8.0
+James Strachan,components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration,8.0
+James Strachan,examples/camel-example-bam/src/main/java/org/apache/camel/example/bam,62.0
+James Strachan,examples/camel-example-docs/src/main/java/org/apache/camel/example/docs,87.0
+James Strachan,examples/camel-example-docs/src/test/java/org/apache/camel/example/docs,28.0
+James Strachan,examples/camel-example-etl/src/main/java/org/apache/camel/example/etl,306.0
+James Strachan,examples/camel-example-jms-file/src/main/java/org/apache/camel/example/jmstofile,3.0
+James Strachan,examples/camel-example-osgi/src/main/java/org/apache/camel/example/osgi,53.0
+James Strachan,tooling/archetypes/camel-router/src/main/resources/archetype-resources/src/main/java,55.0
+James Strachan,tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven,1036.0
+James Strachan,tooling/maven/maven-html-to-pdf/src/main/java/org/apache/camel/maven,22.0
+Robert Davies,examples/camel-example-jms-file/src/main/java/org/apache/camel/example/jmstofile,53.0
+Roman Kalukiewicz,components/camel-sql/src/main/java/org/apache/camel/component/sql,100.0
+Roman Kalukiewicz,components/camel-sql/src/test/java/org/apache/camel/component/sql,87.0
+Willem Ning Jiang,components/camel-rmi/src/main/java/org/apache/camel/component/rmi,7.0
+Willem Ning Jiang,components/camel-rmi/src/test/java/org/apache/camel/component/rmi,1.0
+Willem Ning Jiang,components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration,632.0
+Willem Ning Jiang,components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter,269.0
+Willem Ning Jiang,components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/config,272.0
+Willem Ning Jiang,components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/converter,86.0
+Willem Ning Jiang,components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration,228.0
+Willem Ning Jiang,components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/adapter,153.0
+Willem Ning Jiang,components/camel-sql/src/main/java/org/apache/camel/component/sql,92.0
+Willem Ning Jiang,components/camel-sql/src/test/java/org/apache/camel/component/sql,77.0
+Willem Ning Jiang,examples/camel-example-bam/src/main/java/org/apache/camel/example/bam,7.0
+Willem Ning Jiang,examples/camel-example-docs/src/main/java/org/apache/camel/example/docs,6.0
+Willem Ning Jiang,examples/camel-example-docs/src/test/java/org/apache/camel/example/docs,2.0
+Willem Ning Jiang,examples/camel-example-etl/src/main/java/org/apache/camel/example/etl,5.0
+Willem Ning Jiang,examples/camel-example-jms-file/src/main/java/org/apache/camel/example/jmstofile,1.0
+Willem Ning Jiang,examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/queue/version,492.0
+Willem Ning Jiang,examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/webservice/version,335.0
+Willem Ning Jiang,examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/webservice/version/bank,207.0
+Willem Ning Jiang,examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/webservice/version/credit,156.0
+Willem Ning Jiang,examples/camel-example-osgi/src/main/java/org/apache/camel/example/osgi,3.0
+Willem Ning Jiang,examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/client,80.0
+Willem Ning Jiang,examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/server,90.0
+Willem Ning Jiang,tooling/archetypes/camel-component/src/main/resources/archetype-resources/src/main/java,203.0
+Willem Ning Jiang,tooling/archetypes/camel-router/src/main/resources/archetype-resources/src/main/java,1.0
+Willem Ning Jiang,tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven,245.0
+Willem Ning Jiang,tooling/maven/maven-html-to-pdf/src/main/java/org/apache/camel/maven,16.0
+Aaron Mulder,camel-core/src/test/java/org/apache/camel,21.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel,17.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/builder,7.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/component/bean,460.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/component/dataset,54.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/component/direct,45.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/component/file,618.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/component/log,68.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/component/mock,46.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/component/vm,2.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/issues,148.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/management,208.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/model,54.0
+Claus Ibsen,examples/camel-example-spring/src/main/java/org/apache/camel/example/spring,1.0
+Claus Ibsen,examples/camel-example-spring/src/test/java/org/apache/camel/example/spring,1.0
+Gert Vanthienen,camel-core/src/test/java/org/apache/camel/converter,4.0
+Guillaume Nodet,camel-core/src/test/java/org/apache/camel,21.0
+Guillaume Nodet,camel-core/src/test/java/org/apache/camel/builder,1.0
+Guillaume Nodet,camel-core/src/test/java/org/apache/camel/component/file,16.0
+Guillaume Nodet,camel-core/src/test/java/org/apache/camel/model,15.0
+Hadrian Zbarcea,camel-core/src/test/java/org/apache/camel,2.0
+Hadrian Zbarcea,camel-core/src/test/java/org/apache/camel/builder,11.0
+Hadrian Zbarcea,camel-core/src/test/java/org/apache/camel/builder/xml,2.0
+Hadrian Zbarcea,camel-core/src/test/java/org/apache/camel/component/bean,26.0
+Hadrian Zbarcea,camel-core/src/test/java/org/apache/camel/component/file,8.0
+Hadrian Zbarcea,camel-core/src/test/java/org/apache/camel/converter,2.0
+Hadrian Zbarcea,camel-core/src/test/java/org/apache/camel/issues,7.0
+Hadrian Zbarcea,camel-core/src/test/java/org/apache/camel/model,12.0
+Hadrian Zbarcea,examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf,1.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel,52.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/builder,557.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/builder/xml,20.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/component/direct,66.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/component/file,155.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/component/log,6.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/component/mock,1.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/component/pojo,109.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/component/seda,67.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/component/timer,27.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/component/vm,1.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/converter,33.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/issues,1.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/language,2.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/model,14.0
+Hiram R. Chirino,examples/camel-example-spring/src/main/java/org/apache/camel/example/spring,2.0
+James Strachan,camel-core/src/test/java/org/apache/camel,777.0
+James Strachan,camel-core/src/test/java/org/apache/camel/builder,706.0
+James Strachan,camel-core/src/test/java/org/apache/camel/builder/xml,169.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/bean,774.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/dataset,165.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/direct,1.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/file,517.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/list,64.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/log,43.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/mock,100.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/pojo,15.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/seda,75.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/timer,35.0
+James Strachan,camel-core/src/test/java/org/apache/camel/component/vm,65.0
+James Strachan,camel-core/src/test/java/org/apache/camel/converter,386.0
+James Strachan,camel-core/src/test/java/org/apache/camel/converter/stream,68.0
+James Strachan,camel-core/src/test/java/org/apache/camel/issues,595.0
+James Strachan,camel-core/src/test/java/org/apache/camel/language,164.0
+James Strachan,camel-core/src/test/java/org/apache/camel/management,111.0
+James Strachan,camel-core/src/test/java/org/apache/camel/model,342.0
+James Strachan,examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf,266.0
+James Strachan,examples/camel-example-cxf/src/main/java/org/apache/camel/example/jms,104.0
+James Strachan,examples/camel-example-spring/src/main/java/org/apache/camel/example/spring,52.0
+James Strachan,examples/camel-example-spring/src/test/java/org/apache/camel/example/spring,28.0
+Robert Davies,camel-core/src/test/java/org/apache/camel/component/file,35.0
+Roman Kalukiewicz,camel-core/src/test/java/org/apache/camel,14.0
+Roman Kalukiewicz,camel-core/src/test/java/org/apache/camel/builder,3.0
+Roman Kalukiewicz,camel-core/src/test/java/org/apache/camel/component/mock,2.0
+Roman Kalukiewicz,camel-core/src/test/java/org/apache/camel/model,1.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel,156.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/builder,362.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/builder/xml,2.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/bean,109.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/dataset,14.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/direct,3.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/file,131.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/list,3.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/log,1.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/mock,14.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/pojo,1.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/seda,4.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/timer,6.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/component/vm,1.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/converter,25.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/issues,75.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/language,9.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/management,336.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/model,37.0
+Willem Ning Jiang,examples/camel-example-cxf/src/main/java/org/apache/camel/example/camel/transport,289.0
+Willem Ning Jiang,examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf,41.0
+Willem Ning Jiang,examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/provider,342.0
+Willem Ning Jiang,examples/camel-example-spring/src/main/java/org/apache/camel/example/spring,1.0
+Willem Ning Jiang,examples/camel-example-spring/src/test/java/org/apache/camel/example/spring,2.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel,173.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/builder,68.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/builder/xml,18.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/timer,2.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/converter,11.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/converter/jaxp,9.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/converter/stream,6.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/language,11.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/language/bean,2.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/language/simple,1.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/management,176.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/model,224.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/model/config,4.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/model/dataformat,20.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/model/language,13.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/model/loadbalancer,19.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/impl,190.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/processor,487.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/processor/aggregator,2.0
+Claus Ibsen,camel-core/src/test/java/org/apache/camel/util,48.0
+Gert Vanthienen,camel-core/src/main/java/org/apache/camel,6.0
+Gert Vanthienen,camel-core/src/main/java/org/apache/camel/model,11.0
+Gert Vanthienen,camel-core/src/test/java/org/apache/camel/processor,1.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel,19.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/builder,124.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/model,133.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/model/language,3.0
+Guillaume Nodet,camel-core/src/test/java/org/apache/camel/processor,11.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel,96.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/builder,2.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/converter,3.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/language/simple,1.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/management,28.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/model,205.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/model/dataformat,2.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/model/language,17.0
+Hadrian Zbarcea,camel-core/src/test/java/org/apache/camel/processor,260.0
+Hadrian Zbarcea,camel-core/src/test/java/org/apache/camel/util,12.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel,429.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/builder,233.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/builder/xml,109.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/component/timer,105.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/component/vm,22.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/converter,44.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/converter/jaxp,7.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/language,3.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/language/simple,3.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/management,12.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/model,506.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/model/language,32.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/impl,62.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/processor,469.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/util,13.0
+Hiram R. Chirino,camel-core/src/test/java/org/apache/camel/util/jndi,7.0
+James Strachan,camel-core/src/main/java/org/apache/camel,2259.0
+James Strachan,camel-core/src/main/java/org/apache/camel/builder,2706.0
+James Strachan,camel-core/src/main/java/org/apache/camel/builder/xml,1346.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/timer,163.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/vm,44.0
+James Strachan,camel-core/src/main/java/org/apache/camel/converter,534.0
+James Strachan,camel-core/src/main/java/org/apache/camel/converter/jaxp,957.0
+James Strachan,camel-core/src/main/java/org/apache/camel/converter/stream,91.0
+James Strachan,camel-core/src/main/java/org/apache/camel/language,261.0
+James Strachan,camel-core/src/main/java/org/apache/camel/language/bean,154.0
+James Strachan,camel-core/src/main/java/org/apache/camel/language/simple,142.0
+James Strachan,camel-core/src/main/java/org/apache/camel/management,538.0
+James Strachan,camel-core/src/main/java/org/apache/camel/model,5063.0
+James Strachan,camel-core/src/main/java/org/apache/camel/model/config,274.0
+James Strachan,camel-core/src/main/java/org/apache/camel/model/dataformat,525.0
+James Strachan,camel-core/src/main/java/org/apache/camel/model/language,946.0
+James Strachan,camel-core/src/main/java/org/apache/camel/model/loadbalancer,279.0
+James Strachan,camel-core/src/test/java/org/apache/camel/impl,240.0
+James Strachan,camel-core/src/test/java/org/apache/camel/processor,3010.0
+James Strachan,camel-core/src/test/java/org/apache/camel/processor/aggregator,157.0
+James Strachan,camel-core/src/test/java/org/apache/camel/processor/interceptor,70.0
+James Strachan,camel-core/src/test/java/org/apache/camel/processor/routingslip,340.0
+James Strachan,camel-core/src/test/java/org/apache/camel/util,114.0
+James Strachan,camel-core/src/test/java/org/apache/camel/util/jndi,105.0
+James Strachan,camel-core/src/test/java/org/apache/camel/view,129.0
+Robert Davies,camel-core/src/main/java/org/apache/camel,18.0
+Robert Davies,camel-core/src/main/java/org/apache/camel/converter,37.0
+Roman Kalukiewicz,camel-core/src/main/java/org/apache/camel/builder,1.0
+Roman Kalukiewicz,camel-core/src/main/java/org/apache/camel/builder/xml,23.0
+Roman Kalukiewicz,camel-core/src/main/java/org/apache/camel/model,115.0
+Roman Kalukiewicz,camel-core/src/test/java/org/apache/camel/processor,276.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel,293.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/builder,221.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/builder/xml,72.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/timer,23.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/vm,11.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/converter,159.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/converter/jaxp,70.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/language,30.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/language/bean,15.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/language/simple,4.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/management,743.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/model,831.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/model/config,5.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/model/dataformat,50.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/model/language,52.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/model/loadbalancer,48.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/impl,182.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/processor,674.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/processor/aggregator,39.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/processor/exceptionpolicy,223.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/processor/interceptor,27.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/processor/routingslip,55.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/util,89.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/util/jndi,2.0
+Willem Ning Jiang,camel-core/src/test/java/org/apache/camel/view,12.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/bean,76.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/dataset,16.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/direct,14.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/file,114.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/file/strategy,45.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/jmx,14.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/list,3.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/log,192.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/mock,4.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/ref,3.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/component/seda,6.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/impl,562.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/impl/converter,40.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/processor,101.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/processor/aggregate,1.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/processor/exceptionpolicy,11.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/processor/idempotent,1.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/processor/interceptor,27.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/processor/loadbalancer,5.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/processor/resequencer,12.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/processor/validation,6.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/spi,121.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/util,381.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/util/jndi,8.0
+Claus Ibsen,camel-core/src/main/java/org/apache/camel/view,2.0
+Gert Vanthienen,camel-core/src/main/java/org/apache/camel/impl,10.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/component/file,7.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/component/file/strategy,38.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/component/mock,11.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/component/ref,31.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/impl,19.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/processor,2.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/spi,1.0
+Guillaume Nodet,camel-core/src/main/java/org/apache/camel/util,15.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/component/bean,12.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/component/file,53.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/component/file/strategy,6.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/impl,11.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/impl/converter,1.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/processor,129.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/processor/aggregate,4.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/spi,2.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/util,64.0
+Hadrian Zbarcea,camel-core/src/main/java/org/apache/camel/util/jndi,1.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/component/bean,153.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/component/direct,99.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/component/file,93.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/component/file/strategy,1.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/component/jmx,138.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/component/log,4.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/component/mock,104.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/component/seda,81.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/impl,482.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/impl/converter,216.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/processor,911.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/processor/aggregate,16.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/processor/idempotent,40.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/processor/loadbalancer,34.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/processor/validation,84.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/spi,88.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/util,1072.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/util/jndi,98.0
+Hiram R. Chirino,camel-core/src/main/java/org/apache/camel/view,1.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/bean,1616.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/dataset,532.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/direct,77.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/file,418.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/file/strategy,341.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/jmx,16.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/list,129.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/log,41.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/mock,676.0
+James Strachan,camel-core/src/main/java/org/apache/camel/component/seda,254.0
+James Strachan,camel-core/src/main/java/org/apache/camel/impl,3200.0
+James Strachan,camel-core/src/main/java/org/apache/camel/impl/converter,689.0
+James Strachan,camel-core/src/main/java/org/apache/camel/processor,2562.0
+James Strachan,camel-core/src/main/java/org/apache/camel/processor/aggregate,199.0
+James Strachan,camel-core/src/main/java/org/apache/camel/processor/idempotent,218.0
+James Strachan,camel-core/src/main/java/org/apache/camel/processor/interceptor,700.0
+James Strachan,camel-core/src/main/java/org/apache/camel/processor/loadbalancer,393.0
+James Strachan,camel-core/src/main/java/org/apache/camel/processor/resequencer,1039.0
+James Strachan,camel-core/src/main/java/org/apache/camel/processor/validation,362.0
+James Strachan,camel-core/src/main/java/org/apache/camel/spi,526.0
+James Strachan,camel-core/src/main/java/org/apache/camel/util,2258.0
+James Strachan,camel-core/src/main/java/org/apache/camel/util/jndi,381.0
+James Strachan,camel-core/src/main/java/org/apache/camel/view,613.0
+Robert Davies,camel-core/src/main/java/org/apache/camel/component/file,245.0
+Robert Davies,camel-core/src/main/java/org/apache/camel/component/jmx,166.0
+Robert Davies,camel-core/src/main/java/org/apache/camel/impl,5.0
+Robert Davies,camel-core/src/main/java/org/apache/camel/util,57.0
+Robert Davies,camel-core/src/main/java/org/apache/camel/view,24.0
+Roman Kalukiewicz,camel-core/src/main/java/org/apache/camel/component/mock,39.0
+Roman Kalukiewicz,camel-core/src/main/java/org/apache/camel/processor,91.0
+Roman Kalukiewicz,camel-core/src/main/java/org/apache/camel/util,2.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/bean,89.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/dataset,29.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/direct,10.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/file,104.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/file/strategy,25.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/jmx,16.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/list,13.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/log,2.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/mock,34.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/ref,3.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/component/seda,11.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/impl,334.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/impl/converter,36.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/processor,359.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/processor/aggregate,11.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/processor/exceptionpolicy,133.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/processor/idempotent,7.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/processor/interceptor,42.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/processor/loadbalancer,18.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/processor/validation,15.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/spi,162.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/util,295.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/util/jndi,8.0
+Willem Ning Jiang,camel-core/src/main/java/org/apache/camel/view,83.0

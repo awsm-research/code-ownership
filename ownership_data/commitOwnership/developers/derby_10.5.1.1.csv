@@ -1,0 +1,562 @@
+"Change_file","AuthorName","length","Sum"
+"java/build/org/apache/derbyBuild/JiraConnector.java","Katherine Marsden",1,1
+"java/build/org/apache/derbyBuild/splitmessages.java","Katherine Marsden",0.5,2
+"java/build/org/apache/derbyBuild/splitmessages.java","Myrna van Lunteren",0.5,2
+"java/build/org/apache/derbyPreBuild/PropertySetter.java","Richard N. Hillegas",1,5
+"java/client/org/apache/derby/client/am/Agent.java","Knut Anders Hatlen",1,1
+"java/client/org/apache/derby/client/am/BatchUpdateException.java","Knut Anders Hatlen",1,1
+"java/client/org/apache/derby/client/am/Blob.java","Kristian Waagan",1,1
+"java/client/org/apache/derby/client/am/Clob.java","Katherine Marsden",0.333333333333333,3
+"java/client/org/apache/derby/client/am/Clob.java","Kristian Waagan",0.666666666666667,3
+"java/client/org/apache/derby/client/am/Connection.java","Knut Anders Hatlen",1,1
+"java/client/org/apache/derby/client/am/DatabaseMetaData.java","Richard N. Hillegas",1,1
+"java/client/org/apache/derby/client/am/Lob.java","Kristian Waagan",1,1
+"java/client/org/apache/derby/client/net/CcsidManager.java","Katherine Marsden",1,1
+"java/client/org/apache/derby/client/net/EbcdicCcsidManager.java","Katherine Marsden",1,1
+"java/client/org/apache/derby/client/net/NetAgent.java","Katherine Marsden",1,1
+"java/client/org/apache/derby/client/net/NetConnection.java","Myrna van Lunteren",1,1
+"java/client/org/apache/derby/client/net/NetConnectionReply.java","Katherine Marsden",1,1
+"java/client/org/apache/derby/client/net/NetConnectionRequest.java","Katherine Marsden",1,2
+"java/client/org/apache/derby/client/net/NetXAResource.java","Katherine Marsden",1,1
+"java/client/org/apache/derby/client/net/Reply.java","Katherine Marsden",1,1
+"java/client/org/apache/derby/client/net/Request.java","Katherine Marsden",1,1
+"java/client/org/apache/derby/jdbc/ClientBaseDataSource.java","Kristian Waagan",0.666666666666667,3
+"java/client/org/apache/derby/jdbc/ClientBaseDataSource.java","Richard N. Hillegas",0.333333333333333,3
+"java/client/org/apache/derby/jdbc/ClientConnectionPoolDataSource.java","Kristian Waagan",1,1
+"java/client/org/apache/derby/jdbc/ClientDataSource.java","Kristian Waagan",1,1
+"java/client/org/apache/derby/jdbc/ClientXADataSource.java","Kristian Waagan",1,1
+"java/demo/vtis/java/org/apache/derbyDemo/vtis/core/XmlVTI.java","Katherine Marsden",1,1
+"java/demo/vtis/java/org/apache/derbyDemo/vtis/example/VTIs.java","Katherine Marsden",1,1
+"java/drda/org/apache/derby/impl/drda/Database.java","Katherine Marsden",1,1
+"java/drda/org/apache/derby/impl/drda/DDMReader.java","Knut Anders Hatlen",1,3
+"java/drda/org/apache/derby/impl/drda/DRDAConnThread.java","Katherine Marsden",1,1
+"java/drda/org/apache/derby/impl/drda/DssTrace.java","Katherine Marsden",1,2
+"java/drda/org/apache/derby/impl/drda/NetworkServerControlImpl.java","Myrna van Lunteren",1,4
+"java/engine/org/apache/derby/catalog/DefaultInfo.java","Richard N. Hillegas",1,2
+"java/engine/org/apache/derby/catalog/SystemProcedures.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/catalog/TriggerNewTransitionRows.java","Katherine Marsden",1,1
+"java/engine/org/apache/derby/catalog/TriggerOldTransitionRows.java","Katherine Marsden",1,1
+"java/engine/org/apache/derby/catalog/types/DefaultInfoImpl.java","Kristian Waagan",0.25,4
+"java/engine/org/apache/derby/catalog/types/DefaultInfoImpl.java","Richard N. Hillegas",0.75,4
+"java/engine/org/apache/derby/diag/SpaceTable.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/error/PassThroughException.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/jdbc/CharacterStreamDescriptor.java","Kristian Waagan",1,4
+"java/engine/org/apache/derby/iapi/services/classfile/ClassInvestigator.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/services/context/ContextManager.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/services/io/ArrayInputStream.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/iapi/services/io/CompressedNumber.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/services/monitor/PersistentService.java","Kristian Waagan",1,2
+"java/engine/org/apache/derby/iapi/sql/compile/C_NodeTypes.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/iapi/sql/compile/CompilerContext.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/iapi/sql/conn/LanguageConnectionContext.java","Bryan Pendleton",0.5,2
+"java/engine/org/apache/derby/iapi/sql/conn/LanguageConnectionContext.java","Richard N. Hillegas",0.5,2
+"java/engine/org/apache/derby/iapi/sql/dictionary/DataDictionary.java","Bryan Pendleton",0.5,2
+"java/engine/org/apache/derby/iapi/sql/dictionary/DataDictionary.java","Katherine Marsden",0.5,2
+"java/engine/org/apache/derby/iapi/sql/dictionary/TableDescriptor.java","Richard N. Hillegas",1,2
+"java/engine/org/apache/derby/iapi/sql/execute/ExecutionFactory.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/iapi/sql/execute/ResultSetFactory.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/iapi/sql/execute/RunTimeStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/iapi/sql/ResultColumnDescriptor.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/iapi/store/access/conglomerate/ScanManager.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/store/access/conglomerate/TransactionManager.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/store/raw/Page.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/store/raw/RecordHandle.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/types/BitDataValue.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/iapi/types/CharStreamHeaderGenerator.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/iapi/types/ClobStreamHeaderGenerator.java","Kristian Waagan",1,2
+"java/engine/org/apache/derby/iapi/types/CollatorSQLChar.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/types/CollatorSQLClob.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/types/CollatorSQLLongvarchar.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/types/CollatorSQLVarchar.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/iapi/types/DataValueFactory.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/iapi/types/DataValueFactoryImpl.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/iapi/types/PositionedStream.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/iapi/types/ReaderToUTF8Stream.java","Kristian Waagan",0.8,5
+"java/engine/org/apache/derby/iapi/types/ReaderToUTF8Stream.java","Richard N. Hillegas",0.2,5
+"java/engine/org/apache/derby/iapi/types/SQLBinary.java","Knut Anders Hatlen",0.666666666666667,3
+"java/engine/org/apache/derby/iapi/types/SQLBinary.java","Richard N. Hillegas",0.333333333333333,3
+"java/engine/org/apache/derby/iapi/types/SQLBlob.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/iapi/types/SQLChar.java","Knut Anders Hatlen",0.25,8
+"java/engine/org/apache/derby/iapi/types/SQLChar.java","Kristian Waagan",0.625,8
+"java/engine/org/apache/derby/iapi/types/SQLChar.java","Richard N. Hillegas",0.125,8
+"java/engine/org/apache/derby/iapi/types/SQLClob.java","Kristian Waagan",0.888888888888889,9
+"java/engine/org/apache/derby/iapi/types/SQLClob.java","Richard N. Hillegas",0.111111111111111,9
+"java/engine/org/apache/derby/iapi/types/SQLVarchar.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/iapi/types/StreamHeaderGenerator.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/iapi/types/StringDataValue.java","Kristian Waagan",0.75,4
+"java/engine/org/apache/derby/iapi/types/StringDataValue.java","Richard N. Hillegas",0.25,4
+"java/engine/org/apache/derby/iapi/util/IdUtil.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/iapi/util/StringUtil.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/db/SlaveDatabase.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/io/vfmem/BlockedByteArray.java","Kristian Waagan",1,2
+"java/engine/org/apache/derby/impl/io/vfmem/BlockedByteArrayInputStream.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/io/vfmem/BlockedByteArrayOutputStream.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/io/vfmem/DataStore.java","Kristian Waagan",1,2
+"java/engine/org/apache/derby/impl/io/vfmem/DataStoreEntry.java","Kristian Waagan",1,2
+"java/engine/org/apache/derby/impl/io/vfmem/PathUtil.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/io/vfmem/VirtualFile.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/io/vfmem/VirtualRandomAccessFile.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/io/VFMemoryStorageFactory.java","Kristian Waagan",1,4
+"java/engine/org/apache/derby/impl/jdbc/ClobUpdatableReader.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/jdbc/EmbedBlob.java","Knut Anders Hatlen",0.25,4
+"java/engine/org/apache/derby/impl/jdbc/EmbedBlob.java","Kristian Waagan",0.75,4
+"java/engine/org/apache/derby/impl/jdbc/EmbedCallableStatement20.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/jdbc/EmbedClob.java","Katherine Marsden",0.142857142857143,7
+"java/engine/org/apache/derby/impl/jdbc/EmbedClob.java","Kristian Waagan",0.857142857142857,7
+"java/engine/org/apache/derby/impl/jdbc/EmbedPreparedStatement.java","Kristian Waagan",1,2
+"java/engine/org/apache/derby/impl/jdbc/EmbedResultSet.java","Kristian Waagan",1,3
+"java/engine/org/apache/derby/impl/jdbc/InternalClob.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/jdbc/LOBInputStream.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/jdbc/PositionedStoreStream.java","Knut Anders Hatlen",0.333333333333333,3
+"java/engine/org/apache/derby/impl/jdbc/PositionedStoreStream.java","Kristian Waagan",0.666666666666667,3
+"java/engine/org/apache/derby/impl/jdbc/StoreStreamClob.java","Kristian Waagan",1,4
+"java/engine/org/apache/derby/impl/jdbc/TemporaryClob.java","Kristian Waagan",1,4
+"java/engine/org/apache/derby/impl/jdbc/UpdatableBlobStream.java","Knut Anders Hatlen",0.5,2
+"java/engine/org/apache/derby/impl/jdbc/UpdatableBlobStream.java","Kristian Waagan",0.5,2
+"java/engine/org/apache/derby/impl/jdbc/UTF8Reader.java","Kristian Waagan",1,5
+"java/engine/org/apache/derby/impl/load/ExportResultSetForObject.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/load/ExportWriteData.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/load/Import.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/services/locks/Deadlock.java","Katherine Marsden",1,1
+"java/engine/org/apache/derby/impl/services/monitor/BaseMonitor.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/sql/catalog/DataDictionaryImpl.java","Bryan Pendleton",0.25,4
+"java/engine/org/apache/derby/impl/sql/catalog/DataDictionaryImpl.java","Dag H. Wanvik",0.25,4
+"java/engine/org/apache/derby/impl/sql/catalog/DataDictionaryImpl.java","Katherine Marsden",0.25,4
+"java/engine/org/apache/derby/impl/sql/catalog/DataDictionaryImpl.java","Richard N. Hillegas",0.25,4
+"java/engine/org/apache/derby/impl/sql/catalog/DD_Version.java","Bryan Pendleton",0.333333333333333,3
+"java/engine/org/apache/derby/impl/sql/catalog/DD_Version.java","Katherine Marsden",0.333333333333333,3
+"java/engine/org/apache/derby/impl/sql/catalog/DD_Version.java","Richard N. Hillegas",0.333333333333333,3
+"java/engine/org/apache/derby/impl/sql/compile/AggregateNode.java","Katherine Marsden",1,1
+"java/engine/org/apache/derby/impl/sql/compile/AlterTableNode.java","Richard N. Hillegas",1,5
+"java/engine/org/apache/derby/impl/sql/compile/C_NodeNames.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/compile/ColumnDefinitionNode.java","Bryan Pendleton",0.333333333333333,3
+"java/engine/org/apache/derby/impl/sql/compile/ColumnDefinitionNode.java","Richard N. Hillegas",0.666666666666667,3
+"java/engine/org/apache/derby/impl/sql/compile/CompilerContextImpl.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/compile/CreateTableNode.java","Richard N. Hillegas",1,4
+"java/engine/org/apache/derby/impl/sql/compile/CreateTriggerNode.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/compile/CreateViewNode.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/compile/CursorNode.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/compile/DDLStatementNode.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/compile/DMLModStatementNode.java","Dag H. Wanvik",0.25,4
+"java/engine/org/apache/derby/impl/sql/compile/DMLModStatementNode.java","Richard N. Hillegas",0.75,4
+"java/engine/org/apache/derby/impl/sql/compile/DMLStatementNode.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/compile/FromBaseTable.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/compile/FromSubquery.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/compile/FromVTI.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/compile/GenerationClauseNode.java","Richard N. Hillegas",1,2
+"java/engine/org/apache/derby/impl/sql/compile/GroupByNode.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/compile/InsertNode.java","Richard N. Hillegas",1,2
+"java/engine/org/apache/derby/impl/sql/compile/ModifyColumnNode.java","Bryan Pendleton",0.5,2
+"java/engine/org/apache/derby/impl/sql/compile/ModifyColumnNode.java","Richard N. Hillegas",0.5,2
+"java/engine/org/apache/derby/impl/sql/compile/NodeFactoryImpl.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/compile/PredicateList.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/sql/compile/PrivilegeNode.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/sql/compile/ProjectRestrictNode.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/sql/compile/QueryTreeNode.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/compile/RenameNode.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/compile/ResultColumn.java","Dag H. Wanvik",0.5,2
+"java/engine/org/apache/derby/impl/sql/compile/ResultColumn.java","Richard N. Hillegas",0.5,2
+"java/engine/org/apache/derby/impl/sql/compile/ResultColumnList.java","Richard N. Hillegas",1,5
+"java/engine/org/apache/derby/impl/sql/compile/RowCountNode.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/compile/SelectNode.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/sql/compile/SpecialFunctionNode.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/compile/SubqueryNode.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/sql/compile/TableElementList.java","Kristian Waagan",0.111111111111111,9
+"java/engine/org/apache/derby/impl/sql/compile/TableElementList.java","Richard N. Hillegas",0.888888888888889,9
+"java/engine/org/apache/derby/impl/sql/compile/UpdateNode.java","Richard N. Hillegas",1,4
+"java/engine/org/apache/derby/impl/sql/conn/GenericLanguageConnectionContext.java","Bryan Pendleton",0.5,2
+"java/engine/org/apache/derby/impl/sql/conn/GenericLanguageConnectionContext.java","Richard N. Hillegas",0.5,2
+"java/engine/org/apache/derby/impl/sql/execute/AlterTableConstantAction.java","Katherine Marsden",0.2,5
+"java/engine/org/apache/derby/impl/sql/execute/AlterTableConstantAction.java","Mamta Satoor",0.2,5
+"java/engine/org/apache/derby/impl/sql/execute/AlterTableConstantAction.java","Richard N. Hillegas",0.6,5
+"java/engine/org/apache/derby/impl/sql/execute/BasicNoPutResultSetImpl.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/ColumnInfo.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/execute/CreateTableConstantAction.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/execute/DDLConstantAction.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/execute/GenericExecutionFactory.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/GenericResultSetFactory.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/execute/InsertResultSet.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/execute/NoPutResultSetImpl.java","Bryan Pendleton",0.5,2
+"java/engine/org/apache/derby/impl/sql/execute/NoPutResultSetImpl.java","Dag H. Wanvik",0.5,2
+"java/engine/org/apache/derby/impl/sql/execute/NormalizeResultSet.java","Richard N. Hillegas",1,2
+"java/engine/org/apache/derby/impl/sql/execute/NoRowsResultSetImpl.java","Bryan Pendleton",0.2,5
+"java/engine/org/apache/derby/impl/sql/execute/NoRowsResultSetImpl.java","Knut Anders Hatlen",0.2,5
+"java/engine/org/apache/derby/impl/sql/execute/NoRowsResultSetImpl.java","Richard N. Hillegas",0.6,5
+"java/engine/org/apache/derby/impl/sql/execute/RealResultSetStatisticsFactory.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/execute/RowCountResultSet.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealAnyResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealBasicNoPutResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealCurrentOfStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealDeleteCascadeResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealDeleteResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealDeleteVTIResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealDistinctScalarAggregateStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealDistinctScanStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealGroupedAggregateStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealHashJoinStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealHashLeftOuterJoinStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealHashScanStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealHashTableStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealIndexRowToBaseRowStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealInsertResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealInsertVTIResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealJoinResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealLastIndexKeyScanStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealMaterializedResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealNestedLoopJoinStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealNestedLoopLeftOuterJoinStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealNormalizeResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealNoRowsResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealOnceResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealProjectRestrictStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealRowCountStatistics.java","Bryan Pendleton",0.5,2
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealRowCountStatistics.java","Dag H. Wanvik",0.5,2
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealRowResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealScalarAggregateStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealScrollInsensitiveResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealSetOpResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealSortStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealTableScanStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealUnionResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealUpdateResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealVTIStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RealWindowResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/ResultSetStatistics.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/rts/RunTimeStatisticsImpl.java","Bryan Pendleton",1,1
+"java/engine/org/apache/derby/impl/sql/execute/ScrollInsensitiveResultSet.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/execute/SetRoleConstantAction.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/impl/sql/execute/UpdateResultSet.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/GenericColumnDescriptor.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/sql/GenericStatement.java","Richard N. Hillegas",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/BTreeController.java","Knut Anders Hatlen",0.8,5
+"java/engine/org/apache/derby/impl/store/access/btree/BTreeController.java","Kristian Waagan",0.2,5
+"java/engine/org/apache/derby/impl/store/access/btree/BTreeForwardScan.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/BTreeLockingPolicy.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/BTreeMaxScan.java","Knut Anders Hatlen",0.5,2
+"java/engine/org/apache/derby/impl/store/access/btree/BTreeMaxScan.java","Mike Matrigali",0.5,2
+"java/engine/org/apache/derby/impl/store/access/btree/BTreePostCommit.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/BTreeRowPosition.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/BTreeScan.java","Knut Anders Hatlen",0.5,2
+"java/engine/org/apache/derby/impl/store/access/btree/BTreeScan.java","Kristian Waagan",0.5,2
+"java/engine/org/apache/derby/impl/store/access/btree/index/B2INoLocking.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/index/B2IRowLocking1.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/index/B2IRowLocking2.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/index/B2IRowLocking3.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/index/B2IRowLockingRR.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/LeafControlRow.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/btree/OpenBTree.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/conglomerate/TemplateRow.java","Kristian Waagan",1,1
+"java/engine/org/apache/derby/impl/store/access/heap/HeapRowLocation.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/heap/HeapScan.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/RAMTransaction.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/sort/NodeAllocator.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/access/sort/Scan.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/raw/data/BasePage.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/raw/data/ReclaimSpaceHelper.java","Katherine Marsden",1,2
+"java/engine/org/apache/derby/impl/store/raw/data/StoredFieldHeader.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/raw/data/StoredPage.java","Knut Anders Hatlen",1,2
+"java/engine/org/apache/derby/impl/store/raw/log/LogToFile.java","Katherine Marsden",1,1
+"java/engine/org/apache/derby/impl/store/raw/RawStore.java","Katherine Marsden",1,1
+"java/engine/org/apache/derby/impl/store/raw/xact/Xact.java","Knut Anders Hatlen",1,1
+"java/engine/org/apache/derby/impl/store/replication/net/ReplicationMessageTransmit.java","Dag H. Wanvik",1,1
+"java/engine/org/apache/derby/jdbc/EmbedXAResource.java","Katherine Marsden",1,1
+"java/shared/org/apache/derby/shared/common/reference/MessageId.java","Katherine Marsden",0.5,2
+"java/shared/org/apache/derby/shared/common/reference/MessageId.java","Kristian Waagan",0.5,2
+"java/shared/org/apache/derby/shared/common/reference/SQLState.java","Dag H. Wanvik",0.2,10
+"java/shared/org/apache/derby/shared/common/reference/SQLState.java","Katherine Marsden",0.1,10
+"java/shared/org/apache/derby/shared/common/reference/SQLState.java","Knut Anders Hatlen",0.1,10
+"java/shared/org/apache/derby/shared/common/reference/SQLState.java","Richard N. Hillegas",0.6,10
+"java/storeless/org/apache/derby/impl/storeless/EmptyDictionary.java","Katherine Marsden",1,1
+"java/stubs/felix/org/osgi/framework/AdminPermission.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/AllServiceListener.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/Bundle.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/BundleActivator.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/BundleContext.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/BundleEvent.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/BundleException.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/BundleListener.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/BundlePermission.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/Configurable.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/Constants.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/Filter.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/FrameworkEvent.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/FrameworkListener.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/FrameworkUtil.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/InvalidSyntaxException.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/PackagePermission.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/ServiceEvent.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/ServiceFactory.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/ServiceListener.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/ServicePermission.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/ServiceReference.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/ServiceRegistration.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/SynchronousBundleListener.java","Richard N. Hillegas",1,1
+"java/stubs/felix/org/osgi/framework/Version.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Array.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/BatchUpdateException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Blob.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/CallableStatement.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Clob.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Connection.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/DatabaseMetaData.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/DataTruncation.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Date.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Driver.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/DriverManager.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/DriverPropertyInfo.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/ParameterMetaData.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/PreparedStatement.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Ref.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/ResultSet.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/ResultSetMetaData.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Savepoint.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/SQLData.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/SQLException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/SQLInput.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/SQLOutput.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/SQLPermission.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/SQLWarning.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Statement.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Struct.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Time.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/java/sql/Timestamp.java","Knut Anders Hatlen",0.5,2
+"java/stubs/jdbc3/java/sql/Timestamp.java","Richard N. Hillegas",0.5,2
+"java/stubs/jdbc3/java/sql/Types.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/ConnectionEvent.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/ConnectionEventListener.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/ConnectionPoolDataSource.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/DataSource.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/PooledConnection.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/RowSet.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/RowSetEvent.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/RowSetInternal.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/RowSetListener.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/RowSetMetaData.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/RowSetReader.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/RowSetWriter.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/XAConnection.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc3/javax/sql/XADataSource.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Array.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/BatchUpdateException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Blob.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/CallableStatement.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/ClientInfoStatus.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Clob.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Connection.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/DatabaseMetaData.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/DataTruncation.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Date.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Driver.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/DriverManager.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/DriverPropertyInfo.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/NClob.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/ParameterMetaData.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/PreparedStatement.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Ref.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/ResultSet.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/ResultSetMetaData.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/RowId.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/RowIdLifetime.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Savepoint.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLClientInfoException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLData.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLDataException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLFeatureNotSupportedException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLInput.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLIntegrityConstraintViolationException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLInvalidAuthorizationSpecException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLNonTransientConnectionException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLNonTransientException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLOutput.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLPermission.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLRecoverableException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLSyntaxErrorException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLTimeoutException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLTransactionRollbackException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLTransientConnectionException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLTransientException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLWarning.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/SQLXML.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Statement.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Struct.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Time.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Timestamp.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Types.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/java/sql/Wrapper.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/CommonDataSource.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/ConnectionEvent.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/ConnectionEventListener.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/ConnectionPoolDataSource.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/DataSource.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/PooledConnection.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/RowSet.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/BaseRowSet.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/CachedRowSet.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/FilteredRowSet.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/JdbcRowSet.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/Joinable.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/JoinRowSet.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/Predicate.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/RowSetMetaDataImpl.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/RowSetWarning.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/serial/SerialArray.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/serial/SerialBlob.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/serial/SerialClob.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/serial/SerialDatalink.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/serial/SerialException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/serial/SerialJavaObject.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/serial/SerialRef.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/serial/SerialStruct.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/serial/SQLInputImpl.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/serial/SQLOutputImpl.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/spi/SyncFactory.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/spi/SyncFactoryException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/spi/SyncProvider.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/spi/SyncProviderException.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/spi/SyncResolver.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/spi/TransactionalWriter.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/spi/XmlReader.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/spi/XmlWriter.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/rowset/WebRowSet.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/RowSetEvent.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/RowSetInternal.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/RowSetListener.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/RowSetMetaData.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/RowSetReader.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/RowSetWriter.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/StatementEvent.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/StatementEventListener.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/XAConnection.java","Richard N. Hillegas",1,1
+"java/stubs/jdbc4/javax/sql/XADataSource.java","Richard N. Hillegas",1,1
+"java/stubs/jsr169/java/sql/CallableStatement.java","Richard N. Hillegas",1,3
+"java/stubs/jsr169/javax/sql/RowSet.java","Richard N. Hillegas",1,3
+"java/testing/org/apache/derby/impl/drda/ProtocolTest.java","Katherine Marsden",1,1
+"java/testing/org/apache/derby/impl/jdbc/BiggerStoreStreamClobTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derby/impl/jdbc/BiggerTemporaryClobTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derby/impl/jdbc/InternalClobTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derby/impl/jdbc/SmallStoreStreamClobTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derby/impl/jdbc/SmallTemporaryClobTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derby/impl/jdbc/UTF8ReaderTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/functionTests/harness/FileCompare.java","Myrna van Lunteren",1,1
+"java/testing/org/apache/derbyTesting/functionTests/harness/j9dee15.java","Myrna van Lunteren",1,1
+"java/testing/org/apache/derbyTesting/functionTests/harness/RunList.java","Myrna van Lunteren",1,2
+"java/testing/org/apache/derbyTesting/functionTests/harness/RunSuite.java","Myrna van Lunteren",1,1
+"java/testing/org/apache/derbyTesting/functionTests/harness/RunTest.java","Myrna van Lunteren",1,1
+"java/testing/org/apache/derbyTesting/functionTests/suites/AllPackages.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/derbynet/NSinSameJVMTest.java","Myrna van Lunteren",1,5
+"java/testing/org/apache/derbyTesting/functionTests/tests/derbynet/PrepareStatementTest.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/i18n/LocalizedAttributeScriptTest.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/i18n/LocalizedDisplayScriptTest.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbc4/BlobTest.java","Kristian Waagan",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbc4/ClobTest.java","Kristian Waagan",1,4
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbc4/StreamTruncationTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbc4/TestDbMetaData.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/_Suite.java","Katherine Marsden",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/BatchUpdateTest.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/BlobClob4BlobTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/CharacterStreamsTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/ClobTest.java","Katherine Marsden",0.142857142857143,7
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/ClobTest.java","Kristian Waagan",0.857142857142857,7
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/DataSourceTest.java","Kristian Waagan",0.5,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/DataSourceTest.java","Myrna van Lunteren",0.5,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/InternationalConnectSimpleDSTest.java","Katherine Marsden",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/InternationalConnectTest.java","Katherine Marsden",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/J2EEDataSourceTest.java","Knut Anders Hatlen",0.5,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/J2EEDataSourceTest.java","Myrna van Lunteren",0.5,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/JDBCDriversPropertyTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/LDAPAuthenticationTest.java","Myrna van Lunteren",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/ResultSetStreamTest.java","Katherine Marsden",0.5,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/ResultSetStreamTest.java","Kristian Waagan",0.5,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/XAJNDITest.java","Myrna van Lunteren",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/XATransactionTest.java","Katherine Marsden",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/_Suite.java","Bryan Pendleton",0.125,8
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/_Suite.java","Dag H. Wanvik",0.25,8
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/_Suite.java","Katherine Marsden",0.125,8
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/_Suite.java","Knut Anders Hatlen",0.25,8
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/_Suite.java","Richard N. Hillegas",0.25,8
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/AlterColumnTest.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/AnsiSignaturesTest.java","Richard N. Hillegas",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/CollationTest.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/concateTests.java","Bryan Pendleton",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/DatabaseClassLoadingTest.java","Richard N. Hillegas",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/ErrorCodeTest.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/GeneratedColumnsHelper.java","Richard N. Hillegas",1,7
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/GeneratedColumnsPermsTest.java","Richard N. Hillegas",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/GeneratedColumnsTest.java","Richard N. Hillegas",1,20
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/GrantRevokeTest.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/GroupByTest.java","Dag H. Wanvik",0.333333333333333,3
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/GroupByTest.java","Katherine Marsden",0.666666666666667,3
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/NullableUniqueConstraintTest.java","Knut Anders Hatlen",1,3
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/OffsetFetchNextTest.java","Dag H. Wanvik",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/ReferentialActionsTest.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/RolesConferredPrivilegesTest.java","Myrna van Lunteren",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/RolesTest.java","Dag H. Wanvik",1,3
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/SelectivityTest.java","Katherine Marsden",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/StringColumnVTI.java","Richard N. Hillegas",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/TriggerTest.java","Katherine Marsden",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/UpdatableResultSetTest.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/UserLobTest.java","Richard N. Hillegas",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/lang/ViewsTest.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/_Suite.java","Kristian Waagan",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/BasicInMemoryDbTest.java","Kristian Waagan",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_CleanUp.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Distributed.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Full.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_1.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_3_p2.java","Myrna van Lunteren",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_3_p3.java","Dag H. Wanvik",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_StateTest_part1_1.java","Dag H. Wanvik",1,3
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_StateTest_part1_2.java","Dag H. Wanvik",1,3
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_StateTest_part1_3.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_StateTest_part1.java","Dag H. Wanvik",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_StateTest_part2.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationSuite.java","Dag H. Wanvik",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/store/_Suite.java","Katherine Marsden",0.666666666666667,6
+"java/testing/org/apache/derbyTesting/functionTests/tests/store/_Suite.java","Knut Anders Hatlen",0.333333333333333,6
+"java/testing/org/apache/derbyTesting/functionTests/tests/store/ClobReclamationTest.java","Katherine Marsden",1,4
+"java/testing/org/apache/derbyTesting/functionTests/tests/store/Derby3980DeadlockTest.java","Katherine Marsden",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/store/IndexSplitDeadlockTest.java","Knut Anders Hatlen",1,5
+"java/testing/org/apache/derbyTesting/functionTests/tests/store/LiveLockTest.java","Katherine Marsden",1,3
+"java/testing/org/apache/derbyTesting/functionTests/tests/store/OfflineBackupTest.java","Katherine Marsden",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/tools/ImportExportTest.java","Knut Anders Hatlen",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/tools/ToolScripts.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/_Suite.java","Richard N. Hillegas",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/PhaseChanger.java","Richard N. Hillegas",1,2
+"java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/UpgradeRun.java","Bryan Pendleton",0.333333333333333,3
+"java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/UpgradeRun.java","Richard N. Hillegas",0.666666666666667,3
+"java/testing/org/apache/derbyTesting/functionTests/util/CanonTestCase.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/util/ScriptTestCase.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/functionTests/util/streams/CharAlphabet.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/functionTests/util/streams/LoopingAlphabetReader.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/junit/BaseJDBCTestCase.java","Katherine Marsden",1,2
+"java/testing/org/apache/derbyTesting/junit/BaseTestCase.java","Katherine Marsden",0.5,2
+"java/testing/org/apache/derbyTesting/junit/BaseTestCase.java","Richard N. Hillegas",0.5,2
+"java/testing/org/apache/derbyTesting/junit/JDBC.java","Richard N. Hillegas",1,1
+"java/testing/org/apache/derbyTesting/junit/RuntimeStatisticsParser.java","Katherine Marsden",0.333333333333333,3
+"java/testing/org/apache/derbyTesting/junit/RuntimeStatisticsParser.java","Knut Anders Hatlen",0.333333333333333,3
+"java/testing/org/apache/derbyTesting/junit/RuntimeStatisticsParser.java","Mamta Satoor",0.333333333333333,3
+"java/testing/org/apache/derbyTesting/perf/basic/_Suite.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/perf/basic/jdbc/ClobAccessTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/perf/basic/jdbc/IndexScanTest.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/perf/basic/jdbc/SelectDistinctTest.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/system/sttest/utils/Datatypes.java","Myrna van Lunteren",1,1
+"java/testing/org/apache/derbyTesting/unitTests/junit/_Suite.java","Knut Anders Hatlen",0.25,4
+"java/testing/org/apache/derbyTesting/unitTests/junit/_Suite.java","Kristian Waagan",0.75,4
+"java/testing/org/apache/derbyTesting/unitTests/junit/BlockedByteArrayTest.java","Kristian Waagan",1,2
+"java/testing/org/apache/derbyTesting/unitTests/junit/CharacterStreamDescriptorTest.java","Kristian Waagan",1,2
+"java/testing/org/apache/derbyTesting/unitTests/junit/CompressedNumberTest.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/unitTests/junit/PathUtilTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/unitTests/junit/ReaderToUTF8StreamTest.java","Kristian Waagan",1,1
+"java/testing/org/apache/derbyTesting/unitTests/junit/UTF8UtilTest.java","Kristian Waagan",1,3
+"java/testing/org/apache/derbyTesting/unitTests/junit/VirtualFileTest.java","Kristian Waagan",1,2
+"java/testing/org/apache/derbyTesting/unitTests/store/T_b2i.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/unitTests/store/T_RawStoreFactory.java","Knut Anders Hatlen",1,1
+"java/testing/org/apache/derbyTesting/unitTests/store/T_Recovery.java","Richard N. Hillegas",1,1
+"java/tools/org/apache/derby/impl/tools/ij/Main.java","Bryan Pendleton",1,1
+"java/tools/org/apache/derby/impl/tools/ij/mtTestCase.java","Bryan Pendleton",1,1
+"java/tools/org/apache/derby/impl/tools/ij/util.java","Bryan Pendleton",1,1
+"java/tools/org/apache/derby/impl/tools/ij/utilMain.java","Bryan Pendleton",1,1
+"java/tools/org/apache/derby/impl/tools/ij/xaHelper.java","Katherine Marsden",1,1

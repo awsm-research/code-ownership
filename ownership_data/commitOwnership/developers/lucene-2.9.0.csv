@@ -1,0 +1,1795 @@
+"Change_file","AuthorName","length","Sum"
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicAnalyzer.java","Robert Muir",0.75,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicAnalyzer.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicLetterTokenizer.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicLetterTokenizer.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicLetterTokenizer.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicNormalizationFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicNormalizationFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicNormalizationFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicNormalizer.java","Simon Willnauer",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicStemFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicStemFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicStemFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicStemmer.java","Robert Muir",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ar/ArabicStemmer.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/br/BrazilianAnalyzer.java","Robert Muir",0.75,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/br/BrazilianAnalyzer.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/br/BrazilianStemFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/br/BrazilianStemFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/br/BrazilianStemFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/br/BrazilianStemmer.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/br/BrazilianStemmer.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/br/BrazilianStemmer.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk/CJKAnalyzer.java","Robert Muir",0.666666666666667,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk/CJKAnalyzer.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk/CJKTokenizer.java","Michael Busch",0.375,8
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk/CJKTokenizer.java","Robert Muir",0.25,8
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk/CJKTokenizer.java","Simon Willnauer",0.125,8
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cjk/CJKTokenizer.java","Uwe Schindler",0.25,8
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn/ChineseAnalyzer.java","Robert Muir",0.666666666666667,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn/ChineseAnalyzer.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn/ChineseFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn/ChineseFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn/ChineseFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn/ChineseTokenizer.java","Michael Busch",0.375,8
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn/ChineseTokenizer.java","Robert Muir",0.25,8
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn/ChineseTokenizer.java","Simon Willnauer",0.125,8
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cn/ChineseTokenizer.java","Uwe Schindler",0.25,8
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/CompoundWordTokenFilterBase.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/CompoundWordTokenFilterBase.java","Robert Muir",0.5,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/CompoundWordTokenFilterBase.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/DictionaryCompoundWordTokenFilter.java","Robert Muir",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/DictionaryCompoundWordTokenFilter.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/ByteVector.java","Simon Willnauer",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/CharVector.java","Simon Willnauer",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/Hyphen.java","Simon Willnauer",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/Hyphenation.java","Simon Willnauer",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/HyphenationException.java","Simon Willnauer",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/HyphenationTree.java","Robert Muir",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/HyphenationTree.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/PatternConsumer.java","Simon Willnauer",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/PatternParser.java","Simon Willnauer",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/TernaryTree.java","Chris M. Hostetter",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/hyphenation/TernaryTree.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/HyphenationCompoundWordTokenFilter.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/HyphenationCompoundWordTokenFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/compound/HyphenationCompoundWordTokenFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz/CzechAnalyzer.java","Robert Muir",0.75,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/cz/CzechAnalyzer.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/de/GermanAnalyzer.java","Robert Muir",0.75,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/de/GermanAnalyzer.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/de/GermanStemFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/de/GermanStemFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/de/GermanStemFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/de/GermanStemmer.java","Robert Muir",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/de/GermanStemmer.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/el/GreekAnalyzer.java","Robert Muir",0.75,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/el/GreekAnalyzer.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/el/GreekCharsets.java","Robert Muir",0.666666666666667,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/el/GreekCharsets.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/el/GreekLowerCaseFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/el/GreekLowerCaseFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/el/GreekLowerCaseFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa/PersianAnalyzer.java","Robert Muir",1,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa/PersianNormalizationFilter.java","Robert Muir",1,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fa/PersianNormalizer.java","Robert Muir",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/ElisionFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/ElisionFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/ElisionFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/FrenchAnalyzer.java","Robert Muir",0.75,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/FrenchAnalyzer.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/FrenchStemFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/FrenchStemFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/FrenchStemFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/FrenchStemmer.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/FrenchStemmer.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/fr/FrenchStemmer.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/EmptyTokenStream.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/EmptyTokenStream.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/PrefixAndSuffixAwareTokenFilter.java","Michael Busch",0.5,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/PrefixAndSuffixAwareTokenFilter.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/PrefixAndSuffixAwareTokenFilter.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/PrefixAwareTokenFilter.java","Michael Busch",0.666666666666667,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/PrefixAwareTokenFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/SingleTokenTokenStream.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/SingleTokenTokenStream.java","Robert Muir",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/SingleTokenTokenStream.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/miscellaneous/SingleTokenTokenStream.java","Uwe Schindler",0.4,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/EdgeNGramTokenFilter.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/EdgeNGramTokenFilter.java","Robert Muir",0.5,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/EdgeNGramTokenFilter.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/EdgeNGramTokenizer.java","Mark Robert Miller",0.111111111111111,9
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/EdgeNGramTokenizer.java","Michael Busch",0.333333333333333,9
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/EdgeNGramTokenizer.java","Robert Muir",0.222222222222222,9
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/EdgeNGramTokenizer.java","Simon Willnauer",0.111111111111111,9
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/EdgeNGramTokenizer.java","Uwe Schindler",0.222222222222222,9
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/NGramTokenFilter.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/NGramTokenFilter.java","Robert Muir",0.5,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/NGramTokenFilter.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/NGramTokenizer.java","Mark Robert Miller",0.111111111111111,9
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/NGramTokenizer.java","Michael Busch",0.333333333333333,9
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/NGramTokenizer.java","Robert Muir",0.222222222222222,9
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/NGramTokenizer.java","Simon Willnauer",0.111111111111111,9
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ngram/NGramTokenizer.java","Uwe Schindler",0.222222222222222,9
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl/DutchAnalyzer.java","Robert Muir",0.75,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl/DutchAnalyzer.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl/DutchStemFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl/DutchStemFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl/DutchStemFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl/DutchStemmer.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl/DutchStemmer.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl/DutchStemmer.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/nl/WordlistLoader.java","Simon Willnauer",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/AbstractEncoder.java","Mark Robert Miller",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/AbstractEncoder.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/AbstractEncoder.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/DelimitedPayloadTokenFilter.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/DelimitedPayloadTokenFilter.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/FloatEncoder.java","Grant Ingersoll",0.5,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/FloatEncoder.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/FloatEncoder.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/IdentityEncoder.java","Simon Willnauer",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/IntegerEncoder.java","Grant Ingersoll",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/IntegerEncoder.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/NumericPayloadTokenFilter.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/NumericPayloadTokenFilter.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/PayloadEncoder.java","Robert Muir",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/PayloadEncoder.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/PayloadHelper.java","Robert Muir",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/PayloadHelper.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/TokenOffsetPayloadTokenFilter.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/TokenOffsetPayloadTokenFilter.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/TypeAsPayloadTokenFilter.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/payloads/TypeAsPayloadTokenFilter.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/position/PositionFilter.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/position/PositionFilter.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/query/QueryAutoStopWordAnalyzer.java","Robert Muir",0.5,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/query/QueryAutoStopWordAnalyzer.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/query/QueryAutoStopWordAnalyzer.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse/ReverseStringFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse/ReverseStringFilter.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/reverse/ReverseStringFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianAnalyzer.java","Mark Robert Miller",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianAnalyzer.java","Robert Muir",0.6,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianAnalyzer.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianCharsets.java","Robert Muir",0.666666666666667,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianCharsets.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianLetterTokenizer.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianLetterTokenizer.java","Robert Muir",0.6,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianLetterTokenizer.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianLowerCaseFilter.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianLowerCaseFilter.java","Robert Muir",0.5,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianLowerCaseFilter.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianStemFilter.java","Chris M. Hostetter",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianStemFilter.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianStemFilter.java","Robert Muir",0.4,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianStemFilter.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianStemmer.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianStemmer.java","Robert Muir",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/ru/RussianStemmer.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle/ShingleAnalyzerWrapper.java","Robert Muir",0.666666666666667,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle/ShingleAnalyzerWrapper.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle/ShingleFilter.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle/ShingleFilter.java","Robert Muir",0.4,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle/ShingleFilter.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle/ShingleFilter.java","Uwe Schindler",0.2,5
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle/ShingleMatrixFilter.java","Chris M. Hostetter",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle/ShingleMatrixFilter.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle/ShingleMatrixFilter.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/shingle/ShingleMatrixFilter.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/DateRecognizerSinkFilter.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/DateRecognizerSinkFilter.java","Uwe Schindler",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/DateRecognizerSinkTokenizer.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/DateRecognizerSinkTokenizer.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/TokenRangeSinkFilter.java","Michael Busch",1,1
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/TokenRangeSinkTokenizer.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/TokenRangeSinkTokenizer.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/TokenTypeSinkFilter.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/TokenTypeSinkFilter.java","Uwe Schindler",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/TokenTypeSinkTokenizer.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/sinks/TokenTypeSinkTokenizer.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/th/ThaiAnalyzer.java","Robert Muir",0.666666666666667,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/th/ThaiAnalyzer.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/th/ThaiWordFilter.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/th/ThaiWordFilter.java","Robert Muir",0.5,4
+"contrib/analyzers/common/src/java/org/apache/lucene/analysis/th/ThaiWordFilter.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar/TestArabicAnalyzer.java","Robert Muir",0.5,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar/TestArabicAnalyzer.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar/TestArabicAnalyzer.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar/TestArabicNormalizationFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar/TestArabicNormalizationFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar/TestArabicNormalizationFilter.java","Uwe Schindler",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar/TestArabicStemFilter.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar/TestArabicStemFilter.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar/TestArabicStemFilter.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ar/TestArabicStemFilter.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/br/TestBrazilianStemmer.java","Michael Busch",0.166666666666667,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/br/TestBrazilianStemmer.java","Robert Muir",0.5,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/br/TestBrazilianStemmer.java","Simon Willnauer",0.166666666666667,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/br/TestBrazilianStemmer.java","Uwe Schindler",0.166666666666667,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk/TestCJKTokenizer.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk/TestCJKTokenizer.java","Robert Muir",0.4,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk/TestCJKTokenizer.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cjk/TestCJKTokenizer.java","Uwe Schindler",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn/TestChineseTokenizer.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn/TestChineseTokenizer.java","Robert Muir",0.4,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn/TestChineseTokenizer.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cn/TestChineseTokenizer.java","Uwe Schindler",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound/TestCompoundWordTokenFilter.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound/TestCompoundWordTokenFilter.java","Michael McCandless",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound/TestCompoundWordTokenFilter.java","Robert Muir",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound/TestCompoundWordTokenFilter.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/compound/TestCompoundWordTokenFilter.java","Uwe Schindler",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz/TestCzechAnalyzer.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz/TestCzechAnalyzer.java","Robert Muir",0.4,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz/TestCzechAnalyzer.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/cz/TestCzechAnalyzer.java","Uwe Schindler",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/de/TestGermanStemFilter.java","Michael Busch",0.166666666666667,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/de/TestGermanStemFilter.java","Robert Muir",0.5,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/de/TestGermanStemFilter.java","Simon Willnauer",0.166666666666667,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/de/TestGermanStemFilter.java","Uwe Schindler",0.166666666666667,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/el/GreekAnalyzerTest.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/el/GreekAnalyzerTest.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/el/GreekAnalyzerTest.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/el/GreekAnalyzerTest.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa/TestPersianAnalyzer.java","Robert Muir",0.5,2
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa/TestPersianAnalyzer.java","Uwe Schindler",0.5,2
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa/TestPersianNormalizationFilter.java","Robert Muir",0.5,2
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fa/TestPersianNormalizationFilter.java","Uwe Schindler",0.5,2
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr/TestElision.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr/TestElision.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr/TestElision.java","Uwe Schindler",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr/TestFrenchAnalyzer.java","Mark Robert Miller",0.166666666666667,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr/TestFrenchAnalyzer.java","Michael Busch",0.166666666666667,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr/TestFrenchAnalyzer.java","Robert Muir",0.333333333333333,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr/TestFrenchAnalyzer.java","Simon Willnauer",0.166666666666667,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/fr/TestFrenchAnalyzer.java","Uwe Schindler",0.166666666666667,6
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestEmptyTokenStream.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestEmptyTokenStream.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestEmptyTokenStream.java","Uwe Schindler",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestPrefixAndSuffixAwareTokenFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestPrefixAndSuffixAwareTokenFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestPrefixAndSuffixAwareTokenFilter.java","Uwe Schindler",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestPrefixAwareTokenFilter.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestPrefixAwareTokenFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestPrefixAwareTokenFilter.java","Uwe Schindler",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestSingleTokenTokenFilter.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/miscellaneous/TestSingleTokenTokenFilter.java","Uwe Schindler",0.5,2
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/EdgeNGramTokenFilterTest.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/EdgeNGramTokenFilterTest.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/EdgeNGramTokenFilterTest.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/EdgeNGramTokenFilterTest.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/EdgeNGramTokenizerTest.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/EdgeNGramTokenizerTest.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/EdgeNGramTokenizerTest.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/EdgeNGramTokenizerTest.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/NGramTokenFilterTest.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/NGramTokenFilterTest.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/NGramTokenFilterTest.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/NGramTokenFilterTest.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/NGramTokenizerTest.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/NGramTokenizerTest.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/NGramTokenizerTest.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ngram/NGramTokenizerTest.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl/TestDutchStemmer.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl/TestDutchStemmer.java","Robert Muir",0.4,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl/TestDutchStemmer.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/nl/TestDutchStemmer.java","Uwe Schindler",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/DelimitedPayloadTokenFilterTest.java","Michael Busch",0.5,2
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/DelimitedPayloadTokenFilterTest.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/NumericPayloadTokenFilterTest.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/NumericPayloadTokenFilterTest.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/NumericPayloadTokenFilterTest.java","Uwe Schindler",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/TokenOffsetPayloadTokenFilterTest.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/TokenOffsetPayloadTokenFilterTest.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/TokenOffsetPayloadTokenFilterTest.java","Uwe Schindler",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/TypeAsPayloadTokenFilterTest.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/TypeAsPayloadTokenFilterTest.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/payloads/TypeAsPayloadTokenFilterTest.java","Uwe Schindler",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/position/PositionFilterTest.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/position/PositionFilterTest.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/position/PositionFilterTest.java","Uwe Schindler",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/query/QueryAutoStopWordAnalyzerTest.java","Robert Muir",0.5,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/query/QueryAutoStopWordAnalyzerTest.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/query/QueryAutoStopWordAnalyzerTest.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse/TestReverseStringFilter.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse/TestReverseStringFilter.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse/TestReverseStringFilter.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/reverse/TestReverseStringFilter.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru/TestRussianAnalyzer.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru/TestRussianAnalyzer.java","Robert Muir",0.4,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru/TestRussianAnalyzer.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru/TestRussianAnalyzer.java","Uwe Schindler",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru/TestRussianStem.java","Simon Willnauer",0.5,2
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/ru/TestRussianStem.java","Uwe Schindler",0.5,2
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/ShingleAnalyzerWrapperTest.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/ShingleAnalyzerWrapperTest.java","Robert Muir",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/ShingleAnalyzerWrapperTest.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/ShingleAnalyzerWrapperTest.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/ShingleFilterTest.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/ShingleFilterTest.java","Robert Muir",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/ShingleFilterTest.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/ShingleFilterTest.java","Uwe Schindler",0.4,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/TestShingleMatrixFilter.java","Mark Robert Miller",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/TestShingleMatrixFilter.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/TestShingleMatrixFilter.java","Robert Muir",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/TestShingleMatrixFilter.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/shingle/TestShingleMatrixFilter.java","Uwe Schindler",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks/DateRecognizerSinkTokenizerTest.java","Michael Busch",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks/DateRecognizerSinkTokenizerTest.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks/DateRecognizerSinkTokenizerTest.java","Uwe Schindler",0.5,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks/TokenRangeSinkTokenizerTest.java","Michael Busch",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks/TokenRangeSinkTokenizerTest.java","Simon Willnauer",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks/TokenRangeSinkTokenizerTest.java","Uwe Schindler",0.333333333333333,3
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks/TokenTypeSinkTokenizerTest.java","Michael Busch",0.5,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks/TokenTypeSinkTokenizerTest.java","Simon Willnauer",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/sinks/TokenTypeSinkTokenizerTest.java","Uwe Schindler",0.25,4
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/th/TestThaiAnalyzer.java","Michael Busch",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/th/TestThaiAnalyzer.java","Robert Muir",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/th/TestThaiAnalyzer.java","Simon Willnauer",0.2,5
+"contrib/analyzers/common/src/test/org/apache/lucene/analysis/th/TestThaiAnalyzer.java","Uwe Schindler",0.4,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/AnalyzerProfile.java","Chris M. Hostetter",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/AnalyzerProfile.java","Robert Muir",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/AnalyzerProfile.java","Simon Willnauer",0.5,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/CharType.java","Chris M. Hostetter",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/CharType.java","Robert Muir",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/CharType.java","Simon Willnauer",0.5,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/AbstractDictionary.java","Chris M. Hostetter",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/AbstractDictionary.java","Robert Muir",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/AbstractDictionary.java","Simon Willnauer",0.5,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/BigramDictionary.java","Chris M. Hostetter",0.4,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/BigramDictionary.java","Robert Muir",0.2,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/BigramDictionary.java","Simon Willnauer",0.4,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/BiSegGraph.java","Chris M. Hostetter",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/BiSegGraph.java","Robert Muir",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/BiSegGraph.java","Simon Willnauer",0.5,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/HHMMSegmenter.java","Chris M. Hostetter",0.571428571428571,7
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/HHMMSegmenter.java","Robert Muir",0.142857142857143,7
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/HHMMSegmenter.java","Simon Willnauer",0.285714285714286,7
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/PathNode.java","Chris M. Hostetter",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/PathNode.java","Robert Muir",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/PathNode.java","Simon Willnauer",0.5,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegGraph.java","Chris M. Hostetter",0.2,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegGraph.java","Robert Muir",0.4,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegGraph.java","Simon Willnauer",0.4,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegToken.java","Chris M. Hostetter",0.166666666666667,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegToken.java","Michael McCandless",0.166666666666667,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegToken.java","Robert Muir",0.333333333333333,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegToken.java","Simon Willnauer",0.333333333333333,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegTokenFilter.java","Chris M. Hostetter",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegTokenFilter.java","Robert Muir",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegTokenFilter.java","Simon Willnauer",0.5,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegTokenPair.java","Chris M. Hostetter",0.2,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegTokenPair.java","Michael McCandless",0.2,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegTokenPair.java","Robert Muir",0.2,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/SegTokenPair.java","Simon Willnauer",0.4,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/WordDictionary.java","Chris M. Hostetter",0.333333333333333,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/WordDictionary.java","Robert Muir",0.333333333333333,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/hhmm/WordDictionary.java","Simon Willnauer",0.333333333333333,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/SentenceTokenizer.java","Chris M. Hostetter",0.111111111111111,9
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/SentenceTokenizer.java","Michael Busch",0.222222222222222,9
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/SentenceTokenizer.java","Robert Muir",0.222222222222222,9
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/SentenceTokenizer.java","Simon Willnauer",0.222222222222222,9
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/SentenceTokenizer.java","Uwe Schindler",0.222222222222222,9
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/SmartChineseAnalyzer.java","Chris M. Hostetter",1,1
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/Utility.java","Chris M. Hostetter",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/Utility.java","Robert Muir",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/Utility.java","Simon Willnauer",0.5,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordSegmenter.java","Chris M. Hostetter",0.2,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordSegmenter.java","Michael Busch",0.2,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordSegmenter.java","Robert Muir",0.2,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordSegmenter.java","Simon Willnauer",0.4,5
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordTokenFilter.java","Chris M. Hostetter",0.166666666666667,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordTokenFilter.java","Michael Busch",0.166666666666667,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordTokenFilter.java","Robert Muir",0.333333333333333,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordTokenFilter.java","Simon Willnauer",0.333333333333333,6
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordType.java","Chris M. Hostetter",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordType.java","Robert Muir",0.25,4
+"contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordType.java","Simon Willnauer",0.5,4
+"contrib/analyzers/smartcn/src/test/org/apache/lucene/analysis/cn/smart/TestSmartChineseAnalyzer.java","Chris M. Hostetter",1,1
+"contrib/ant/src/java/org/apache/lucene/ant/FileExtensionDocumentHandler.java","Mark Robert Miller",1,1
+"contrib/ant/src/java/org/apache/lucene/ant/HtmlDocument.java","Mark Robert Miller",0.5,2
+"contrib/ant/src/java/org/apache/lucene/ant/HtmlDocument.java","Michael McCandless",0.5,2
+"contrib/ant/src/java/org/apache/lucene/ant/IndexTask.java","Erik Hatcher",0.5,2
+"contrib/ant/src/java/org/apache/lucene/ant/IndexTask.java","Mark Robert Miller",0.5,2
+"contrib/ant/src/java/org/apache/lucene/ant/TextDocument.java","Mark Robert Miller",1,1
+"contrib/ant/src/test/org/apache/lucene/ant/IndexTaskTest.java","Erik Hatcher",0.5,2
+"contrib/ant/src/test/org/apache/lucene/ant/IndexTaskTest.java","Mark Robert Miller",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/ContentSource.java","Mark Robert Miller",1,4
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/DemoHTMLParser.java","Mark Robert Miller",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/DirContentSource.java","Mark Robert Miller",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/DocData.java","Mark Robert Miller",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/DocMaker.java","Mark Robert Miller",0.333333333333333,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/DocMaker.java","Michael McCandless",0.666666666666667,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/EnwikiContentSource.java","Mark Robert Miller",1,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/EnwikiDocMaker.java","Mark Robert Miller",0.25,4
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/EnwikiDocMaker.java","Michael McCandless",0.75,4
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/EnwikiQueryMaker.java","Mark Robert Miller",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/EnwikiQueryMaker.java","Michael McCandless",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/FileBasedQueryMaker.java","Mark Robert Miller",1,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/HTMLParser.java","Mark Robert Miller",1,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/LineDocMaker.java","Mark Robert Miller",0.333333333333333,6
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/LineDocMaker.java","Michael McCandless",0.666666666666667,6
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/LineDocSource.java","Mark Robert Miller",1,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/NoMoreDataException.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/ReutersContentSource.java","Mark Robert Miller",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/ReutersQueryMaker.java","Mark Robert Miller",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/SimpleQueryMaker.java","Chris M. Hostetter",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/SimpleQueryMaker.java","Mark Robert Miller",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/SimpleSloppyPhraseQueryMaker.java","Chris M. Hostetter",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/SimpleSloppyPhraseQueryMaker.java","Mark Robert Miller",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/SingleDocSource.java","Mark Robert Miller",1,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/SortableSingleDocSource.java","Mark Robert Miller",1,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/feeds/TrecContentSource.java","Mark Robert Miller",1,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/PerfRunData.java","Mark Robert Miller",0.333333333333333,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/PerfRunData.java","Michael McCandless",0.333333333333333,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/PerfRunData.java","Uwe Schindler",0.333333333333333,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/programmatic/Sample.java","Chris M. Hostetter",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/programmatic/Sample.java","Mark Robert Miller",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats/Report.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/stats/TaskStats.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/AddDocTask.java","Mark Robert Miller",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/AddDocTask.java","Michael McCandless",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/BenchmarkHighlighter.java","Michael McCandless",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/CloseIndexTask.java","Michael McCandless",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/CommitIndexTask.java","Michael McCandless",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/ConsumeContentSourceTask.java","Mark Robert Miller",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/CreateIndexTask.java","Michael McCandless",1,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/DeleteByPercentTask.java","Michael McCandless",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/DeleteDocTask.java","Mark Robert Miller",1,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/FlushReaderTask.java","Michael McCandless",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/NearRealtimeReaderTask.java","Michael McCandless",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/OpenIndexTask.java","Michael McCandless",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/OpenReaderTask.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/OpenReaderTask.java","Michael McCandless",0.666666666666667,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/PerfTask.java","Chris M. Hostetter",0.25,4
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/PerfTask.java","Mark Robert Miller",0.5,4
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/PerfTask.java","Michael McCandless",0.25,4
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/PrintReaderTask.java","Michael McCandless",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/ReadTask.java","Chris M. Hostetter",0.142857142857143,7
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/ReadTask.java","Mark Robert Miller",0.142857142857143,7
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/ReadTask.java","Michael McCandless",0.714285714285714,7
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/ReadTokensTask.java","Mark Robert Miller",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/ReportTask.java","Michael McCandless",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/ResetSystemEraseTask.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/ResetSystemSoftTask.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/SearchTravRetHighlightTask.java","Michael McCandless",1,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/SearchTravRetVectorHighlightTask.java","Michael McCandless",1,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/SearchWithSortTask.java","Mark Robert Miller",0.333333333333333,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/SearchWithSortTask.java","Michael McCandless",0.666666666666667,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/SetPropTask.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/TaskSequence.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/TaskSequence.java","Mark Robert Miller",0.333333333333333,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/TaskSequence.java","Michael McCandless",0.333333333333333,3
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/UpdateDocTask.java","Mark Robert Miller",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/UpdateDocTask.java","Michael McCandless",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/WriteLineDocTask.java","Chris M. Hostetter",0.2,5
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/WriteLineDocTask.java","Mark Robert Miller",0.4,5
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/WriteLineDocTask.java","Michael McCandless",0.4,5
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/Algorithm.java","Michael McCandless",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/Config.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/Format.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/StringBufferReader.java","Chris M. Hostetter",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/byTask/utils/StringBufferReader.java","Mark Robert Miller",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/QualityBenchmark.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/QualityStats.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/trec/QueryDriver.java","Mark Robert Miller",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils/QualityQueriesFinder.java","Chris M. Hostetter",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/utils/QualityQueriesFinder.java","Uwe Schindler",0.5,2
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/stats/TestData.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/stats/TimeData.java","Chris M. Hostetter",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/utils/ExtractWikipedia.java","Mark Robert Miller",1,1
+"contrib/benchmark/src/java/org/apache/lucene/benchmark/utils/NoDeletionPolicy.java","Michael McCandless",1,1
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/BenchmarkTestCase.java","Michael McCandless",1,1
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds/DocMakerTest.java","Michael McCandless",1,1
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds/LineDocSourceTest.java","Michael McCandless",1,1
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds/TrecContentSourceTest.java","Mark Robert Miller",1,2
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks/CountingHighlighterTestTask.java","Michael McCandless",1,1
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks/CountingSearchTestTask.java","Michael McCandless",1,1
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks/CreateIndexTaskTest.java","Michael McCandless",1,1
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks/PerfTaskTest.java","Mark Robert Miller",1,1
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks/WriteLineDocTaskTest.java","Mark Robert Miller",0.4,5
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/tasks/WriteLineDocTaskTest.java","Michael McCandless",0.6,5
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/TestPerfTasksLogic.java","Mark Robert Miller",0.25,4
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/TestPerfTasksLogic.java","Michael McCandless",0.75,4
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/TestPerfTasksParse.java","Michael McCandless",1,1
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/quality/TestQualityRun.java","Mark Robert Miller",0.5,2
+"contrib/benchmark/src/test/org/apache/lucene/benchmark/quality/TestQualityRun.java","Uwe Schindler",0.5,2
+"contrib/collation/src/java/org/apache/lucene/collation/CollationKeyAnalyzer.java","Michael McCandless",0.5,2
+"contrib/collation/src/java/org/apache/lucene/collation/CollationKeyAnalyzer.java","Simon Willnauer",0.5,2
+"contrib/collation/src/java/org/apache/lucene/collation/CollationKeyFilter.java","Michael Busch",0.5,2
+"contrib/collation/src/java/org/apache/lucene/collation/CollationKeyFilter.java","Simon Willnauer",0.5,2
+"contrib/collation/src/java/org/apache/lucene/collation/ICUCollationKeyAnalyzer.java","Michael McCandless",0.5,2
+"contrib/collation/src/java/org/apache/lucene/collation/ICUCollationKeyAnalyzer.java","Simon Willnauer",0.5,2
+"contrib/collation/src/java/org/apache/lucene/collation/ICUCollationKeyFilter.java","Michael Busch",0.333333333333333,3
+"contrib/collation/src/java/org/apache/lucene/collation/ICUCollationKeyFilter.java","Michael McCandless",0.333333333333333,3
+"contrib/collation/src/java/org/apache/lucene/collation/ICUCollationKeyFilter.java","Simon Willnauer",0.333333333333333,3
+"contrib/collation/src/test/org/apache/lucene/collation/CollationTestBase.java","Uwe Schindler",1,1
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/BaseFragmentsBuilder.java","Mark Robert Miller",0.5,2
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/BaseFragmentsBuilder.java","Michael McCandless",0.5,2
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/FastVectorHighlighter.java","Mark Robert Miller",0.5,2
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/FastVectorHighlighter.java","Michael McCandless",0.5,2
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/FieldFragList.java","Michael McCandless",1,1
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/FieldPhraseList.java","Michael McCandless",1,2
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/FieldQuery.java","Mark Robert Miller",0.666666666666667,3
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/FieldQuery.java","Michael McCandless",0.333333333333333,3
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/FieldTermStack.java","Michael McCandless",1,1
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/FragListBuilder.java","Michael McCandless",1,1
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/FragmentsBuilder.java","Michael McCandless",1,1
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/ScoreOrderFragmentsBuilder.java","Chris M. Hostetter",0.5,2
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/ScoreOrderFragmentsBuilder.java","Michael McCandless",0.5,2
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/SimpleFragListBuilder.java","Michael McCandless",1,1
+"contrib/fast-vector-highlighter/src/java/org/apache/lucene/search/vectorhighlight/SimpleFragmentsBuilder.java","Michael McCandless",1,1
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/AbstractTestCase.java","Michael Busch",0.25,4
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/AbstractTestCase.java","Michael McCandless",0.5,4
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/AbstractTestCase.java","Uwe Schindler",0.25,4
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/FieldPhraseListTest.java","Michael McCandless",1,3
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/FieldQueryTest.java","Mark Robert Miller",0.5,2
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/FieldQueryTest.java","Michael McCandless",0.5,2
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/FieldTermStackTest.java","Michael McCandless",1,2
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/IndexTimeSynonymTest.java","Michael Busch",0.5,2
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/IndexTimeSynonymTest.java","Michael McCandless",0.5,2
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/ScoreOrderFragmentsBuilderTest.java","Michael McCandless",1,1
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/SimpleFragListBuilderTest.java","Michael McCandless",1,2
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/SimpleFragmentsBuilderTest.java","Mark Robert Miller",0.333333333333333,3
+"contrib/fast-vector-highlighter/src/test/org/apache/lucene/search/vectorhighlight/SimpleFragmentsBuilderTest.java","Michael McCandless",0.666666666666667,3
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/Encoder.java","Mark Robert Miller",1,1
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/Fragmenter.java","Mark Robert Miller",1,2
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/GradientFormatter.java","Chris M. Hostetter",1,1
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/Highlighter.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/Highlighter.java","Mark Robert Miller",0.666666666666667,3
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/InvalidTokenOffsetsException.java","Michael McCandless",1,1
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/NullFragmenter.java","Mark Robert Miller",1,1
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryScorer.java","Chris M. Hostetter",0.125,8
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryScorer.java","Mark Robert Miller",0.625,8
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryScorer.java","Uwe Schindler",0.125,8
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryScorer.java","Yonik Seeley",0.125,8
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryTermExtractor.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryTermExtractor.java","Uwe Schindler",0.333333333333333,3
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryTermExtractor.java","Yonik Seeley",0.333333333333333,3
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryTermScorer.java","Mark Robert Miller",0.5,2
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/QueryTermScorer.java","Uwe Schindler",0.5,2
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/Scorer.java","Mark Robert Miller",1,4
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/SimpleFragmenter.java","Mark Robert Miller",0.5,2
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/SimpleFragmenter.java","Uwe Schindler",0.5,2
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/SimpleSpanFragmenter.java","Mark Robert Miller",0.75,4
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/SimpleSpanFragmenter.java","Uwe Schindler",0.25,4
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/TokenGroup.java","Mark Robert Miller",0.5,2
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/TokenGroup.java","Uwe Schindler",0.5,2
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/TokenSources.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/TokenSources.java","Mark Robert Miller",0.666666666666667,3
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/WeightedSpanTermExtractor.java","Mark Robert Miller",0.714285714285714,14
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/WeightedSpanTermExtractor.java","Michael McCandless",0.142857142857143,14
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/WeightedSpanTermExtractor.java","Uwe Schindler",0.0714285714285714,14
+"contrib/highlighter/src/java/org/apache/lucene/search/highlight/WeightedSpanTermExtractor.java","Yonik Seeley",0.0714285714285714,14
+"contrib/highlighter/src/test/org/apache/lucene/search/highlight/HighlighterTest.java","Mark Robert Miller",0.7,10
+"contrib/highlighter/src/test/org/apache/lucene/search/highlight/HighlighterTest.java","Michael McCandless",0.1,10
+"contrib/highlighter/src/test/org/apache/lucene/search/highlight/HighlighterTest.java","Uwe Schindler",0.2,10
+"contrib/instantiated/src/java/org/apache/lucene/store/instantiated/FieldSettings.java","Chris M. Hostetter",1,1
+"contrib/instantiated/src/java/org/apache/lucene/store/instantiated/InstantiatedIndex.java","Chris M. Hostetter",0.5,2
+"contrib/instantiated/src/java/org/apache/lucene/store/instantiated/InstantiatedIndex.java","Karl-Johan Wettin",0.5,2
+"contrib/instantiated/src/java/org/apache/lucene/store/instantiated/InstantiatedIndexReader.java","Chris M. Hostetter",1,1
+"contrib/instantiated/src/java/org/apache/lucene/store/instantiated/InstantiatedIndexWriter.java","Chris M. Hostetter",0.5,2
+"contrib/instantiated/src/java/org/apache/lucene/store/instantiated/InstantiatedIndexWriter.java","Yonik Seeley",0.5,2
+"contrib/instantiated/src/java/org/apache/lucene/store/instantiated/InstantiatedTerm.java","Chris M. Hostetter",1,1
+"contrib/instantiated/src/java/org/apache/lucene/store/instantiated/InstantiatedTermDocumentInformation.java","Chris M. Hostetter",1,1
+"contrib/instantiated/src/java/org/apache/lucene/store/instantiated/InstantiatedTermPositions.java","Chris M. Hostetter",1,1
+"contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestEmptyIndex.java","Michael McCandless",1,1
+"contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestIndicesEquals.java","Karl-Johan Wettin",0.25,4
+"contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestIndicesEquals.java","Michael Busch",0.25,4
+"contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestIndicesEquals.java","Michael McCandless",0.25,4
+"contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestIndicesEquals.java","Uwe Schindler",0.25,4
+"contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestRealTime.java","Karl-Johan Wettin",1,1
+"contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestUnoptimizedReaderOnConstructor.java","Karl-Johan Wettin",1,2
+"contrib/lucli/src/java/lucli/LuceneMethods.java","Mark Robert Miller",0.5,4
+"contrib/lucli/src/java/lucli/LuceneMethods.java","Michael Busch",0.25,4
+"contrib/lucli/src/java/lucli/LuceneMethods.java","Michael McCandless",0.25,4
+"contrib/lucli/src/java/lucli/Lucli.java","Mark Robert Miller",0.5,2
+"contrib/lucli/src/java/lucli/Lucli.java","Michael McCandless",0.5,2
+"contrib/memory/src/java/org/apache/lucene/index/memory/AnalyzerUtil.java","Michael Busch",1,1
+"contrib/memory/src/java/org/apache/lucene/index/memory/MemoryIndex.java","Mark Robert Miller",0.25,4
+"contrib/memory/src/java/org/apache/lucene/index/memory/MemoryIndex.java","Michael Busch",0.5,4
+"contrib/memory/src/java/org/apache/lucene/index/memory/MemoryIndex.java","Uwe Schindler",0.25,4
+"contrib/memory/src/java/org/apache/lucene/index/memory/PatternAnalyzer.java","Mark Robert Miller",0.25,4
+"contrib/memory/src/java/org/apache/lucene/index/memory/PatternAnalyzer.java","Michael Busch",0.5,4
+"contrib/memory/src/java/org/apache/lucene/index/memory/PatternAnalyzer.java","Uwe Schindler",0.25,4
+"contrib/memory/src/java/org/apache/lucene/index/memory/SynonymTokenFilter.java","Mark Robert Miller",0.333333333333333,3
+"contrib/memory/src/java/org/apache/lucene/index/memory/SynonymTokenFilter.java","Michael Busch",0.333333333333333,3
+"contrib/memory/src/java/org/apache/lucene/index/memory/SynonymTokenFilter.java","Robert Muir",0.333333333333333,3
+"contrib/memory/src/test/org/apache/lucene/index/memory/MemoryIndexTest.java","Mark Robert Miller",0.5,2
+"contrib/memory/src/test/org/apache/lucene/index/memory/MemoryIndexTest.java","Uwe Schindler",0.5,2
+"contrib/memory/src/test/org/apache/lucene/index/memory/PatternAnalyzerTest.java","Mark Robert Miller",0.5,2
+"contrib/memory/src/test/org/apache/lucene/index/memory/PatternAnalyzerTest.java","Uwe Schindler",0.5,2
+"contrib/memory/src/test/org/apache/lucene/index/memory/TestSynonymTokenFilter.java","Robert Muir",0.5,4
+"contrib/memory/src/test/org/apache/lucene/index/memory/TestSynonymTokenFilter.java","Uwe Schindler",0.5,4
+"contrib/misc/src/java/org/apache/lucene/index/FieldNormModifier.java","Chris M. Hostetter",0.5,2
+"contrib/misc/src/java/org/apache/lucene/index/FieldNormModifier.java","Mark Robert Miller",0.5,2
+"contrib/misc/src/java/org/apache/lucene/index/TermVectorAccessor.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/misc/ChainedFilter.java","Chris M. Hostetter",0.5,2
+"contrib/misc/src/java/org/apache/lucene/misc/ChainedFilter.java","Mark Robert Miller",0.5,2
+"contrib/misc/src/java/org/apache/lucene/misc/HighFreqTerms.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/misc/IndexMergeTool.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/misc/LengthNormModifier.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/misc/SweetSpotSimilarity.java","Chris M. Hostetter",0.5,2
+"contrib/misc/src/java/org/apache/lucene/misc/SweetSpotSimilarity.java","Mark Robert Miller",0.5,2
+"contrib/misc/src/java/org/apache/lucene/queryParser/analyzing/AnalyzingQueryParser.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase/ComplexPhraseQueryParser.java","Chris M. Hostetter",0.5,2
+"contrib/misc/src/java/org/apache/lucene/queryParser/complexPhrase/ComplexPhraseQueryParser.java","Mark Robert Miller",0.5,2
+"contrib/misc/src/java/org/apache/lucene/queryParser/precedence/CharStream.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/queryParser/precedence/FastCharStream.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/queryParser/precedence/ParseException.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/queryParser/precedence/PrecedenceQueryParser.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/queryParser/precedence/PrecedenceQueryParserConstants.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/queryParser/precedence/PrecedenceQueryParserTokenManager.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/queryParser/precedence/Token.java","Mark Robert Miller",1,1
+"contrib/misc/src/java/org/apache/lucene/queryParser/precedence/TokenMgrError.java","Mark Robert Miller",1,1
+"contrib/misc/src/test/org/apache/lucene/index/TestFieldNormModifier.java","Mark Robert Miller",1,1
+"contrib/misc/src/test/org/apache/lucene/index/TestTermVectorAccessor.java","Mark Robert Miller",1,1
+"contrib/misc/src/test/org/apache/lucene/misc/ChainedFilterTest.java","Mark Robert Miller",1,1
+"contrib/misc/src/test/org/apache/lucene/misc/SweetSpotSimilarityTest.java","Mark Robert Miller",1,1
+"contrib/misc/src/test/org/apache/lucene/misc/TestLengthNormModifier.java","Mark Robert Miller",1,1
+"contrib/misc/src/test/org/apache/lucene/queryParser/analyzing/TestAnalyzingQueryParser.java","Mark Robert Miller",1,1
+"contrib/misc/src/test/org/apache/lucene/queryParser/complexPhrase/TestComplexPhraseQuery.java","Mark Robert Miller",1,1
+"contrib/misc/src/test/org/apache/lucene/queryParser/precedence/TestPrecedenceQueryParser.java","Mark Robert Miller",1,1
+"contrib/queries/src/java/org/apache/lucene/search/BooleanFilter.java","Uwe Schindler",1,1
+"contrib/queries/src/java/org/apache/lucene/search/BoostingQuery.java","Mark Robert Miller",1,1
+"contrib/queries/src/java/org/apache/lucene/search/FuzzyLikeThisQuery.java","Mark Robert Miller",0.5,2
+"contrib/queries/src/java/org/apache/lucene/search/FuzzyLikeThisQuery.java","Michael Busch",0.5,2
+"contrib/queries/src/java/org/apache/lucene/search/similar/MoreLikeThis.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/queries/src/java/org/apache/lucene/search/similar/MoreLikeThis.java","Michael Busch",0.333333333333333,3
+"contrib/queries/src/java/org/apache/lucene/search/similar/MoreLikeThis.java","Michael McCandless",0.333333333333333,3
+"contrib/queries/src/java/org/apache/lucene/search/similar/SimilarityQueries.java","Chris M. Hostetter",0.5,2
+"contrib/queries/src/java/org/apache/lucene/search/similar/SimilarityQueries.java","Michael Busch",0.5,2
+"contrib/queries/src/test/org/apache/lucene/search/BooleanFilterTest.java","Uwe Schindler",1,1
+"contrib/queries/src/test/org/apache/lucene/search/BoostingQueryTest.java","Mark Robert Miller",1,2
+"contrib/queries/src/test/org/apache/lucene/search/FuzzyLikeThisQueryTest.java","Mark Robert Miller",1,1
+"contrib/queries/src/test/org/apache/lucene/search/similar/TestMoreLikeThis.java","Michael McCandless",1,1
+"contrib/queries/src/test/org/apache/lucene/search/TermsFilterTest.java","Mark Robert Miller",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders/QueryBuilder.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders/QueryTreeBuilder.java","Mark Robert Miller",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders/QueryTreeBuilder.java","Michael Busch",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/builders/QueryTreeBuilder.java","Michael McCandless",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config/FieldConfig.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config/FieldConfigListener.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config/FieldConfigListener.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config/QueryConfigHandler.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/messages/QueryParserMessages.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/AndQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/AnyQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/BooleanQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/BoostQueryNode.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/BoostQueryNode.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/DeletedQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/FieldableNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/FieldQueryNode.java","Michael Busch",1,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/FuzzyQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/GroupQueryNode.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/GroupQueryNode.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/MatchAllDocsQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/MatchNoDocsQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/ModifierQueryNode.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/ModifierQueryNode.java","Mark Robert Miller",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/ModifierQueryNode.java","Michael Busch",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/NoTokenFoundQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/OpaqueQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/OrQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/ParametricQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/ParametricRangeQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/PathQueryNode.java","Chris M. Hostetter",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/PathQueryNode.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/PhraseSlopQueryNode.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/PhraseSlopQueryNode.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/ProximityQueryNode.java","Mark Robert Miller",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/ProximityQueryNode.java","Michael Busch",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/ProximityQueryNode.java","Michael McCandless",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/QueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/QueryNodeImpl.java","Chris M. Hostetter",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/QueryNodeImpl.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/QuotedFieldQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/SlopQueryNode.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/SlopQueryNode.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/TextableQueryNode.java","Chris M. Hostetter",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/TextableQueryNode.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/TokenizedPhraseQueryNode.java","Chris M. Hostetter",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/nodes/TokenizedPhraseQueryNode.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/parser/EscapeQuerySyntax.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/parser/SyntaxParser.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/NoChildOptimizationQueryNodeProcessor.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/QueryNodeProcessor.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/QueryNodeProcessorImpl.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/QueryNodeProcessorPipeline.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/RemoveDeletedQueryNodesProcessor.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/QueryNodeError.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/QueryNodeException.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/QueryNodeParseException.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/QueryNodeParseException.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/QueryParserHelper.java","Michael Busch",1,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util/QueryNodeOperation.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/core/util/UnescapedCharSequence.java","Michael Busch",1,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/AnyQueryNodeBuilder.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/BooleanQueryNodeBuilder.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/BooleanQueryNodeBuilder.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/BoostQueryNodeBuilder.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/FieldQueryNodeBuilder.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/FuzzyQueryNodeBuilder.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/GroupQueryNodeBuilder.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/MatchAllDocsQueryNodeBuilder.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/MatchAllDocsQueryNodeBuilder.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/MatchNoDocsQueryNodeBuilder.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/MatchNoDocsQueryNodeBuilder.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/ModifierQueryNodeBuilder.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/MultiPhraseQueryNodeBuilder.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/PhraseQueryNodeBuilder.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/PrefixWildcardQueryNodeBuilder.java","Michael Busch",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/PrefixWildcardQueryNodeBuilder.java","Michael McCandless",0.666666666666667,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/RangeQueryNodeBuilder.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/RangeQueryNodeBuilder.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/SlopQueryNodeBuilder.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/StandardBooleanQueryNodeBuilder.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/StandardBooleanQueryNodeBuilder.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/StandardQueryBuilder.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/StandardQueryTreeBuilder.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/StandardQueryTreeBuilder.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/WildcardQueryNodeBuilder.java","Michael Busch",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/builders/WildcardQueryNodeBuilder.java","Michael McCandless",0.666666666666667,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/AllowLeadingWildcardAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/AllowLeadingWildcardAttributeImpl.java","Michael McCandless",1,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/AnalyzerAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/AnalyzerAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/BoostAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/BoostAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/DateResolutionAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/DateResolutionAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/DefaultOperatorAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/DefaultOperatorAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/DefaultPhraseSlopAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/DefaultPhraseSlopAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/FieldBoostMapAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/FieldBoostMapAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/FieldBoostMapFCListener.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/FieldDateResolutionFCListener.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/FieldDateResolutionMapAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/FieldDateResolutionMapAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/FuzzyAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/FuzzyAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/LocaleAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/LocaleAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/LowercaseExpandedTermsAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/LowercaseExpandedTermsAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/MultiFieldAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/MultiFieldAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/MultiTermRewriteMethodAttribute.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/MultiTermRewriteMethodAttribute.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/MultiTermRewriteMethodAttributeImpl.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/MultiTermRewriteMethodAttributeImpl.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/PositionIncrementsAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/PositionIncrementsAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/RangeCollatorAttribute.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/RangeCollatorAttributeImpl.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/StandardQueryConfigHandler.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/config/StandardQueryConfigHandler.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/MultiFieldQueryParserWrapper.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/BooleanModifierNode.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/MultiPhraseQueryNode.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/PrefixWildcardQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/RangeQueryNode.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/RangeQueryNode.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/StandardBooleanQueryNode.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/WildcardQueryNode.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/EscapeQuerySyntaxImpl.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/EscapeQuerySyntaxImpl.java","Mark Robert Miller",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/EscapeQuerySyntaxImpl.java","Michael McCandless",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/JavaCharStream.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/JavaCharStream.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/ParseException.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/ParseException.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParser.java","Mark Robert Miller",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParser.java","Michael Busch",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParser.java","Michael McCandless",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParserConstants.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParserConstants.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParserTokenManager.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParserTokenManager.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/Token.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/Token.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/TokenMgrError.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/TokenMgrError.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/AllowLeadingWildcardProcessor.java","Mark Robert Miller",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/AllowLeadingWildcardProcessor.java","Michael Busch",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/AllowLeadingWildcardProcessor.java","Michael McCandless",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/AnalyzerQueryNodeProcessor.java","Michael Busch",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/AnalyzerQueryNodeProcessor.java","Michael McCandless",0.666666666666667,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/BooleanSingleChildOptimizationQueryNodeProcessor.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/BoostQueryNodeProcessor.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/DefaultPhraseSlopQueryNodeProcessor.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/FuzzyQueryNodeProcessor.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/GroupQueryNodeProcessor.java","Chris M. Hostetter",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/GroupQueryNodeProcessor.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/LowercaseExpandedTermsQueryNodeProcessor.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/LowercaseExpandedTermsQueryNodeProcessor.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/MatchAllDocsQueryNodeProcessor.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/MatchAllDocsQueryNodeProcessor.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/MultiFieldQueryNodeProcessor.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/MultiTermRewriteMethodProcessor.java","Mark Robert Miller",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/MultiTermRewriteMethodProcessor.java","Michael Busch",0.666666666666667,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/ParametricRangeQueryNodeProcessor.java","Michael Busch",0.666666666666667,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/ParametricRangeQueryNodeProcessor.java","Michael McCandless",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/PhraseSlopQueryNodeProcessor.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/RemoveEmptyNonLeafQueryNodeProcessor.java","Michael McCandless",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/StandardQueryNodeProcessorPipeline.java","Michael Busch",0.333333333333333,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/StandardQueryNodeProcessorPipeline.java","Michael McCandless",0.666666666666667,3
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/WildcardQueryNodeProcessor.java","Michael Busch",1,1
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/QueryParserUtil.java","Mark Robert Miller",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/QueryParserUtil.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/QueryParserWrapper.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/QueryParserWrapper.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/StandardQueryParser.java","Michael Busch",0.5,2
+"contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/StandardQueryParser.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/SpanOrQueryNodeBuilder.java","Michael Busch",0.5,2
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/SpanOrQueryNodeBuilder.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/SpansQueryConfigHandler.java","Michael Busch",1,1
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/SpansQueryTreeBuilder.java","Michael Busch",0.5,2
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/SpansQueryTreeBuilder.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/SpansValidatorQueryNodeProcessor.java","Michael Busch",1,1
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/SpanTermQueryNodeBuilder.java","Michael Busch",0.5,2
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/SpanTermQueryNodeBuilder.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/TestSpanQueryParser.java","Michael Busch",0.666666666666667,3
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/TestSpanQueryParser.java","Michael McCandless",0.333333333333333,3
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/TestSpanQueryParserSimpleSample.java","Michael Busch",0.5,2
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/TestSpanQueryParserSimpleSample.java","Michael McCandless",0.5,2
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/UniqueFieldAttribute.java","Michael Busch",1,1
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/UniqueFieldAttributeImpl.java","Michael Busch",1,1
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/spans/UniqueFieldQueryNodeProcessor.java","Michael Busch",1,1
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestMultiAnalyzerQPHelper.java","Michael McCandless",1,1
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestMultiAnalyzerWrapper.java","Michael McCandless",1,1
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestMultiFieldQPHelper.java","Michael McCandless",1,1
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestMultiFieldQueryParserWrapper.java","Michael McCandless",1,1
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestQPHelper.java","Michael Busch",0.333333333333333,6
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestQPHelper.java","Michael McCandless",0.666666666666667,6
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestQueryParserWrapper.java","Michael Busch",0.5,4
+"contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestQueryParserWrapper.java","Michael McCandless",0.5,4
+"contrib/regex/src/java/org/apache/lucene/search/regex/JakartaRegexpCapabilities.java","Chris M. Hostetter",0.5,2
+"contrib/regex/src/java/org/apache/lucene/search/regex/JakartaRegexpCapabilities.java","Michael McCandless",0.5,2
+"contrib/regex/src/java/org/apache/lucene/search/regex/JavaUtilRegexCapabilities.java","Chris M. Hostetter",0.25,4
+"contrib/regex/src/java/org/apache/lucene/search/regex/JavaUtilRegexCapabilities.java","Mark Robert Miller",0.25,4
+"contrib/regex/src/java/org/apache/lucene/search/regex/JavaUtilRegexCapabilities.java","Michael McCandless",0.5,4
+"contrib/regex/src/java/org/apache/lucene/search/regex/SpanRegexQuery.java","Mark Robert Miller",0.5,2
+"contrib/regex/src/java/org/apache/lucene/search/regex/SpanRegexQuery.java","Michael McCandless",0.5,2
+"contrib/regex/src/test/org/apache/lucene/search/regex/TestRegexQuery.java","Michael McCandless",1,2
+"contrib/regex/src/test/org/apache/lucene/search/regex/TestSpanRegexQuery.java","Mark Robert Miller",1,1
+"contrib/remote/src/java/org/apache/lucene/search/RemoteCachingWrapperFilter.java","Mark Robert Miller",0.5,2
+"contrib/remote/src/java/org/apache/lucene/search/RemoteCachingWrapperFilter.java","Michael McCandless",0.5,2
+"contrib/remote/src/java/org/apache/lucene/search/RemoteSearchable.java","Mark Robert Miller",0.333333333333333,3
+"contrib/remote/src/java/org/apache/lucene/search/RemoteSearchable.java","Michael McCandless",0.666666666666667,3
+"contrib/remote/src/java/org/apache/lucene/search/RMIRemoteSearchable.java","Mark Robert Miller",0.5,2
+"contrib/remote/src/java/org/apache/lucene/search/RMIRemoteSearchable.java","Michael McCandless",0.5,2
+"contrib/remote/src/test/org/apache/lucene/search/RemoteCachingWrapperFilterHelper.java","Michael McCandless",1,1
+"contrib/remote/src/test/org/apache/lucene/search/TestRemoteCachingWrapperFilter.java","Michael McCandless",1,1
+"contrib/remote/src/test/org/apache/lucene/search/TestRemoteSearchable.java","Michael McCandless",1,1
+"contrib/remote/src/test/org/apache/lucene/search/TestRemoteSort.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/remote/src/test/org/apache/lucene/search/TestRemoteSort.java","Michael McCandless",0.666666666666667,3
+"contrib/snowball/src/java/org/apache/lucene/analysis/snowball/SnowballAnalyzer.java","Mark Robert Miller",0.5,2
+"contrib/snowball/src/java/org/apache/lucene/analysis/snowball/SnowballAnalyzer.java","Robert Muir",0.5,2
+"contrib/snowball/src/java/org/apache/lucene/analysis/snowball/SnowballFilter.java","Michael Busch",1,1
+"contrib/snowball/src/java/org/tartarus/snowball/Among.java","Mark Robert Miller",1,1
+"contrib/snowball/src/java/org/tartarus/snowball/SnowballProgram.java","Mark Robert Miller",1,1
+"contrib/snowball/src/java/org/tartarus/snowball/TestApp.java","Mark Robert Miller",1,1
+"contrib/snowball/src/test/org/apache/lucene/analysis/snowball/TestSnowball.java","Michael Busch",0.333333333333333,3
+"contrib/snowball/src/test/org/apache/lucene/analysis/snowball/TestSnowball.java","Robert Muir",0.333333333333333,3
+"contrib/snowball/src/test/org/apache/lucene/analysis/snowball/TestSnowball.java","Uwe Schindler",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geohash/GeoHashDistanceFilter.java","Michael McCandless",0.666666666666667,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geohash/GeoHashDistanceFilter.java","Patrick O'Leary",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geohash/GeoHashUtils.java","Michael McCandless",1,1
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/CartesianPoint.java","Mark Robert Miller",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/CartesianPoint.java","Michael McCandless",0.666666666666667,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/DistanceUnits.java","Michael McCandless",1,1
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/FixedLatLng.java","Mark Robert Miller",0.5,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/FixedLatLng.java","Michael McCandless",0.5,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/FloatLatLng.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/FloatLatLng.java","Mark Robert Miller",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/FloatLatLng.java","Michael McCandless",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/LatLng.java","Chris M. Hostetter",0.25,4
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/LatLng.java","Mark Robert Miller",0.25,4
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/LatLng.java","Michael McCandless",0.5,4
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/DistanceApproximation.java","Michael McCandless",1,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Ellipse.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Ellipse.java","Michael McCandless",0.666666666666667,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Geometry2D.java","Michael McCandless",1,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/IntersectCase.java","Michael McCandless",1,1
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/LineSegment.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/LineSegment.java","Mark Robert Miller",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/LineSegment.java","Michael McCandless",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/LLRect.java","Mark Robert Miller",0.25,4
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/LLRect.java","Michael McCandless",0.75,4
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Point2D.java","Mark Robert Miller",0.5,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Point2D.java","Michael McCandless",0.5,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Rectangle.java","Mark Robert Miller",0.5,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Rectangle.java","Michael McCandless",0.5,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Vector2D.java","Mark Robert Miller",0.5,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Vector2D.java","Michael McCandless",0.5,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/CartesianPolyFilterBuilder.java","Mark Robert Miller",0.25,4
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/CartesianPolyFilterBuilder.java","Michael McCandless",0.75,4
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/CartesianShapeFilter.java","Mark Robert Miller",0.2,5
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/CartesianShapeFilter.java","Michael McCandless",0.6,5
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/CartesianShapeFilter.java","Patrick O'Leary",0.2,5
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/DistanceFieldComparatorSource.java","Mark Robert Miller",0.166666666666667,6
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/DistanceFieldComparatorSource.java","Michael McCandless",0.5,6
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/DistanceFieldComparatorSource.java","Patrick O'Leary",0.333333333333333,6
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/DistanceFilter.java","Michael McCandless",1,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/DistanceHandler.java","Mark Robert Miller",0.666666666666667,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/DistanceHandler.java","Michael McCandless",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/DistanceQueryBuilder.java","Mark Robert Miller",0.166666666666667,6
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/DistanceQueryBuilder.java","Michael McCandless",0.5,6
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/DistanceQueryBuilder.java","Patrick O'Leary",0.333333333333333,6
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/DistanceUtils.java","Michael McCandless",1,1
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/InvalidGeoException.java","Michael McCandless",1,1
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/LatLongDistanceFilter.java","Michael McCandless",0.714285714285714,7
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/LatLongDistanceFilter.java","Patrick O'Leary",0.285714285714286,7
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections/CartesianTierPlotter.java","Chris M. Hostetter",0.333333333333333,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections/CartesianTierPlotter.java","Michael McCandless",0.666666666666667,3
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections/IProjector.java","Michael McCandless",1,1
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections/SinusoidalProjector.java","Chris M. Hostetter",0.5,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections/SinusoidalProjector.java","Michael McCandless",0.5,2
+"contrib/spatial/src/java/org/apache/lucene/spatial/tier/Shape.java","Michael McCandless",1,1
+"contrib/spatial/src/test/org/apache/lucene/spatial/tier/PolyShape.java","Michael McCandless",1,1
+"contrib/spatial/src/test/org/apache/lucene/spatial/tier/TestCartesian.java","Michael McCandless",0.571428571428571,7
+"contrib/spatial/src/test/org/apache/lucene/spatial/tier/TestCartesian.java","Patrick O'Leary",0.428571428571429,7
+"contrib/spatial/src/test/org/apache/lucene/spatial/tier/TestDistance.java","Michael McCandless",1,3
+"contrib/spellchecker/src/java/org/apache/lucene/search/spell/JaroWinklerDistance.java","Chris M. Hostetter",1,1
+"contrib/spellchecker/src/java/org/apache/lucene/search/spell/LevensteinDistance.java","Grant Ingersoll",0.5,2
+"contrib/spellchecker/src/java/org/apache/lucene/search/spell/LevensteinDistance.java","Otis Gospodnetic",0.5,2
+"contrib/spellchecker/src/java/org/apache/lucene/search/spell/LuceneDictionary.java","Yonik Seeley",1,1
+"contrib/spellchecker/src/java/org/apache/lucene/search/spell/NGramDistance.java","Grant Ingersoll",1,1
+"contrib/spellchecker/src/java/org/apache/lucene/search/spell/StringDistance.java","Grant Ingersoll",1,1
+"contrib/spellchecker/src/test/org/apache/lucene/search/spell/TestLevenshteinDistance.java","Grant Ingersoll",1,1
+"contrib/spellchecker/src/test/org/apache/lucene/search/spell/TestNGramDistance.java","Grant Ingersoll",1,1
+"contrib/spellchecker/src/test/org/apache/lucene/search/spell/TestSpellChecker.java","Grant Ingersoll",1,1
+"contrib/swing/src/java/org/apache/lucene/swing/models/ListSearcher.java","Chris M. Hostetter",1,1
+"contrib/swing/src/java/org/apache/lucene/swing/models/TableSearcher.java","Chris M. Hostetter",1,1
+"contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis/WikipediaTokenizer.java","Chris M. Hostetter",0.111111111111111,9
+"contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis/WikipediaTokenizer.java","Grant Ingersoll",0.111111111111111,9
+"contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis/WikipediaTokenizer.java","Mark Robert Miller",0.222222222222222,9
+"contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis/WikipediaTokenizer.java","Michael Busch",0.222222222222222,9
+"contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis/WikipediaTokenizer.java","Michael McCandless",0.111111111111111,9
+"contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis/WikipediaTokenizer.java","Uwe Schindler",0.222222222222222,9
+"contrib/wikipedia/src/java/org/apache/lucene/wikipedia/analysis/WikipediaTokenizerImpl.java","Michael Busch",1,1
+"contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis/WikipediaTokenizerTest.java","Michael Busch",0.5,2
+"contrib/wikipedia/src/test/org/apache/lucene/wikipedia/analysis/WikipediaTokenizerTest.java","Uwe Schindler",0.5,2
+"contrib/wordnet/src/java/org/apache/lucene/wordnet/SynExpand.java","Michael Busch",0.5,2
+"contrib/wordnet/src/java/org/apache/lucene/wordnet/SynExpand.java","Uwe Schindler",0.5,2
+"contrib/wordnet/src/java/org/apache/lucene/wordnet/SynLookup.java","Michael Busch",0.5,2
+"contrib/wordnet/src/java/org/apache/lucene/wordnet/SynLookup.java","Uwe Schindler",0.5,2
+"contrib/wordnet/src/java/org/apache/lucene/wordnet/Syns2Index.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/demo/java/org/apache/lucene/xmlparser/webdemo/FormBasedXmlQueryDemo.java","Mark Robert Miller",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/BooleanFilterBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/BooleanQueryBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/BoostingQueryBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/BoostingTermBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/ConstantScoreQueryBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/DuplicateFilterBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/FilteredQueryBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/FuzzyLikeThisQueryBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/LikeThisQueryBuilder.java","Chris M. Hostetter",0.5,2
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/LikeThisQueryBuilder.java","Michael Busch",0.5,2
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/MatchAllDocsQueryBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/RangeFilterBuilder.java","Chris M. Hostetter",0.5,2
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/RangeFilterBuilder.java","Uwe Schindler",0.5,2
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanBuilderBase.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanFirstBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanNearBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanNotBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanOrBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanOrTermsBuilder.java","Chris M. Hostetter",0.5,2
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanOrTermsBuilder.java","Michael Busch",0.5,2
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanQueryBuilderFactory.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanTermBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/TermQueryBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/TermsFilterBuilder.java","Chris M. Hostetter",0.5,2
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/TermsFilterBuilder.java","Michael Busch",0.5,2
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/TermsQueryBuilder.java","Michael Busch",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/UserInputQueryBuilder.java","Mark Robert Miller",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/CorePlusExtensionsParser.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/DOMUtils.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/FilterBuilder.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/FilterBuilderFactory.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/ParserException.java","Chris M. Hostetter",1,1
+"contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/QueryBuilderFactory.java","Chris M. Hostetter",1,1
+"src/demo/org/apache/lucene/demo/DeleteFiles.java","Mark Robert Miller",0.5,2
+"src/demo/org/apache/lucene/demo/DeleteFiles.java","Uwe Schindler",0.5,2
+"src/demo/org/apache/lucene/demo/html/HTMLParser.java","Mark Robert Miller",1,1
+"src/demo/org/apache/lucene/demo/IndexFiles.java","Mark Robert Miller",1,1
+"src/demo/org/apache/lucene/demo/IndexHTML.java","Mark Robert Miller",1,2
+"src/demo/org/apache/lucene/demo/SearchFiles.java","Mark Robert Miller",0.5,2
+"src/demo/org/apache/lucene/demo/SearchFiles.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/analysis/Analyzer.java","Michael Busch",0.333333333333333,3
+"src/java/org/apache/lucene/analysis/Analyzer.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/analysis/ASCIIFoldingFilter.java","Michael Busch",1,1
+"src/java/org/apache/lucene/analysis/BaseCharFilter.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/analysis/BaseCharFilter.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/analysis/CachingTokenFilter.java","Michael Busch",1,2
+"src/java/org/apache/lucene/analysis/CharacterCache.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/analysis/CharacterCache.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/analysis/CharArraySet.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/analysis/CharFilter.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/analysis/CharFilter.java","Uwe Schindler",0.666666666666667,3
+"src/java/org/apache/lucene/analysis/CharReader.java","Chris M. Hostetter",0.25,4
+"src/java/org/apache/lucene/analysis/CharReader.java","Michael McCandless",0.5,4
+"src/java/org/apache/lucene/analysis/CharReader.java","Uwe Schindler",0.25,4
+"src/java/org/apache/lucene/analysis/CharStream.java","Mark Robert Miller",0.25,4
+"src/java/org/apache/lucene/analysis/CharStream.java","Michael McCandless",0.5,4
+"src/java/org/apache/lucene/analysis/CharStream.java","Uwe Schindler",0.25,4
+"src/java/org/apache/lucene/analysis/CharTokenizer.java","Mark Robert Miller",0.111111111111111,9
+"src/java/org/apache/lucene/analysis/CharTokenizer.java","Michael Busch",0.333333333333333,9
+"src/java/org/apache/lucene/analysis/CharTokenizer.java","Michael McCandless",0.222222222222222,9
+"src/java/org/apache/lucene/analysis/CharTokenizer.java","Uwe Schindler",0.333333333333333,9
+"src/java/org/apache/lucene/analysis/ISOLatin1AccentFilter.java","Michael Busch",1,1
+"src/java/org/apache/lucene/analysis/KeywordAnalyzer.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/analysis/KeywordTokenizer.java","Michael Busch",0.375,8
+"src/java/org/apache/lucene/analysis/KeywordTokenizer.java","Michael McCandless",0.25,8
+"src/java/org/apache/lucene/analysis/KeywordTokenizer.java","Uwe Schindler",0.375,8
+"src/java/org/apache/lucene/analysis/LengthFilter.java","Mark Robert Miller",0.5,2
+"src/java/org/apache/lucene/analysis/LengthFilter.java","Michael Busch",0.5,2
+"src/java/org/apache/lucene/analysis/LetterTokenizer.java","Mark Robert Miller",0.666666666666667,3
+"src/java/org/apache/lucene/analysis/LetterTokenizer.java","Michael Busch",0.333333333333333,3
+"src/java/org/apache/lucene/analysis/LowerCaseFilter.java","Michael Busch",1,1
+"src/java/org/apache/lucene/analysis/LowerCaseTokenizer.java","Mark Robert Miller",0.5,4
+"src/java/org/apache/lucene/analysis/LowerCaseTokenizer.java","Michael Busch",0.25,4
+"src/java/org/apache/lucene/analysis/LowerCaseTokenizer.java","Uwe Schindler",0.25,4
+"src/java/org/apache/lucene/analysis/MappingCharFilter.java","Michael McCandless",0.6,5
+"src/java/org/apache/lucene/analysis/MappingCharFilter.java","Uwe Schindler",0.4,5
+"src/java/org/apache/lucene/analysis/NormalizeCharMap.java","Michael McCandless",1,3
+"src/java/org/apache/lucene/analysis/NumericTokenStream.java","Michael Busch",0.111111111111111,9
+"src/java/org/apache/lucene/analysis/NumericTokenStream.java","Michael McCandless",0.111111111111111,9
+"src/java/org/apache/lucene/analysis/NumericTokenStream.java","Uwe Schindler",0.777777777777778,9
+"src/java/org/apache/lucene/analysis/PerFieldAnalyzerWrapper.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/analysis/PorterStemFilter.java","Michael Busch",1,1
+"src/java/org/apache/lucene/analysis/SimpleAnalyzer.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/analysis/SinkTokenizer.java","Michael Busch",1,1
+"src/java/org/apache/lucene/analysis/standard/StandardAnalyzer.java","Chris M. Hostetter",0.2,5
+"src/java/org/apache/lucene/analysis/standard/StandardAnalyzer.java","Mark Robert Miller",0.2,5
+"src/java/org/apache/lucene/analysis/standard/StandardAnalyzer.java","Michael McCandless",0.6,5
+"src/java/org/apache/lucene/analysis/standard/StandardFilter.java","Michael Busch",1,1
+"src/java/org/apache/lucene/analysis/standard/StandardTokenizer.java","Mark Robert Miller",0.2,10
+"src/java/org/apache/lucene/analysis/standard/StandardTokenizer.java","Michael Busch",0.3,10
+"src/java/org/apache/lucene/analysis/standard/StandardTokenizer.java","Michael McCandless",0.2,10
+"src/java/org/apache/lucene/analysis/standard/StandardTokenizer.java","Uwe Schindler",0.3,10
+"src/java/org/apache/lucene/analysis/StopAnalyzer.java","Chris M. Hostetter",0.25,4
+"src/java/org/apache/lucene/analysis/StopAnalyzer.java","Mark Robert Miller",0.25,4
+"src/java/org/apache/lucene/analysis/StopAnalyzer.java","Michael McCandless",0.5,4
+"src/java/org/apache/lucene/analysis/StopFilter.java","Grant Ingersoll",0.25,4
+"src/java/org/apache/lucene/analysis/StopFilter.java","Mark Robert Miller",0.25,4
+"src/java/org/apache/lucene/analysis/StopFilter.java","Michael Busch",0.25,4
+"src/java/org/apache/lucene/analysis/StopFilter.java","Michael McCandless",0.25,4
+"src/java/org/apache/lucene/analysis/TeeSinkTokenFilter.java","Chris M. Hostetter",0.2,5
+"src/java/org/apache/lucene/analysis/TeeSinkTokenFilter.java","Michael Busch",0.8,5
+"src/java/org/apache/lucene/analysis/TeeTokenFilter.java","Michael Busch",1,1
+"src/java/org/apache/lucene/analysis/Token.java","Michael Busch",0.285714285714286,7
+"src/java/org/apache/lucene/analysis/Token.java","Uwe Schindler",0.714285714285714,7
+"src/java/org/apache/lucene/analysis/tokenattributes/FlagsAttribute.java","Mark Robert Miller",0.333333333333333,3
+"src/java/org/apache/lucene/analysis/tokenattributes/FlagsAttribute.java","Michael Busch",0.666666666666667,3
+"src/java/org/apache/lucene/analysis/tokenattributes/FlagsAttributeImpl.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/analysis/tokenattributes/FlagsAttributeImpl.java","Michael Busch",0.666666666666667,3
+"src/java/org/apache/lucene/analysis/tokenattributes/OffsetAttribute.java","Michael Busch",0.666666666666667,3
+"src/java/org/apache/lucene/analysis/tokenattributes/OffsetAttribute.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/analysis/tokenattributes/OffsetAttributeImpl.java","Michael Busch",1,2
+"src/java/org/apache/lucene/analysis/tokenattributes/PayloadAttribute.java","Michael Busch",1,2
+"src/java/org/apache/lucene/analysis/tokenattributes/PayloadAttributeImpl.java","Michael Busch",1,2
+"src/java/org/apache/lucene/analysis/tokenattributes/PositionIncrementAttribute.java","Michael Busch",1,2
+"src/java/org/apache/lucene/analysis/tokenattributes/PositionIncrementAttributeImpl.java","Michael Busch",1,2
+"src/java/org/apache/lucene/analysis/tokenattributes/TermAttribute.java","Michael Busch",0.666666666666667,3
+"src/java/org/apache/lucene/analysis/tokenattributes/TermAttribute.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/analysis/tokenattributes/TermAttributeImpl.java","Michael Busch",0.4,5
+"src/java/org/apache/lucene/analysis/tokenattributes/TermAttributeImpl.java","Uwe Schindler",0.6,5
+"src/java/org/apache/lucene/analysis/tokenattributes/TypeAttribute.java","Michael Busch",1,2
+"src/java/org/apache/lucene/analysis/tokenattributes/TypeAttributeImpl.java","Michael Busch",0.666666666666667,3
+"src/java/org/apache/lucene/analysis/tokenattributes/TypeAttributeImpl.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/analysis/TokenFilter.java","Michael Busch",0.75,4
+"src/java/org/apache/lucene/analysis/TokenFilter.java","Michael McCandless",0.25,4
+"src/java/org/apache/lucene/analysis/Tokenizer.java","Michael Busch",0.375,8
+"src/java/org/apache/lucene/analysis/Tokenizer.java","Michael McCandless",0.125,8
+"src/java/org/apache/lucene/analysis/Tokenizer.java","Uwe Schindler",0.375,8
+"src/java/org/apache/lucene/analysis/Tokenizer.java","Yonik Seeley",0.125,8
+"src/java/org/apache/lucene/analysis/TokenStream.java","Mark Robert Miller",0.266666666666667,15
+"src/java/org/apache/lucene/analysis/TokenStream.java","Michael Busch",0.2,15
+"src/java/org/apache/lucene/analysis/TokenStream.java","Uwe Schindler",0.533333333333333,15
+"src/java/org/apache/lucene/analysis/TokenWrapper.java","Michael Busch",0.333333333333333,3
+"src/java/org/apache/lucene/analysis/TokenWrapper.java","Uwe Schindler",0.666666666666667,3
+"src/java/org/apache/lucene/analysis/WhitespaceAnalyzer.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/analysis/WhitespaceTokenizer.java","Chris M. Hostetter",0.25,4
+"src/java/org/apache/lucene/analysis/WhitespaceTokenizer.java","Mark Robert Miller",0.5,4
+"src/java/org/apache/lucene/analysis/WhitespaceTokenizer.java","Michael Busch",0.25,4
+"src/java/org/apache/lucene/document/AbstractField.java","Chris M. Hostetter",0.25,4
+"src/java/org/apache/lucene/document/AbstractField.java","Michael McCandless",0.25,4
+"src/java/org/apache/lucene/document/AbstractField.java","Yonik Seeley",0.5,4
+"src/java/org/apache/lucene/document/DateField.java","Uwe Schindler",1,3
+"src/java/org/apache/lucene/document/DateTools.java","Chris M. Hostetter",0.166666666666667,6
+"src/java/org/apache/lucene/document/DateTools.java","Mark Robert Miller",0.333333333333333,6
+"src/java/org/apache/lucene/document/DateTools.java","Uwe Schindler",0.5,6
+"src/java/org/apache/lucene/document/Field.java","Chris M. Hostetter",0.2,5
+"src/java/org/apache/lucene/document/Field.java","Michael McCandless",0.4,5
+"src/java/org/apache/lucene/document/Field.java","Yonik Seeley",0.4,5
+"src/java/org/apache/lucene/document/Fieldable.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/document/Fieldable.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/document/Fieldable.java","Yonik Seeley",0.333333333333333,3
+"src/java/org/apache/lucene/document/FieldSelectorResult.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/document/MapFieldSelector.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/document/NumberTools.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/document/NumberTools.java","Uwe Schindler",0.666666666666667,3
+"src/java/org/apache/lucene/document/NumericField.java","Chris M. Hostetter",0.142857142857143,7
+"src/java/org/apache/lucene/document/NumericField.java","Michael McCandless",0.142857142857143,7
+"src/java/org/apache/lucene/document/NumericField.java","Uwe Schindler",0.714285714285714,7
+"src/java/org/apache/lucene/index/BufferedDeletes.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/index/CheckIndex.java","Chris M. Hostetter",0.142857142857143,7
+"src/java/org/apache/lucene/index/CheckIndex.java","Michael McCandless",0.714285714285714,7
+"src/java/org/apache/lucene/index/CheckIndex.java","Uwe Schindler",0.142857142857143,7
+"src/java/org/apache/lucene/index/ConcurrentMergeScheduler.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/index/DirectoryOwningReader.java","Uwe Schindler",1,1
+"src/java/org/apache/lucene/index/DirectoryReader.java","Chris M. Hostetter",0.125,8
+"src/java/org/apache/lucene/index/DirectoryReader.java","Michael McCandless",0.625,8
+"src/java/org/apache/lucene/index/DirectoryReader.java","Uwe Schindler",0.25,8
+"src/java/org/apache/lucene/index/DocFieldProcessor.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/index/DocFieldProcessorPerThread.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/index/DocInverterPerField.java","Michael Busch",0.666666666666667,3
+"src/java/org/apache/lucene/index/DocInverterPerField.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/index/DocInverterPerThread.java","Michael Busch",0.5,2
+"src/java/org/apache/lucene/index/DocInverterPerThread.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/index/DocumentsWriter.java","Mark Robert Miller",0.111111111111111,9
+"src/java/org/apache/lucene/index/DocumentsWriter.java","Michael McCandless",0.888888888888889,9
+"src/java/org/apache/lucene/index/DocumentsWriterThreadState.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/index/FieldInfo.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/index/FieldInfos.java","Chris M. Hostetter",0.142857142857143,7
+"src/java/org/apache/lucene/index/FieldInfos.java","Michael McCandless",0.714285714285714,7
+"src/java/org/apache/lucene/index/FieldInfos.java","Yonik Seeley",0.142857142857143,7
+"src/java/org/apache/lucene/index/FieldInvertState.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/index/FieldsReader.java","Michael McCandless",0.75,4
+"src/java/org/apache/lucene/index/FieldsReader.java","Yonik Seeley",0.25,4
+"src/java/org/apache/lucene/index/FilterIndexReader.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/index/FreqProxTermsWriter.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/index/IndexCommit.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/index/IndexFileDeleter.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/index/IndexModifier.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/index/IndexModifier.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/index/IndexReader.java","Chris M. Hostetter",0.0555555555555556,18
+"src/java/org/apache/lucene/index/IndexReader.java","Mark Robert Miller",0.0555555555555556,18
+"src/java/org/apache/lucene/index/IndexReader.java","Michael McCandless",0.722222222222222,18
+"src/java/org/apache/lucene/index/IndexReader.java","Uwe Schindler",0.166666666666667,18
+"src/java/org/apache/lucene/index/IndexWriter.java","Chris M. Hostetter",0.0606060606060606,33
+"src/java/org/apache/lucene/index/IndexWriter.java","Mark Robert Miller",0.0303030303030303,33
+"src/java/org/apache/lucene/index/IndexWriter.java","Michael McCandless",0.909090909090909,33
+"src/java/org/apache/lucene/index/LogByteSizeMergePolicy.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/index/LogByteSizeMergePolicy.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/index/LogDocMergePolicy.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/index/LogMergePolicy.java","Michael McCandless",1,6
+"src/java/org/apache/lucene/index/MergePolicy.java","Michael McCandless",0.8,5
+"src/java/org/apache/lucene/index/MergePolicy.java","Uwe Schindler",0.2,5
+"src/java/org/apache/lucene/index/MultiLevelSkipListWriter.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/index/MultipleTermPositions.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/index/MultiReader.java","Michael McCandless",0.8,5
+"src/java/org/apache/lucene/index/MultiReader.java","Yonik Seeley",0.2,5
+"src/java/org/apache/lucene/index/ParallelReader.java","Chris M. Hostetter",0.2,5
+"src/java/org/apache/lucene/index/ParallelReader.java","Michael McCandless",0.6,5
+"src/java/org/apache/lucene/index/ParallelReader.java","Yonik Seeley",0.2,5
+"src/java/org/apache/lucene/index/RawPostingList.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/index/ReadOnlyDirectoryReader.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/index/ReadOnlyDirectoryReader.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/index/SegmentInfo.java","Michael McCandless",1,3
+"src/java/org/apache/lucene/index/SegmentInfos.java","Chris M. Hostetter",0.125,8
+"src/java/org/apache/lucene/index/SegmentInfos.java","Mark Robert Miller",0.125,8
+"src/java/org/apache/lucene/index/SegmentInfos.java","Michael McCandless",0.375,8
+"src/java/org/apache/lucene/index/SegmentInfos.java","Uwe Schindler",0.375,8
+"src/java/org/apache/lucene/index/SegmentMergeInfo.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/index/SegmentMergeInfo.java","Yonik Seeley",0.5,2
+"src/java/org/apache/lucene/index/SegmentMerger.java","Michael McCandless",1,4
+"src/java/org/apache/lucene/index/SegmentReader.java","Chris M. Hostetter",0.05,20
+"src/java/org/apache/lucene/index/SegmentReader.java","Michael McCandless",0.95,20
+"src/java/org/apache/lucene/index/SegmentTermDocs.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/index/SegmentTermEnum.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/index/SegmentTermPositions.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/index/SegmentTermPositions.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/index/SnapshotDeletionPolicy.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/index/StoredFieldsWriter.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/index/StoredFieldsWriterPerThread.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/index/Term.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/index/Term.java","Mark Robert Miller",0.333333333333333,3
+"src/java/org/apache/lucene/index/Term.java","Yonik Seeley",0.333333333333333,3
+"src/java/org/apache/lucene/index/TermEnum.java","Mark Robert Miller",0.5,2
+"src/java/org/apache/lucene/index/TermEnum.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/index/TermFreqVector.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/index/TermInfosReader.java","Michael Busch",0.5,2
+"src/java/org/apache/lucene/index/TermInfosReader.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/index/TermInfosWriter.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/index/TermsHashPerField.java","Uwe Schindler",1,1
+"src/java/org/apache/lucene/index/TermVectorsTermsWriter.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/index/TermVectorsTermsWriterPerField.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/index/TermVectorsTermsWriterPerField.java","Uwe Schindler",0.666666666666667,3
+"src/java/org/apache/lucene/index/TermVectorsWriter.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/messages/Message.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/messages/MessageImpl.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/messages/NLS.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/messages/NLSException.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/queryParser/CharStream.java","Michael Busch",0.25,4
+"src/java/org/apache/lucene/queryParser/CharStream.java","Michael McCandless",0.5,4
+"src/java/org/apache/lucene/queryParser/CharStream.java","Uwe Schindler",0.25,4
+"src/java/org/apache/lucene/queryParser/FastCharStream.java","Michael Busch",0.5,2
+"src/java/org/apache/lucene/queryParser/FastCharStream.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/queryParser/MultiFieldQueryParser.java","Michael Busch",0.5,2
+"src/java/org/apache/lucene/queryParser/MultiFieldQueryParser.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/queryParser/ParseException.java","Michael Busch",0.25,4
+"src/java/org/apache/lucene/queryParser/ParseException.java","Michael McCandless",0.5,4
+"src/java/org/apache/lucene/queryParser/ParseException.java","Uwe Schindler",0.25,4
+"src/java/org/apache/lucene/queryParser/QueryParser.java","Michael Busch",0.25,8
+"src/java/org/apache/lucene/queryParser/QueryParser.java","Michael McCandless",0.375,8
+"src/java/org/apache/lucene/queryParser/QueryParser.java","Uwe Schindler",0.25,8
+"src/java/org/apache/lucene/queryParser/QueryParser.java","Yonik Seeley",0.125,8
+"src/java/org/apache/lucene/queryParser/QueryParserConstants.java","Michael Busch",0.5,2
+"src/java/org/apache/lucene/queryParser/QueryParserConstants.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/queryParser/QueryParserTokenManager.java","Michael Busch",0.2,5
+"src/java/org/apache/lucene/queryParser/QueryParserTokenManager.java","Michael McCandless",0.4,5
+"src/java/org/apache/lucene/queryParser/QueryParserTokenManager.java","Uwe Schindler",0.4,5
+"src/java/org/apache/lucene/queryParser/Token.java","Michael Busch",0.25,4
+"src/java/org/apache/lucene/queryParser/Token.java","Michael McCandless",0.5,4
+"src/java/org/apache/lucene/queryParser/Token.java","Uwe Schindler",0.25,4
+"src/java/org/apache/lucene/queryParser/TokenMgrError.java","Michael Busch",0.25,4
+"src/java/org/apache/lucene/queryParser/TokenMgrError.java","Michael McCandless",0.5,4
+"src/java/org/apache/lucene/queryParser/TokenMgrError.java","Uwe Schindler",0.25,4
+"src/java/org/apache/lucene/search/BooleanClause.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/BooleanQuery.java","Chris M. Hostetter",0.0909090909090909,11
+"src/java/org/apache/lucene/search/BooleanQuery.java","Mark Robert Miller",0.272727272727273,11
+"src/java/org/apache/lucene/search/BooleanQuery.java","Michael McCandless",0.545454545454545,11
+"src/java/org/apache/lucene/search/BooleanQuery.java","Uwe Schindler",0.0909090909090909,11
+"src/java/org/apache/lucene/search/BooleanScorer.java","Chris M. Hostetter",0.166666666666667,6
+"src/java/org/apache/lucene/search/BooleanScorer.java","Michael McCandless",0.833333333333333,6
+"src/java/org/apache/lucene/search/BooleanScorer2.java","Chris M. Hostetter",0.142857142857143,7
+"src/java/org/apache/lucene/search/BooleanScorer2.java","Michael McCandless",0.857142857142857,7
+"src/java/org/apache/lucene/search/CachingSpanFilter.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/CachingWrapperFilter.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/CachingWrapperFilter.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/search/Collector.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/Collector.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/search/ComplexExplanation.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/search/ConjunctionScorer.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/ConstantScoreQuery.java","Mark Robert Miller",0.333333333333333,6
+"src/java/org/apache/lucene/search/ConstantScoreQuery.java","Michael McCandless",0.666666666666667,6
+"src/java/org/apache/lucene/search/ConstantScoreRangeQuery.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/search/ConstantScoreRangeQuery.java","Uwe Schindler",0.666666666666667,3
+"src/java/org/apache/lucene/search/DisjunctionMaxQuery.java","Mark Robert Miller",0.333333333333333,6
+"src/java/org/apache/lucene/search/DisjunctionMaxQuery.java","Michael McCandless",0.666666666666667,6
+"src/java/org/apache/lucene/search/DisjunctionMaxScorer.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/search/DisjunctionMaxScorer.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/DisjunctionSumScorer.java","Chris M. Hostetter",0.25,4
+"src/java/org/apache/lucene/search/DisjunctionSumScorer.java","Mark Robert Miller",0.25,4
+"src/java/org/apache/lucene/search/DisjunctionSumScorer.java","Michael McCandless",0.5,4
+"src/java/org/apache/lucene/search/DocIdSet.java","Michael McCandless",0.6,5
+"src/java/org/apache/lucene/search/DocIdSet.java","Uwe Schindler",0.4,5
+"src/java/org/apache/lucene/search/DocIdSetIterator.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/search/DocIdSetIterator.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/ExactPhraseScorer.java","Mark Robert Miller",0.5,2
+"src/java/org/apache/lucene/search/ExactPhraseScorer.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/Explanation.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/search/ExtendedFieldCache.java","Mark Robert Miller",0.333333333333333,3
+"src/java/org/apache/lucene/search/ExtendedFieldCache.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/search/ExtendedFieldCache.java","Yonik Seeley",0.333333333333333,3
+"src/java/org/apache/lucene/search/FieldCache.java","Chris M. Hostetter",0.285714285714286,7
+"src/java/org/apache/lucene/search/FieldCache.java","Mark Robert Miller",0.142857142857143,7
+"src/java/org/apache/lucene/search/FieldCache.java","Michael McCandless",0.285714285714286,7
+"src/java/org/apache/lucene/search/FieldCache.java","Uwe Schindler",0.142857142857143,7
+"src/java/org/apache/lucene/search/FieldCache.java","Yonik Seeley",0.142857142857143,7
+"src/java/org/apache/lucene/search/FieldCacheImpl.java","Chris M. Hostetter",0.142857142857143,7
+"src/java/org/apache/lucene/search/FieldCacheImpl.java","Mark Robert Miller",0.142857142857143,7
+"src/java/org/apache/lucene/search/FieldCacheImpl.java","Michael McCandless",0.428571428571429,7
+"src/java/org/apache/lucene/search/FieldCacheImpl.java","Uwe Schindler",0.142857142857143,7
+"src/java/org/apache/lucene/search/FieldCacheImpl.java","Yonik Seeley",0.142857142857143,7
+"src/java/org/apache/lucene/search/FieldCacheRangeFilter.java","Michael McCandless",0.2,5
+"src/java/org/apache/lucene/search/FieldCacheRangeFilter.java","Uwe Schindler",0.8,5
+"src/java/org/apache/lucene/search/FieldCacheTermsFilter.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/FieldCacheTermsFilter.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/search/FieldComparator.java","Chris M. Hostetter",0.25,4
+"src/java/org/apache/lucene/search/FieldComparator.java","Michael McCandless",0.5,4
+"src/java/org/apache/lucene/search/FieldComparator.java","Uwe Schindler",0.25,4
+"src/java/org/apache/lucene/search/FieldComparatorSource.java","Mark Robert Miller",0.5,2
+"src/java/org/apache/lucene/search/FieldComparatorSource.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/FieldDoc.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/FieldSortedHitQueue.java","Chris M. Hostetter",0.5,4
+"src/java/org/apache/lucene/search/FieldSortedHitQueue.java","Mark Robert Miller",0.25,4
+"src/java/org/apache/lucene/search/FieldSortedHitQueue.java","Uwe Schindler",0.25,4
+"src/java/org/apache/lucene/search/FieldValueHitQueue.java","Mark Robert Miller",0.285714285714286,7
+"src/java/org/apache/lucene/search/FieldValueHitQueue.java","Michael McCandless",0.714285714285714,7
+"src/java/org/apache/lucene/search/Filter.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/Filter.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/search/FilteredDocIdSet.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/FilteredDocIdSet.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/search/FilteredDocIdSetIterator.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/search/FilteredQuery.java","Mark Robert Miller",0.285714285714286,7
+"src/java/org/apache/lucene/search/FilteredQuery.java","Michael McCandless",0.714285714285714,7
+"src/java/org/apache/lucene/search/FilteredTermEnum.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/FilterManager.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/search/FilterManager.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/function/ByteFieldSource.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/function/ByteFieldSource.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/search/function/CustomScoreQuery.java","Chris M. Hostetter",0.125,8
+"src/java/org/apache/lucene/search/function/CustomScoreQuery.java","Doron Cohen",0.125,8
+"src/java/org/apache/lucene/search/function/CustomScoreQuery.java","Mark Robert Miller",0.25,8
+"src/java/org/apache/lucene/search/function/CustomScoreQuery.java","Michael McCandless",0.375,8
+"src/java/org/apache/lucene/search/function/CustomScoreQuery.java","Otis Gospodnetic",0.125,8
+"src/java/org/apache/lucene/search/function/DocValues.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/search/function/DocValues.java","Mark Robert Miller",0.5,2
+"src/java/org/apache/lucene/search/function/FieldCacheSource.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/search/function/FieldCacheSource.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/function/FieldScoreQuery.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/search/function/FloatFieldSource.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/function/FloatFieldSource.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/search/function/IntFieldSource.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/function/IntFieldSource.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/search/function/MultiValueSource.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/function/OrdFieldSource.java","Mark Robert Miller",0.5,2
+"src/java/org/apache/lucene/search/function/OrdFieldSource.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/function/ReverseOrdFieldSource.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/function/ShortFieldSource.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/search/function/ShortFieldSource.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/search/function/ValueSourceQuery.java","Chris M. Hostetter",0.166666666666667,6
+"src/java/org/apache/lucene/search/function/ValueSourceQuery.java","Doron Cohen",0.166666666666667,6
+"src/java/org/apache/lucene/search/function/ValueSourceQuery.java","Mark Robert Miller",0.333333333333333,6
+"src/java/org/apache/lucene/search/function/ValueSourceQuery.java","Michael McCandless",0.333333333333333,6
+"src/java/org/apache/lucene/search/FuzzyQuery.java","Mark Robert Miller",0.5,4
+"src/java/org/apache/lucene/search/FuzzyQuery.java","Michael McCandless",0.25,4
+"src/java/org/apache/lucene/search/FuzzyQuery.java","Uwe Schindler",0.25,4
+"src/java/org/apache/lucene/search/FuzzyTermEnum.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/search/Hit.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/search/HitCollector.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/HitCollectorWrapper.java","Mark Robert Miller",0.25,4
+"src/java/org/apache/lucene/search/HitCollectorWrapper.java","Michael McCandless",0.75,4
+"src/java/org/apache/lucene/search/HitIterator.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/search/HitQueue.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/search/Hits.java","Mark Robert Miller",0.666666666666667,3
+"src/java/org/apache/lucene/search/Hits.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/search/IndexSearcher.java","Mark Robert Miller",0.214285714285714,14
+"src/java/org/apache/lucene/search/IndexSearcher.java","Michael McCandless",0.714285714285714,14
+"src/java/org/apache/lucene/search/IndexSearcher.java","Uwe Schindler",0.0714285714285714,14
+"src/java/org/apache/lucene/search/MatchAllDocsQuery.java","Mark Robert Miller",0.6,5
+"src/java/org/apache/lucene/search/MatchAllDocsQuery.java","Michael McCandless",0.4,5
+"src/java/org/apache/lucene/search/MultiPhraseQuery.java","Mark Robert Miller",0.4,5
+"src/java/org/apache/lucene/search/MultiPhraseQuery.java","Michael McCandless",0.6,5
+"src/java/org/apache/lucene/search/MultiSearcher.java","Mark Robert Miller",0.25,4
+"src/java/org/apache/lucene/search/MultiSearcher.java","Michael McCandless",0.75,4
+"src/java/org/apache/lucene/search/MultiTermQuery.java","Chris M. Hostetter",0.125,8
+"src/java/org/apache/lucene/search/MultiTermQuery.java","Mark Robert Miller",0.125,8
+"src/java/org/apache/lucene/search/MultiTermQuery.java","Michael McCandless",0.625,8
+"src/java/org/apache/lucene/search/MultiTermQuery.java","Uwe Schindler",0.125,8
+"src/java/org/apache/lucene/search/MultiTermQueryWrapperFilter.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/MultiTermQueryWrapperFilter.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/search/NumericRangeFilter.java","Michael McCandless",0.2,5
+"src/java/org/apache/lucene/search/NumericRangeFilter.java","Uwe Schindler",0.8,5
+"src/java/org/apache/lucene/search/NumericRangeQuery.java","Chris M. Hostetter",0.0666666666666667,15
+"src/java/org/apache/lucene/search/NumericRangeQuery.java","Michael McCandless",0.133333333333333,15
+"src/java/org/apache/lucene/search/NumericRangeQuery.java","Uwe Schindler",0.733333333333333,15
+"src/java/org/apache/lucene/search/NumericRangeQuery.java","Yonik Seeley",0.0666666666666667,15
+"src/java/org/apache/lucene/search/ParallelMultiSearcher.java","Mark Robert Miller",0.4,5
+"src/java/org/apache/lucene/search/ParallelMultiSearcher.java","Michael McCandless",0.6,5
+"src/java/org/apache/lucene/search/payloads/AveragePayloadFunction.java","Grant Ingersoll",0.666666666666667,3
+"src/java/org/apache/lucene/search/payloads/AveragePayloadFunction.java","Mark Robert Miller",0.333333333333333,3
+"src/java/org/apache/lucene/search/payloads/BoostingTermQuery.java","Grant Ingersoll",0.4,5
+"src/java/org/apache/lucene/search/payloads/BoostingTermQuery.java","Mark Robert Miller",0.4,5
+"src/java/org/apache/lucene/search/payloads/BoostingTermQuery.java","Michael McCandless",0.2,5
+"src/java/org/apache/lucene/search/payloads/MaxPayloadFunction.java","Grant Ingersoll",0.666666666666667,3
+"src/java/org/apache/lucene/search/payloads/MaxPayloadFunction.java","Mark Robert Miller",0.333333333333333,3
+"src/java/org/apache/lucene/search/payloads/MinPayloadFunction.java","Grant Ingersoll",0.5,4
+"src/java/org/apache/lucene/search/payloads/MinPayloadFunction.java","Mark Robert Miller",0.5,4
+"src/java/org/apache/lucene/search/payloads/PayloadFunction.java","Grant Ingersoll",0.5,4
+"src/java/org/apache/lucene/search/payloads/PayloadFunction.java","Mark Robert Miller",0.5,4
+"src/java/org/apache/lucene/search/payloads/PayloadNearQuery.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/search/payloads/PayloadSpanUtil.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/search/payloads/PayloadTermQuery.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/search/payloads/PayloadTermQuery.java","Mark Robert Miller",0.5,2
+"src/java/org/apache/lucene/search/PhraseQuery.java","Mark Robert Miller",0.5,6
+"src/java/org/apache/lucene/search/PhraseQuery.java","Michael McCandless",0.5,6
+"src/java/org/apache/lucene/search/PhraseScorer.java","Chris M. Hostetter",0.2,5
+"src/java/org/apache/lucene/search/PhraseScorer.java","Mark Robert Miller",0.2,5
+"src/java/org/apache/lucene/search/PhraseScorer.java","Michael McCandless",0.6,5
+"src/java/org/apache/lucene/search/PositiveScoresOnlyCollector.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/search/PrefixFilter.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/PrefixQuery.java","Mark Robert Miller",0.333333333333333,3
+"src/java/org/apache/lucene/search/PrefixQuery.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/PrefixTermEnum.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/search/Query.java","Chris M. Hostetter",0.111111111111111,9
+"src/java/org/apache/lucene/search/Query.java","Mark Robert Miller",0.333333333333333,9
+"src/java/org/apache/lucene/search/Query.java","Michael McCandless",0.444444444444444,9
+"src/java/org/apache/lucene/search/Query.java","Uwe Schindler",0.111111111111111,9
+"src/java/org/apache/lucene/search/QueryTermVector.java","Michael Busch",0.5,2
+"src/java/org/apache/lucene/search/QueryTermVector.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/search/QueryWrapperFilter.java","Mark Robert Miller",0.333333333333333,6
+"src/java/org/apache/lucene/search/QueryWrapperFilter.java","Michael McCandless",0.333333333333333,6
+"src/java/org/apache/lucene/search/QueryWrapperFilter.java","Uwe Schindler",0.333333333333333,6
+"src/java/org/apache/lucene/search/RangeFilter.java","Michael McCandless",0.25,4
+"src/java/org/apache/lucene/search/RangeFilter.java","Uwe Schindler",0.75,4
+"src/java/org/apache/lucene/search/RangeQuery.java","Mark Robert Miller",0.25,8
+"src/java/org/apache/lucene/search/RangeQuery.java","Michael McCandless",0.25,8
+"src/java/org/apache/lucene/search/RangeQuery.java","Uwe Schindler",0.5,8
+"src/java/org/apache/lucene/search/ReqExclScorer.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/search/ReqOptSumScorer.java","Mark Robert Miller",0.333333333333333,3
+"src/java/org/apache/lucene/search/ReqOptSumScorer.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/ScoreCachingWrappingScorer.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/search/ScoreDoc.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/Scorer.java","Mark Robert Miller",0.285714285714286,7
+"src/java/org/apache/lucene/search/Scorer.java","Michael McCandless",0.714285714285714,7
+"src/java/org/apache/lucene/search/Searchable.java","Mark Robert Miller",0.5,6
+"src/java/org/apache/lucene/search/Searchable.java","Michael McCandless",0.5,6
+"src/java/org/apache/lucene/search/Searcher.java","Mark Robert Miller",0.333333333333333,3
+"src/java/org/apache/lucene/search/Searcher.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/Similarity.java","Doron Cohen",0.142857142857143,7
+"src/java/org/apache/lucene/search/Similarity.java","Grant Ingersoll",0.428571428571429,7
+"src/java/org/apache/lucene/search/Similarity.java","Mark Robert Miller",0.428571428571429,7
+"src/java/org/apache/lucene/search/SimilarityDelegator.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/search/SloppyPhraseScorer.java","Mark Robert Miller",0.666666666666667,3
+"src/java/org/apache/lucene/search/SloppyPhraseScorer.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/search/Sort.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/search/SortComparator.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/search/SortComparatorSource.java","Mark Robert Miller",1,1
+"src/java/org/apache/lucene/search/SortField.java","Mark Robert Miller",0.111111111111111,9
+"src/java/org/apache/lucene/search/SortField.java","Michael McCandless",0.555555555555556,9
+"src/java/org/apache/lucene/search/SortField.java","Uwe Schindler",0.111111111111111,9
+"src/java/org/apache/lucene/search/SortField.java","Yonik Seeley",0.222222222222222,9
+"src/java/org/apache/lucene/search/SpanQueryFilter.java","Yonik Seeley",1,1
+"src/java/org/apache/lucene/search/spans/FieldMaskingSpanQuery.java","Chris M. Hostetter",0.4,5
+"src/java/org/apache/lucene/search/spans/FieldMaskingSpanQuery.java","Mark Robert Miller",0.4,5
+"src/java/org/apache/lucene/search/spans/FieldMaskingSpanQuery.java","Michael McCandless",0.2,5
+"src/java/org/apache/lucene/search/spans/NearSpansOrdered.java","Grant Ingersoll",0.25,4
+"src/java/org/apache/lucene/search/spans/NearSpansOrdered.java","Mark Robert Miller",0.75,4
+"src/java/org/apache/lucene/search/spans/NearSpansUnordered.java","Chris M. Hostetter",0.2,5
+"src/java/org/apache/lucene/search/spans/NearSpansUnordered.java","Grant Ingersoll",0.2,5
+"src/java/org/apache/lucene/search/spans/NearSpansUnordered.java","Mark Robert Miller",0.6,5
+"src/java/org/apache/lucene/search/spans/SpanFirstQuery.java","Mark Robert Miller",1,2
+"src/java/org/apache/lucene/search/spans/SpanNearQuery.java","Grant Ingersoll",0.166666666666667,6
+"src/java/org/apache/lucene/search/spans/SpanNearQuery.java","Mark Robert Miller",0.833333333333333,6
+"src/java/org/apache/lucene/search/spans/SpanNotQuery.java","Chris M. Hostetter",0.25,4
+"src/java/org/apache/lucene/search/spans/SpanNotQuery.java","Mark Robert Miller",0.75,4
+"src/java/org/apache/lucene/search/spans/SpanOrQuery.java","Mark Robert Miller",1,4
+"src/java/org/apache/lucene/search/spans/SpanQuery.java","Mark Robert Miller",0.666666666666667,3
+"src/java/org/apache/lucene/search/spans/SpanQuery.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/search/spans/Spans.java","Mark Robert Miller",1,2
+"src/java/org/apache/lucene/search/spans/SpanScorer.java","Mark Robert Miller",0.25,4
+"src/java/org/apache/lucene/search/spans/SpanScorer.java","Michael McCandless",0.75,4
+"src/java/org/apache/lucene/search/spans/SpanTermQuery.java","Mark Robert Miller",1,2
+"src/java/org/apache/lucene/search/spans/SpanWeight.java","Mark Robert Miller",0.6,5
+"src/java/org/apache/lucene/search/spans/SpanWeight.java","Michael McCandless",0.4,5
+"src/java/org/apache/lucene/search/spans/TermSpans.java","Mark Robert Miller",1,2
+"src/java/org/apache/lucene/search/TermQuery.java","Mark Robert Miller",0.6,5
+"src/java/org/apache/lucene/search/TermQuery.java","Michael McCandless",0.4,5
+"src/java/org/apache/lucene/search/TermRangeFilter.java","Michael McCandless",0.25,4
+"src/java/org/apache/lucene/search/TermRangeFilter.java","Uwe Schindler",0.75,4
+"src/java/org/apache/lucene/search/TermRangeQuery.java","Michael McCandless",0.5,6
+"src/java/org/apache/lucene/search/TermRangeQuery.java","Uwe Schindler",0.5,6
+"src/java/org/apache/lucene/search/TermRangeTermEnum.java","Uwe Schindler",0.75,4
+"src/java/org/apache/lucene/search/TermRangeTermEnum.java","Yonik Seeley",0.25,4
+"src/java/org/apache/lucene/search/TermScorer.java","Chris M. Hostetter",0.166666666666667,6
+"src/java/org/apache/lucene/search/TermScorer.java","Mark Robert Miller",0.166666666666667,6
+"src/java/org/apache/lucene/search/TermScorer.java","Michael McCandless",0.666666666666667,6
+"src/java/org/apache/lucene/search/TimeLimitedCollector.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/search/TimeLimitedCollector.java","Mark Robert Miller",0.333333333333333,3
+"src/java/org/apache/lucene/search/TimeLimitedCollector.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/search/TimeLimitingCollector.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/search/TimeLimitingCollector.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/TopDocCollector.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/TopDocs.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/TopDocsCollector.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/search/TopDocsCollector.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/TopFieldCollector.java","Grant Ingersoll",0.166666666666667,6
+"src/java/org/apache/lucene/search/TopFieldCollector.java","Michael McCandless",0.833333333333333,6
+"src/java/org/apache/lucene/search/TopFieldDocCollector.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/search/TopScoreDocCollector.java","Michael McCandless",1,5
+"src/java/org/apache/lucene/search/Weight.java","Chris M. Hostetter",0.2,5
+"src/java/org/apache/lucene/search/Weight.java","Mark Robert Miller",0.6,5
+"src/java/org/apache/lucene/search/Weight.java","Michael McCandless",0.2,5
+"src/java/org/apache/lucene/search/WildcardQuery.java","Mark Robert Miller",0.333333333333333,3
+"src/java/org/apache/lucene/search/WildcardQuery.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/search/WildcardTermEnum.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/store/Directory.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/store/Directory.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/store/FileSwitchDirectory.java","Chris M. Hostetter",0.25,4
+"src/java/org/apache/lucene/store/FileSwitchDirectory.java","Michael McCandless",0.75,4
+"src/java/org/apache/lucene/store/FSDirectory.java","Chris M. Hostetter",0.2,5
+"src/java/org/apache/lucene/store/FSDirectory.java","Michael McCandless",0.4,5
+"src/java/org/apache/lucene/store/FSDirectory.java","Uwe Schindler",0.4,5
+"src/java/org/apache/lucene/store/FSLockFactory.java","Uwe Schindler",1,2
+"src/java/org/apache/lucene/store/IndexInput.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/store/IndexInput.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/store/IndexOutput.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/store/Lock.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/store/LockFactory.java","Uwe Schindler",1,1
+"src/java/org/apache/lucene/store/MMapDirectory.java","Chris M. Hostetter",0.2,5
+"src/java/org/apache/lucene/store/MMapDirectory.java","Michael McCandless",0.2,5
+"src/java/org/apache/lucene/store/MMapDirectory.java","Uwe Schindler",0.6,5
+"src/java/org/apache/lucene/store/NativeFSLockFactory.java","Chris M. Hostetter",0.333333333333333,3
+"src/java/org/apache/lucene/store/NativeFSLockFactory.java","Michael McCandless",0.333333333333333,3
+"src/java/org/apache/lucene/store/NativeFSLockFactory.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/store/NIOFSDirectory.java","Michael McCandless",0.5,4
+"src/java/org/apache/lucene/store/NIOFSDirectory.java","Uwe Schindler",0.5,4
+"src/java/org/apache/lucene/store/RAMDirectory.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/store/SimpleFSDirectory.java","Mark Robert Miller",0.142857142857143,7
+"src/java/org/apache/lucene/store/SimpleFSDirectory.java","Michael McCandless",0.428571428571429,7
+"src/java/org/apache/lucene/store/SimpleFSDirectory.java","Uwe Schindler",0.428571428571429,7
+"src/java/org/apache/lucene/store/SimpleFSLockFactory.java","Mark Robert Miller",0.5,2
+"src/java/org/apache/lucene/store/SimpleFSLockFactory.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/util/ArrayUtil.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/util/ArrayUtil.java","Grant Ingersoll",0.5,2
+"src/java/org/apache/lucene/util/Attribute.java","Michael Busch",0.666666666666667,3
+"src/java/org/apache/lucene/util/Attribute.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/util/AttributeImpl.java","Michael Busch",0.333333333333333,6
+"src/java/org/apache/lucene/util/AttributeImpl.java","Uwe Schindler",0.666666666666667,6
+"src/java/org/apache/lucene/util/AttributeSource.java","Mark Robert Miller",0.125,8
+"src/java/org/apache/lucene/util/AttributeSource.java","Michael Busch",0.25,8
+"src/java/org/apache/lucene/util/AttributeSource.java","Michael McCandless",0.125,8
+"src/java/org/apache/lucene/util/AttributeSource.java","Uwe Schindler",0.5,8
+"src/java/org/apache/lucene/util/AverageGuessMemoryModel.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/util/BitUtil.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/util/BitVector.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/util/CloseableThreadLocal.java","Chris M. Hostetter",0.5,2
+"src/java/org/apache/lucene/util/CloseableThreadLocal.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/util/Constants.java","Michael McCandless",1,4
+"src/java/org/apache/lucene/util/DocIdBitSet.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/util/DocIdBitSet.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/util/FieldCacheSanityChecker.java","Chris M. Hostetter",1,2
+"src/java/org/apache/lucene/util/IndexableBinaryStringTools.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/util/MapOfSets.java","Chris M. Hostetter",1,2
+"src/java/org/apache/lucene/util/MemoryModel.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/util/NumericUtils.java","Chris M. Hostetter",0.166666666666667,6
+"src/java/org/apache/lucene/util/NumericUtils.java","Michael McCandless",0.166666666666667,6
+"src/java/org/apache/lucene/util/NumericUtils.java","Uwe Schindler",0.666666666666667,6
+"src/java/org/apache/lucene/util/OpenBitSet.java","Michael McCandless",0.5,2
+"src/java/org/apache/lucene/util/OpenBitSet.java","Uwe Schindler",0.5,2
+"src/java/org/apache/lucene/util/OpenBitSetDISI.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/util/OpenBitSetIterator.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/util/PriorityQueue.java","Michael McCandless",1,2
+"src/java/org/apache/lucene/util/RamUsageEstimator.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/util/ReaderUtil.java","Chris M. Hostetter",0.5,4
+"src/java/org/apache/lucene/util/ReaderUtil.java","Mark Robert Miller",0.5,4
+"src/java/org/apache/lucene/util/ScorerDocQueue.java","Michael McCandless",1,1
+"src/java/org/apache/lucene/util/SimpleStringInterner.java","Yonik Seeley",1,1
+"src/java/org/apache/lucene/util/SortedVIntList.java","Michael McCandless",0.666666666666667,3
+"src/java/org/apache/lucene/util/SortedVIntList.java","Uwe Schindler",0.333333333333333,3
+"src/java/org/apache/lucene/util/StringHelper.java","Yonik Seeley",1,1
+"src/java/org/apache/lucene/util/StringInterner.java","Yonik Seeley",1,1
+"src/java/org/apache/lucene/util/ToStringUtils.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/util/UnicodeUtil.java","Chris M. Hostetter",1,1
+"src/java/org/apache/lucene/util/Version.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/analysis/BaseTokenStreamTestCase.java","Uwe Schindler",1,3
+"src/test/org/apache/lucene/analysis/TestAnalyzers.java","Michael McCandless",0.333333333333333,3
+"src/test/org/apache/lucene/analysis/TestAnalyzers.java","Uwe Schindler",0.666666666666667,3
+"src/test/org/apache/lucene/analysis/TestASCIIFoldingFilter.java","Michael Busch",0.5,2
+"src/test/org/apache/lucene/analysis/TestASCIIFoldingFilter.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/analysis/TestCachingTokenFilter.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/analysis/TestCachingTokenFilter.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/analysis/TestCharacterCache.java","Chris M. Hostetter",0.5,2
+"src/test/org/apache/lucene/analysis/TestCharacterCache.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/analysis/TestCharArraySet.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/analysis/TestCharFilter.java","Chris M. Hostetter",0.5,2
+"src/test/org/apache/lucene/analysis/TestCharFilter.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/analysis/TestISOLatin1AccentFilter.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/analysis/TestKeywordAnalyzer.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/analysis/TestLengthFilter.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/analysis/TestMappingCharFilter.java","Michael McCandless",0.25,4
+"src/test/org/apache/lucene/analysis/TestMappingCharFilter.java","Uwe Schindler",0.75,4
+"src/test/org/apache/lucene/analysis/TestNumericTokenStream.java","Michael Busch",0.25,4
+"src/test/org/apache/lucene/analysis/TestNumericTokenStream.java","Uwe Schindler",0.75,4
+"src/test/org/apache/lucene/analysis/TestPerFieldAnalzyerWrapper.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/analysis/TestStandardAnalyzer.java","Uwe Schindler",1,2
+"src/test/org/apache/lucene/analysis/TestStopAnalyzer.java","Mark Robert Miller",0.5,2
+"src/test/org/apache/lucene/analysis/TestStopAnalyzer.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/analysis/TestStopFilter.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/analysis/TestStopFilter.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/analysis/TestTeeSinkTokenFilter.java","Michael Busch",0.666666666666667,3
+"src/test/org/apache/lucene/analysis/TestTeeSinkTokenFilter.java","Uwe Schindler",0.333333333333333,3
+"src/test/org/apache/lucene/analysis/TestTeeTokenFilter.java","Chris M. Hostetter",0.333333333333333,3
+"src/test/org/apache/lucene/analysis/TestTeeTokenFilter.java","Michael Busch",0.333333333333333,3
+"src/test/org/apache/lucene/analysis/TestTeeTokenFilter.java","Michael McCandless",0.333333333333333,3
+"src/test/org/apache/lucene/analysis/TestToken.java","Uwe Schindler",1,3
+"src/test/org/apache/lucene/analysis/TestTokenStreamBWComp.java","Michael Busch",0.333333333333333,3
+"src/test/org/apache/lucene/analysis/TestTokenStreamBWComp.java","Uwe Schindler",0.666666666666667,3
+"src/test/org/apache/lucene/analysis/tokenattributes/TestSimpleAttributeImpls.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/analysis/tokenattributes/TestTermAttributeImpl.java","Uwe Schindler",1,3
+"src/test/org/apache/lucene/document/TestDateTools.java","Michael Busch",0.5,2
+"src/test/org/apache/lucene/document/TestDateTools.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/index/DocHelper.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestAddIndexesNoOptimize.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/index/TestAtomicUpdate.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestBackwardsCompatibility.java","Michael McCandless",1,3
+"src/test/org/apache/lucene/index/TestCheckIndex.java","Michael McCandless",1,5
+"src/test/org/apache/lucene/index/TestCompoundFile.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/index/TestCompoundFile.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/index/TestConcurrentMergeScheduler.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestDeletionPolicy.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestDirectoryReader.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestDoc.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/index/TestDoc.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/index/TestDocumentWriter.java","Michael Busch",0.2,5
+"src/test/org/apache/lucene/index/TestDocumentWriter.java","Michael McCandless",0.6,5
+"src/test/org/apache/lucene/index/TestDocumentWriter.java","Uwe Schindler",0.2,5
+"src/test/org/apache/lucene/index/TestFieldsReader.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/index/TestIndexFileDeleter.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestIndexModifier.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/index/TestIndexReader.java","Michael McCandless",0.928571428571429,14
+"src/test/org/apache/lucene/index/TestIndexReader.java","Uwe Schindler",0.0714285714285714,14
+"src/test/org/apache/lucene/index/TestIndexReaderClone.java","Michael McCandless",0.666666666666667,3
+"src/test/org/apache/lucene/index/TestIndexReaderClone.java","Uwe Schindler",0.333333333333333,3
+"src/test/org/apache/lucene/index/TestIndexReaderCloneNorms.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/index/TestIndexReaderReopen.java","Michael McCandless",0.9,10
+"src/test/org/apache/lucene/index/TestIndexReaderReopen.java","Uwe Schindler",0.1,10
+"src/test/org/apache/lucene/index/TestIndexWriter.java","Michael Busch",0.166666666666667,12
+"src/test/org/apache/lucene/index/TestIndexWriter.java","Michael McCandless",0.583333333333333,12
+"src/test/org/apache/lucene/index/TestIndexWriter.java","Uwe Schindler",0.166666666666667,12
+"src/test/org/apache/lucene/index/TestIndexWriter.java","Yonik Seeley",0.0833333333333333,12
+"src/test/org/apache/lucene/index/TestIndexWriterDelete.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/index/TestIndexWriterMergePolicy.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestIndexWriterReader.java","Michael McCandless",1,7
+"src/test/org/apache/lucene/index/TestLazyProxSkipping.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/index/TestMultiLevelSkipList.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestMultiReader.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestNorms.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestNRTReaderWithThreads.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestOmitTf.java","Michael McCandless",1,3
+"src/test/org/apache/lucene/index/TestParallelReaderEmptyIndex.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestParallelTermEnum.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/index/TestPayloads.java","Michael Busch",0.25,4
+"src/test/org/apache/lucene/index/TestPayloads.java","Michael McCandless",0.75,4
+"src/test/org/apache/lucene/index/TestSegmentReader.java","Michael McCandless",1,3
+"src/test/org/apache/lucene/index/TestSegmentTermDocs.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/index/TestSegmentTermEnum.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestStressIndexing.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/index/TestStressIndexing2.java","Michael McCandless",0.333333333333333,3
+"src/test/org/apache/lucene/index/TestStressIndexing2.java","Uwe Schindler",0.333333333333333,3
+"src/test/org/apache/lucene/index/TestStressIndexing2.java","Yonik Seeley",0.333333333333333,3
+"src/test/org/apache/lucene/index/TestTermVectorsReader.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestThreadedOptimize.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/index/TestTransactionRollback.java","Chris M. Hostetter",0.333333333333333,3
+"src/test/org/apache/lucene/index/TestTransactionRollback.java","Michael McCandless",0.666666666666667,3
+"src/test/org/apache/lucene/messages/MessagesTestBundle.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/messages/TestNLS.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/queryParser/TestMultiAnalyzer.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/queryParser/TestMultiAnalyzer.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/queryParser/TestMultiFieldQueryParser.java","Michael Busch",0.5,2
+"src/test/org/apache/lucene/queryParser/TestMultiFieldQueryParser.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/queryParser/TestQueryParser.java","Mark Robert Miller",0.285714285714286,7
+"src/test/org/apache/lucene/queryParser/TestQueryParser.java","Michael Busch",0.142857142857143,7
+"src/test/org/apache/lucene/queryParser/TestQueryParser.java","Michael McCandless",0.285714285714286,7
+"src/test/org/apache/lucene/queryParser/TestQueryParser.java","Uwe Schindler",0.285714285714286,7
+"src/test/org/apache/lucene/search/CachingWrapperFilterHelper.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/search/CheckHits.java","Chris M. Hostetter",0.333333333333333,3
+"src/test/org/apache/lucene/search/CheckHits.java","Michael McCandless",0.666666666666667,3
+"src/test/org/apache/lucene/search/function/FunctionTestSetup.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/search/function/JustCompileSearchSpans.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/search/function/TestCustomScoreQuery.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/search/function/TestDocValues.java","Chris M. Hostetter",0.333333333333333,3
+"src/test/org/apache/lucene/search/function/TestDocValues.java","Mark Robert Miller",0.666666666666667,3
+"src/test/org/apache/lucene/search/function/TestFieldScoreQuery.java","Chris M. Hostetter",1,2
+"src/test/org/apache/lucene/search/function/TestOrdValues.java","Chris M. Hostetter",0.666666666666667,3
+"src/test/org/apache/lucene/search/function/TestOrdValues.java","Michael McCandless",0.333333333333333,3
+"src/test/org/apache/lucene/search/function/TestValueSource.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/search/JustCompileSearch.java","Mark Robert Miller",0.285714285714286,7
+"src/test/org/apache/lucene/search/JustCompileSearch.java","Michael McCandless",0.571428571428571,7
+"src/test/org/apache/lucene/search/JustCompileSearch.java","Uwe Schindler",0.142857142857143,7
+"src/test/org/apache/lucene/search/payloads/PayloadHelper.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/search/payloads/TestBoostingTermQuery.java","Grant Ingersoll",1,2
+"src/test/org/apache/lucene/search/payloads/TestPayloadNearQuery.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/search/payloads/TestPayloadTermQuery.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/search/QueryUtils.java","Chris M. Hostetter",0.375,8
+"src/test/org/apache/lucene/search/QueryUtils.java","Mark Robert Miller",0.125,8
+"src/test/org/apache/lucene/search/QueryUtils.java","Michael McCandless",0.5,8
+"src/test/org/apache/lucene/search/SampleComparable.java","Chris M. Hostetter",0.5,2
+"src/test/org/apache/lucene/search/SampleComparable.java","Yonik Seeley",0.5,2
+"src/test/org/apache/lucene/search/spans/JustCompileSearchSpans.java","Mark Robert Miller",0.5,6
+"src/test/org/apache/lucene/search/spans/JustCompileSearchSpans.java","Michael McCandless",0.5,6
+"src/test/org/apache/lucene/search/spans/TestFieldMaskingSpanQuery.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/search/spans/TestNearSpansOrdered.java","Mark Robert Miller",0.333333333333333,3
+"src/test/org/apache/lucene/search/spans/TestNearSpansOrdered.java","Michael McCandless",0.666666666666667,3
+"src/test/org/apache/lucene/search/spans/TestPayloadSpans.java","Chris M. Hostetter",0.333333333333333,3
+"src/test/org/apache/lucene/search/spans/TestPayloadSpans.java","Mark Robert Miller",0.666666666666667,3
+"src/test/org/apache/lucene/search/spans/TestSpans.java","Mark Robert Miller",0.75,4
+"src/test/org/apache/lucene/search/spans/TestSpans.java","Michael McCandless",0.25,4
+"src/test/org/apache/lucene/search/TestBoolean2.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/search/TestBooleanMinShouldMatch.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/search/TestBooleanOr.java","Otis Gospodnetic",1,1
+"src/test/org/apache/lucene/search/TestBooleanPrefixQuery.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/search/TestBooleanQuery.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/search/TestBooleanScorer.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/search/TestCachingWrapperFilter.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/search/TestCustomSearcherSort.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/search/TestDateFilter.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/search/TestDateSort.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/search/TestDisjunctionMaxQuery.java","Chris M. Hostetter",0.25,4
+"src/test/org/apache/lucene/search/TestDisjunctionMaxQuery.java","Mark Robert Miller",0.25,4
+"src/test/org/apache/lucene/search/TestDisjunctionMaxQuery.java","Michael McCandless",0.5,4
+"src/test/org/apache/lucene/search/TestDocBoost.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/search/TestDocIdSet.java","Michael McCandless",1,3
+"src/test/org/apache/lucene/search/TestElevationComparator.java","Mark Robert Miller",0.25,4
+"src/test/org/apache/lucene/search/TestElevationComparator.java","Michael McCandless",0.75,4
+"src/test/org/apache/lucene/search/TestExplanations.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/search/TestFieldCache.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/search/TestFieldCache.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/search/TestFieldCacheRangeFilter.java","Uwe Schindler",1,4
+"src/test/org/apache/lucene/search/TestFieldCacheTermsFilter.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/search/TestFilteredQuery.java","Chris M. Hostetter",0.333333333333333,3
+"src/test/org/apache/lucene/search/TestFilteredQuery.java","Michael McCandless",0.333333333333333,3
+"src/test/org/apache/lucene/search/TestFilteredQuery.java","Uwe Schindler",0.333333333333333,3
+"src/test/org/apache/lucene/search/TestFilteredSearch.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/search/TestMatchAllDocsQuery.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/search/TestMultiPhraseQuery.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/search/TestMultiSearcher.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/search/TestMultiTermConstantScore.java","Michael McCandless",0.75,4
+"src/test/org/apache/lucene/search/TestMultiTermConstantScore.java","Uwe Schindler",0.25,4
+"src/test/org/apache/lucene/search/TestMultiValuedNumericRangeQuery.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/search/TestNumericRangeQuery32.java","Michael McCandless",0.1,10
+"src/test/org/apache/lucene/search/TestNumericRangeQuery32.java","Uwe Schindler",0.9,10
+"src/test/org/apache/lucene/search/TestNumericRangeQuery64.java","Michael McCandless",0.1,10
+"src/test/org/apache/lucene/search/TestNumericRangeQuery64.java","Uwe Schindler",0.9,10
+"src/test/org/apache/lucene/search/TestPhraseQuery.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/search/TestPositionIncrement.java","Mark Robert Miller",0.2,5
+"src/test/org/apache/lucene/search/TestPositionIncrement.java","Michael McCandless",0.6,5
+"src/test/org/apache/lucene/search/TestPositionIncrement.java","Uwe Schindler",0.2,5
+"src/test/org/apache/lucene/search/TestPositiveScoresOnlyCollector.java","Michael McCandless",1,3
+"src/test/org/apache/lucene/search/TestQueryWrapperFilter.java","Mark Robert Miller",0.75,4
+"src/test/org/apache/lucene/search/TestQueryWrapperFilter.java","Uwe Schindler",0.25,4
+"src/test/org/apache/lucene/search/TestScoreCachingWrappingScorer.java","Michael McCandless",1,3
+"src/test/org/apache/lucene/search/TestScorerPerf.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/search/TestSearchHitsWithDeletions.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/search/TestSetNorm.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/search/TestSimilarity.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/search/TestSimpleExplanations.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/search/TestSloppyPhraseQuery.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/search/TestSort.java","Chris M. Hostetter",0.0909090909090909,11
+"src/test/org/apache/lucene/search/TestSort.java","Mark Robert Miller",0.0909090909090909,11
+"src/test/org/apache/lucene/search/TestSort.java","Michael McCandless",0.727272727272727,11
+"src/test/org/apache/lucene/search/TestSort.java","Uwe Schindler",0.0909090909090909,11
+"src/test/org/apache/lucene/search/TestSpanQueryFilter.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/search/TestStressSort.java","Chris M. Hostetter",0.5,2
+"src/test/org/apache/lucene/search/TestStressSort.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/search/TestTermRangeFilter.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/search/TestTermRangeQuery.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/search/TestTermScorer.java","Chris M. Hostetter",0.2,5
+"src/test/org/apache/lucene/search/TestTermScorer.java","Mark Robert Miller",0.2,5
+"src/test/org/apache/lucene/search/TestTermScorer.java","Michael McCandless",0.6,5
+"src/test/org/apache/lucene/search/TestTimeLimitedCollector.java","Chris M. Hostetter",0.5,2
+"src/test/org/apache/lucene/search/TestTimeLimitedCollector.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/search/TestTimeLimitingCollector.java","Chris M. Hostetter",0.333333333333333,3
+"src/test/org/apache/lucene/search/TestTimeLimitingCollector.java","Michael McCandless",0.666666666666667,3
+"src/test/org/apache/lucene/search/TestTopDocsCollector.java","Michael McCandless",1,3
+"src/test/org/apache/lucene/search/TestTopScoreDocCollector.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/store/_TestHelper.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/store/MockRAMDirectory.java","Mark Robert Miller",0.25,4
+"src/test/org/apache/lucene/store/MockRAMDirectory.java","Michael McCandless",0.75,4
+"src/test/org/apache/lucene/store/MockRAMInputStream.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/store/MockRAMOutputStream.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/store/TestBufferedIndexInput.java","Michael McCandless",0.666666666666667,3
+"src/test/org/apache/lucene/store/TestBufferedIndexInput.java","Uwe Schindler",0.333333333333333,3
+"src/test/org/apache/lucene/store/TestDirectory.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/store/TestDirectory.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/store/TestFileSwitchDirectory.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/store/TestLock.java","Mark Robert Miller",1,1
+"src/test/org/apache/lucene/store/TestLockFactory.java","Mark Robert Miller",0.166666666666667,6
+"src/test/org/apache/lucene/store/TestLockFactory.java","Michael McCandless",0.5,6
+"src/test/org/apache/lucene/store/TestLockFactory.java","Uwe Schindler",0.333333333333333,6
+"src/test/org/apache/lucene/store/TestRAMDirectory.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/store/TestWindowsMMap.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/TestDemo.java","Mark Robert Miller",0.5,2
+"src/test/org/apache/lucene/TestDemo.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/TestSnapshotDeletionPolicy.java","Michael McCandless",0.666666666666667,3
+"src/test/org/apache/lucene/TestSnapshotDeletionPolicy.java","Uwe Schindler",0.333333333333333,3
+"src/test/org/apache/lucene/util/_TestUtil.java","Michael McCandless",1,2
+"src/test/org/apache/lucene/util/ArrayUtilTest.java","Chris M. Hostetter",0.333333333333333,3
+"src/test/org/apache/lucene/util/ArrayUtilTest.java","Grant Ingersoll",0.333333333333333,3
+"src/test/org/apache/lucene/util/ArrayUtilTest.java","Mark Robert Miller",0.333333333333333,3
+"src/test/org/apache/lucene/util/cache/TestSimpleLRUCache.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/util/LocalizedTestCase.java","Michael Busch",1,1
+"src/test/org/apache/lucene/util/LuceneTestCase.java","Chris M. Hostetter",0.2,5
+"src/test/org/apache/lucene/util/LuceneTestCase.java","Michael Busch",0.2,5
+"src/test/org/apache/lucene/util/LuceneTestCase.java","Uwe Schindler",0.6,5
+"src/test/org/apache/lucene/util/TestAttributeSource.java","Michael Busch",0.5,2
+"src/test/org/apache/lucene/util/TestAttributeSource.java","Uwe Schindler",0.5,2
+"src/test/org/apache/lucene/util/TestBitVector.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/util/TestCloseableThreadLocal.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/util/TestFieldCacheSanityChecker.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/util/TestNumericUtils.java","Uwe Schindler",1,1
+"src/test/org/apache/lucene/util/TestOpenBitSet.java","Michael McCandless",1,1
+"src/test/org/apache/lucene/util/TestRamUsageEstimator.java","Chris M. Hostetter",1,1
+"src/test/org/apache/lucene/util/TestSortedVIntList.java","Chris M. Hostetter",0.5,2
+"src/test/org/apache/lucene/util/TestSortedVIntList.java","Michael McCandless",0.5,2
+"src/test/org/apache/lucene/util/TestStringIntern.java","Yonik Seeley",1,1

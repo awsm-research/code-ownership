@@ -1,0 +1,13 @@
+"project","release","var","rank"
+"hbase","hbase_0.95.0RC1_metrics.csv","Minor_Lines",1
+"hbase","hbase_0.95.0RC1_metrics.csv","Major_Commits",2
+"hbase","hbase_0.95.0RC1_metrics.csv","Ownership_Commits",3
+"hbase","hbase_0.95.0RC1_metrics.csv","Major_lines",4
+"hbase","hbase_0.95.0RC1_metrics.csv","Minor_Commits",5
+"hbase","hbase_0.95.0RC1_metrics.csv","McCabe",6
+"hbase","hbase_0.96.0RC5_metrics.csv","Ownership_Commits",1
+"hbase","hbase_0.96.0RC5_metrics.csv","Major_lines",2
+"hbase","hbase_0.96.0RC5_metrics.csv","LineDeleted",3
+"hbase","hbase_0.96.0RC5_metrics.csv","Minor_Lines",4
+"hbase","hbase_0.96.0RC5_metrics.csv","McCabe",5
+"hbase","hbase_0.96.0RC5_metrics.csv","Minor_Commits",5

@@ -1,0 +1,1265 @@
+"Change_file","AuthorName","length","Sum"
+"archetypes/quickstart/src/main/resources/archetype-resources/src/test/java/Start.java","Martijn Dashorst",1,1
+"testing/wicket-threadtest/src/main/java/org/apache/wicket/threadtest/App1Test1.java","Pedro Henrique Oliveira dos Santos",1,1
+"testing/wicket-threadtest/src/main/java/org/apache/wicket/threadtest/apps/app1/Home.java","Martijn Dashorst",1,1
+"testing/wicket-threadtest/src/main/java/org/apache/wicket/threadtest/apps/app1/TestApp1.java","Martin Tzvetanov Grigorov",1,3
+"testing/wicket-threadtest/src/main/java/org/apache/wicket/threadtest/apps/app2/TestApp2.java","Martin Tzvetanov Grigorov",1,3
+"wicket-auth-roles/src/main/java/org/apache/wicket/authroles/authentication/panel/SignInPanel.java","Martin Tzvetanov Grigorov",1,2
+"wicket-auth-roles/src/test/java/org/apache/wicket/authroles/authentication/panel/SignInPanelTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-auth-roles/src/test/java/org/apache/wicket/authroles/authorization/strategies/role/metadata/InstantiationPermissionsTest.java","Igor Vaynberg",1,5
+"wicket-auth-roles/src/test/java/org/apache/wicket/util/license/ApacheLicenceHeaderTest.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-auth-roles/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-auth-roles/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/ajax/AbstractAjaxTimerBehavior.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/ajax/AbstractDefaultAjaxBehavior.java","Martin Tzvetanov Grigorov",1,3
+"wicket-core/src/main/java/org/apache/wicket/ajax/AjaxChannel.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/ajax/AjaxRequestTarget.java","Igor Vaynberg",0.2,10
+"wicket-core/src/main/java/org/apache/wicket/ajax/AjaxRequestTarget.java","Juegen Donnerstag",0.2,10
+"wicket-core/src/main/java/org/apache/wicket/ajax/AjaxRequestTarget.java","Martijn Dashorst",0.3,10
+"wicket-core/src/main/java/org/apache/wicket/ajax/AjaxRequestTarget.java","Martin Tzvetanov Grigorov",0.2,10
+"wicket-core/src/main/java/org/apache/wicket/ajax/AjaxRequestTarget.java","Pedro Henrique Oliveira dos Santos",0.1,10
+"wicket-core/src/main/java/org/apache/wicket/ajax/form/AjaxFormSubmitBehavior.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/ajax/markup/html/AjaxFallbackLink.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/ajax/markup/html/AjaxLink.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/ajax/markup/html/form/AjaxButton.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/ajax/markup/html/form/AjaxFallbackButton.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/ajax/markup/html/form/AjaxSubmitLink.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/Application.java","Igor Vaynberg",0.384615384615385,13
+"wicket-core/src/main/java/org/apache/wicket/Application.java","Martijn Dashorst",0.153846153846154,13
+"wicket-core/src/main/java/org/apache/wicket/Application.java","Martin Tzvetanov Grigorov",0.461538461538462,13
+"wicket-core/src/main/java/org/apache/wicket/application/AbstractClassResolver.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/application/CompoundClassResolver.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/application/DefaultClassResolver.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/ApplicationListenerCollection.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/AttributeModifier.java","Igor Vaynberg",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/AttributeModifier.java","Martijn Dashorst",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/AttributeModifier.java","Martin Tzvetanov Grigorov",0.5,4
+"wicket-core/src/main/java/org/apache/wicket/behavior/AttributeAppender.java","Martijn Dashorst",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/behavior/AttributeAppender.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/behavior/Behavior.java","Igor Vaynberg",0.666666666666667,6
+"wicket-core/src/main/java/org/apache/wicket/behavior/Behavior.java","Martin Tzvetanov Grigorov",0.333333333333333,6
+"wicket-core/src/main/java/org/apache/wicket/behavior/InvalidBehaviorIdException.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/behavior/SimpleAttributeModifier.java","Martijn Dashorst",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/behavior/SimpleAttributeModifier.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/BehaviorInstantiationListenerCollection.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/Behaviors.java","Igor Vaynberg",0.5,4
+"wicket-core/src/main/java/org/apache/wicket/Behaviors.java","Martin Tzvetanov Grigorov",0.5,4
+"wicket-core/src/main/java/org/apache/wicket/Component.java","Igor Vaynberg",0.235294117647059,17
+"wicket-core/src/main/java/org/apache/wicket/Component.java","Juegen Donnerstag",0.0588235294117647,17
+"wicket-core/src/main/java/org/apache/wicket/Component.java","Martin Tzvetanov Grigorov",0.705882352941177,17
+"wicket-core/src/main/java/org/apache/wicket/DefaultExceptionMapper.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/DefaultMapperContext.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/DefaultPageManagerProvider.java","Martin Tzvetanov Grigorov",0.875,8
+"wicket-core/src/main/java/org/apache/wicket/DefaultPageManagerProvider.java","Pedro Henrique Oliveira dos Santos",0.125,8
+"wicket-core/src/main/java/org/apache/wicket/IApplicationListener.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/IBehaviorInstantiationListener.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/IPageFactory.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/ISessionListener.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/Localizer.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/Localizer.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/Localizer.java","Peter Ertl",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/AbstractMarkupParser.java","Juegen Donnerstag",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/ContainerInfo.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/DefaultMarkupCacheKeyProvider.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/DefaultMarkupResourceStreamProvider.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/border/Body.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/border/Border.java","Igor Vaynberg",0.375,8
+"wicket-core/src/main/java/org/apache/wicket/markup/html/border/Border.java","Juegen Donnerstag",0.125,8
+"wicket-core/src/main/java/org/apache/wicket/markup/html/border/Border.java","Martin Tzvetanov Grigorov",0.125,8
+"wicket-core/src/main/java/org/apache/wicket/markup/html/border/Border.java","Sven Meier",0.375,8
+"wicket-core/src/main/java/org/apache/wicket/markup/html/border/BorderBehavior.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/border/BorderBehavior.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/border/BorderPanel.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/border/BorderPanel.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/border/MarkupComponentBorder.java","Juegen Donnerstag",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/debug/PageView.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/DecoratingHeaderResponse.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/AbstractCheckSelector.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/AbstractChoice.java","Igor Vaynberg",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/AbstractChoice.java","Sven Meier",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/AbstractSingleSelectChoice.java","Sven Meier",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/AutoLabelResolver.java","Igor Vaynberg",0.636363636363636,11
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/AutoLabelResolver.java","Juegen Donnerstag",0.181818181818182,11
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/AutoLabelResolver.java","Martin Tzvetanov Grigorov",0.181818181818182,11
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/AutoLabelTagHandler.java","Igor Vaynberg",0.6,5
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/AutoLabelTagHandler.java","Juegen Donnerstag",0.4,5
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/AutoLabelTextResolver.java","Igor Vaynberg",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/CheckBoxMultipleChoice.java","Igor Vaynberg",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/CheckBoxMultipleChoice.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/CheckboxMultipleChoiceSelector.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/CheckBoxSelector.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/CheckGroup.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/CheckGroup.java","Sven Meier",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/CheckGroupSelector.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/EmailTextField.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/Form.java","Igor Vaynberg",0.454545454545455,11
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/Form.java","Martijn Dashorst",0.0909090909090909,11
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/Form.java","Martin Tzvetanov Grigorov",0.363636363636364,11
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/Form.java","Sven Meier",0.0909090909090909,11
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/FormComponent.java","Igor Vaynberg",0.555555555555556,9
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/FormComponent.java","Juegen Donnerstag",0.111111111111111,9
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/FormComponent.java","Martin Tzvetanov Grigorov",0.222222222222222,9
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/FormComponent.java","Sven Meier",0.111111111111111,9
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/FormComponentLabel.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/FormComponentPanel.java","Juegen Donnerstag",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/FormComponentPanel.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/LabeledWebMarkupContainer.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/ListMultipleChoice.java","Sven Meier",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/RadioGroup.java","Jeremy Ryan Thomerson",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/RadioGroup.java","Sven Meier",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/StatelessForm.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/SubmitLink.java","Jeremy Ryan Thomerson",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/SubmitLink.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/upload/FileUpload.java","Pedro Henrique Oliveira dos Santos",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/upload/FileUploadField.java","Sven Meier",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/upload/MultiFileUploadField.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/upload/MultiFileUploadField.java","Sven Meier",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/form/validation/FormComponentFeedbackBorder.java","Igor Vaynberg",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/GenericWebPage.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/IHeaderResponse.java","Martijn Dashorst",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/IHeaderResponse.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/image/Image.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/image/Image.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/image/resource/LocalizedImageResource.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/main/java/org/apache/wicket/markup/html/image/resource/LocalizedImageResource.java","Peter Ertl",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/markup/html/image/resource/RenderedDynamicImageResource.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/internal/Enclosure.java","Juegen Donnerstag",0.2,5
+"wicket-core/src/main/java/org/apache/wicket/markup/html/internal/Enclosure.java","Martin Tzvetanov Grigorov",0.8,5
+"wicket-core/src/main/java/org/apache/wicket/markup/html/internal/HeaderResponse.java","Igor Vaynberg",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/markup/html/internal/HeaderResponse.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/main/java/org/apache/wicket/markup/html/internal/HtmlHeaderContainer.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/internal/HtmlHeaderContainer.java","Sven Meier",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/internal/InlineEnclosure.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/internal/ResponseBufferZone.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/IPackageResourceGuard.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/link/AbstractLink.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/link/BookmarkablePageLink.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/link/ClientSideImageMap.java","Martijn Dashorst",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/link/DownloadLink.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/link/ResourceLink.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/PackageResourceGuard.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/AbstractErrorPage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/AccessDeniedPage.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/AccessDeniedPage.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/BrowserInfoPage.java","Martijn Dashorst",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/BrowserInfoPage.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/ExceptionErrorPage.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/ExceptionErrorPage.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/ExceptionErrorPage.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/InternalErrorPage.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/InternalErrorPage.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/PageExpiredErrorPage.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/pages/PageExpiredErrorPage.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/AbstractMarkupSourcingStrategy.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/AbstractMarkupSourcingStrategy.java","Martijn Dashorst",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/AssociatedMarkupSourcingStrategy.java","Juegen Donnerstag",0.75,4
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/AssociatedMarkupSourcingStrategy.java","Martijn Dashorst",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/BorderMarkupSourcingStrategy.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/DefaultMarkupSourcingStrategy.java","Juegen Donnerstag",0.4,5
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/DefaultMarkupSourcingStrategy.java","Martijn Dashorst",0.2,5
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/DefaultMarkupSourcingStrategy.java","Martin Tzvetanov Grigorov",0.4,5
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/Fragment.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/FragmentMarkupSourcingStrategy.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/GenericPanel.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/IMarkupSourcingStrategy.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/IMarkupSourcingStrategy.java","Martijn Dashorst",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/Panel.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/Panel.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/PanelMarkupSourcingStrategy.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/panel/PanelMarkupSourcingStrategy.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/SecurePackageResourceGuard.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/tree/AbstractTree.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/tree/AbstractTree.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/tree/AbstractTree.java","Pedro Henrique Oliveira dos Santos",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/tree/BaseTree.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/tree/BaseTree.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/tree/BaseTree.java","Peter Ertl",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/html/tree/LabelIconPanel.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/tree/LinkIconPanel.java","Peter Ertl",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/tree/LinkType.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/html/WebPage.java","Juegen Donnerstag",0.333333333333333,6
+"wicket-core/src/main/java/org/apache/wicket/markup/html/WebPage.java","Martin Tzvetanov Grigorov",0.5,6
+"wicket-core/src/main/java/org/apache/wicket/markup/html/WebPage.java","Pedro Henrique Oliveira dos Santos",0.166666666666667,6
+"wicket-core/src/main/java/org/apache/wicket/markup/IMarkupFragment.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/loader/InheritedMarkupMarkupLoader.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/loader/InheritedMarkupMarkupLoader.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/Markup.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupCache.java","Juegen Donnerstag",0.75,4
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupCache.java","Martin Tzvetanov Grigorov",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupException.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupFactory.java","Juegen Donnerstag",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupFragment.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupFragment.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupParser.java","Igor Vaynberg",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupParser.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupResourceStream.java","Juegen Donnerstag",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupStream.java","Juegen Donnerstag",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupType.java","Juegen Donnerstag",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/markup/MarkupType.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/MergedMarkup.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/parser/filter/EnclosureHandler.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/parser/filter/OpenCloseTagExpander.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/parser/filter/StyleAndScriptIdentifier.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/parser/filter/StyleAndScriptIdentifier.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/parser/filter/WicketLinkTagHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/parser/filter/WicketMessageTagHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/parser/IXmlPullParser.java","Juegen Donnerstag",1,2
+"wicket-core/src/main/java/org/apache/wicket/markup/parser/XmlPullParser.java","Igor Vaynberg",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/markup/parser/XmlPullParser.java","Juegen Donnerstag",0.75,4
+"wicket-core/src/main/java/org/apache/wicket/markup/renderStrategy/DeepChildFirstVisitor.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/repeater/data/DataViewBase.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/repeater/RepeatingView.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/resolver/AutoLinkResolver.java","Igor Vaynberg",0.4,5
+"wicket-core/src/main/java/org/apache/wicket/markup/resolver/AutoLinkResolver.java","Martin Tzvetanov Grigorov",0.6,5
+"wicket-core/src/main/java/org/apache/wicket/markup/resolver/ComponentResolvers.java","Sven Meier",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/resolver/HtmlHeaderResolver.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/resolver/IComponentResolver.java","Sven Meier",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/TagUtils.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/transformer/AbstractTransformerBehavior.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/markup/transformer/AbstractTransformerBehavior.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/markup/transformer/XsltOutputTransformerContainer.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/transformer/XsltOutputTransformerContainer.java","Martijn Dashorst",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/markup/transformer/XsltTransformerBehavior.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/markup/WicketTag.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/MarkupContainer.java","Igor Vaynberg",0.2,15
+"wicket-core/src/main/java/org/apache/wicket/MarkupContainer.java","Juegen Donnerstag",0.466666666666667,15
+"wicket-core/src/main/java/org/apache/wicket/MarkupContainer.java","Martin Tzvetanov Grigorov",0.266666666666667,15
+"wicket-core/src/main/java/org/apache/wicket/MarkupContainer.java","Pedro Henrique Oliveira dos Santos",0.0666666666666667,15
+"wicket-core/src/main/java/org/apache/wicket/MetaDataKey.java","Sven Meier",1,1
+"wicket-core/src/main/java/org/apache/wicket/mock/MockPageManager.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/mock/MockSessionStore.java","Emond Papegaaij",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/mock/MockSessionStore.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/mock/MockWebRequest.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/mock/MockWebResponse.java","Igor Vaynberg",0.2,5
+"wicket-core/src/main/java/org/apache/wicket/mock/MockWebResponse.java","Martin Tzvetanov Grigorov",0.2,5
+"wicket-core/src/main/java/org/apache/wicket/mock/MockWebResponse.java","Peter Ertl",0.6,5
+"wicket-core/src/main/java/org/apache/wicket/model/CompoundPropertyModel.java","Igor Vaynberg",1,3
+"wicket-core/src/main/java/org/apache/wicket/model/Model.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/model/PropertyModel.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/model/StringResourceModel.java","Juegen Donnerstag",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/model/StringResourceModel.java","Martin Tzvetanov Grigorov",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/model/StringResourceModel.java","Sven Meier",0.5,4
+"wicket-core/src/main/java/org/apache/wicket/Page.java","Juegen Donnerstag",0.285714285714286,7
+"wicket-core/src/main/java/org/apache/wicket/Page.java","Martin Tzvetanov Grigorov",0.571428571428571,7
+"wicket-core/src/main/java/org/apache/wicket/Page.java","Pedro Henrique Oliveira dos Santos",0.142857142857143,7
+"wicket-core/src/main/java/org/apache/wicket/page/PageAccessSynchronizer.java","Igor Vaynberg",0.2,5
+"wicket-core/src/main/java/org/apache/wicket/page/PageAccessSynchronizer.java","Juegen Donnerstag",0.2,5
+"wicket-core/src/main/java/org/apache/wicket/page/PageAccessSynchronizer.java","Martin Tzvetanov Grigorov",0.6,5
+"wicket-core/src/main/java/org/apache/wicket/page/PageStoreManager.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/page/PageStoreManager.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/page/RequestAdapter.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/pageStore/AsynchronousDataStore.java","Igor Vaynberg",0.0909090909090909,11
+"wicket-core/src/main/java/org/apache/wicket/pageStore/AsynchronousDataStore.java","Juegen Donnerstag",0.0909090909090909,11
+"wicket-core/src/main/java/org/apache/wicket/pageStore/AsynchronousDataStore.java","Martin Tzvetanov Grigorov",0.818181818181818,11
+"wicket-core/src/main/java/org/apache/wicket/pageStore/DefaultPageStore.java","Martin Tzvetanov Grigorov",1,3
+"wicket-core/src/main/java/org/apache/wicket/pageStore/DiskDataStore.java","Martin Tzvetanov Grigorov",1,10
+"wicket-core/src/main/java/org/apache/wicket/pageStore/memory/HttpSessionDataStore.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/pageStore/PageWindowManager.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/AbstractRequestLogger.java","Martijn Dashorst",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/AbstractRequestLogger.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/BufferedWebResponse.java","Igor Vaynberg",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/BufferedWebResponse.java","Juegen Donnerstag",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/BufferedWebResponse.java","Martin Tzvetanov Grigorov",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/BufferedWebResponse.java","Peter Ertl",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/HeaderBufferingWebResponse.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/HeaderBufferingWebResponse.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/HeaderBufferingWebResponse.java","Peter Ertl",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/IRequestLogger.java","Martijn Dashorst",0.75,4
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/IRequestLogger.java","Martin Tzvetanov Grigorov",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/IStagedRequestLogger.java","Martijn Dashorst",1,1
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/mock/MockHttpServletRequest.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/mock/MockHttpServletRequest.java","Peter Ertl",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/mock/MockServletContext.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/mock/MockServletContext.java","Peter Ertl",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/PageExpiredException.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/request/UserAgent.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/request/UserAgent.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/RequestLogger.java","Martijn Dashorst",0.75,8
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/RequestLogger.java","Martin Tzvetanov Grigorov",0.25,8
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/RequestLoggerRequestCycleListener.java","Martijn Dashorst",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/RequestLoggerRequestCycleListener.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/ForwardAttributes.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/MultipartServletWebRequestImpl.java","Martin Tzvetanov Grigorov",0.5,4
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/MultipartServletWebRequestImpl.java","Sven Meier",0.5,4
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/ServletWebRequest.java","Igor Vaynberg",0.142857142857143,7
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/ServletWebRequest.java","Martin Tzvetanov Grigorov",0.428571428571429,7
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/ServletWebRequest.java","Pedro Henrique Oliveira dos Santos",0.285714285714286,7
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/ServletWebRequest.java","Sven Meier",0.142857142857143,7
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/ServletWebResponse.java","Igor Vaynberg",0.125,8
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/ServletWebResponse.java","Martin Tzvetanov Grigorov",0.625,8
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/ServletWebResponse.java","Peter Ertl",0.25,8
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/servlet/UploadInfo.java","Sven Meier",1,2
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/StoredResponsesMap.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/WebApplication.java","Igor Vaynberg",0.181818181818182,11
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/WebApplication.java","Juegen Donnerstag",0.0909090909090909,11
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/WebApplication.java","Martin Tzvetanov Grigorov",0.727272727272727,11
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/WebSession.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/WicketFilter.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/protocol/http/WicketFilter.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/protocol/https/HttpsConfig.java","Sven Meier",1,1
+"wicket-core/src/main/java/org/apache/wicket/protocol/https/SwitchProtocolRequestHandler.java","Sven Meier",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/cycle/AbstractRequestCycleListener.java","Igor Vaynberg",1,3
+"wicket-core/src/main/java/org/apache/wicket/request/cycle/IRequestCycleListener.java","Igor Vaynberg",1,3
+"wicket-core/src/main/java/org/apache/wicket/request/cycle/RequestCycle.java","Igor Vaynberg",0.545454545454545,11
+"wicket-core/src/main/java/org/apache/wicket/request/cycle/RequestCycle.java","Martijn Dashorst",0.0909090909090909,11
+"wicket-core/src/main/java/org/apache/wicket/request/cycle/RequestCycle.java","Martin Tzvetanov Grigorov",0.363636363636364,11
+"wicket-core/src/main/java/org/apache/wicket/request/cycle/RequestCycleListenerCollection.java","Igor Vaynberg",1,5
+"wicket-core/src/main/java/org/apache/wicket/request/handler/BookmarkableListenerInterfaceRequestHandler.java","Igor Vaynberg",0.666666666666667,6
+"wicket-core/src/main/java/org/apache/wicket/request/handler/BookmarkableListenerInterfaceRequestHandler.java","Martijn Dashorst",0.166666666666667,6
+"wicket-core/src/main/java/org/apache/wicket/request/handler/BookmarkableListenerInterfaceRequestHandler.java","Martin Tzvetanov Grigorov",0.166666666666667,6
+"wicket-core/src/main/java/org/apache/wicket/request/handler/BookmarkablePageRequestHandler.java","Martijn Dashorst",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/handler/ComponentRenderingRequestHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/handler/IComponentRequestHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/handler/IIntrospectablePageProvider.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/handler/IPageAndComponentProvider.java","Igor Vaynberg",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/request/handler/IPageAndComponentProvider.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/request/handler/IPageProvider.java","Igor Vaynberg",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/request/handler/IPageProvider.java","Martijn Dashorst",0.5,4
+"wicket-core/src/main/java/org/apache/wicket/request/handler/IPageProvider.java","Martin Tzvetanov Grigorov",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/request/handler/IPageRequestHandler.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/request/handler/IPageRequestHandler.java","Martijn Dashorst",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/request/handler/IPageRequestHandler.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/request/handler/ListenerInterfaceRequestHandler.java","Igor Vaynberg",0.357142857142857,14
+"wicket-core/src/main/java/org/apache/wicket/request/handler/ListenerInterfaceRequestHandler.java","Martijn Dashorst",0.142857142857143,14
+"wicket-core/src/main/java/org/apache/wicket/request/handler/ListenerInterfaceRequestHandler.java","Martin Tzvetanov Grigorov",0.5,14
+"wicket-core/src/main/java/org/apache/wicket/request/handler/logger/ListenerInterfaceLogData.java","Martijn Dashorst",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/request/handler/logger/ListenerInterfaceLogData.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/request/handler/logger/PageLogData.java","Martijn Dashorst",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/request/handler/logger/PageLogData.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/request/handler/logger/ResourceReferenceLogData.java","Martijn Dashorst",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/handler/logger/ResourceStreamLogData.java","Martijn Dashorst",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/handler/PageProvider.java","Igor Vaynberg",0.266666666666667,15
+"wicket-core/src/main/java/org/apache/wicket/request/handler/PageProvider.java","Martin Tzvetanov Grigorov",0.666666666666667,15
+"wicket-core/src/main/java/org/apache/wicket/request/handler/PageProvider.java","Sven Meier",0.0666666666666667,15
+"wicket-core/src/main/java/org/apache/wicket/request/handler/render/WebPageRenderer.java","Martin Tzvetanov Grigorov",1,4
+"wicket-core/src/main/java/org/apache/wicket/request/handler/RenderPageRequestHandler.java","Igor Vaynberg",0.5,6
+"wicket-core/src/main/java/org/apache/wicket/request/handler/RenderPageRequestHandler.java","Martijn Dashorst",0.333333333333333,6
+"wicket-core/src/main/java/org/apache/wicket/request/handler/RenderPageRequestHandler.java","Martin Tzvetanov Grigorov",0.166666666666667,6
+"wicket-core/src/main/java/org/apache/wicket/request/handler/resource/ResourceLogData.java","Martijn Dashorst",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/handler/resource/ResourceReferenceRequestHandler.java","Martijn Dashorst",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/handler/resource/ResourceStreamRequestHandler.java","Martijn Dashorst",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/request/handler/resource/ResourceStreamRequestHandler.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/AbstractBookmarkableMapper.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/AbstractBookmarkableMapper.java","Pedro Henrique Oliveira dos Santos",0.25,4
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/AbstractComponentMapper.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/BasicResourceReferenceMapper.java","Martijn Dashorst",0.285714285714286,7
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/BasicResourceReferenceMapper.java","Martin Tzvetanov Grigorov",0.142857142857143,7
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/BasicResourceReferenceMapper.java","Peter Ertl",0.571428571428571,7
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/BookmarkableMapper.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/BufferedResponseMapper.java","Martin Tzvetanov Grigorov",1,3
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/CryptoMapper.java","Martin Tzvetanov Grigorov",0.857142857142857,7
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/CryptoMapper.java","Sven Meier",0.142857142857143,7
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/MountedMapper.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/PackageMapper.java","Martin Tzvetanov Grigorov",1,3
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/PageInstanceMapper.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/ResourceMapper.java","Peter Ertl",1,2
+"wicket-core/src/main/java/org/apache/wicket/request/mapper/ResourceReferenceMapper.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/resource/AbstractResource.java","Martin Tzvetanov Grigorov",0.5,8
+"wicket-core/src/main/java/org/apache/wicket/request/resource/AbstractResource.java","Peter Ertl",0.5,8
+"wicket-core/src/main/java/org/apache/wicket/request/resource/ByteArrayResource.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/FilenameWithVersionResourceCachingStrategy.java","Peter Ertl",1,4
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/IResourceCachingStrategy.java","Peter Ertl",1,4
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/IStaticCacheableResource.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/IStaticCacheableResource.java","Peter Ertl",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/NoOpResourceCachingStrategy.java","Peter Ertl",1,4
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/QueryStringWithVersionResourceCachingStrategy.java","Peter Ertl",1,4
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/version/CachingResourceVersion.java","Peter Ertl",1,7
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/version/IResourceVersion.java","Peter Ertl",1,3
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/version/LastModifiedResourceVersion.java","Peter Ertl",1,6
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/version/MessageDigestResourceVersion.java","Martin Tzvetanov Grigorov",0.125,8
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/version/MessageDigestResourceVersion.java","Peter Ertl",0.875,8
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/version/RequestCycleCachedResourceVersion.java","Peter Ertl",1,6
+"wicket-core/src/main/java/org/apache/wicket/request/resource/caching/version/StaticResourceVersion.java","Peter Ertl",1,5
+"wicket-core/src/main/java/org/apache/wicket/request/resource/ContextRelativeResource.java","Peter Ertl",1,2
+"wicket-core/src/main/java/org/apache/wicket/request/resource/DynamicImageResource.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/request/resource/IResource.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/resource/PackageResource.java","Martin Tzvetanov Grigorov",0.285714285714286,7
+"wicket-core/src/main/java/org/apache/wicket/request/resource/PackageResource.java","Peter Ertl",0.714285714285714,7
+"wicket-core/src/main/java/org/apache/wicket/request/resource/PackageResourceReference.java","Martin Tzvetanov Grigorov",0.1,10
+"wicket-core/src/main/java/org/apache/wicket/request/resource/PackageResourceReference.java","Pedro Henrique Oliveira dos Santos",0.3,10
+"wicket-core/src/main/java/org/apache/wicket/request/resource/PackageResourceReference.java","Peter Ertl",0.6,10
+"wicket-core/src/main/java/org/apache/wicket/request/resource/ResourceReference.java","Peter Ertl",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/resource/ResourceReferenceRegistry.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/request/resource/ResourceStreamResource.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/request/resource/SharedResourceReference.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/RequestListenerInterface.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/RequestListenerInterface.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/RequestListenerInterface.java","Pedro Henrique Oliveira dos Santos",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/resource/aggregation/AbstractDependencyRespectingResourceAggregatingHeaderResponse.java","Martin Tzvetanov Grigorov",1,3
+"wicket-core/src/main/java/org/apache/wicket/resource/aggregation/AbstractResourceAggregatingHeaderResponse.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/resource/aggregation/ResourceReferenceAndStringData.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/resource/dependencies/AbstractResourceDependentResourceReference.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/resource/filtering/HeaderResponseContainerFilteringHeaderResponse.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/resource/IPropertiesFactoryContext.java","Peter Ertl",1,1
+"wicket-core/src/main/java/org/apache/wicket/resource/loader/ComponentStringResourceLoader.java","Peter Ertl",1,2
+"wicket-core/src/main/java/org/apache/wicket/resource/loader/JarStringResourceLoader.java","Sven Meier",1,1
+"wicket-core/src/main/java/org/apache/wicket/resource/loader/PackageStringResourceLoader.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/resource/PropertiesFactory.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/resource/PropertiesFactory.java","Peter Ertl",0.666666666666667,3
+"wicket-core/src/main/java/org/apache/wicket/resource/ResourceUtil.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/resource/TextTemplateResourceReference.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/response/ByteArrayResponse.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/response/filter/AjaxServerAndClientTimeFilter.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/response/filter/ServerAndClientTimeFilter.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/response/NullResponse.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/response/StringResponse.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/RestartResponseAtInterceptPageException.java","Martin Tzvetanov Grigorov",1,4
+"wicket-core/src/main/java/org/apache/wicket/RestartResponseException.java","Igor Vaynberg",0.2,5
+"wicket-core/src/main/java/org/apache/wicket/RestartResponseException.java","Martin Tzvetanov Grigorov",0.8,5
+"wicket-core/src/main/java/org/apache/wicket/serialize/java/JavaSerializer.java","Martin Tzvetanov Grigorov",0.6,5
+"wicket-core/src/main/java/org/apache/wicket/serialize/java/JavaSerializer.java","Pedro Henrique Oliveira dos Santos",0.4,5
+"wicket-core/src/main/java/org/apache/wicket/Session.java","Igor Vaynberg",0.428571428571429,7
+"wicket-core/src/main/java/org/apache/wicket/Session.java","Juegen Donnerstag",0.142857142857143,7
+"wicket-core/src/main/java/org/apache/wicket/Session.java","Martin Tzvetanov Grigorov",0.428571428571429,7
+"wicket-core/src/main/java/org/apache/wicket/session/DefaultPageFactory.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/session/DefaultPageFactory.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/session/HttpSessionStore.java","Emond Papegaaij",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/session/HttpSessionStore.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/session/ISessionStore.java","Emond Papegaaij",1,1
+"wicket-core/src/main/java/org/apache/wicket/SessionListenerCollection.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/settings/def/ExceptionSettings.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/settings/def/FrameworkSettings.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/settings/def/MarkupSettings.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/settings/def/ResourceSettings.java","Igor Vaynberg",0.222222222222222,9
+"wicket-core/src/main/java/org/apache/wicket/settings/def/ResourceSettings.java","Martin Tzvetanov Grigorov",0.222222222222222,9
+"wicket-core/src/main/java/org/apache/wicket/settings/def/ResourceSettings.java","Peter Ertl",0.444444444444444,9
+"wicket-core/src/main/java/org/apache/wicket/settings/def/ResourceSettings.java","Sven Meier",0.111111111111111,9
+"wicket-core/src/main/java/org/apache/wicket/settings/def/SessionSettings.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/settings/def/StoreSettings.java","Martin Tzvetanov Grigorov",1,6
+"wicket-core/src/main/java/org/apache/wicket/settings/IExceptionSettings.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/settings/IFrameworkSettings.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/settings/IMarkupSettings.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/settings/IMarkupSettings.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/settings/IResourceSettings.java","Igor Vaynberg",0.2,5
+"wicket-core/src/main/java/org/apache/wicket/settings/IResourceSettings.java","Martin Tzvetanov Grigorov",0.2,5
+"wicket-core/src/main/java/org/apache/wicket/settings/IResourceSettings.java","Peter Ertl",0.6,5
+"wicket-core/src/main/java/org/apache/wicket/settings/ISessionSettings.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/settings/IStoreSettings.java","Martin Tzvetanov Grigorov",1,6
+"wicket-core/src/main/java/org/apache/wicket/SharedResources.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/SystemMapper.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/ThreadContext.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/io/SerializableChecker.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/iterator/AbstractHierarchyIterator.java","Juegen Donnerstag",1,4
+"wicket-core/src/main/java/org/apache/wicket/util/iterator/AbstractHierarchyIteratorWithFilter.java","Juegen Donnerstag",1,3
+"wicket-core/src/main/java/org/apache/wicket/util/iterator/ComponentHierarchyIterator.java","Juegen Donnerstag",1,3
+"wicket-core/src/main/java/org/apache/wicket/util/iterator/GenericComponentHierarchyIterator.java","Juegen Donnerstag",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/iterator/IteratorFilter.java","Juegen Donnerstag",1,2
+"wicket-core/src/main/java/org/apache/wicket/util/lang/PropertyResolver.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/util/lang/WicketObjects.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/resource/locator/caching/AbstractResourceStreamReference.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/resource/locator/caching/CachingResourceStreamLocator.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/resource/locator/caching/FileResourceStreamReference.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/resource/locator/caching/IResourceStreamReference.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/resource/locator/caching/NullResourceStreamReference.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/resource/locator/caching/UrlResourceStreamReference.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/resource/locator/LocaleResourceNameIterator.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/resource/locator/ResourceNameIterator.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/resource/UrlResourceStream.java","Martin Tzvetanov Grigorov",0.142857142857143,7
+"wicket-core/src/main/java/org/apache/wicket/util/resource/UrlResourceStream.java","Peter Ertl",0.857142857142857,7
+"wicket-core/src/main/java/org/apache/wicket/util/resource/WebExternalResourceStream.java","Peter Ertl",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/string/interpolator/PropertyVariableInterpolator.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/util/string/interpolator/PropertyVariableInterpolator.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/util/string/interpolator/PropertyVariableInterpolator.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/util/string/JavaScriptUtils.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/string/UrlUtils.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/tester/BaseWicketTester.java","Igor Vaynberg",0.136363636363636,22
+"wicket-core/src/main/java/org/apache/wicket/util/tester/BaseWicketTester.java","Juegen Donnerstag",0.0454545454545455,22
+"wicket-core/src/main/java/org/apache/wicket/util/tester/BaseWicketTester.java","Martin Tzvetanov Grigorov",0.681818181818182,22
+"wicket-core/src/main/java/org/apache/wicket/util/tester/BaseWicketTester.java","Peter Ertl",0.136363636363636,22
+"wicket-core/src/main/java/org/apache/wicket/util/tester/ComponentInPage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/tester/DiffUtil.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/util/tester/DiffUtil.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/util/tester/DiffUtil.java","Peter Ertl",0.333333333333333,3
+"wicket-core/src/main/java/org/apache/wicket/util/tester/FormTester.java","Igor Vaynberg",0.5,4
+"wicket-core/src/main/java/org/apache/wicket/util/tester/FormTester.java","Martin Tzvetanov Grigorov",0.5,4
+"wicket-core/src/main/java/org/apache/wicket/util/tester/TagTester.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/util/tester/WicketTester.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/validation/CompoundValidator.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/validation/IValidatable.java","Igor Vaynberg",1,1
+"wicket-core/src/main/java/org/apache/wicket/validation/Validatable.java","Igor Vaynberg",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/validation/Validatable.java","Martijn Dashorst",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/validation/ValidationError.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/main/java/org/apache/wicket/validation/validator/CreditCardValidator.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/validation/validator/MaximumValidator.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/validation/validator/MinimumValidator.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/main/java/org/apache/wicket/validation/validator/RangeValidator.java","Igor Vaynberg",0.5,2
+"wicket-core/src/main/java/org/apache/wicket/validation/validator/RangeValidator.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/ajax/AjaxBehaviorAndMetaDataTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/ajax/AjaxBehaviorEnabledTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/ajax/AjaxChannelTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/AjaxComponentVisibilityTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/ajax/AjaxHeaderContributionTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/AjaxPostprocessingCallDecoratorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/AjaxPreprocessingCallDecoratorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/AjaxRequestTargetTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/ajax/AjaxRequestTargetTest.java","Peter Ertl",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/ajax/AjaxTimerBehaviorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/DomReadyOrderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/form/AjaxFormSubmitBehaviorTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/ajax/form/AjaxFormSubmitTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/form/OnChangeAjaxBehaviorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/InternalErrorCallsAjaxOnFailureTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/markup/html/ajaxLink/AjaxLinkTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/markup/html/ajaxLink/AjaxLinkWithBorderPage.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/ajax/markup/html/ajaxLink/AjaxPage2.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/ajax/markup/html/componentMap/SimpleTestPanelTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ajax/markup/html/form/AjaxButtonTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/ApplicationSettingsTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/ApplicationSettingsTest.java","Sven Meier",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/AttributeModifierComponentPage.java","Martijn Dashorst",1,1
+"wicket-core/src/test/java/org/apache/wicket/AttributeModifierComponentTest.java","Juegen Donnerstag",0.25,4
+"wicket-core/src/test/java/org/apache/wicket/AttributeModifierComponentTest.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/test/java/org/apache/wicket/AttributeModifierTest.java","Igor Vaynberg",0.166666666666667,6
+"wicket-core/src/test/java/org/apache/wicket/AttributeModifierTest.java","Martijn Dashorst",0.166666666666667,6
+"wicket-core/src/test/java/org/apache/wicket/AttributeModifierTest.java","Martin Tzvetanov Grigorov",0.666666666666667,6
+"wicket-core/src/test/java/org/apache/wicket/AuthorizationTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/behavior/ImmutableBehaviorIdsTest.java","Igor Vaynberg",0.25,4
+"wicket-core/src/test/java/org/apache/wicket/behavior/ImmutableBehaviorIdsTest.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/test/java/org/apache/wicket/BehaviorRequestTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/BehaviorUrlTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/CachingDisabledLocalizerTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ComponentConfigurationTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/ComponentInitializationIntegrationTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ComponentInitializationTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ComponentTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/ComponentWithLazyModelCreationTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ConverterLocatorTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/ConverterLocatorTest.java","Sven Meier",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/DefaultExceptionMapperTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/DisabledComponentTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/EventDispatcherTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ExceptionMapperTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/FeedbackMessagesTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/FormDispatchEventTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/intercept/HomePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/intercept/InterceptDataCleanedAfterReadTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/intercept/LoginPage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/intercept/MySession.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/intercept/SecurePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/intercept/SuccessPage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/intercept/Wicket4066Application.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/LocalizerTest.java","Igor Vaynberg",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/LocalizerTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/ComponentTagAttributeEscapingTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/autolink/AutolinkTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/basic/LabelTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/basic/SimplePage.java","Martijn Dashorst",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/basic/SimplePageTest.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/basic/SimplePageTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/basic/SimpleResponsePageClassTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/basic/XmlPageTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/basic/XmlPageTest.java","Peter Ertl",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/BorderRenderWrappedTestPage_1.java","Igor Vaynberg",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/BoxBorderTest.java","Juegen Donnerstag",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/BoxBorderTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/BoxBorderTestPage_11.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/BoxBorderTestPage_2.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/BoxBorderTestPage_3.java","Igor Vaynberg",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/BoxBorderTestPage_8.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/BoxBorderTestPage_9.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/ComponentBorderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/FormBorder.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/HideableBorder.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/HideableBorderPage.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/MyApplicationBorder.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/border/TogglePanel.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/ComponentMarkupIdTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/debug/WicketComponentTreeTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/DecoratingHeaderResponseTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/AbstractTextComponentConvertEmptyStringsToNullTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/AutoFormLabelPickupTest.java","Igor Vaynberg",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/AutoFormLabelPickupTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/AutoLabelTest.java","Igor Vaynberg",0.6,5
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/AutoLabelTest.java","Juegen Donnerstag",0.2,5
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/AutoLabelTest.java","Martin Tzvetanov Grigorov",0.2,5
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/AutoLabelWithContentTest.java","Igor Vaynberg",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/AutoLabelWithContentTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/AutoLabelWithinEnclosureTest.java","Igor Vaynberg",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/AutoLabelWithinEnclosureTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/border/CommonModelPage.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/border/HomePage.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/border/MyBorder.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/border/TestHomePage_2134.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/border/TestHomePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/CheckBoxMultipleChoiceTest.java","Igor Vaynberg",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/CheckBoxMultipleChoiceTest.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/CheckGroupTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/DisabledItemRetainingCheckBoxTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/DropDownChoiceTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/DropDownChoiceTest.java","Sven Meier",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/DropDownChoiceTestPage.java","Sven Meier",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/encryption/CryptTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/encryption/CryptTest.java","Sven Meier",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/EnumChoiceRendererTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/feedback/FeedbackFormPage.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/feedback/FormFeedbackTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/formComponentPanel/MyFormComponentPanel.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/formComponentPanel/SimplePageTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/FormComponentPanelProcessingTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/FormComponentTest.java","Igor Vaynberg",0.5,4
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/FormComponentTest.java","Martin Tzvetanov Grigorov",0.5,4
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/FormParentDisabledRawInputTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/FormSubmitTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/FormTest.java","Igor Vaynberg",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/FormTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/FormWithMultipleButtonsTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/imagebutton/ImageButtonTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/imagebutton/InvalidImageButtonTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/LocalizedErrorMessageTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/login/InterceptTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/NestedFormsTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/NestedFormsTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/panelBorder/CommonBorder.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/panelBorder/CommonModelPage.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/panelBorder/HomePage.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/panelBorder/MyBorder.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/panelBorder/MyDateField.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/panelBorder/MyTextField.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/panelBorder/TestHomePage_2134.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/panelBorder/TestHomePage.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/PrimitiveTypeRequiredTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/RadioGroupTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/TextFieldTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/upload/FileUploadFieldTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/upload/FileUploadFieldTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/upload/FileUploadTest.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/upload/FileUploadTest.java","Pedro Henrique Oliveira dos Santos",0.25,4
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/upload/MockPageWithFormAndUploadField.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/upload/TestFileUploadError.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/validation/FormValidatorBehaviorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/validation/HereIsTheBug.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/validation/HomePage.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/validation/HomePageTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/validation/innerfeedback/HomePage.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/validation/innerfeedback/InnerFeedbackTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/validation/innerfeedback/LocalizedFeedbackBorder.java","Igor Vaynberg",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/validation/innerfeedback/LocalizedFeedbackBorder.java","Martijn Dashorst",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/validation/MyBorder.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/form/ValidatorPropertiesTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/header/HeaderScopingTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/header/inheritance/InheritanceHeadTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/header/testing/HeaderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/header/testing2/HeaderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/header/testing3/HeaderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/header/threelayers/InheritanceHeadTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/HeaderContributorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/image/AjaxUpdatedImageTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/image/InvalidImageTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/AjaxEnclosureTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/ChildWithDeeperPathInTransparentContainerPage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/EnclosurePage_12.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/EnclosurePage_13.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/EnclosurePage_3.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/EnclosureTest.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/EnclosureTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/HeaderResponseTest.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/HeaderResponseTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/HtmlHeaderContainerTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/InlineEnclosureTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/SecuredContainer_13.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/internal/TogglePageTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/link/AbstractLinkTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/link/AutolinkTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/link/BookmarkableHomePageLinksTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/link/BookmarkablePageLinkTest.java","Juegen Donnerstag",0.25,4
+"wicket-core/src/test/java/org/apache/wicket/markup/html/link/BookmarkablePageLinkTest.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/test/java/org/apache/wicket/markup/html/link/DownloadLinkTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/link/ExternalLinkTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/link/HrefTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/link/submitLink/FormPage2Test.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/link/submitLink/FormPageTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/list/IncrementalTableNavigationTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/list/ListViewTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/list/PagedTableNavigatorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/list/PagedTableNavigatorWithLabelProviderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/list/PagedTableNavigatorWithMarginTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/list/PagedTableTest.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/list/PagedTableTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/list/SimpleTableTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/list/TableTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/MarkupHeadFirstTest.java","Martin Tzvetanov Grigorov",1,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/markupId/TestHomePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/MarkupInheritanceResolverTestPage1.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/navigation/paging/AbstractPagingNavigationTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/navigation/paging/PagingNavigationIncrementLinkTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/navigation/paging/PagingNavigationLinkTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/PackageResourceTest.java","Martin Tzvetanov Grigorov",1,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/panel/FragmentTestCase.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/panel/PanelTest.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/panel/PanelTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/panel/PanelWithAttributeModifier.java","Martijn Dashorst",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/panel/SimplePanel_4.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/SecurePackageResourceGuardTest.java","Igor Vaynberg",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/SecurePackageResourceGuardTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/markup/html/tags/InputTagNotClosedTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/TransparentWebMarkupContainerTest.java","Igor Vaynberg",0.25,8
+"wicket-core/src/test/java/org/apache/wicket/markup/html/TransparentWebMarkupContainerTest.java","Juegen Donnerstag",0.25,8
+"wicket-core/src/test/java/org/apache/wicket/markup/html/TransparentWebMarkupContainerTest.java","Martin Tzvetanov Grigorov",0.5,8
+"wicket-core/src/test/java/org/apache/wicket/markup/html/TransparentWithAjaxUpdatePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/TransparentWithAjaxUpdatePanel.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/tree/TreeTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/tree/TreeTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/html/WebPageTest.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/html/XmlDeclResponseTest.java","Juegen Donnerstag",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/HtmlProblemFinderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/MarkupCacheTest.java","Juegen Donnerstag",0.5,4
+"wicket-core/src/test/java/org/apache/wicket/markup/MarkupCacheTest.java","Martin Tzvetanov Grigorov",0.5,4
+"wicket-core/src/test/java/org/apache/wicket/markup/MarkupFragmentTest.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/MarkupFragmentTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/MarkupInheritanceBase_10.java","Martijn Dashorst",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/MarkupInheritanceBaseBase_11.java","Martijn Dashorst",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/MarkupInheritanceTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/MarkupParserTest.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/MarkupParserTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/MarkupVariationTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/outputTransformer/OutputTransformerContainerTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/outputTransformer/Page_1.java","Martijn Dashorst",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/outputTransformer/Page_2.java","Martijn Dashorst",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/parser/filter/HeaderSectionMyLabel.java","Juegen Donnerstag",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/parser/filter/HeaderSectionTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/parser/filter/OpenCloseTagExpanderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/parser/MergedMarkupTest.java","Juegen Donnerstag",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/markup/parser/MergedMarkupTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/markup/parser/RelativePathPrefixHandlerTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/parser/TestHomePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/parser/XmlPullParserTest.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/parser/XmlPullParserTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/markup/RefreshingViewOnRemoveTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/renderStrategy/ChildFirstHeaderRenderStrategyTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/border/BasePage.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/border/WicketMessageResolverTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/inparent/AutoLinkResolveInParentsMarkupTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/inparent/base/BasePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/inparent/HomePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/issue3559/MyTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/issue3989/BasePanel.java","Martijn Dashorst",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/issue3989/HomePage.java","Martijn Dashorst",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/issue3989/Issue3989Test.java","Martijn Dashorst",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/WicketContainerResolverTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/resolver/WicketMessageResolverTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/markup/transformer/AbstractTransformerBehaviorTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/markup/WicketNamespaceTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/MarkupContainerTest.java","Igor Vaynberg",0.2,5
+"wicket-core/src/test/java/org/apache/wicket/MarkupContainerTest.java","Martin Tzvetanov Grigorov",0.8,5
+"wicket-core/src/test/java/org/apache/wicket/markupFragments/MarkupFragmentTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/MetaDataTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/MockPanelWithLink.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/model/DetachableTest.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-core/src/test/java/org/apache/wicket/model/HomePage.java","Igor Vaynberg",1,2
+"wicket-core/src/test/java/org/apache/wicket/model/ModelDetachTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/model/ModelToStringTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/model/PropertyModelTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/model/PropertyModelWithListTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/model/ResourceModelTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/model/StringResourceModelTest.java","Juegen Donnerstag",0.25,4
+"wicket-core/src/test/java/org/apache/wicket/model/StringResourceModelTest.java","Martin Tzvetanov Grigorov",0.5,4
+"wicket-core/src/test/java/org/apache/wicket/model/StringResourceModelTest.java","Sven Meier",0.25,4
+"wicket-core/src/test/java/org/apache/wicket/model/TestHomePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/page/PageAccessSynchronizerTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/page/persistent/disk/DiskDataStoreTest.java","Juegen Donnerstag",0.1,10
+"wicket-core/src/test/java/org/apache/wicket/page/persistent/disk/DiskDataStoreTest.java","Martin Tzvetanov Grigorov",0.8,10
+"wicket-core/src/test/java/org/apache/wicket/page/persistent/disk/DiskDataStoreTest.java","Peter Ertl",0.1,10
+"wicket-core/src/test/java/org/apache/wicket/page/persistent/disk/PageWindowManagerTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/page/PersistentPageManagerTest.java","Igor Vaynberg",0.2,5
+"wicket-core/src/test/java/org/apache/wicket/page/PersistentPageManagerTest.java","Martin Tzvetanov Grigorov",0.4,5
+"wicket-core/src/test/java/org/apache/wicket/page/PersistentPageManagerTest.java","Pedro Henrique Oliveira dos Santos",0.4,5
+"wicket-core/src/test/java/org/apache/wicket/PageFactoryTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/PageMarkupLoadingTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/pageStore/AsynchronousDataStoreTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/pageStore/AsynchronousDataStoreTest.java","Pedro Henrique Oliveira dos Santos",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/pageStore/memory/HttpSessionDataStoreTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ParentResourceEscapePathTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/PlaceholderTagIdTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/properties/PropertiesTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/ClientPropertiesTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/HeaderBufferingWebResponseTest.java","Igor Vaynberg",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/HeaderBufferingWebResponseTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/mock/MockHttpServletRequestTest.java","Peter Ertl",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/ModifyCookiePageTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/request/CryptedUrlWebRequestCodingStrategyTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/request/UserAgentTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/request/UserAgentTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/RequestUtilsTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/servlet/SecuredRemoteAddressRequestWrapperFactoryTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/servlet/ServletWebRequestTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/servlet/ServletWebRequestTest.java","Pedro Henrique Oliveira dos Santos",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/servlet/ServletWebResponseTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/servlet/WicketSessionFilterTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/servlet/XForwardedRequestWrapperTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/StoredResponsesMapTest.java","Juegen Donnerstag",0.2,5
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/StoredResponsesMapTest.java","Martin Tzvetanov Grigorov",0.8,5
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/WebExternalResourceTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/WebResponseExceptionsTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/WebSessionTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/WicketFilterTest.java","Juegen Donnerstag",0.333333333333333,6
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/WicketFilterTest.java","Martin Tzvetanov Grigorov",0.666666666666667,6
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/WicketTagPanelTest.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/WicketTagPanelTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/http/WicketURLTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/https/HttpPage.java","Peter Ertl",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/https/HttpsMapperApplication.java","Peter Ertl",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/https/HttpsMapperApplicationTest.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/protocol/https/HttpsMapperApplicationTest.java","Peter Ertl",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/protocol/https/HttpsPage.java","Peter Ertl",1,1
+"wicket-core/src/test/java/org/apache/wicket/protocol/https/HttpsRequestCheckerTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/https/HttpsRequestCheckerTest.java","Peter Ertl",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/https/SwitchProtocolRequestHandlerTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/protocol/https/SwitchProtocolRequestHandlerTest.java","Sven Meier",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/redirect/intercept/InterceptTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/redirect/intercept/TargetPage.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/RedirectApplication.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/RemoveTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/cycle/BaseRequestHandlerStackTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/cycle/MultiRequestCycleListenerCallOrderApplication.java","Igor Vaynberg",1,3
+"wicket-core/src/test/java/org/apache/wicket/request/cycle/MultiRequestCycleListenerCallOrderTest.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/request/cycle/MultiRequestCycleListenerCallOrderTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/request/cycle/RequestCycleListenerDetachOrderTest.java","Igor Vaynberg",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/cycle/RequestCycleListenerTest.java","Igor Vaynberg",1,3
+"wicket-core/src/test/java/org/apache/wicket/request/cycle/UrlRendererTest.java","Igor Vaynberg",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/handler/ListenerInterfaceRequestHandlerTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/request/handler/PageIdPoliticTest.java","Martin Tzvetanov Grigorov",0.6,5
+"wicket-core/src/test/java/org/apache/wicket/request/handler/PageIdPoliticTest.java","Pedro Henrique Oliveira dos Santos",0.4,5
+"wicket-core/src/test/java/org/apache/wicket/request/handler/PageProviderTest.java","Igor Vaynberg",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/request/handler/PageProviderTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/request/handler/render/WebPageRendererTest.java","Martin Tzvetanov Grigorov",1,3
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/AbstractMapperTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/AbstractResourceReferenceMapperTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/AbstractResourceReferenceMapperTest.java","Peter Ertl",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/BasicResourceReferenceMapperTest.java","Martijn Dashorst",0.166666666666667,12
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/BasicResourceReferenceMapperTest.java","Martin Tzvetanov Grigorov",0.25,12
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/BasicResourceReferenceMapperTest.java","Peter Ertl",0.583333333333333,12
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/BookmarkableMapperTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/BookmarkableMapperTest.java","Sven Meier",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/CryptoMapperTest.java","Martin Tzvetanov Grigorov",0.714285714285714,7
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/CryptoMapperTest.java","Sven Meier",0.285714285714286,7
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/CustomHomePageTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/info/ComponentInfoTest.java","Igor Vaynberg",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/info/ComponentInfoTest.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/info/ComponentInfoTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/info/PageComponentInfoTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/MountedMapperTest.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/MountedMapperTest.java","Sven Meier",0.25,4
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/PackageMapperTest.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/PackageMapperTest.java","Sven Meier",0.25,4
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/PageInstanceMapperTest.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/PageInstanceMapperTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/ResourceMapperTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/ResourceMapperTest.java","Peter Ertl",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/TestMapperContext.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/UrlInfoTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/mapper/UrlInfoTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/resource/ByteArrayResourceTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/resource/caching/ContextRelativeResourceCachingTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/resource/caching/ContextRelativeResourceCachingTest.java","Peter Ertl",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/request/resource/CssPackageResourceTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/resource/DynamicImageResourceTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/request/resource/JavaScriptPackageResourceTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/resource/PackageResourceReferenceTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/request/resource/PackageResourceReferenceTest.java","Pedro Henrique Oliveira dos Santos",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/request/resource/ResourceReferenceRegistryTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/request/resource/WriteCallbackTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/RequestEncodingTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/resource/ApplicationStringResourceLoaderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/resource/BundleStringResourceLoaderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/resource/ComponentStringResourceLoaderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/resource/InvalidResourceSpecificationExceptionTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/resource/loader/ClassStringResourceLoaderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/resource/loader/ComponentStringResourceLoaderTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/resource/loader/ComponentStringResourceLoaderTest.java","Peter Ertl",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/resource/loader/JarStringResourceLoaderTest.java","Sven Meier",1,1
+"wicket-core/src/test/java/org/apache/wicket/resource/loader/PackageStringResourceLoaderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/resource/loader/PropertiesResolverTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/resource/loader/PropertiesResolverTest.java","Peter Ertl",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/resource/StringResourceLoaderTestBase.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/resource/TextTemplateResourceReferenceTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/resource/XmlFilePropertiesLoaderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/ResourceTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/response/filter/ResponseFilterTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/RestartResponseAtInterceptPageExceptionTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/RestartResponseExceptionTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/RestartWithMountedPageTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/session/DefaultPageFactoryTest.java","Juegen Donnerstag",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/session/DefaultPageFactoryTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/SetResponsePageTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/settings/ISecuritySettingsTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/SharedResourceUrlTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/stateless/ImageStatelessTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/stateless/pages/RefreshStatelessPageTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/stateless/pages/StatelessFormTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/stateless/StatelessComponentTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/stateless/StatelessFormTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/stateless/StatelessFormUrlTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/stateless/TemporarySessionTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/TesterTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/util/cookies/CookieUtilsTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/cookies/SetCookieAndRedirectTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/ExceptionTestBase.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/io/PageA.java","Juegen Donnerstag",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/io/SerializableCheckerTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/util/io/SerializableCheckerTest.java","Sven Meier",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/util/iterator/AbstractHierarchyIteratorTest.java","Juegen Donnerstag",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/util/iterator/AbstractHierarchyIteratorTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/util/iterator/ComponentIteratorTest.java","Juegen Donnerstag",1,2
+"wicket-core/src/test/java/org/apache/wicket/util/lang/PropertyResolverTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/lang/WicketObjectsTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/util/lang/WicketObjectsTest.java","Sven Meier",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/util/resource/locator/CachingResourceStreamLocatorTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-core/src/test/java/org/apache/wicket/util/resource/locator/ResourceNameIteratorTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/util/resource/locator/ResourceNameIteratorTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-core/src/test/java/org/apache/wicket/util/resource/ResourceTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/resource/UrlResourceStreamTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/string/interpolator/PropertyVariableInterpolatorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/string/JavaScriptStripperTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/template/CssTemplateTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/tester/apps_2/Test.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/tester/apps_3/FormTesterTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/tester/apps_4/EmailPage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/tester/apps_4/FormTesterTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/tester/apps_5/AjaxLinkClickTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/tester/apps_5/AjaxSubmitLinkClickTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/tester/FormTesterSubmitLinkTest.java","Igor Vaynberg",0.25,4
+"wicket-core/src/test/java/org/apache/wicket/util/tester/FormTesterSubmitLinkTest.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-core/src/test/java/org/apache/wicket/util/tester/FormTesterTest.java","Igor Vaynberg",0.666666666666667,3
+"wicket-core/src/test/java/org/apache/wicket/util/tester/FormTesterTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-core/src/test/java/org/apache/wicket/util/tester/TagTesterTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/tester/WicketTesterSessionCreationTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/tester/WicketTesterSessionInvalidateTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/util/tester/WicketTesterTest.java","Martin Tzvetanov Grigorov",1,6
+"wicket-core/src/test/java/org/apache/wicket/validation/validator/CreditCardValidatorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/versioning/PageVersioningTest.java","Igor Vaynberg",0.166666666666667,6
+"wicket-core/src/test/java/org/apache/wicket/versioning/PageVersioningTest.java","Martin Tzvetanov Grigorov",0.666666666666667,6
+"wicket-core/src/test/java/org/apache/wicket/versioning/PageVersioningTest.java","Pedro Henrique Oliveira dos Santos",0.166666666666667,6
+"wicket-core/src/test/java/org/apache/wicket/VisitorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-core/src/test/java/org/apache/wicket/WicketJUnitRunner.java","Martin Tzvetanov Grigorov",1,3
+"wicket-core/src/test/java/org/apache/wicket/WicketTestCase.java","Juegen Donnerstag",0.2,5
+"wicket-core/src/test/java/org/apache/wicket/WicketTestCase.java","Martin Tzvetanov Grigorov",0.8,5
+"wicket-datetime/src/main/java/org/apache/wicket/datetime/markup/html/form/DateTextField.java","Juegen Donnerstag",1,1
+"wicket-datetime/src/main/java/org/apache/wicket/extensions/yui/calendar/DatePicker.java","Martin Tzvetanov Grigorov",1,1
+"wicket-datetime/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-datetime/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/debugbar/DebugBar.java","Martijn Dashorst",1,1
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/debugbar/DebugBarInitializer.java","Martin Tzvetanov Grigorov",1,3
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/browser/BrowserPanel.java","Martin Tzvetanov Grigorov",1,3
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/browser/BrowserTable.java","Martin Tzvetanov Grigorov",1,2
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/browser/DataStoreHelper.java","Martin Tzvetanov Grigorov",1,1
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/browser/PageWindowColumn.java","Martin Tzvetanov Grigorov",1,3
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/browser/PageWindowDescription.java","Martin Tzvetanov Grigorov",1,3
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/browser/PageWindowProvider.java","Martin Tzvetanov Grigorov",1,3
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/browser/SessionsProviderModel.java","Martin Tzvetanov Grigorov",1,1
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/DebugDiskDataStore.java","Martin Tzvetanov Grigorov",1,3
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/DebugPageManagerProvider.java","Martin Tzvetanov Grigorov",1,1
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/DiskStoreBrowserPage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/diskstore/PageWindowModel.java","Martin Tzvetanov Grigorov",1,2
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/inspector/LiveSessionsPage.java","Martijn Dashorst",1,1
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/inspector/RenderPerformanceListener.java","Martin Tzvetanov Grigorov",1,2
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/inspector/RequestsPage.java","Martijn Dashorst",0.5,2
+"wicket-devutils/src/main/java/org/apache/wicket/devutils/inspector/RequestsPage.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-devutils/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-devutils/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-examples/src/main/java/org/apache/wicket/examples/ajax/builtin/AutoCompletePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/ajax/builtin/tree/EditableTreeTablePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/ajax/builtin/tree/ModelBean.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/ajax/builtin/tree/PropertyEditableColumn.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/ajax/builtin/tree/SimpleTreePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/ajax/builtin/tree/TreeTablePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/ajax/prototype/Index.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/asemail/MailTemplate.java","Martin Tzvetanov Grigorov",1,2
+"wicket-examples/src/main/java/org/apache/wicket/examples/asemail/MailTemplateApplication.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/asemail/MailTemplatePanel.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/asemail/TemplateBasedOnPage.java","Martin Tzvetanov Grigorov",1,2
+"wicket-examples/src/main/java/org/apache/wicket/examples/compref/CheckBoxSelectorPage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/compref/TabbedPanelPage.java","Martijn Dashorst",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/dates/DatesPage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/encodings/Home.java","Juegen Donnerstag",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/forminput/BeforeAndAfterBorder.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/frames/BodyFrame.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/hangman/HangmanSession.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/library/BookDetails.java","Igor Vaynberg",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/linkomatic/Home.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/navomatic/NavomaticBorder.java","Igor Vaynberg",0.5,2
+"wicket-examples/src/main/java/org/apache/wicket/examples/navomatic/NavomaticBorder.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-examples/src/main/java/org/apache/wicket/examples/nested/Home.java","Juegen Donnerstag",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/repeater/GridViewPage.java","Jeremy Ryan Thomerson",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/repeater/OIRPage.java","Martijn Dashorst",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/repeater/PagingPage.java","Martijn Dashorst",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/repeater/RefreshingPage.java","Martijn Dashorst",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/repeater/RepeatingPage.java","Martijn Dashorst",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/repeater/SimplePage.java","Martijn Dashorst",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/repeater/SortingPage.java","Martijn Dashorst",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/requestmapper/LocaleFirstMapper.java","Igor Vaynberg",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/requestmapper/LocaleHelper.java","Sven Meier",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/requestmapper/RequestMapperApplication.java","Peter Ertl",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/resourcedecoration/MergedResourcesResource.java","Peter Ertl",1,2
+"wicket-examples/src/main/java/org/apache/wicket/examples/stateless/Index.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/stateless/SessionModel.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/stateless/StatefulPage.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/stateless/StatelessPage.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-examples/src/main/java/org/apache/wicket/examples/stateless/StatelessPage.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-examples/src/main/java/org/apache/wicket/examples/stateless/StatelessPage1.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/stateless/StatelessPage2.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/stateless/StatelessPage3.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/template/border/TemplateBorder.java","Igor Vaynberg",0.666666666666667,3
+"wicket-examples/src/main/java/org/apache/wicket/examples/template/border/TemplateBorder.java","Sven Meier",0.333333333333333,3
+"wicket-examples/src/main/java/org/apache/wicket/examples/upload/UploadPage.java","Sven Meier",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/WicketExampleApplication.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/WicketExamplePage.java","Pedro Henrique Oliveira dos Santos",1,1
+"wicket-examples/src/main/java/org/apache/wicket/examples/wizard/NewUserWizard.java","Sven Meier",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/compref/ComprefTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/encodings/EncodingTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/forminput/FormInputTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/guestbook/GuestbookTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/hangman/HangManTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/hangman/WordGeneratorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/helloworld/HelloWorldTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/images/ImagesTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/library/LibraryTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/linkomatic/LinkomaticTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/repeater/RepeaterTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/signin2/Signin2Test.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/examples/template/TemplateTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-examples/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/AjaxEditableLabel.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/AjaxIndicatorAppender.java","Igor Vaynberg",0.666666666666667,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/AjaxIndicatorAppender.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/AjaxLazyLoadPanelTester.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/autocomplete/AbstractAutoCompleteBehavior.java","Juegen Donnerstag",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/autocomplete/AbstractAutoCompleteRenderer.java","Juegen Donnerstag",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/autocomplete/AbstractAutoCompleteTextRenderer.java","Juegen Donnerstag",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/autocomplete/AutoCompleteBehavior.java","Juegen Donnerstag",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/autocomplete/AutoCompleteSettings.java","Juegen Donnerstag",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/autocomplete/AutoCompleteTextField.java","Juegen Donnerstag",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/autocomplete/DefaultCssAutoCompleteTextField.java","Juegen Donnerstag",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/autocomplete/IAutoCompleteRenderer.java","Juegen Donnerstag",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/autocomplete/StringAutoCompleteRenderer.java","Juegen Donnerstag",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/form/upload/UploadProgressBar.java","Sven Meier",1,4
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/form/upload/UploadStatusResource.java","Sven Meier",1,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/modal/ModalWindow.java","Igor Vaynberg",0.25,4
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/modal/ModalWindow.java","Martin Tzvetanov Grigorov",0.25,4
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/modal/ModalWindow.java","Pedro Henrique Oliveira dos Santos",0.5,4
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/repeater/data/sort/AjaxFallbackOrderByBorder.java","Igor Vaynberg",0.333333333333333,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/repeater/data/sort/AjaxFallbackOrderByBorder.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/ajax/markup/html/repeater/data/sort/AjaxFallbackOrderByLink.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/basic/DefaultLinkParser.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/basic/LinkParser.java","Martin Tzvetanov Grigorov",1,2
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/form/select/Select.java","Igor Vaynberg",0.5,2
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/form/select/Select.java","Sven Meier",0.5,2
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/form/select/SelectOption.java","Sven Meier",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/sort/OrderByBorder.java","Igor Vaynberg",1,2
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/DataTable.java","Igor Vaynberg",0.142857142857143,7
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/DataTable.java","Martin Tzvetanov Grigorov",0.571428571428571,7
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/DataTable.java","Sven Meier",0.285714285714286,7
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/filter/ChoiceFilter.java","Martijn Dashorst",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/filter/FilterForm.java","Igor Vaynberg",0.75,4
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/filter/FilterForm.java","Martin Tzvetanov Grigorov",0.25,4
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/HeadersToolbar.java","Igor Vaynberg",1,2
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/NavigationToolbar.java","Martijn Dashorst",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/NavigatorLabel.java","Sven Meier",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/NoRecordsToolbar.java","Martijn Dashorst",0.5,2
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/repeater/data/table/NoRecordsToolbar.java","Sven Meier",0.5,2
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/DefaultAbstractTree.java","Juegen Donnerstag",0.25,4
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/DefaultAbstractTree.java","Martin Tzvetanov Grigorov",0.5,4
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/DefaultAbstractTree.java","Peter Ertl",0.25,4
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/AbstractColumnsView.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/AbstractPropertyColumn.java","Juegen Donnerstag",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/ColumnLocation.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/MiddleColumnsView.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/PropertyRenderableColumn.java","Igor Vaynberg",0.333333333333333,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/PropertyRenderableColumn.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/PropertyRenderableColumn.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/PropertyTreeColumn.java","Igor Vaynberg",0.333333333333333,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/PropertyTreeColumn.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/PropertyTreeColumn.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/SideColumnsView.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/TreeTable.java","Juegen Donnerstag",0.666666666666667,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/TreeTable.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/markup/html/tree/table/TreeTableItem.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/requestlogger/JsonRequestLogger.java","Martijn Dashorst",0.5,2
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/requestlogger/JsonRequestLogger.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/wizard/IWizardStep.java","Sven Meier",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/wizard/Wizard.java","Sven Meier",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/wizard/WizardButtonBar.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/wizard/WizardModel.java","Sven Meier",1,1
+"wicket-extensions/src/main/java/org/apache/wicket/extensions/wizard/WizardStep.java","Sven Meier",1,1
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/ajax/markup/html/AjaxEditableTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/markup/html/basic/DefaultLinkParserTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/markup/html/image/resource/ThumbnailImageResourceTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/markup/html/repeater/data/table/DataTablePage.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/markup/html/repeater/data/table/DataTableTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/markup/html/repeater/data/table/DataTableTest.java","Sven Meier",0.666666666666667,3
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/markup/html/tree/MoveChildToParentNodeMarkedForRecreationTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/markup/html/upload/UploadFormWithProgressBarTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/validation/validator/RfcCompliantEmailValidatorTest.java","Igor Vaynberg",0.333333333333333,3
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/validation/validator/RfcCompliantEmailValidatorTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-extensions/src/test/java/org/apache/wicket/extensions/wizard/WizardModelTest.java","Sven Meier",1,1
+"wicket-extensions/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-extensions/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTest.java","Pedro Henrique Oliveira dos Santos",0.5,2
+"wicket-extensions/src/test/java/org/apache/wicket/WicketTestCase.java","Peter Ertl",1,1
+"wicket-guice/src/main/java/org/apache/wicket/guice/GuiceComponentInjector.java","Martin Tzvetanov Grigorov",1,2
+"wicket-guice/src/test/java/org/apache/wicket/guice/TestBehavior.java","Martin Tzvetanov Grigorov",1,1
+"wicket-guice/src/test/java/org/apache/wicket/guice/TestComponent.java","Martin Tzvetanov Grigorov",1,1
+"wicket-jmx/src/main/java/org/apache/wicket/jmx/Application.java","Peter Ertl",1,2
+"wicket-jmx/src/main/java/org/apache/wicket/jmx/ApplicationMBean.java","Peter Ertl",1,1
+"wicket-jmx/src/main/java/org/apache/wicket/jmx/Initializer.java","Martin Tzvetanov Grigorov",1,1
+"wicket-jmx/src/main/java/org/apache/wicket/jmx/MarkupSettings.java","Juegen Donnerstag",1,1
+"wicket-jmx/src/main/java/org/apache/wicket/jmx/MarkupSettingsMBean.java","Juegen Donnerstag",1,1
+"wicket-jmx/src/main/java/org/apache/wicket/jmx/ResourceSettings.java","Peter Ertl",1,1
+"wicket-jmx/src/main/java/org/apache/wicket/jmx/SessionSettings.java","Martin Tzvetanov Grigorov",1,1
+"wicket-jmx/src/main/java/org/apache/wicket/jmx/StoreSettings.java","Martin Tzvetanov Grigorov",1,4
+"wicket-jmx/src/main/java/org/apache/wicket/jmx/StoreSettingsMBean.java","Martin Tzvetanov Grigorov",1,4
+"wicket-objectssizeof-agent/src/main/java/org/apache/wicket/util/instrument/InstrumentationObjectSizeOfStrategy.java","Martin Tzvetanov Grigorov",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/flow/ResetResponseException.java","Martijn Dashorst",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/handler/logger/DelegateLogData.java","Martijn Dashorst",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/handler/logger/NoLogData.java","Martijn Dashorst",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/handler/TextRequestHandler.java","Martin Tzvetanov Grigorov",1,2
+"wicket-request/src/main/java/org/apache/wicket/request/http/flow/AbortWithHttpErrorCodeException.java","Igor Vaynberg",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/http/handler/RedirectRequestHandler.java","Igor Vaynberg",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/http/WebRequest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-request/src/main/java/org/apache/wicket/request/http/WebRequest.java","Pedro Henrique Oliveira dos Santos",0.333333333333333,3
+"wicket-request/src/main/java/org/apache/wicket/request/http/WebResponse.java","Igor Vaynberg",0.2,5
+"wicket-request/src/main/java/org/apache/wicket/request/http/WebResponse.java","Peter Ertl",0.8,5
+"wicket-request/src/main/java/org/apache/wicket/request/HttpHeaderCollection.java","Peter Ertl",1,5
+"wicket-request/src/main/java/org/apache/wicket/request/ILogData.java","Martijn Dashorst",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/ILoggableRequestHandler.java","Martijn Dashorst",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/IRequestHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/IRequestMapper.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-request/src/main/java/org/apache/wicket/request/IRequestMapper.java","Sven Meier",0.5,2
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/AbstractMapper.java","Martin Tzvetanov Grigorov",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/CompoundRequestMapper.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/CompoundRequestMapper.java","Sven Meier",0.5,2
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/ICompoundRequestMapper.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/ICompoundRequestMapper.java","Sven Meier",0.5,2
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/info/ComponentInfo.java","Igor Vaynberg",0.333333333333333,3
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/info/ComponentInfo.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/parameter/IIndexedParameters.java","Martin Tzvetanov Grigorov",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/parameter/INamedParameters.java","Martin Tzvetanov Grigorov",1,4
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/parameter/IPageParametersEncoder.java","Peter Ertl",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/parameter/PageParameters.java","Igor Vaynberg",0.125,8
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/parameter/PageParameters.java","Martin Tzvetanov Grigorov",0.875,8
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/parameter/UrlPathPageParametersEncoder.java","Igor Vaynberg",0.4,5
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/parameter/UrlPathPageParametersEncoder.java","Martin Tzvetanov Grigorov",0.4,5
+"wicket-request/src/main/java/org/apache/wicket/request/mapper/parameter/UrlPathPageParametersEncoder.java","Peter Ertl",0.2,5
+"wicket-request/src/main/java/org/apache/wicket/request/RequestHandlerStack.java","Igor Vaynberg",1,2
+"wicket-request/src/main/java/org/apache/wicket/request/Response.java","Martin Tzvetanov Grigorov",1,1
+"wicket-request/src/main/java/org/apache/wicket/request/Url.java","Igor Vaynberg",0.428571428571429,7
+"wicket-request/src/main/java/org/apache/wicket/request/Url.java","Peter Ertl",0.571428571428571,7
+"wicket-request/src/main/java/org/apache/wicket/request/UrlEncoder.java","Igor Vaynberg",0.2,5
+"wicket-request/src/main/java/org/apache/wicket/request/UrlEncoder.java","Martin Tzvetanov Grigorov",0.6,5
+"wicket-request/src/main/java/org/apache/wicket/request/UrlEncoder.java","Peter Ertl",0.2,5
+"wicket-request/src/main/java/org/apache/wicket/request/UrlRenderer.java","Igor Vaynberg",0.5,2
+"wicket-request/src/main/java/org/apache/wicket/request/UrlRenderer.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-request/src/test/java/org/apache/wicket/request/HttpHeaderCollectionTest.java","Peter Ertl",1,3
+"wicket-request/src/test/java/org/apache/wicket/request/mapper/CompoundRequestMapperTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-request/src/test/java/org/apache/wicket/request/mapper/parameter/PageParametersTest.java","Martin Tzvetanov Grigorov",1,4
+"wicket-request/src/test/java/org/apache/wicket/request/mapper/parameter/UrlPathPageParametersEncoderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-request/src/test/java/org/apache/wicket/request/UrlEncoderTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-request/src/test/java/org/apache/wicket/request/UrlTest.java","Igor Vaynberg",0.333333333333333,6
+"wicket-request/src/test/java/org/apache/wicket/request/UrlTest.java","Martin Tzvetanov Grigorov",0.166666666666667,6
+"wicket-request/src/test/java/org/apache/wicket/request/UrlTest.java","Peter Ertl",0.5,6
+"wicket-spring/src/main/java/org/apache/wicket/spring/injection/annot/AnnotProxyFieldValueFactory.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-spring/src/main/java/org/apache/wicket/spring/injection/annot/AnnotProxyFieldValueFactory.java","Peter Ertl",0.5,2
+"wicket-spring/src/main/java/org/apache/wicket/spring/injection/annot/SpringBean.java","Martin Tzvetanov Grigorov",1,1
+"wicket-spring/src/main/java/org/apache/wicket/spring/injection/annot/SpringComponentInjector.java","Martin Tzvetanov Grigorov",1,2
+"wicket-spring/src/main/java/org/apache/wicket/spring/SpringBeanLocator.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-spring/src/main/java/org/apache/wicket/spring/SpringBeanLocator.java","Peter Ertl",0.5,2
+"wicket-spring/src/main/java/org/apache/wicket/spring/SpringWebApplication.java","Martin Tzvetanov Grigorov",1,1
+"wicket-spring/src/main/java/org/apache/wicket/spring/test/ApplicationContextMock.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-spring/src/main/java/org/apache/wicket/spring/test/ApplicationContextMock.java","Peter Ertl",0.25,4
+"wicket-spring/src/test/java/org/apache/wicket/spring/injection/annot/SpringBeanTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-util/src/main/java/org/apache/wicket/serialize/ISerializer.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/collections/ReverseListIterator.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/crypt/CachingSunJceCryptFactory.java","Sven Meier",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/crypt/ClassCryptFactory.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/crypt/SunJceCrypt.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/file/File.java","Peter Ertl",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/file/FileCleaner.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/file/Files.java","Martin Tzvetanov Grigorov",0.571428571428571,7
+"wicket-util/src/main/java/org/apache/wicket/util/file/Files.java","Peter Ertl",0.428571428571429,7
+"wicket-util/src/main/java/org/apache/wicket/util/file/FolderDeleteStrategy.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/file/IFileCleaner.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/io/Connections.java","Martin Tzvetanov Grigorov",0.2,5
+"wicket-util/src/main/java/org/apache/wicket/util/io/Connections.java","Peter Ertl",0.8,5
+"wicket-util/src/main/java/org/apache/wicket/util/io/FullyBufferedReader.java","Igor Vaynberg",0.25,4
+"wicket-util/src/main/java/org/apache/wicket/util/io/FullyBufferedReader.java","Martin Tzvetanov Grigorov",0.75,4
+"wicket-util/src/main/java/org/apache/wicket/util/io/IOUtils.java","Peter Ertl",1,5
+"wicket-util/src/main/java/org/apache/wicket/util/io/XmlReader.java","Juegen Donnerstag",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/lang/Args.java","Martin Tzvetanov Grigorov",1,3
+"wicket-util/src/main/java/org/apache/wicket/util/lang/EnumeratedType.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/lang/PackageName.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/lang/Threads.java","Martin Tzvetanov Grigorov",1,2
+"wicket-util/src/main/java/org/apache/wicket/util/LazyInitializer.java","Igor Vaynberg",0.666666666666667,3
+"wicket-util/src/main/java/org/apache/wicket/util/LazyInitializer.java","Juegen Donnerstag",0.333333333333333,3
+"wicket-util/src/main/java/org/apache/wicket/util/listener/ListenerCollection.java","Igor Vaynberg",1,2
+"wicket-util/src/main/java/org/apache/wicket/util/resource/FileResourceStream.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/string/AppendingStringBuffer.java","Igor Vaynberg",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/string/Entities.java","Juegen Donnerstag",0.5,2
+"wicket-util/src/main/java/org/apache/wicket/util/string/Entities.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/main/java/org/apache/wicket/util/string/interpolator/VariableInterpolator.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/string/Strings.java","Juegen Donnerstag",0.5,2
+"wicket-util/src/main/java/org/apache/wicket/util/string/Strings.java","Peter Ertl",0.5,2
+"wicket-util/src/main/java/org/apache/wicket/util/time/Duration.java","Sven Meier",1,2
+"wicket-util/src/main/java/org/apache/wicket/util/time/Time.java","Peter Ertl",1,2
+"wicket-util/src/main/java/org/apache/wicket/util/upload/DiskFileItem.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/upload/DiskFileItemFactory.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/upload/ParameterParser.java","Igor Vaynberg",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/value/ValueMap.java","Igor Vaynberg",1,1
+"wicket-util/src/main/java/org/apache/wicket/util/visit/Visits.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/collections/MicroMapTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/collections/MicroMapTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/collections/MiniMapTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/collections/MiniMapTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/collections/ReverseListIteratorTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/convert/converters/ConvertersTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/convert/converters/ConvertersTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/crypt/Base64Test.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/crypt/Base64Test.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/file/FilesTest.java","Martin Tzvetanov Grigorov",0.8,5
+"wicket-util/src/test/java/org/apache/wicket/util/file/FilesTest.java","Sven Meier",0.2,5
+"wicket-util/src/test/java/org/apache/wicket/util/file/WebXmlFileTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/io/FullyBufferedReaderTest.java","Igor Vaynberg",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/io/FullyBufferedReaderTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/io/LastModifiedTest.java","Martin Tzvetanov Grigorov",0.166666666666667,6
+"wicket-util/src/test/java/org/apache/wicket/util/io/LastModifiedTest.java","Peter Ertl",0.833333333333333,6
+"wicket-util/src/test/java/org/apache/wicket/util/io/XmlReaderTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/io/XmlReaderTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/lang/ArgsTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/lang/BytesTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/lang/ObjectsTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/lang/ObjectsTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/lang/PrimitivesTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/lang/PrimitivesTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/license/AbstractLicenseHeaderHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/license/ApacheLicenseHeaderTestCase.java","Martin Tzvetanov Grigorov",1,2
+"wicket-util/src/test/java/org/apache/wicket/util/license/CssLicenseHeaderHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/license/HtmlLicenseHeaderHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/license/ILicenseHeaderHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/license/JavaLicenseHeaderHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/license/JavaScriptLicenseHeaderHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/license/PropertiesLicenseHeaderHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/license/VelocityLicenseHeaderHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/license/XmlLicenseHeaderHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/license/XmlPrologHeaderHandler.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/markup/xhtml/WellFormedXmlTestCase.java","Martin Tzvetanov Grigorov",1,2
+"wicket-util/src/test/java/org/apache/wicket/util/parse/metapattern/MetaPatternTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/parse/metapattern/MetaPatternTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/size/BytesTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/size/BytesTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/string/AppendingStringBufferTest.java","Igor Vaynberg",0.333333333333333,3
+"wicket-util/src/test/java/org/apache/wicket/util/string/AppendingStringBufferTest.java","Martin Tzvetanov Grigorov",0.333333333333333,3
+"wicket-util/src/test/java/org/apache/wicket/util/string/AppendingStringBufferTest.java","Sven Meier",0.333333333333333,3
+"wicket-util/src/test/java/org/apache/wicket/util/string/interpolator/VariableInterpolatorTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/string/interpolator/VariableInterpolatorTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/string/PrependingStringBufferTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/string/PrependingStringBufferTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/string/StringListTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/string/StringListTest.java","Sven Meier",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/string/StringsTest.java","Martin Tzvetanov Grigorov",0.666666666666667,3
+"wicket-util/src/test/java/org/apache/wicket/util/string/StringsTest.java","Peter Ertl",0.333333333333333,3
+"wicket-util/src/test/java/org/apache/wicket/util/time/DurationTest.java","Martin Tzvetanov Grigorov",1,1
+"wicket-util/src/test/java/org/apache/wicket/util/time/TimeFrameTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-util/src/test/java/org/apache/wicket/util/time/TimeMapTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-util/src/test/java/org/apache/wicket/util/time/TimeOfDayTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-util/src/test/java/org/apache/wicket/util/time/TimeTest.java","Martin Tzvetanov Grigorov",1,2
+"wicket-util/src/test/java/org/apache/wicket/util/value/ValueMapTest.java","Martin Tzvetanov Grigorov",0.5,2
+"wicket-util/src/test/java/org/apache/wicket/util/value/ValueMapTest.java","Sven Meier",0.5,2

@@ -1,0 +1,1808 @@
+"Change_file","AuthorName","length","Sum"
+"bench/bench_enumerator_next.rb","Charles Oliver Nutter",1,3
+"bench/bench_hash_each.rb","Thomas E. Enebo",1,4
+"bench/bench_io_foreach.rb","Charles Oliver Nutter",1,1
+"bench/bench_io_sysread.rb","Charles Oliver Nutter",1,2
+"bench/bench_marshal.rb","Charles Oliver Nutter",1,2
+"bench/bench_object_extend.rb","Charles Oliver Nutter",1,2
+"bench/bench_object_id.rb","Charles Oliver Nutter",1,2
+"bench/bench_object_new.rb","Charles Oliver Nutter",1,2
+"bench/bench_stringscanner.rb","Charles Oliver Nutter",1,2
+"bench/bench_xml_builder.rb","Charles Oliver Nutter",1,2
+"bench/bench_yaml.rb","Ola Bini",1,4
+"bench/ffi/bench_gettimeofday.rb","Wayne Meissner",1,2
+"bench/ffi/bench_memchr.rb","Wayne Meissner",1,2
+"bench/java/bench_java_array.rb","Charles Oliver Nutter",1,4
+"bench/java/bench_java_invocation.rb","Charles Oliver Nutter",1,4
+"bench/java/bench_java_objects.rb","Charles Oliver Nutter",1,2
+"bench/language/bench_all.rb","Ola Bini",1,2
+"bench/language/bench_attr_read.rb","Thomas E. Enebo",1,4
+"bench/language/bench_class_definition.rb","Ola Bini",1,2
+"bench/language/bench_lambda.rb","Charles Oliver Nutter",1,2
+"bench/language/bench_method_return.rb","Ola Bini",1,2
+"bench/language/bench_yield.rb","Thomas E. Enebo",1,2
+"gem/lib/jruby-jars.rb","Charles Oliver Nutter",1,3
+"gem/lib/jruby-jars/version.rb","Charles Oliver Nutter",1,3
+"lib/ruby/1.8/benchmark.rb","Ola Bini",1,2
+"lib/ruby/1.8/cgi.rb","Ola Bini",1,2
+"lib/ruby/1.8/cgi/session.rb","Ola Bini",1,2
+"lib/ruby/1.8/cgi/session/pstore.rb","Ola Bini",1,2
+"lib/ruby/1.8/complex.rb","Ola Bini",1,2
+"lib/ruby/1.8/date.rb","Ola Bini",1,2
+"lib/ruby/1.8/date/format.rb","Ola Bini",1,2
+"lib/ruby/1.8/delegate.rb","Ola Bini",1,2
+"lib/ruby/1.8/dl.rb","Wayne Meissner",1,4
+"lib/ruby/1.8/drb/drb.rb","Charles Oliver Nutter",0.333333333333333,3
+"lib/ruby/1.8/drb/drb.rb","Ola Bini",0.666666666666667,3
+"lib/ruby/1.8/drb/extservm.rb","Ola Bini",1,2
+"lib/ruby/1.8/erb.rb","Ola Bini",1,2
+"lib/ruby/1.8/finalize.rb","Ola Bini",1,2
+"lib/ruby/1.8/forwardable.rb","Ola Bini",1,2
+"lib/ruby/1.8/ipaddr.rb","Ola Bini",1,2
+"lib/ruby/1.8/logger.rb","Ola Bini",1,2
+"lib/ruby/1.8/matrix.rb","Ola Bini",1,2
+"lib/ruby/1.8/mkmf.rb","Charles Oliver Nutter",0.666666666666667,6
+"lib/ruby/1.8/mkmf.rb","Ola Bini",0.333333333333333,6
+"lib/ruby/1.8/monitor.rb","Ola Bini",1,2
+"lib/ruby/1.8/mutex_m.rb","Ola Bini",1,2
+"lib/ruby/1.8/net/ftp.rb","Ola Bini",1,2
+"lib/ruby/1.8/net/http.rb","Ola Bini",1,2
+"lib/ruby/1.8/net/https.rb","Ola Bini",1,2
+"lib/ruby/1.8/net/imap.rb","Ola Bini",1,2
+"lib/ruby/1.8/net/pop.rb","Ola Bini",1,2
+"lib/ruby/1.8/net/protocol.rb","Ola Bini",1,2
+"lib/ruby/1.8/net/smtp.rb","Ola Bini",1,2
+"lib/ruby/1.8/net/telnet.rb","Ola Bini",1,2
+"lib/ruby/1.8/open-uri.rb","Ola Bini",1,2
+"lib/ruby/1.8/optparse.rb","Ola Bini",1,2
+"lib/ruby/1.8/ostruct.rb","Ola Bini",1,2
+"lib/ruby/1.8/pathname.rb","Nick Sieger",0.5,4
+"lib/ruby/1.8/pathname.rb","Ola Bini",0.5,4
+"lib/ruby/1.8/pp.rb","Ola Bini",1,2
+"lib/ruby/1.8/pstore.rb","Ola Bini",1,2
+"lib/ruby/1.8/rational.rb","Ola Bini",1,2
+"lib/ruby/1.8/rdoc/options.rb","Ola Bini",1,2
+"lib/ruby/1.8/rdoc/parsers/parse_c.rb","Ola Bini",1,2
+"lib/ruby/1.8/rdoc/parsers/parse_f95.rb","Ola Bini",1,2
+"lib/ruby/1.8/rdoc/parsers/parse_rb.rb","Ola Bini",1,2
+"lib/ruby/1.8/rdoc/ri/ri_options.rb","Ola Bini",1,2
+"lib/ruby/1.8/rdoc/ri/ri_paths.rb","Ola Bini",1,2
+"lib/ruby/1.8/resolv.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/attlistdecl.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/attribute.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/document.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/element.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/encoding.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/encodings/SHIFT-JIS.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/entity.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/formatters/pretty.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/functions.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/node.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/parsers/baseparser.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/parsers/treeparser.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/rexml.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/source.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/text.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/undefinednamespaceexception.rb","Ola Bini",1,2
+"lib/ruby/1.8/rexml/xpath.rb","Ola Bini",1,2
+"lib/ruby/1.8/rinda/ring.rb","Ola Bini",1,2
+"lib/ruby/1.8/rinda/tuplespace.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/0.9.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/1.0.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/2.0.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/atom.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/content.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/content/1.0.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/content/2.0.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/converter.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/dublincore.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/dublincore/1.0.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/dublincore/2.0.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/dublincore/atom.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/image.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/itunes.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/0.9.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/1.0.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/2.0.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/atom.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/base.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/content.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/dublincore.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/entry.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/feed.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/image.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/itunes.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/slash.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/syndication.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/taxonomy.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/maker/trackback.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/parser.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/rss.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/slash.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/syndication.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/taxonomy.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/utils.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/xml-stylesheet.rb","Ola Bini",1,2
+"lib/ruby/1.8/rss/xml.rb","Ola Bini",1,2
+"lib/ruby/1.8/scanf.rb","Ola Bini",1,2
+"lib/ruby/1.8/securerandom.rb","Ola Bini",1,2
+"lib/ruby/1.8/set.rb","Ola Bini",1,2
+"lib/ruby/1.8/shell/builtin-command.rb","Ola Bini",1,2
+"lib/ruby/1.8/shell/command-processor.rb","Ola Bini",1,2
+"lib/ruby/1.8/shell/error.rb","Ola Bini",1,2
+"lib/ruby/1.8/shell/filter.rb","Ola Bini",1,2
+"lib/ruby/1.8/shell/process-controller.rb","Ola Bini",1,2
+"lib/ruby/1.8/shell/system-command.rb","Ola Bini",1,2
+"lib/ruby/1.8/shell/version.rb","Ola Bini",1,2
+"lib/ruby/1.8/shellwords.rb","Ola Bini",1,2
+"lib/ruby/1.8/singleton.rb","Ola Bini",1,2
+"lib/ruby/1.8/soap/mimemessage.rb","Ola Bini",1,2
+"lib/ruby/1.8/tempfile.rb","Ola Bini",1,2
+"lib/ruby/1.8/thread.rb","Ola Bini",1,4
+"lib/ruby/1.8/time.rb","Ola Bini",1,2
+"lib/ruby/1.8/tmpdir.rb","Ola Bini",1,2
+"lib/ruby/1.8/uri.rb","Ola Bini",1,2
+"lib/ruby/1.8/uri/common.rb","Ola Bini",1,2
+"lib/ruby/1.8/uri/ftp.rb","Ola Bini",1,2
+"lib/ruby/1.8/uri/generic.rb","Ola Bini",1,2
+"lib/ruby/1.8/uri/http.rb","Ola Bini",1,2
+"lib/ruby/1.8/uri/https.rb","Ola Bini",1,2
+"lib/ruby/1.8/uri/ldap.rb","Ola Bini",1,2
+"lib/ruby/1.8/uri/ldaps.rb","Ola Bini",1,2
+"lib/ruby/1.8/uri/mailto.rb","Ola Bini",1,2
+"lib/ruby/1.8/webrick/cgi.rb","Ola Bini",1,2
+"lib/ruby/1.8/webrick/httpproxy.rb","Ola Bini",1,2
+"lib/ruby/1.8/webrick/httprequest.rb","Ola Bini",1,2
+"lib/ruby/1.8/webrick/httpresponse.rb","Ola Bini",1,2
+"lib/ruby/1.8/webrick/httpservlet/cgihandler.rb","Ola Bini",1,2
+"lib/ruby/1.8/webrick/httputils.rb","Ola Bini",1,2
+"lib/ruby/1.8/webrick/ssl.rb","Ola Bini",1,2
+"lib/ruby/1.8/Win32API.rb","Nick Sieger",0.2,10
+"lib/ruby/1.8/Win32API.rb","Wayne Meissner",0.8,10
+"lib/ruby/1.8/xmlrpc/base64.rb","Ola Bini",1,2
+"lib/ruby/1.8/xmlrpc/client.rb","Ola Bini",1,2
+"lib/ruby/1.8/xmlrpc/config.rb","Ola Bini",1,2
+"lib/ruby/1.8/xmlrpc/create.rb","Ola Bini",1,2
+"lib/ruby/1.8/xmlrpc/datetime.rb","Ola Bini",1,2
+"lib/ruby/1.8/xmlrpc/httpserver.rb","Ola Bini",1,2
+"lib/ruby/1.8/xmlrpc/marshal.rb","Ola Bini",1,2
+"lib/ruby/1.8/xmlrpc/parser.rb","Ola Bini",1,2
+"lib/ruby/1.8/xmlrpc/server.rb","Ola Bini",1,2
+"lib/ruby/1.8/xmlrpc/utils.rb","Ola Bini",1,2
+"lib/ruby/1.9/base64.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/benchmark.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/bigdecimal/jacobian.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/bigdecimal/ludcmp.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/bigdecimal/math.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/bigdecimal/newton.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/bigdecimal/util.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/cgi.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/cgi/cookie.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/cgi/core.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/cgi/html.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/cgi/session.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/cgi/session/pstore.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/cgi/util.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/cmath.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/complex.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/csv.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/date.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/date/delta.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/date/delta/parser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/date/format.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/debug.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/delegate.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/drb/drb.rb","Charles Oliver Nutter",0.333333333333333,3
+"lib/ruby/1.9/drb/drb.rb","Thomas E. Enebo",0.666666666666667,3
+"lib/ruby/1.9/drb/extserv.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/drb/extservm.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/drb/invokemethod.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/drb/observer.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/drb/ssl.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/drb/timeridconv.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/drb/unix.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/e2mmap.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/English.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/erb.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/fileutils.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/forwardable.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/getoptlong.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/ipaddr.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/irb.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/irb/cmd/chws.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/cmd/fork.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/cmd/help.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/irb/cmd/load.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/cmd/nop.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/cmd/pushws.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/cmd/subirb.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/completion.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/context.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/ext/change-ws.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/ext/history.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/ext/loader.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/ext/math-mode.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/ext/multi-irb.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/ext/save-history.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/irb/ext/tracer.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/ext/use-loader.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/ext/workspaces.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/extend-command.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/frame.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/help.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/init.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/irb/input-method.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/inspector.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/irb/lc/error.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/lc/ja/error.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/locale.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/notifier.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/output-method.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/ruby-lex.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/irb/ruby-token.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/slex.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/version.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/workspace.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/ws-for-case-2.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/irb/xmp.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/logger.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/mathn.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/matrix.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/minitest/autorun.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/minitest/spec.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/minitest/unit.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/mkmf.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/monitor.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/mutex_m.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/net/ftp.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/net/http.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/net/https.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/net/imap.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/net/pop.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/net/protocol.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/net/smtp.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/net/telnet.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/observer.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/open3.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/optparse.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/ostruct.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/pathname.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/pp.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/prettyprint.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/prime.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/pstore.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/racc/parser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rake.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rake/clean.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rake/gempackagetask.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rake/loaders/makefile.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rake/packagetask.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rake/rdoctask.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rake/runtest.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rake/tasklib.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rake/testtask.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rational.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/rbconfig/datadir.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/code_objects.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/diagram.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/generator.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/generator/chm/chm.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/generator/html.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/generator/html/hefss.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/generator/html/html.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/generator/html/kilmer.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/generator/html/kilmerfactory.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/generator/html/one_page_html.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/generator/texinfo.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/markup.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/markup/fragments.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/markup/to_html_crossref.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/markup/to_html.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/options.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/parser.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/rdoc/parser/c.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/rdoc/parser/f95.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/parser/perl.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/parser/ruby.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/ri/display.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/ri/driver.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/ri/formatter.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/ri/gemdirs.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rdoc/ri/paths.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/rdoc/ri/util.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/resolv.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/attlistdecl.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/attribute.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/cdata.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/child.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/comment.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/doctype.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/document.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/dtd/entitydecl.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/dtd/notationdecl.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/element.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/encoding.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/encodings/CP-1252.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/encodings/ISO-8859-15.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/encodings/UNILE.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/encodings/UTF-16.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/entity.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/formatters/default.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/formatters/pretty.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/formatters/transitive.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/functions.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/instruction.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/namespace.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/node.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/output.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/parent.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/parseexception.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/parsers/baseparser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/parsers/pullparser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/parsers/sax2parser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/parsers/streamparser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/parsers/treeparser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/parsers/xpathparser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/quickpath.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/rexml.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/sax2listener.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/source.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/streamlistener.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/text.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/validation/relaxng.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/validation/validation.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/xpath_parser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rexml/xpath.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rinda/rinda.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rinda/ring.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rinda/tuplespace.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/0.9.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/1.0.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/2.0.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/atom.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/content/1.0.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/content/2.0.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/converter.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/dublincore.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/dublincore/1.0.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/dublincore/2.0.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/dublincore/atom.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/image.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/maker.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/maker/0.9.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/maker/1.0.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/maker/2.0.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/maker/base.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/rss/maker/dublincore.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/maker/entry.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/maker/feed.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/maker/image.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/maker/taxonomy.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/maker/trackback.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/parser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/rexmlparser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/rss.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/syndication.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/taxonomy.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/trackback.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/utils.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/xml-stylesheet.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/xmlparser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/rss/xmlscanner.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/scanf.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/securerandom.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/set.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/shell.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/shell/builtin-command.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/shell/command-processor.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/shell/error.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/shell/filter.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/shell/process-controller.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/shell/system-command.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/shell/version.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/sync.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/test/unit.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/test/unit/assertions.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/test/unit/testcase.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/thread.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/thwait.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/time.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/tmpdir.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/tracer.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/tsort.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/un.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/uri.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/uri/common.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/uri/ftp.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/uri/generic.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/uri/http.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/uri/ldap.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/uri/mailto.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/cgi.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/config.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpauth/authenticator.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpauth/digestauth.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpauth/userdb.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpproxy.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httprequest.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpresponse.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpserver.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpservlet/abstract.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpservlet/cgihandler.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpservlet/erbhandler.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpservlet/filehandler.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpservlet/prochandler.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httpstatus.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/httputils.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/log.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/server.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/ssl.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/webrick/utils.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/xmlrpc/base64.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/xmlrpc/client.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/xmlrpc/config.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/xmlrpc/create.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/xmlrpc/datetime.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/xmlrpc/httpserver.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/xmlrpc/marshal.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/xmlrpc/parser.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/xmlrpc/server.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/xmlrpc/utils.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/yaml.rb","Thomas E. Enebo",1,4
+"lib/ruby/1.9/yaml/baseemitter.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/yaml/constants.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/yaml/dbm.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/yaml/encoding.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/yaml/error.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/yaml/rubytypes.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/yaml/stream.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/yaml/stringio.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/yaml/tag.rb","Thomas E. Enebo",1,2
+"lib/ruby/1.9/yaml/types.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/1.8/rubygems.rb","Charles Oliver Nutter",0.666666666666667,6
+"lib/ruby/site_ruby/1.8/rubygems.rb","Thomas E. Enebo",0.333333333333333,6
+"lib/ruby/site_ruby/1.8/rubygems/command_manager.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/command.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/commands/cleanup_command.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/commands/install_command.rb","Charles Oliver Nutter",1,4
+"lib/ruby/site_ruby/1.8/rubygems/commands/query_command.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/commands/server_command.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/commands/setup_command.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/commands/specification_command.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/commands/update_command.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/commands/which_command.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/config_file.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/defaults.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/defaults/jruby.rb","Charles Oliver Nutter",0.285714285714286,7
+"lib/ruby/site_ruby/1.8/rubygems/defaults/jruby.rb","Thomas E. Enebo",0.285714285714286,7
+"lib/ruby/site_ruby/1.8/rubygems/defaults/jruby.rb","Vladimir Sizikov",0.428571428571429,7
+"lib/ruby/site_ruby/1.8/rubygems/dependency_list.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/dependency.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/doc_manager.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/exceptions.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/ext/builder.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/ext/configure_builder.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/ext/rake_builder.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/gem_openssl.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/gem_path_searcher.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/indexer.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/package_task.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/package/f_sync_dir.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/package/tar_header.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/package/tar_input.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/package/tar_output.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/package/tar_reader.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/package/tar_reader/entry.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/package/tar_writer.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/platform.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/remote_fetcher.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/requirement.rb","Charles Oliver Nutter",1,4
+"lib/ruby/site_ruby/1.8/rubygems/rubygems_version.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/server.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/source_index.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/spec_fetcher.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/1.8/rubygems/specification.rb","Charles Oliver Nutter",1,4
+"lib/ruby/site_ruby/1.8/rubygems/uninstaller.rb","Charles Oliver Nutter",1,4
+"lib/ruby/site_ruby/1.8/rubygems/version.rb","Charles Oliver Nutter",1,4
+"lib/ruby/site_ruby/shared/builtin/core_ext/symbol.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/builtin/java/java.io.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/shared/builtin/java/java.lang.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/shared/builtin/java/java.util.rb","Charles Oliver Nutter",0.571428571428571,7
+"lib/ruby/site_ruby/shared/builtin/java/java.util.rb","Thomas E. Enebo",0.428571428571429,7
+"lib/ruby/site_ruby/shared/builtin/java/java.util.regex.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/shared/builtin/java/org.jruby.ast.rb","Charles Oliver Nutter",1,2
+"lib/ruby/site_ruby/shared/builtin/javasupport.rb","Charles Oliver Nutter",0.5,4
+"lib/ruby/site_ruby/shared/builtin/javasupport.rb","Thomas E. Enebo",0.5,4
+"lib/ruby/site_ruby/shared/builtin/javasupport/core_ext.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/builtin/javasupport/core_ext/kernel.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/builtin/javasupport/core_ext/module.rb","David Calavera",0.5,4
+"lib/ruby/site_ruby/shared/builtin/javasupport/core_ext/module.rb","Thomas E. Enebo",0.5,4
+"lib/ruby/site_ruby/shared/builtin/javasupport/core_ext/object.rb","Charles Oliver Nutter",0.714285714285714,7
+"lib/ruby/site_ruby/shared/builtin/javasupport/core_ext/object.rb","Thomas E. Enebo",0.285714285714286,7
+"lib/ruby/site_ruby/shared/builtin/javasupport/java.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/builtin/javasupport/proxy/array.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/builtin/javasupport/proxy/interface.rb","Charles Oliver Nutter",0.5,4
+"lib/ruby/site_ruby/shared/builtin/javasupport/proxy/interface.rb","Thomas E. Enebo",0.5,4
+"lib/ruby/site_ruby/shared/builtin/javasupport/utilities/array.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/builtin/javasupport/utilities/base.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/builtin/prelude.rb","Thomas E. Enebo",0.8,5
+"lib/ruby/site_ruby/shared/builtin/prelude.rb","Yoko Harada",0.2,5
+"lib/ruby/site_ruby/shared/builtin/rdoc_jruby.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/autopointer.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/buffer.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/enum.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/ffi.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/io.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/library.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/managedstruct.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/memorypointer.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-darwin/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-darwin/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-darwin/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-darwin/socket.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-darwin/stat.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-darwin/sysconf.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-darwin/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-darwin/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-linux/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-linux/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-linux/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-linux/socket.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-linux/stat.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-linux/sysconf.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-linux/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-linux/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-openbsd/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-openbsd/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-openbsd/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-openbsd/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-solaris/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-solaris/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-solaris/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-solaris/socket.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-solaris/stat.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-solaris/sysconf.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-solaris/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-solaris/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-windows/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-windows/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-windows/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-windows/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/i386-windows/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/powerpc-aix/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/powerpc-aix/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/powerpc-aix/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/powerpc-aix/socket.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/powerpc-aix/stat.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/powerpc-aix/sysconf.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/powerpc-aix/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/powerpc-aix/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/ppc-darwin/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/ppc-darwin/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/ppc-darwin/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/ppc-darwin/socket.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/ppc-darwin/stat.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/ppc-darwin/sysconf.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/ppc-darwin/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/ppc-darwin/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparc-solaris/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparc-solaris/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparc-solaris/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparc-solaris/socket.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparc-solaris/stat.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparc-solaris/sysconf.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparc-solaris/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparc-solaris/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparcv9-solaris/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparcv9-solaris/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparcv9-solaris/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparcv9-solaris/socket.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparcv9-solaris/stat.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparcv9-solaris/sysconf.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparcv9-solaris/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/sparcv9-solaris/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-darwin/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-darwin/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-darwin/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-darwin/socket.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-darwin/stat.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-darwin/sysconf.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-darwin/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-darwin/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-linux/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-linux/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-linux/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-linux/socket.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-linux/stat.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-linux/sysconf.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-linux/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-linux/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-solaris/errno.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-solaris/etc.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-solaris/fcntl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-solaris/socket.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-solaris/stat.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-solaris/sysconf.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-solaris/syslog.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/platform/x86_64-solaris/zlib.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/pointer.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/rbx.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/struct.rb","Thomas E. Enebo",0.5,4
+"lib/ruby/site_ruby/shared/ffi/struct.rb","Wayne Meissner",0.5,4
+"lib/ruby/site_ruby/shared/ffi/times.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/tools/const_generator.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/tools/generator_task.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/tools/generator.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/tools/struct_generator.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/tools/types_generator.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/types.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/ffi/variadic.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/generator.rb","Charles Oliver Nutter",0.6,10
+"lib/ruby/site_ruby/shared/generator.rb","MenTaLguY",0.3,10
+"lib/ruby/site_ruby/shared/generator.rb","Yoko Harada",0.1,10
+"lib/ruby/site_ruby/shared/jruby/jrubyc.rb","Thomas E. Enebo",0.5,4
+"lib/ruby/site_ruby/shared/jruby/jrubyc.rb","Vladimir Sizikov",0.5,4
+"lib/ruby/site_ruby/shared/jruby/openssl/autoloads/asn1.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/autoloads/bn.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/autoloads/cipher.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/autoloads/config.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/autoloads/netscape.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/autoloads/pkcs7.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/autoloads/pkey.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/autoloads/random.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/autoloads/ssl.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/autoloads/x509.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/builtin.rb","Nick Sieger",0.5,4
+"lib/ruby/site_ruby/shared/jruby/openssl/builtin.rb","Thomas E. Enebo",0.5,4
+"lib/ruby/site_ruby/shared/jruby/openssl/gem_only.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/gem.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/openssl/stub.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/jruby/vm.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/pty.rb","Thomas E. Enebo",1,2
+"lib/ruby/site_ruby/shared/securerandom.rb","Thomas E. Enebo",0.5,4
+"lib/ruby/site_ruby/shared/securerandom.rb","Vladimir Sizikov",0.5,4
+"lib/ruby/site_ruby/shared/syslog.rb","Thomas E. Enebo",1,2
+"spec/compiler/skinnymethodadapter_spec.rb","Charles Oliver Nutter",1,2
+"spec/ffi/callback_spec.rb","Wayne Meissner",1,4
+"spec/ffi/memorypointer_spec.rb","Wayne Meissner",1,2
+"spec/ffi/struct_spec.rb","Wayne Meissner",1,2
+"spec/java_integration/addons/stringio_addons.rb","Charles Oliver Nutter",1,2
+"spec/java_integration/exceptions/rescue_spec.rb","Charles Oliver Nutter",1,2
+"spec/java_integration/extensions/list_spec.rb","Thomas E. Enebo",1,2
+"spec/java_integration/fixtures/PackageInstanceMethod.java","Thomas E. Enebo",1,3
+"spec/java_integration/fixtures/ThrowExceptionOnCreate.java","David Calavera",1,2
+"spec/java_integration/methods/dir_spec.rb","David Calavera",1,2
+"spec/java_integration/methods/java_alias_spec.rb","Charles Oliver Nutter",1,3
+"spec/java_integration/methods/java_method_spec.rb","Charles Oliver Nutter",1,3
+"spec/java_integration/methods/java_send_spec.rb","Charles Oliver Nutter",1,2
+"spec/java_integration/methods/reflecting_spec.rb","Charles Oliver Nutter",1,1
+"spec/java_integration/packages/access_spec.rb","Wayne Meissner",1,1
+"spec/java_integration/packages/include_spec.rb","Charles Oliver Nutter",0.333333333333333,3
+"spec/java_integration/packages/include_spec.rb","David Calavera",0.666666666666667,3
+"spec/java_integration/types/array_spec.rb","Charles Oliver Nutter",1,5
+"spec/java_integration/types/coercion_spec.rb","Charles Oliver Nutter",1,12
+"spec/java_integration/types/extension_spec.rb","Thomas E. Enebo",1,3
+"spec/java_integration/utilities/jar_glob_spec.rb","Charles Oliver Nutter",0.285714285714286,7
+"spec/java_integration/utilities/jar_glob_spec.rb","Thomas E. Enebo",0.285714285714286,7
+"spec/java_integration/utilities/jar_glob_spec.rb","Vladimir Sizikov",0.428571428571429,7
+"spec/java_integration/utilities/jruby_spec.rb","Charles Oliver Nutter",1,2
+"src/builtin/yaml.rb","Ola Bini",1,2
+"src/builtin/yaml/baseemitter.rb","Ola Bini",1,2
+"src/builtin/yaml/basenode.rb","Charles Oliver Nutter",0.5,4
+"src/builtin/yaml/basenode.rb","Ola Bini",0.5,4
+"src/builtin/yaml/compat.rb","Ola Bini",1,2
+"src/builtin/yaml/constants.rb","Ola Bini",1,2
+"src/builtin/yaml/dbm.rb","Ola Bini",1,2
+"src/builtin/yaml/emitter.rb","Ola Bini",1,2
+"src/builtin/yaml/encoding.rb","Ola Bini",1,2
+"src/builtin/yaml/error.rb","Ola Bini",1,2
+"src/builtin/yaml/rubytypes.rb","Ola Bini",1,2
+"src/builtin/yaml/stream.rb","Ola Bini",1,2
+"src/builtin/yaml/stringio.rb","Ola Bini",1,2
+"src/builtin/yaml/tag.rb","Ola Bini",1,2
+"src/builtin/yaml/types.rb","Ola Bini",1,2
+"src/builtin/yaml/yamlnode.rb","Ola Bini",1,2
+"src/builtin/yaml/yecht.rb","Ola Bini",1,2
+"src/builtin/yaml/ypath.rb","Ola Bini",1,2
+"src/jruby/commands.rb","Nick Sieger",1,2
+"src/jruby/path_helper.rb","Thomas E. Enebo",1,2
+"src/org/jruby/anno/AnnotationBinder.java","Charles Oliver Nutter",1,4
+"src/org/jruby/anno/InvokerGenerator.java","Charles Oliver Nutter",1,2
+"src/org/jruby/ast/ArgsNode.java","Thomas E. Enebo",1,6
+"src/org/jruby/ast/CallOneArgFixnumNode.java","Thomas E. Enebo",1,4
+"src/org/jruby/ast/CaseNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/ast/ClassNode.java","Charles Oliver Nutter",1,2
+"src/org/jruby/ast/Colon2Node.java","Charles Oliver Nutter",0.666666666666667,6
+"src/org/jruby/ast/Colon2Node.java","Leonardo Borges",0.333333333333333,6
+"src/org/jruby/ast/ConstNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/ast/executable/AbstractScript.java","Charles Oliver Nutter",0.833333333333333,12
+"src/org/jruby/ast/executable/AbstractScript.java","Thomas E. Enebo",0.166666666666667,12
+"src/org/jruby/ast/GlobalAsgnNode.java","Charles Oliver Nutter",1,5
+"src/org/jruby/ast/GlobalVarNode.java","Charles Oliver Nutter",1,5
+"src/org/jruby/ast/Hash19Node.java","Thomas E. Enebo",1,3
+"src/org/jruby/ast/HashNode.java","Thomas E. Enebo",1,3
+"src/org/jruby/ast/IfNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/ast/IterNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/ast/MultipleAsgnNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/ast/NodeType.java","Charles Oliver Nutter",1,2
+"src/org/jruby/ast/RescueNode.java","Charles Oliver Nutter",1,2
+"src/org/jruby/ast/StarNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/ast/YieldNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/ast/YieldOneNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/ast/YieldThreeNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/ast/YieldTwoNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/ast/ZYieldNode.java","Thomas E. Enebo",1,2
+"src/org/jruby/common/IRubyWarnings.java","Ola Bini",0.5,4
+"src/org/jruby/common/IRubyWarnings.java","Thomas E. Enebo",0.5,4
+"src/org/jruby/common/NullWarnings.java","Ola Bini",1,2
+"src/org/jruby/common/RubyWarnings.java","Ola Bini",1,2
+"src/org/jruby/compiler/ASTCompiler.java","Charles Oliver Nutter",0.727272727272727,11
+"src/org/jruby/compiler/ASTCompiler.java","Thomas E. Enebo",0.272727272727273,11
+"src/org/jruby/compiler/ASTCompiler19.java","Thomas E. Enebo",1,3
+"src/org/jruby/compiler/ASTInspector.java","Charles Oliver Nutter",0.4,5
+"src/org/jruby/compiler/ASTInspector.java","Thomas E. Enebo",0.6,5
+"src/org/jruby/compiler/BodyCompiler.java","Charles Oliver Nutter",0.4,5
+"src/org/jruby/compiler/BodyCompiler.java","Thomas E. Enebo",0.6,5
+"src/org/jruby/compiler/CacheCompiler.java","Charles Oliver Nutter",1,5
+"src/org/jruby/compiler/impl/BaseBodyCompiler.java","Charles Oliver Nutter",0.8125,16
+"src/org/jruby/compiler/impl/BaseBodyCompiler.java","Thomas E. Enebo",0.1875,16
+"src/org/jruby/compiler/impl/ChainedChildBodyCompiler19.java","Charles Oliver Nutter",1,2
+"src/org/jruby/compiler/impl/ChildScopedBodyCompiler.java","Charles Oliver Nutter",1,2
+"src/org/jruby/compiler/impl/ChildScopedBodyCompiler19.java","Charles Oliver Nutter",1,2
+"src/org/jruby/compiler/impl/InheritedCacheCompiler.java","Charles Oliver Nutter",1,10
+"src/org/jruby/compiler/impl/InvokeDynamicInvocationCompiler.java","Charles Oliver Nutter",1,6
+"src/org/jruby/compiler/impl/MethodBodyCompiler.java","Charles Oliver Nutter",1,2
+"src/org/jruby/compiler/impl/RootScopedBodyCompiler.java","Charles Oliver Nutter",1,2
+"src/org/jruby/compiler/impl/SkinnyMethodAdapter.java","Charles Oliver Nutter",0.5,8
+"src/org/jruby/compiler/impl/SkinnyMethodAdapter.java","Nick Sieger",0.5,8
+"src/org/jruby/compiler/impl/StandardASMCompiler.java","Charles Oliver Nutter",1,4
+"src/org/jruby/compiler/ir/CodeVersion.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/compiler_pass/CFG_Builder.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/compiler_pass/CompilerPass.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/compiler_pass/IR_Printer.java","Subramanya Sastry",0.833333333333333,6
+"src/org/jruby/compiler/ir/compiler_pass/IR_Printer.java","Thomas E. Enebo",0.166666666666667,6
+"src/org/jruby/compiler/ir/compiler_pass/opts/DeadCodeElimination.java","Subramanya Sastry",1,6
+"src/org/jruby/compiler/ir/compiler_pass/opts/LocalOptimizationPass.java","Subramanya Sastry",1,17
+"src/org/jruby/compiler/ir/CompilerTarget.java","Charles Oliver Nutter",0.333333333333333,6
+"src/org/jruby/compiler/ir/CompilerTarget.java","Subramanya Sastry",0.666666666666667,6
+"src/org/jruby/compiler/ir/dataflow/analyses/LiveVariableNode.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/dataflow/analyses/LiveVariablesProblem.java","Subramanya Sastry",1,7
+"src/org/jruby/compiler/ir/dataflow/DataFlowConstants.java","Subramanya Sastry",1,3
+"src/org/jruby/compiler/ir/dataflow/DataFlowProblem.java","Subramanya Sastry",1,10
+"src/org/jruby/compiler/ir/dataflow/DataFlowVar.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/dataflow/FlowGraphNode.java","Subramanya Sastry",1,7
+"src/org/jruby/compiler/ir/instructions/ALU_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/ASSERT_METHOD_VERSION_Instr.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/instructions/ATTR_ASSIGN_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/AttributeInstr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/BEQ_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/BRANCH_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/BREAK_Instr.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/instructions/CALL_Instr.java","Subramanya Sastry",1,26
+"src/org/jruby/compiler/ir/instructions/CASE_Instr.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/instructions/CLOSURE_RETURN_Instr.java","Subramanya Sastry",1,7
+"src/org/jruby/compiler/ir/instructions/COPY_Instr.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/instructions/DECLARE_LOCAL_TYPE_Instr.java","Charles Oliver Nutter",1,4
+"src/org/jruby/compiler/ir/instructions/DEFINE_CLASS_METHOD_Instr.java","Subramanya Sastry",1,6
+"src/org/jruby/compiler/ir/instructions/DEFINE_INSTANCE_METHOD_Instr.java","Subramanya Sastry",1,7
+"src/org/jruby/compiler/ir/instructions/EQQ_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/GET_ARRAY_Instr.java","Subramanya Sastry",1,6
+"src/org/jruby/compiler/ir/instructions/GET_CONST_Instr.java","Subramanya Sastry",1,3
+"src/org/jruby/compiler/ir/instructions/GET_CVAR_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/GET_FIELD_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/GET_GLOBAL_VAR_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/GET_Instr.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/instructions/GuardInstr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/IR_Instr.java","Subramanya Sastry",1,11
+"src/org/jruby/compiler/ir/instructions/IS_TRUE_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/JRUBY_IMPL_CALL_Instr.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/instructions/JUMP_Instr.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/instructions/LABEL_Instr.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/instructions/MultiOperandInstr.java","Subramanya Sastry",1,10
+"src/org/jruby/compiler/ir/instructions/NoOperandInstr.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/instructions/OneOperandInstr.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/instructions/PUT_CONST_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/PUT_CVAR_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/PUT_FIELD_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/PUT_GLOBAL_VAR_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/PUT_Instr.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/instructions/RECV_ARG_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/RECV_CLOSURE_ARG_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/RECV_CLOSURE_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/RECV_OPT_ARG_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/RETRY_Instr.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/instructions/RETURN_Instr.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/instructions/RUBY_INTERNALS_CALL_Instr.java","Subramanya Sastry",1,6
+"src/org/jruby/compiler/ir/instructions/THREAD_POLL_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/instructions/TwoOperandInstr.java","Subramanya Sastry",1,9
+"src/org/jruby/compiler/ir/instructions/YIELD_Instr.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/IR_Builder.java","Charles Oliver Nutter",0.182926829268293,164
+"src/org/jruby/compiler/ir/IR_Builder.java","Subramanya Sastry",0.780487804878049,164
+"src/org/jruby/compiler/ir/IR_Builder.java","Thomas E. Enebo",0.0365853658536585,164
+"src/org/jruby/compiler/ir/IR_Class.java","Charles Oliver Nutter",0.1,40
+"src/org/jruby/compiler/ir/IR_Class.java","Subramanya Sastry",0.9,40
+"src/org/jruby/compiler/ir/IR_Closure.java","Subramanya Sastry",1,33
+"src/org/jruby/compiler/ir/IR_Loop.java","Subramanya Sastry",1,7
+"src/org/jruby/compiler/ir/IR_Method.java","Charles Oliver Nutter",0.0983606557377049,61
+"src/org/jruby/compiler/ir/IR_Method.java","Subramanya Sastry",0.901639344262295,61
+"src/org/jruby/compiler/ir/IR_Module.java","Charles Oliver Nutter",0.0666666666666667,30
+"src/org/jruby/compiler/ir/IR_Module.java","Subramanya Sastry",0.933333333333333,30
+"src/org/jruby/compiler/ir/IR_Scope.java","Subramanya Sastry",1,33
+"src/org/jruby/compiler/ir/IR_ScopeImpl.java","Charles Oliver Nutter",0.0952380952380952,63
+"src/org/jruby/compiler/ir/IR_ScopeImpl.java","Subramanya Sastry",0.904761904761905,63
+"src/org/jruby/compiler/ir/IR_Script.java","Charles Oliver Nutter",0.157894736842105,38
+"src/org/jruby/compiler/ir/IR_Script.java","Subramanya Sastry",0.842105263157895,38
+"src/org/jruby/compiler/ir/operands/ArgIndex.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/operands/Array.java","Subramanya Sastry",1,10
+"src/org/jruby/compiler/ir/operands/Attribute.java","Subramanya Sastry",1,6
+"src/org/jruby/compiler/ir/operands/Backref.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/operands/BacktickString.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/operands/Bignum.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/operands/BooleanLiteral.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/operands/CompoundArray.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/operands/CompoundString.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/operands/Constant.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/operands/DynamicReference.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/operands/DynamicSymbol.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/operands/FieldRef.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/operands/Fixnum.java","Subramanya Sastry",1,6
+"src/org/jruby/compiler/ir/operands/Float.java","Subramanya Sastry",1,6
+"src/org/jruby/compiler/ir/operands/GlobalVariable.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/operands/Hash.java","Subramanya Sastry",1,10
+"src/org/jruby/compiler/ir/operands/KeyValuePair.java","Subramanya Sastry",1,4
+"src/org/jruby/compiler/ir/operands/Label.java","Subramanya Sastry",1,5
+"src/org/jruby/compiler/ir/operands/MetaObject.java","Subramanya Sastry",1,6
+"src/org/jruby/compiler/ir/operands/MethAddr.java","Subramanya Sastry",1,9
+"src/org/jruby/compiler/ir/operands/Nil.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/operands/NthRef.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/operands/Operand.java","Subramanya Sastry",1,10
+"src/org/jruby/compiler/ir/operands/Range.java","Subramanya Sastry",1,10
+"src/org/jruby/compiler/ir/operands/Reference.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/operands/Regexp.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/operands/Splat.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/operands/StringLiteral.java","Subramanya Sastry",1,6
+"src/org/jruby/compiler/ir/operands/SValue.java","Subramanya Sastry",1,8
+"src/org/jruby/compiler/ir/operands/Symbol.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/operands/Variable.java","Subramanya Sastry",1,10
+"src/org/jruby/compiler/ir/Operation.java","Charles Oliver Nutter",0.0666666666666667,60
+"src/org/jruby/compiler/ir/Operation.java","Subramanya Sastry",0.933333333333333,60
+"src/org/jruby/compiler/ir/representations/BasicBlock.java","Subramanya Sastry",1,9
+"src/org/jruby/compiler/ir/representations/CFG.java","Subramanya Sastry",1,12
+"src/org/jruby/compiler/ir/targets/JDK6.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/targets/JDK7.java","Subramanya Sastry",1,2
+"src/org/jruby/compiler/ir/targets/JVM.java","Charles Oliver Nutter",0.571428571428571,28
+"src/org/jruby/compiler/ir/targets/JVM.java","Subramanya Sastry",0.428571428571429,28
+"src/org/jruby/compiler/JITCompiler.java","Charles Oliver Nutter",0.5,8
+"src/org/jruby/compiler/JITCompiler.java","Nick Sieger",0.25,8
+"src/org/jruby/compiler/JITCompiler.java","Ola Bini",0.25,8
+"src/org/jruby/compiler/ScriptCompiler.java","Charles Oliver Nutter",1,2
+"src/org/jruby/compiler/util/HandleFactory.java","Charles Oliver Nutter",1,2
+"src/org/jruby/evaluator/AssignmentVisitor.java","Thomas E. Enebo",1,2
+"src/org/jruby/exceptions/JumpException.java","Charles Oliver Nutter",1,3
+"src/org/jruby/exceptions/RaiseException.java","Charles Oliver Nutter",0.4,5
+"src/org/jruby/exceptions/RaiseException.java","David Calavera",0.2,5
+"src/org/jruby/exceptions/RaiseException.java","Nick Sieger",0.4,5
+"src/org/jruby/ext/ffi/AbstractInvoker.java","Wayne Meissner",1,6
+"src/org/jruby/ext/ffi/AbstractMemory.java","Wayne Meissner",1,32
+"src/org/jruby/ext/ffi/ArrayMemoryIO.java","Wayne Meissner",1,11
+"src/org/jruby/ext/ffi/AutoPointer.java","Wayne Meissner",1,14
+"src/org/jruby/ext/ffi/Buffer.java","Wayne Meissner",1,6
+"src/org/jruby/ext/ffi/CallbackInfo.java","Wayne Meissner",1,6
+"src/org/jruby/ext/ffi/Enum.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/Factory.java","Wayne Meissner",1,21
+"src/org/jruby/ext/ffi/FreedMemoryIO.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/InvalidMemoryIO.java","Wayne Meissner",1,10
+"src/org/jruby/ext/ffi/io/FileDescriptorByteChannel.java","Wayne Meissner",1,4
+"src/org/jruby/ext/ffi/IOModule.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/jffi/AllocatedNativeMemoryIO.java","Wayne Meissner",1,8
+"src/org/jruby/ext/ffi/jffi/BoundedNativeMemoryIO.java","Wayne Meissner",1,14
+"src/org/jruby/ext/ffi/jffi/CallbackManager.java","Charles Oliver Nutter",0.0645161290322581,31
+"src/org/jruby/ext/ffi/jffi/CallbackManager.java","Wayne Meissner",0.935483870967742,31
+"src/org/jruby/ext/ffi/jffi/CallbackMarshaller.java","Wayne Meissner",1,6
+"src/org/jruby/ext/ffi/jffi/CallbackMethodWithBlock.java","Wayne Meissner",1,4
+"src/org/jruby/ext/ffi/jffi/CodeMemoryIO.java","Wayne Meissner",1,4
+"src/org/jruby/ext/ffi/jffi/DefaultMethod.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/jffi/DefaultMethodFactory.java","Wayne Meissner",1,15
+"src/org/jruby/ext/ffi/jffi/DefaultMethodOneArg.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/jffi/DefaultMethodThreeArg.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/jffi/DefaultMethodTwoArg.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/jffi/DynamicLibrary.java","Charles Oliver Nutter",0.166666666666667,12
+"src/org/jruby/ext/ffi/jffi/DynamicLibrary.java","Wayne Meissner",0.833333333333333,12
+"src/org/jruby/ext/ffi/jffi/Factory.java","Charles Oliver Nutter",0.0952380952380952,21
+"src/org/jruby/ext/ffi/jffi/Factory.java","Wayne Meissner",0.904761904761905,21
+"src/org/jruby/ext/ffi/jffi/FastIntMethodFactory.java","Wayne Meissner",1,14
+"src/org/jruby/ext/ffi/jffi/FastLongMethodFactory.java","Wayne Meissner",1,12
+"src/org/jruby/ext/ffi/jffi/FFIUtil.java","Wayne Meissner",1,14
+"src/org/jruby/ext/ffi/jffi/Function.java","Wayne Meissner",1,14
+"src/org/jruby/ext/ffi/jffi/JFFIInvoker.java","Wayne Meissner",1,10
+"src/org/jruby/ext/ffi/jffi/MethodFactory.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/jffi/NativeMemoryIO.java","Wayne Meissner",1,12
+"src/org/jruby/ext/ffi/jffi/VariadicInvoker.java","Charles Oliver Nutter",0.166666666666667,12
+"src/org/jruby/ext/ffi/jffi/VariadicInvoker.java","Wayne Meissner",0.833333333333333,12
+"src/org/jruby/ext/ffi/MemoryIO.java","Wayne Meissner",1,8
+"src/org/jruby/ext/ffi/MemoryOp.java","Wayne Meissner",1,4
+"src/org/jruby/ext/ffi/MemoryPointer.java","Wayne Meissner",1,12
+"src/org/jruby/ext/ffi/MemoryUtil.java","Wayne Meissner",1,8
+"src/org/jruby/ext/ffi/NativeType.java","Wayne Meissner",1,4
+"src/org/jruby/ext/ffi/NoImplFactory.java","Wayne Meissner",1,4
+"src/org/jruby/ext/ffi/NullMemoryIO.java","Wayne Meissner",1,5
+"src/org/jruby/ext/ffi/Platform.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/Pointer.java","Wayne Meissner",1,17
+"src/org/jruby/ext/ffi/Struct.java","Wayne Meissner",1,4
+"src/org/jruby/ext/ffi/StructByValue.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/StructLayout.java","Charles Oliver Nutter",0.2,10
+"src/org/jruby/ext/ffi/StructLayout.java","Wayne Meissner",0.8,10
+"src/org/jruby/ext/ffi/StructLayoutBuilder.java","Wayne Meissner",1,29
+"src/org/jruby/ext/ffi/Type.java","Wayne Meissner",1,12
+"src/org/jruby/ext/ffi/TypeSizeMapper.java","Wayne Meissner",1,2
+"src/org/jruby/ext/ffi/Util.java","Charles Oliver Nutter",1,2
+"src/org/jruby/ext/LateLoadingLibrary.java","Charles Oliver Nutter",1,2
+"src/org/jruby/ext/Readline.java","Thomas E. Enebo",1,2
+"src/org/jruby/ext/socket/RubyBasicSocket.java","Joseph LaFata",0.333333333333333,3
+"src/org/jruby/ext/socket/RubyBasicSocket.java","Thomas E. Enebo",0.666666666666667,3
+"src/org/jruby/ext/socket/RubyIPSocket.java","Thomas E. Enebo",1,2
+"src/org/jruby/ext/socket/RubySocket.java","Brice Figureau",0.272727272727273,11
+"src/org/jruby/ext/socket/RubySocket.java","Charles Oliver Nutter",0.363636363636364,11
+"src/org/jruby/ext/socket/RubySocket.java","David Calavera",0.181818181818182,11
+"src/org/jruby/ext/socket/RubySocket.java","Wayne Meissner",0.181818181818182,11
+"src/org/jruby/ext/socket/RubyTCPSocket.java","Charles Oliver Nutter",0.625,8
+"src/org/jruby/ext/socket/RubyTCPSocket.java","Vladimir Sizikov",0.375,8
+"src/org/jruby/ext/socket/RubyUDPSocket.java","Charles Oliver Nutter",1,2
+"src/org/jruby/ext/socket/RubyUNIXServer.java","Wayne Meissner",1,2
+"src/org/jruby/ext/socket/RubyUNIXSocket.java","Vladimir Sizikov",0.333333333333333,9
+"src/org/jruby/ext/socket/RubyUNIXSocket.java","Wayne Meissner",0.666666666666667,9
+"src/org/jruby/ext/Timeout.java","Charles Oliver Nutter",1,7
+"src/org/jruby/IncludedModuleWrapper.java","Charles Oliver Nutter",1,2
+"src/org/jruby/internal/runtime/FutureThread.java","Charles Oliver Nutter",1,2
+"src/org/jruby/internal/runtime/GlobalVariables.java","Charles Oliver Nutter",1,5
+"src/org/jruby/internal/runtime/methods/DefaultMethod.java","Charles Oliver Nutter",0.8,10
+"src/org/jruby/internal/runtime/methods/DefaultMethod.java","Ola Bini",0.2,10
+"src/org/jruby/internal/runtime/methods/DynamicMethod.java","Charles Oliver Nutter",1,2
+"src/org/jruby/internal/runtime/methods/InterpretedMethod.java","Charles Oliver Nutter",1,2
+"src/org/jruby/internal/runtime/methods/InvocationMethodFactory.java","Charles Oliver Nutter",1,6
+"src/org/jruby/internal/runtime/methods/JavaMethod.java","Thomas E. Enebo",1,2
+"src/org/jruby/internal/runtime/methods/JittedMethod.java","Charles Oliver Nutter",1,2
+"src/org/jruby/internal/runtime/methods/ProcMethod.java","Thomas E. Enebo",1,2
+"src/org/jruby/internal/runtime/methods/ReflectedCompiledMethod.java","Charles Oliver Nutter",1,4
+"src/org/jruby/internal/runtime/methods/ReflectedJavaMethod.java","Charles Oliver Nutter",1,4
+"src/org/jruby/internal/runtime/methods/ReflectionMethodFactory.java","Charles Oliver Nutter",1,6
+"src/org/jruby/internal/runtime/RubyRunnable.java","Charles Oliver Nutter",1,2
+"src/org/jruby/internal/runtime/ThreadService.java","Charles Oliver Nutter",1,4
+"src/org/jruby/java/addons/ArrayJavaAddons.java","Charles Oliver Nutter",1,2
+"src/org/jruby/java/addons/IOJavaAddons.java","Charles Oliver Nutter",1,4
+"src/org/jruby/java/dispatch/CallableSelector.java","Charles Oliver Nutter",1,2
+"src/org/jruby/java/invokers/ConstructorInvoker.java","Charles Oliver Nutter",1,3
+"src/org/jruby/java/invokers/FieldMethodZero.java","Charles Oliver Nutter",1,4
+"src/org/jruby/java/invokers/InstanceFieldGetter.java","Charles Oliver Nutter",1,2
+"src/org/jruby/java/invokers/InstanceFieldSetter.java","Charles Oliver Nutter",1,4
+"src/org/jruby/java/invokers/InstanceMethodInvoker.java","Charles Oliver Nutter",0.8,10
+"src/org/jruby/java/invokers/InstanceMethodInvoker.java","Thomas E. Enebo",0.2,10
+"src/org/jruby/java/invokers/MethodInvoker.java","Charles Oliver Nutter",1,2
+"src/org/jruby/java/invokers/RubyToJavaInvoker.java","Charles Oliver Nutter",1,8
+"src/org/jruby/java/invokers/StaticFieldSetter.java","Charles Oliver Nutter",1,2
+"src/org/jruby/java/invokers/StaticMethodInvoker.java","Charles Oliver Nutter",1,8
+"src/org/jruby/java/MiniJava.java","Charles Oliver Nutter",1,2
+"src/org/jruby/java/proxies/ArrayJavaProxy.java","Charles Oliver Nutter",1,4
+"src/org/jruby/java/proxies/ConcreteJavaProxy.java","Charles Oliver Nutter",1,2
+"src/org/jruby/java/proxies/InterfaceJavaProxy.java","Charles Oliver Nutter",1,2
+"src/org/jruby/java/proxies/JavaInterfaceTemplate.java","Charles Oliver Nutter",1,2
+"src/org/jruby/java/proxies/JavaProxy.java","Charles Oliver Nutter",1,22
+"src/org/jruby/javasupport/bsf/JRubyEngine.java","Charles Oliver Nutter",1,2
+"src/org/jruby/javasupport/Java.java","Charles Oliver Nutter",0.939393939393939,33
+"src/org/jruby/javasupport/Java.java","David Calavera",0.0606060606060606,33
+"src/org/jruby/javasupport/JavaArray.java","Charles Oliver Nutter",1,8
+"src/org/jruby/javasupport/JavaArrayUtilities.java","Charles Oliver Nutter",1,2
+"src/org/jruby/javasupport/JavaCallable.java","Charles Oliver Nutter",1,6
+"src/org/jruby/javasupport/JavaClass.java","Charles Oliver Nutter",0.5,4
+"src/org/jruby/javasupport/JavaClass.java","Thomas E. Enebo",0.5,4
+"src/org/jruby/javasupport/JavaConstructor.java","Charles Oliver Nutter",1,8
+"src/org/jruby/javasupport/JavaEmbedUtils.java","Charles Oliver Nutter",0.25,8
+"src/org/jruby/javasupport/JavaEmbedUtils.java","Nick Sieger",0.25,8
+"src/org/jruby/javasupport/JavaEmbedUtils.java","Thomas E. Enebo",0.5,8
+"src/org/jruby/javasupport/JavaField.java","Charles Oliver Nutter",1,4
+"src/org/jruby/javasupport/JavaMethod.java","Charles Oliver Nutter",0.894736842105263,19
+"src/org/jruby/javasupport/JavaMethod.java","Thomas E. Enebo",0.105263157894737,19
+"src/org/jruby/javasupport/JavaObject.java","Charles Oliver Nutter",0.5,4
+"src/org/jruby/javasupport/JavaObject.java","Thomas E. Enebo",0.5,4
+"src/org/jruby/javasupport/JavaProxyMethods.java","Charles Oliver Nutter",0.5,4
+"src/org/jruby/javasupport/JavaProxyMethods.java","Thomas E. Enebo",0.5,4
+"src/org/jruby/javasupport/JavaSupport.java","Charles Oliver Nutter",1,9
+"src/org/jruby/javasupport/JavaUtil.java","Aslak Hellesøy",0.0476190476190476,42
+"src/org/jruby/javasupport/JavaUtil.java","Charles Oliver Nutter",0.952380952380952,42
+"src/org/jruby/javasupport/JavaUtilities.java","Charles Oliver Nutter",1,2
+"src/org/jruby/javasupport/proxy/JavaProxyClass.java","Charles Oliver Nutter",1,4
+"src/org/jruby/javasupport/proxy/JavaProxyConstructor.java","Charles Oliver Nutter",1,4
+"src/org/jruby/javasupport/proxy/JavaProxyReflectionObject.java","Charles Oliver Nutter",1,2
+"src/org/jruby/javasupport/util/RuntimeHelpers.java","Charles Oliver Nutter",0.6875,16
+"src/org/jruby/javasupport/util/RuntimeHelpers.java","Leonardo Borges",0.125,16
+"src/org/jruby/javasupport/util/RuntimeHelpers.java","Thomas E. Enebo",0.1875,16
+"src/org/jruby/lexer/yacc/HeredocTerm.java","Thomas E. Enebo",1,4
+"src/org/jruby/lexer/yacc/LexerSource.java","Charles Oliver Nutter",0.333333333333333,3
+"src/org/jruby/lexer/yacc/LexerSource.java","Thomas E. Enebo",0.666666666666667,3
+"src/org/jruby/lexer/yacc/RubyYaccLexer.java","Charles Oliver Nutter",0.2,10
+"src/org/jruby/lexer/yacc/RubyYaccLexer.java","Ola Bini",0.2,10
+"src/org/jruby/lexer/yacc/RubyYaccLexer.java","Thomas E. Enebo",0.6,10
+"src/org/jruby/lexer/yacc/StringTerm.java","Thomas E. Enebo",1,2
+"src/org/jruby/lexer/yacc/SyntaxException.java","Thomas E. Enebo",1,2
+"src/org/jruby/libraries/FcntlLibrary.java","Charles Oliver Nutter",0.5,4
+"src/org/jruby/libraries/FcntlLibrary.java","Thomas E. Enebo",0.5,4
+"src/org/jruby/libraries/FiberLibrary.java","Charles Oliver Nutter",0.6,10
+"src/org/jruby/libraries/FiberLibrary.java","MenTaLguY",0.4,10
+"src/org/jruby/libraries/RbConfigLibrary.java","Thomas E. Enebo",0.25,8
+"src/org/jruby/libraries/RbConfigLibrary.java","Vladimir Sizikov",0.75,8
+"src/org/jruby/libraries/ThreadLibrary.java","Charles Oliver Nutter",0.636363636363636,11
+"src/org/jruby/libraries/ThreadLibrary.java","Vladimir Sizikov",0.363636363636364,11
+"src/org/jruby/Main.java","Charles Oliver Nutter",0.8,10
+"src/org/jruby/Main.java","Nick Sieger",0.2,10
+"src/org/jruby/NativeException.java","Charles Oliver Nutter",1,5
+"src/org/jruby/newmain.rb","Charles Oliver Nutter",1,2
+"src/org/jruby/parser/DefaultRubyParser.java","Charles Oliver Nutter",0.181818181818182,11
+"src/org/jruby/parser/DefaultRubyParser.java","Thomas E. Enebo",0.818181818181818,11
+"src/org/jruby/parser/ParserSupport.java","Thomas E. Enebo",1,10
+"src/org/jruby/parser/ParserSupport19.java","Thomas E. Enebo",1,4
+"src/org/jruby/parser/Ruby19Parser.java","Charles Oliver Nutter",0.125,16
+"src/org/jruby/parser/Ruby19Parser.java","Thomas E. Enebo",0.875,16
+"src/org/jruby/parser/Ruby19YyTables.java","Thomas E. Enebo",1,2
+"src/org/jruby/parser/StaticScope.java","Charles Oliver Nutter",0.818181818181818,11
+"src/org/jruby/parser/StaticScope.java","Thomas E. Enebo",0.181818181818182,11
+"src/org/jruby/Ruby.java","Charles Oliver Nutter",0.517857142857143,56
+"src/org/jruby/Ruby.java","David Calavera",0.0357142857142857,56
+"src/org/jruby/Ruby.java","Nick Sieger",0.125,56
+"src/org/jruby/Ruby.java","Ola Bini",0.142857142857143,56
+"src/org/jruby/Ruby.java","Thomas E. Enebo",0.0714285714285714,56
+"src/org/jruby/Ruby.java","Vladimir Sizikov",0.0535714285714286,56
+"src/org/jruby/Ruby.java","Wayne Meissner",0.0357142857142857,56
+"src/org/jruby/Ruby.java","Yoko Harada",0.0178571428571429,56
+"src/org/jruby/RubyArgsFile.java","Charles Oliver Nutter",0.2,10
+"src/org/jruby/RubyArgsFile.java","Ola Bini",0.6,10
+"src/org/jruby/RubyArgsFile.java","Thomas E. Enebo",0.2,10
+"src/org/jruby/RubyArray.java","Charles Oliver Nutter",0.230769230769231,65
+"src/org/jruby/RubyArray.java","David Calavera",0.0307692307692308,65
+"src/org/jruby/RubyArray.java","Martin Traverso",0.0307692307692308,65
+"src/org/jruby/RubyArray.java","Ola Bini",0.523076923076923,65
+"src/org/jruby/RubyArray.java","Thomas E. Enebo",0.153846153846154,65
+"src/org/jruby/RubyArray.java","Wayne Meissner",0.0307692307692308,65
+"src/org/jruby/RubyBasicObject.java","Charles Oliver Nutter",0.35,20
+"src/org/jruby/RubyBasicObject.java","David Calavera",0.1,20
+"src/org/jruby/RubyBasicObject.java","Josh Matthews",0.1,20
+"src/org/jruby/RubyBasicObject.java","Nick Sieger",0.1,20
+"src/org/jruby/RubyBasicObject.java","Ola Bini",0.1,20
+"src/org/jruby/RubyBasicObject.java","Thomas E. Enebo",0.25,20
+"src/org/jruby/RubyBigDecimal.java","Charles Oliver Nutter",1,7
+"src/org/jruby/RubyBignum.java","Charles Oliver Nutter",0.25,8
+"src/org/jruby/RubyBignum.java","Thomas E. Enebo",0.75,8
+"src/org/jruby/RubyBinding.java","Ola Bini",1,2
+"src/org/jruby/RubyBoolean.java","Charles Oliver Nutter",1,2
+"src/org/jruby/RubyClass.java","Charles Oliver Nutter",0.714285714285714,28
+"src/org/jruby/RubyClass.java","Nick Sieger",0.285714285714286,28
+"src/org/jruby/RubyComparable.java","Thomas E. Enebo",1,2
+"src/org/jruby/RubyComplex.java","Charles Oliver Nutter",0.222222222222222,9
+"src/org/jruby/RubyComplex.java","Thomas E. Enebo",0.777777777777778,9
+"src/org/jruby/RubyDigest.java","Charles Oliver Nutter",0.8,5
+"src/org/jruby/RubyDigest.java","Thomas E. Enebo",0.2,5
+"src/org/jruby/RubyDir.java","Charles Oliver Nutter",0.166666666666667,24
+"src/org/jruby/RubyDir.java","David Calavera",0.166666666666667,24
+"src/org/jruby/RubyDir.java","Hiro Asari",0.0833333333333333,24
+"src/org/jruby/RubyDir.java","Nick Sieger",0.166666666666667,24
+"src/org/jruby/RubyDir.java","Ola Bini",0.166666666666667,24
+"src/org/jruby/RubyDir.java","Thomas E. Enebo",0.25,24
+"src/org/jruby/RubyEncoding.java","David Calavera",0.666666666666667,6
+"src/org/jruby/RubyEncoding.java","Nick Sieger",0.333333333333333,6
+"src/org/jruby/RubyEnumerable.java","Charles Oliver Nutter",0.135135135135135,37
+"src/org/jruby/RubyEnumerable.java","Hiro Asari",0.0540540540540541,37
+"src/org/jruby/RubyEnumerable.java","Ola Bini",0.648648648648649,37
+"src/org/jruby/RubyEnumerable.java","Thomas E. Enebo",0.162162162162162,37
+"src/org/jruby/RubyEnumerator.java","Charles Oliver Nutter",0.5,20
+"src/org/jruby/RubyEnumerator.java","David Calavera",0.1,20
+"src/org/jruby/RubyEnumerator.java","Ola Bini",0.3,20
+"src/org/jruby/RubyEnumerator.java","Thomas E. Enebo",0.1,20
+"src/org/jruby/RubyFile.java","Charles Oliver Nutter",0.222222222222222,18
+"src/org/jruby/RubyFile.java","Daniel Hahn",0.111111111111111,18
+"src/org/jruby/RubyFile.java","David Calavera",0.111111111111111,18
+"src/org/jruby/RubyFile.java","Nick Sieger",0.333333333333333,18
+"src/org/jruby/RubyFile.java","Thomas E. Enebo",0.222222222222222,18
+"src/org/jruby/RubyFileStat.java","Vladimir Sizikov",1,3
+"src/org/jruby/RubyFileTest.java","David Calavera",0.5,4
+"src/org/jruby/RubyFileTest.java","Nick Sieger",0.5,4
+"src/org/jruby/RubyFixnum.java","Charles Oliver Nutter",0.4,10
+"src/org/jruby/RubyFixnum.java","Ola Bini",0.2,10
+"src/org/jruby/RubyFixnum.java","Thomas E. Enebo",0.4,10
+"src/org/jruby/RubyFloat.java","Charles Oliver Nutter",0.571428571428571,14
+"src/org/jruby/RubyFloat.java","John F. Douthat",0.142857142857143,14
+"src/org/jruby/RubyFloat.java","Thomas E. Enebo",0.285714285714286,14
+"src/org/jruby/RubyGlobal.java","Charles Oliver Nutter",0.583333333333333,12
+"src/org/jruby/RubyGlobal.java","Ola Bini",0.166666666666667,12
+"src/org/jruby/RubyGlobal.java","Thomas E. Enebo",0.166666666666667,12
+"src/org/jruby/RubyGlobal.java","Wayne Meissner",0.0833333333333333,12
+"src/org/jruby/RubyHash.java","Charles Oliver Nutter",0.394736842105263,38
+"src/org/jruby/RubyHash.java","David Calavera",0.0526315789473684,38
+"src/org/jruby/RubyHash.java","Martin Traverso",0.210526315789474,38
+"src/org/jruby/RubyHash.java","Ola Bini",0.157894736842105,38
+"src/org/jruby/RubyHash.java","Thomas E. Enebo",0.131578947368421,38
+"src/org/jruby/RubyHash.java","Vladimir Sizikov",0.0526315789473684,38
+"src/org/jruby/RubyIconv.java","Charles Oliver Nutter",0.333333333333333,3
+"src/org/jruby/RubyIconv.java","David Calavera",0.333333333333333,3
+"src/org/jruby/RubyIconv.java","Vladimir Sizikov",0.333333333333333,3
+"src/org/jruby/RubyInstanceConfig.java","Charles Oliver Nutter",0.642857142857143,42
+"src/org/jruby/RubyInstanceConfig.java","Nick Sieger",0.166666666666667,42
+"src/org/jruby/RubyInstanceConfig.java","Thomas E. Enebo",0.142857142857143,42
+"src/org/jruby/RubyInstanceConfig.java","Vladimir Sizikov",0.0476190476190476,42
+"src/org/jruby/RubyInteger.java","Ola Bini",1,2
+"src/org/jruby/RubyIO.java","Charles Oliver Nutter",0.327272727272727,55
+"src/org/jruby/RubyIO.java","David Calavera",0.145454545454545,55
+"src/org/jruby/RubyIO.java","Nick Sieger",0.0363636363636364,55
+"src/org/jruby/RubyIO.java","Ola Bini",0.145454545454545,55
+"src/org/jruby/RubyIO.java","Thomas E. Enebo",0.327272727272727,55
+"src/org/jruby/RubyIO.java","Wayne Meissner",0.0181818181818182,55
+"src/org/jruby/RubyJRuby.java","Charles Oliver Nutter",0.407407407407407,27
+"src/org/jruby/RubyJRuby.java","MenTaLguY",0.296296296296296,27
+"src/org/jruby/RubyJRuby.java","Nick Sieger",0.296296296296296,27
+"src/org/jruby/RubyKernel.java","Charles Oliver Nutter",0.409090909090909,22
+"src/org/jruby/RubyKernel.java","Hiro Asari",0.0909090909090909,22
+"src/org/jruby/RubyKernel.java","Nick Sieger",0.227272727272727,22
+"src/org/jruby/RubyKernel.java","Ola Bini",0.181818181818182,22
+"src/org/jruby/RubyKernel.java","Vladimir Sizikov",0.0909090909090909,22
+"src/org/jruby/RubyMarshal.java","Charles Oliver Nutter",1,2
+"src/org/jruby/RubyMatchData.java","Thomas E. Enebo",1,4
+"src/org/jruby/RubyMath.java","Hiro Asari",1,8
+"src/org/jruby/RubyMethod.java","Ola Bini",0.333333333333333,6
+"src/org/jruby/RubyMethod.java","Thomas E. Enebo",0.333333333333333,6
+"src/org/jruby/RubyMethod.java","Vladimir Sizikov",0.333333333333333,6
+"src/org/jruby/RubyModule.java","Charles Oliver Nutter",0.5,22
+"src/org/jruby/RubyModule.java","David Calavera",0.0454545454545455,22
+"src/org/jruby/RubyModule.java","Thomas E. Enebo",0.454545454545455,22
+"src/org/jruby/RubyNil.java","Charles Oliver Nutter",1,7
+"src/org/jruby/RubyNumeric.java","Charles Oliver Nutter",0.4,10
+"src/org/jruby/RubyNumeric.java","Ola Bini",0.4,10
+"src/org/jruby/RubyNumeric.java","Thomas E. Enebo",0.2,10
+"src/org/jruby/RubyObject.java","Charles Oliver Nutter",0.166666666666667,12
+"src/org/jruby/RubyObject.java","Hiro Asari",0.166666666666667,12
+"src/org/jruby/RubyObject.java","Ola Bini",0.166666666666667,12
+"src/org/jruby/RubyObject.java","Thomas E. Enebo",0.5,12
+"src/org/jruby/RubyObjectSpace.java","Charles Oliver Nutter",0.333333333333333,3
+"src/org/jruby/RubyObjectSpace.java","Ola Bini",0.666666666666667,3
+"src/org/jruby/RubyProc.java","Charles Oliver Nutter",0.428571428571429,7
+"src/org/jruby/RubyProc.java","Ola Bini",0.285714285714286,7
+"src/org/jruby/RubyProc.java","Thomas E. Enebo",0.285714285714286,7
+"src/org/jruby/RubyProcess.java","Thomas E. Enebo",1,2
+"src/org/jruby/RubyRange.java","Charles Oliver Nutter",0.181818181818182,11
+"src/org/jruby/RubyRange.java","David Calavera",0.0909090909090909,11
+"src/org/jruby/RubyRange.java","Ola Bini",0.727272727272727,11
+"src/org/jruby/RubyRational.java","Charles Oliver Nutter",0.333333333333333,6
+"src/org/jruby/RubyRational.java","Hiro Asari",0.5,6
+"src/org/jruby/RubyRational.java","Thomas E. Enebo",0.166666666666667,6
+"src/org/jruby/RubyRegexp.java","Charles Oliver Nutter",0.411764705882353,17
+"src/org/jruby/RubyRegexp.java","David Calavera",0.117647058823529,17
+"src/org/jruby/RubyRegexp.java","John F. Douthat",0.235294117647059,17
+"src/org/jruby/RubyRegexp.java","Ola Bini",0.117647058823529,17
+"src/org/jruby/RubyRegexp.java","Thomas E. Enebo",0.117647058823529,17
+"src/org/jruby/RubyRuntimeAdapter.java","Thomas E. Enebo",1,4
+"src/org/jruby/RubySignal.java","Charles Oliver Nutter",1,6
+"src/org/jruby/RubyString.java","Charles Oliver Nutter",0.392857142857143,28
+"src/org/jruby/RubyString.java","David Calavera",0.107142857142857,28
+"src/org/jruby/RubyString.java","Nick Sieger",0.0714285714285714,28
+"src/org/jruby/RubyString.java","Ola Bini",0.214285714285714,28
+"src/org/jruby/RubyString.java","Thomas E. Enebo",0.214285714285714,28
+"src/org/jruby/RubyStringIO.java","Charles Oliver Nutter",0.4,10
+"src/org/jruby/RubyStringIO.java","Ola Bini",0.4,10
+"src/org/jruby/RubyStringIO.java","Wayne Meissner",0.2,10
+"src/org/jruby/RubyStruct.java","Nick Sieger",0.5,4
+"src/org/jruby/RubyStruct.java","Ola Bini",0.5,4
+"src/org/jruby/RubySymbol.java","Charles Oliver Nutter",0.428571428571429,7
+"src/org/jruby/RubySymbol.java","Hiro Asari",0.285714285714286,7
+"src/org/jruby/RubySymbol.java","Thomas E. Enebo",0.285714285714286,7
+"src/org/jruby/RubySystemCallError.java","Vladimir Sizikov",1,3
+"src/org/jruby/RubyTempfile.java","Thomas E. Enebo",0.666666666666667,3
+"src/org/jruby/RubyTempfile.java","Vladimir Sizikov",0.333333333333333,3
+"src/org/jruby/RubyThread.java","Charles Oliver Nutter",0.526315789473684,19
+"src/org/jruby/RubyThread.java","MenTaLguY",0.210526315789474,19
+"src/org/jruby/RubyThread.java","Ola Bini",0.105263157894737,19
+"src/org/jruby/RubyThread.java","Ryan Brown",0.105263157894737,19
+"src/org/jruby/RubyThread.java","Vladimir Sizikov",0.0526315789473684,19
+"src/org/jruby/RubyThreadGroup.java","Wayne Meissner",1,4
+"src/org/jruby/RubyTime.java","Charles Oliver Nutter",0.571428571428571,14
+"src/org/jruby/RubyTime.java","David Calavera",0.285714285714286,14
+"src/org/jruby/RubyTime.java","Thomas E. Enebo",0.142857142857143,14
+"src/org/jruby/RubyUnboundMethod.java","Ola Bini",0.5,4
+"src/org/jruby/RubyUnboundMethod.java","Vladimir Sizikov",0.5,4
+"src/org/jruby/RubyZlib.java","Charles Oliver Nutter",0.117647058823529,17
+"src/org/jruby/RubyZlib.java","Nick Sieger",0.117647058823529,17
+"src/org/jruby/RubyZlib.java","Thomas E. Enebo",0.117647058823529,17
+"src/org/jruby/RubyZlib.java","Vladimir Sizikov",0.647058823529412,17
+"src/org/jruby/runtime/Arity.java","Wayne Meissner",1,2
+"src/org/jruby/runtime/assigner/Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/Pre0Rest0Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/Pre0Rest1Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/Pre1ExpandedRest0Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/Pre1Rest0Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/Pre1Rest1Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/Pre2Rest0Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/Pre2Rest1Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/Pre3Rest0Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/Pre3Rest1Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/PreManyRest0Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/assigner/PreManyRest1Post0Assigner.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/Binding.java","Ola Bini",1,2
+"src/org/jruby/runtime/Block.java","Ola Bini",1,2
+"src/org/jruby/runtime/builtin/IRubyObject.java","Charles Oliver Nutter",0.5,4
+"src/org/jruby/runtime/builtin/IRubyObject.java","Ola Bini",0.5,4
+"src/org/jruby/runtime/callback/DumpingInvocationCallbackFactory.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/callback/FastInvocationCallback.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/callback/InvocationCallback.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/callback/InvocationCallbackFactory.java","Charles Oliver Nutter",1,4
+"src/org/jruby/runtime/callback/ReflectionCallback.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/callback/ReflectionCallbackFactory.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/CallbackFactory.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/callsite/ArefCallSite.java","Charles Oliver Nutter",0.5,4
+"src/org/jruby/runtime/callsite/ArefCallSite.java","Thomas E. Enebo",0.5,4
+"src/org/jruby/runtime/callsite/CacheEntry.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/callsite/CachingCallSite.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/callsite/SuperCallSite.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/ClassIndex.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/CompiledBlock.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/CompiledBlock19.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/DynamicScope.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/ExecutionContext.java","MenTaLguY",1,2
+"src/org/jruby/runtime/Frame.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/Interpreted19Block.java","Thomas E. Enebo",1,6
+"src/org/jruby/runtime/InterpretedBlock.java","Thomas E. Enebo",1,4
+"src/org/jruby/runtime/invokedynamic/InvokeDynamicSupport.java","Charles Oliver Nutter",1,26
+"src/org/jruby/runtime/load/ExternalScript.java","Charles Oliver Nutter",0.25,8
+"src/org/jruby/runtime/load/ExternalScript.java","Nick Sieger",0.25,8
+"src/org/jruby/runtime/load/ExternalScript.java","Ola Bini",0.25,8
+"src/org/jruby/runtime/load/ExternalScript.java","Thomas E. Enebo",0.25,8
+"src/org/jruby/runtime/load/JarredScript.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/load/JavaCompiledScript.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/load/LoadService.java","Charles Oliver Nutter",0.571428571428571,42
+"src/org/jruby/runtime/load/LoadService.java","Nick Sieger",0.0952380952380952,42
+"src/org/jruby/runtime/load/LoadService.java","Ola Bini",0.0952380952380952,42
+"src/org/jruby/runtime/load/LoadService.java","Thomas E. Enebo",0.214285714285714,42
+"src/org/jruby/runtime/load/LoadService.java","Vladimir Sizikov",0.0238095238095238,42
+"src/org/jruby/runtime/load/LoadServiceResource.java","Charles Oliver Nutter",0.5,4
+"src/org/jruby/runtime/load/LoadServiceResource.java","Ola Bini",0.5,4
+"src/org/jruby/runtime/marshal/DataType.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/marshal/MarshalStream.java","John F. Douthat",0.333333333333333,6
+"src/org/jruby/runtime/marshal/MarshalStream.java","Thomas E. Enebo",0.666666666666667,6
+"src/org/jruby/runtime/marshal/UnmarshalStream.java","Charles Oliver Nutter",0.666666666666667,6
+"src/org/jruby/runtime/marshal/UnmarshalStream.java","Wayne Meissner",0.333333333333333,6
+"src/org/jruby/runtime/MethodFactory.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/MethodIndex.java","Thomas E. Enebo",1,6
+"src/org/jruby/runtime/scope/DummyDynamicScope.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/scope/ManyVarsDynamicScope.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/scope/NoVarsDynamicScope.java","Charles Oliver Nutter",1,2
+"src/org/jruby/runtime/SharedScopeBlock.java","Thomas E. Enebo",1,2
+"src/org/jruby/runtime/ThreadContext.java","Charles Oliver Nutter",0.8,5
+"src/org/jruby/runtime/ThreadContext.java","Nick Sieger",0.2,5
+"src/org/jruby/util/CodegenUtils.java","Charles Oliver Nutter",0.333333333333333,6
+"src/org/jruby/util/CodegenUtils.java","Nick Sieger",0.666666666666667,6
+"src/org/jruby/util/collections/IntHashMap.java","Wayne Meissner",1,2
+"src/org/jruby/util/Convert.java","Ola Bini",0.666666666666667,6
+"src/org/jruby/util/Convert.java","Thomas E. Enebo",0.333333333333333,6
+"src/org/jruby/util/Convert2.java","Ola Bini",1,4
+"src/org/jruby/util/Dir.java","Ryan Brown",0.5,4
+"src/org/jruby/util/Dir.java","Thomas E. Enebo",0.5,4
+"src/org/jruby/util/io/ChannelDescriptor.java","Charles Oliver Nutter",1,2
+"src/org/jruby/util/io/ChannelStream.java","Thomas E. Enebo",0.0909090909090909,22
+"src/org/jruby/util/io/ChannelStream.java","Wayne Meissner",0.909090909090909,22
+"src/org/jruby/util/io/JRubyObjectInputStream.java","Charles Oliver Nutter",1,3
+"src/org/jruby/util/io/OpenFile.java","David Calavera",1,2
+"src/org/jruby/util/io/Stream.java","Thomas E. Enebo",1,2
+"src/org/jruby/util/IOChannel.java","Charles Oliver Nutter",1,4
+"src/org/jruby/util/IOInputStream.java","Ola Bini",1,2
+"src/org/jruby/util/IOOutputStream.java","Nick Sieger",0.666666666666667,3
+"src/org/jruby/util/IOOutputStream.java","Vladimir Sizikov",0.333333333333333,3
+"src/org/jruby/util/JRubyFile.java","Charles Oliver Nutter",0.5,4
+"src/org/jruby/util/JRubyFile.java","Nick Sieger",0.5,4
+"src/org/jruby/util/NailMain.java","Charles Oliver Nutter",1,2
+"src/org/jruby/util/Pack.java","Charles Oliver Nutter",0.5,4
+"src/org/jruby/util/Pack.java","Nick Sieger",0.5,4
+"src/org/jruby/util/Qsort.java","qbproger",0.5,4
+"src/org/jruby/util/Qsort.java","Thomas E. Enebo",0.5,4
+"src/org/jruby/util/RecursiveComparator.java","Martin Traverso",1,2
+"src/org/jruby/util/ReferenceReaper.java","Wayne Meissner",1,2
+"src/org/jruby/util/RubyDateFormat.java","Charles Oliver Nutter",0.5,12
+"src/org/jruby/util/RubyDateFormat.java","David Calavera",0.166666666666667,12
+"src/org/jruby/util/RubyDateFormat.java","Hiro Asari",0.166666666666667,12
+"src/org/jruby/util/RubyDateFormat.java","Ola Bini",0.166666666666667,12
+"src/org/jruby/util/ShellLauncher.java","Nick Sieger",0.5,8
+"src/org/jruby/util/ShellLauncher.java","Ola Bini",0.25,8
+"src/org/jruby/util/ShellLauncher.java","Thomas E. Enebo",0.25,8
+"src/org/jruby/util/Sprintf.java","Ola Bini",1,4
+"src/org/jruby/util/TimeOutputFormatter.java","Charles Oliver Nutter",0.5,8
+"src/org/jruby/util/TimeOutputFormatter.java","David Calavera",0.5,8
+"src/org/jruby/util/TypeConverter.java","Ola Bini",1,2
+"src/org/jruby/util/unsafe/UnsafeGenerator.java","Charles Oliver Nutter",1,2
+"src/org/jruby/util/ZlibDeflate.java","Nick Sieger",0.666666666666667,3
+"src/org/jruby/util/ZlibDeflate.java","Vladimir Sizikov",0.333333333333333,3
+"test/externals/bfts/test_struct.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Array/instance/tc_each_index.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Array/instance/tc_each.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Array/instance/tc_flatten.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Array/instance/tc_index.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Array/instance/tc_pop.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Array/instance/tc_reverse_each.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Array/instance/tc_rindex.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Array/instance/tc_shift.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Dir/instance/tc_each.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Enumerable/instance/tc_detect.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Enumerable/instance/tc_each_with_index.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Enumerable/instance/tc_find_all.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Enumerable/instance/tc_partition.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Enumerable/instance/tc_reject.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Enumerable/instance/tc_sort_by.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Hash/instance/tc_delete_if.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Hash/instance/tc_each_key.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Hash/instance/tc_each_value.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Hash/instance/tc_each.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Hash/instance/tc_reject.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Hash/instance/tc_select.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/IO/class/tc_foreach.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Range/instance/tc_step.rb","Charles Oliver Nutter",1,2
+"test/externals/ruby_test/test/core/Thread/instance/tc_abort_on_exception.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby_test/test/stdlib/Rational/tc_rational.rb","Charles Oliver Nutter",0.5,4
+"test/externals/ruby_test/test/stdlib/Rational/tc_rational.rb","Thomas E. Enebo",0.5,4
+"test/externals/ruby1.8/digest/test_digest.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/drb/drbtest.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/erb/test_erb.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/fileutils/fileasserts.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/fileutils/test_dryrun.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/fileutils/test_fileutils.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/fileutils/test_nowrite.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/fileutils/test_verbose.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/gdbm/test_gdbm.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/io/nonblock/test_flush.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/logger/test_logger.rb","Charles Oliver Nutter",0.142857142857143,7
+"test/externals/ruby1.8/logger/test_logger.rb","Vladimir Sizikov",0.857142857142857,7
+"test/externals/ruby1.8/net/http/test_https_proxy.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/openssl/test_ssl.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ostruct/test_ostruct.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/pathname/test_pathname.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rinda/test_rinda.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/rss-assertions.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/rss-testcase.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_1.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_2.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_content.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_dublincore.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_image.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_inherit.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_maker_0.9.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_maker_1.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_maker_2.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_maker_content.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_maker_dc.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_maker_sy.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_maker_xml-stylesheet.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_parser_1.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_parser.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_setup_maker_0.9.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_setup_maker_1.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_syndication.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_to_s.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_version.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/rss/test_xml-stylesheet.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/marshaltestlib.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_array.rb","Charles Oliver Nutter",0.5,2
+"test/externals/ruby1.8/ruby/test_array.rb","David Calavera",0.5,2
+"test/externals/ruby1.8/ruby/test_beginendblock.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_bignum.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_env.rb","Charles Oliver Nutter",0.2,5
+"test/externals/ruby1.8/ruby/test_env.rb","Vladimir Sizikov",0.8,5
+"test/externals/ruby1.8/ruby/test_hash.rb","Charles Oliver Nutter",1,3
+"test/externals/ruby1.8/ruby/test_io.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_iterator.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_marshal.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_method.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_pack.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_proc.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_settracefunc.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_signal.rb","Charles Oliver Nutter",0.142857142857143,7
+"test/externals/ruby1.8/ruby/test_signal.rb","Vladimir Sizikov",0.571428571428571,7
+"test/externals/ruby1.8/ruby/test_signal.rb","Wayne Meissner",0.285714285714286,7
+"test/externals/ruby1.8/ruby/test_symbol.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/ruby/test_time.rb","Charles Oliver Nutter",1,3
+"test/externals/ruby1.8/runner.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/thread/test_thread.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/uri/test_common.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/uri/test_ftp.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/uri/test_generic.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/yaml/test_yaml.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.8/zlib/test_zlib.rb","Charles Oliver Nutter",0.25,4
+"test/externals/ruby1.8/zlib/test_zlib.rb","Nick Sieger",0.5,4
+"test/externals/ruby1.8/zlib/test_zlib.rb","Vladimir Sizikov",0.25,4
+"test/externals/ruby1.9/bigdecimal/test_bigdecimal.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/cgi/test_cgi_cookie.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/cgi/test_cgi_core.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/cgi/test_cgi_multipart.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/cgi/test_cgi_session.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/cgi/test_cgi_tag_helper.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/csv/test_csv_parsing.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/csv/test_csv_writing.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/csv/test_data_converters.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/csv/test_encodings.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/csv/test_features.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/csv/test_headers.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/csv/test_interface.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/csv/test_row.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/csv/test_serialization.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/csv/test_table.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/date/test_date_base.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/date/test_date_conv.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/date/test_date_parse.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/date/test_date_strftime.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/date/test_date_strptime.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/dbm/test_dbm.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/digest/test_digest.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/drb/drbtest.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/drb/test_acl.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/drb/test_drb.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/drb/ut_large.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/drb/ut_safe1.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/drb/ut_timerholder.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/erb/test_erb_m17n.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/erb/test_erb.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/etc/test_etc.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/fileutils/fileasserts.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/fileutils/test_dryrun.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/fileutils/test_fileutils.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/fileutils/test_nowrite.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/fileutils/test_verbose.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/gdbm/test_gdbm.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/iconv/test_basic.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/iconv/test_option.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/iconv/test_partial.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/json/test_json_addition.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/json/test_json_fixtures.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/json/test_json_generate.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/json/test_json_rails.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/json/test_json_unicode.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/json/test_json.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/minitest/test_mini_spec.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/minitest/test_mini_test.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/net/http/test_http.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/net/http/test_https_proxy.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/net/imap/test_imap.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/nkf/test_kconv.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/openssl/ssl_server.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/openssl/test_ec.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/openssl/test_pair.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/openssl/test_pkcs7.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/openssl/test_ssl.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/openssl/test_x509cert.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/openssl/test_x509crl.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/openssl/utils.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/optparse/test_optparse.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/optparse/test_placearg.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ostruct/test_ostruct.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/pathname/test_pathname.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rdoc/test_rdoc_info_formatting.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rdoc/test_rdoc_markup_to_html_crossref.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rdoc/test_rdoc_parser_ruby.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rdoc/test_rdoc_parser.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/readline/test_readline_history.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/readline/test_readline.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rinda/test_rinda.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rinda/test_tuplebag.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ripper/dummyparser.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ripper/test_files.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ripper/test_parser_events.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ripper/test_scanner_events.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/rss-assertions.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/rss-testcase.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_1.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_2.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_accessor.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_content.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_0.9.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_1.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_2.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_atom_entry.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_atom_feed.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_content.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_dc.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_image.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_sy.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_taxo.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_trackback.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_maker_xml-stylesheet.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_parser_1.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_setup_maker_0.9.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_setup_maker_1.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_setup_maker_2.0.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_setup_maker_atom_feed.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_syndication.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_taxonomy.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_to_s.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_trackback.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_version.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rss/test_xml-stylesheet.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/allpairs.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/envutil.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/marshaltestlib.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_alias.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_argf.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_array.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_assignment.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_basicinstructions.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_beginendblock.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_bignum.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_case.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_class.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_complex.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_dir.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_econv.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_encoding.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_enum.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_enumerator.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_eval.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_exception.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_fiber.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_file_exhaustive.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_float.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_gc.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_hash.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_integer.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_io_m17n.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_io.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_literal.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_m17n_comb.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_m17n.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_marshal.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_math.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_method.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_module.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_numeric.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_object.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_parse.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_path.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_primitive.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_proc.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_process.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_rand.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_range.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_rational.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_readpartial.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_regexp.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_require.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_rubyoptions.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_settracefunc.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_signal.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_sprintf.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_string.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_struct.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_super.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_symbol.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_system.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_thread.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_time.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_trace.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_transcode.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_unicode_escape.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_variable.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/ruby/test_whileuntil.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/gem_installer_test_case.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/gem_package_tar_test_case.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/gemutilities.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/mockgemui.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_config.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_builder.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_command_manager.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_build_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_cert_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_check_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_contents_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_dependency_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_environment_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_fetch_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_generate_index_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_install_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_list_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_lock_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_mirror_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_outdated_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_pristine_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_query_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_server_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_sources_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_specification_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_stale_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_uninstall_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_unpack_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_commands_update_command.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_config_file.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_dependency_installer.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_dependency_list.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_dependency.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_digest.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_doc_manager.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_ext_configure_builder.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_ext_ext_conf_builder.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_ext_rake_builder.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_format.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_gem_path_searcher.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_gem_runner.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_indexer.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_install_update_options.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_installer.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_local_remote_options.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_package_tar_header.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_package_tar_input.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_package_tar_output.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_package_tar_reader_entry.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_package_tar_reader.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_package_tar_writer.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_platform.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_remote_fetcher.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_requirement.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_server.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_source_index.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_source_info_cache_entry.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_source_info_cache.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_spec_fetcher.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_specification.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_stream_ui.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_uninstaller.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_validator.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_version_option.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem_version.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_gem.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/rubygems/test_kernel.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/scanf/test_scanf.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/scanf/test_scanfblocks.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/scanf/test_scanfio.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/socket/test_nonblock.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/socket/test_socket.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/socket/test_tcp.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/socket/test_udp.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/socket/test_unix.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/stringio/test_stringio.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/strscan/test_stringscanner.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/test_delegate.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/test_pp.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/test_prettyprint.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/test_prime.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/test_pstore.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/test_shellwords.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/test_tempfile.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/test_time.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/test_timeout.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/test_tsort.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/uri/test_common.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/uri/test_ftp.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/uri/test_generic.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/uri/test_http.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/uri/test_ldap.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/uri/test_mailto.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/webrick/test_cookie.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/webrick/test_httpauth.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/webrick/test_httpproxy.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/webrick/test_httprequest.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/webrick/utils.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_err_in_callback.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_folderitem2_invokeverb.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_nil2vtempty.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_ole_methods.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_win32ole_event.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_win32ole_method.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_win32ole_param.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_win32ole_type.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_win32ole_variable.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_win32ole_variant.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_win32ole.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/win32ole/test_word.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/xmlrpc/test_datetime.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/xmlrpc/test_features.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/xmlrpc/test_marshal.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/xmlrpc/test_parser.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/xmlrpc/test_webrick_server.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/xmlrpc/webrick_testing.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/yaml/test_yaml.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/yaml/test_yamlstore.rb","Charles Oliver Nutter",1,1
+"test/externals/ruby1.9/zlib/test_zlib.rb","Charles Oliver Nutter",1,1
+"test/org/jruby/javasupport/test/TestBSF.java","Charles Oliver Nutter",1,5
+"test/org/jruby/test/MainTestSuite.java","David Calavera",1,2
+"test/org/jruby/test/Ruby1_9TestSuite.java","Nick Sieger",1,2
+"test/org/jruby/test/TestArrayFlatten.java","James Abley",1,2
+"test/org/jruby/test/TestKernel.java","Ola Bini",0.666666666666667,3
+"test/org/jruby/test/TestKernel.java","Vladimir Sizikov",0.333333333333333,3
+"test/org/jruby/test/TestMethodFactories.java","Charles Oliver Nutter",1,2
+"test/org/jruby/test/TestRaiseException.java","David Calavera",1,1
+"test/org/jruby/test/TestRubyClass.java","Charles Oliver Nutter",1,2
+"test/org/jruby/test/TestRubyHash.java","Charles Oliver Nutter",1,3
+"test/org/jruby/util/TimeOutputFormatterTest.java","Charles Oliver Nutter",0.5,4
+"test/org/jruby/util/TimeOutputFormatterTest.java","David Calavera",0.5,4
+"test/rubicon/test_io.rb","Charles Oliver Nutter",0.666666666666667,3
+"test/rubicon/test_io.rb","Vladimir Sizikov",0.333333333333333,3
+"test/rubicon/test_object_space.rb","Charles Oliver Nutter",1,1
+"test/test_array.rb","Charles Oliver Nutter",1,3
+"test/test_assignment_1_9.rb","Charles Oliver Nutter",1,2
+"test/test_backtraces.rb","Charles Oliver Nutter",1,2
+"test/test_big_decimal.rb","Charles Oliver Nutter",1,3
+"test/test_command_line_switches.rb","Charles Oliver Nutter",0.4,5
+"test/test_command_line_switches.rb","Thomas E. Enebo",0.4,5
+"test/test_command_line_switches.rb","Vladimir Sizikov",0.2,5
+"test/test_core_arities.rb","Ola Bini",1,2
+"test/test_custom_enumerable.rb","Charles Oliver Nutter",1,3
+"test/test_cvars_in_odd_scopes.rb","Charles Oliver Nutter",1,3
+"test/test_delegated_array_equals.rb","Charles Oliver Nutter",1,3
+"test/test_digest_lazy_load.rb","Charles Oliver Nutter",1,4
+"test/test_digest2.rb","Thomas E. Enebo",1,1
+"test/test_env.rb","Charles Oliver Nutter",1,2
+"test/test_file.rb","Charles Oliver Nutter",0.105263157894737,19
+"test/test_file.rb","David Calavera",0.105263157894737,19
+"test/test_file.rb","Nick Sieger",0.210526315789474,19
+"test/test_file.rb","Vladimir Sizikov",0.578947368421053,19
+"test/test_higher_javasupport.rb","Charles Oliver Nutter",1,2
+"test/test_instance_exec.rb","Charles Oliver Nutter",1,4
+"test/test_io_1_9.rb","David Calavera",0.75,8
+"test/test_io_1_9.rb","Thomas E. Enebo",0.25,8
+"test/test_io.rb","Nick Sieger",0.333333333333333,6
+"test/test_io.rb","Ola Bini",0.333333333333333,6
+"test/test_io.rb","Thomas E. Enebo",0.333333333333333,6
+"test/test_jarred_gems_with_spaces_in_directory.rb","Charles Oliver Nutter",1,2
+"test/test_java_extension.rb","Thomas E. Enebo",1,2
+"test/test_jruby_4084.rb","Charles Oliver Nutter",1,3
+"test/test_jruby_core_ext.rb","Nick Sieger",1,2
+"test/test_kernel_1_9_features.rb","Hiro Asari",1,2
+"test/test_launching_by_shell_script.rb","Nick Sieger",0.1,20
+"test/test_launching_by_shell_script.rb","Vladimir Sizikov",0.9,20
+"test/test_load.rb","Charles Oliver Nutter",0.571428571428571,7
+"test/test_load.rb","Vladimir Sizikov",0.142857142857143,7
+"test/test_load.rb","Wayne Meissner",0.285714285714286,7
+"test/test_loading_builtin_libraries.rb","Charles Oliver Nutter",0.6,5
+"test/test_loading_builtin_libraries.rb","Ola Bini",0.4,5
+"test/test_object_class_default_methods.rb","Charles Oliver Nutter",0.6,5
+"test/test_object_class_default_methods.rb","Ola Bini",0.4,5
+"test/test_pack.rb","Charles Oliver Nutter",1,2
+"test/test_process.rb","Nick Sieger",1,2
+"test/test_rbconfig.rb","Vladimir Sizikov",1,3
+"test/test_regexp_1_9.rb","David Calavera",1,4
+"test/test_socket.rb","Charles Oliver Nutter",0.2,10
+"test/test_socket.rb","Vladimir Sizikov",0.6,10
+"test/test_socket.rb","Wayne Meissner",0.2,10
+"test/test_string_java_bytes.rb","Charles Oliver Nutter",1,2
+"test/test_super_call_site_caching.rb","Nick Sieger",1,2
+"test/test_system_error.rb","Vladimir Sizikov",0.5,6
+"test/test_system_error.rb","Wayne Meissner",0.5,6
+"test/test_thread_backtrace.rb","Charles Oliver Nutter",0.5,4
+"test/test_thread_backtrace.rb","Ola Bini",0.5,4
+"test/test_thread.rb","Charles Oliver Nutter",0.5,6
+"test/test_thread.rb","Vladimir Sizikov",0.5,6
+"test/test_timeout.rb","Charles Oliver Nutter",1,10
+"test/test_unicode_paths.rb","Daniel Hahn",0.5,4
+"test/test_unicode_paths.rb","Nick Sieger",0.5,4
+"test/test_yaml.rb","Ola Bini",1,2
+"test/test_yamlstore.rb","Ola Bini",1,2
+"test/test_zlib.rb","Nick Sieger",0.5,4
+"test/test_zlib.rb","Vladimir Sizikov",0.5,4
+"test/testCompiler.rb","Charles Oliver Nutter",1,6
+"test/testEnv.rb","Charles Oliver Nutter",1,2
+"test/testHash.rb","Ola Bini",1,4
+"test/testIconv.rb","David Calavera",1,1
+"test/testJavaArraySupport.rb","Charles Oliver Nutter",1,2
+"test/testObject.rb","Charles Oliver Nutter",1,2
+"test/testRange.rb","Ola Bini",1,2
+"test/testSocket.rb","Charles Oliver Nutter",0.333333333333333,6
+"test/testSocket.rb","David Calavera",0.333333333333333,6
+"test/testSocket.rb","Wayne Meissner",0.333333333333333,6
+"test/testStringIO.rb","Ola Bini",1,2
+"test/testSuper.rb","Charles Oliver Nutter",1,2
+"test/testTime.rb","Hiro Asari",0.333333333333333,6
+"test/testTime.rb","Ola Bini",0.333333333333333,6
+"test/testTime.rb","Thomas E. Enebo",0.333333333333333,6
+"test/testYAML.rb","Charles Oliver Nutter",0.117647058823529,17
+"test/testYAML.rb","Ola Bini",0.882352941176471,17
+"test/thread-safety/regexp_bug.rb","Charles Oliver Nutter",1,2
+"test/tracing/test_trace_func.rb","Nick Sieger",1,4
+"tool/experimental/a_junit_test.rb","Charles Oliver Nutter",1,2
+"tool/experimental/annotator.rb","Charles Oliver Nutter",1,2
+"tool/experimental/junit.rb","Charles Oliver Nutter",1,2
+"tool/nailgun/src/c/ng.c","Ole Christian Rynning",1,2
+"tool/updatepoms.rb","Charles Oliver Nutter",1,3

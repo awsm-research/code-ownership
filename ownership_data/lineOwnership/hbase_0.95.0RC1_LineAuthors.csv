@@ -1,0 +1,1379 @@
+Author,File,NumLines
+Andrew Kyle Purtell,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,1159.0
+Devaraj Das,hbase-it/src/test/java/org/apache/hadoop/hbase/mapreduce,163.0
+Enis Soztutar,hbase-it/src/test/java/org/apache/hadoop/hbase/mapreduce,190.0
+Enis Soztutar,hbase-it/src/test/java/org/apache/hadoop/hbase/test,1461.0
+Enis Soztutar,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,766.0
+Gary Helmling,hbase-examples/src/test/java/org/apache/hadoop/hbase/coprocessor/example,105.0
+Gary Helmling,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,10964.0
+Jonathan Hsieh,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,8904.0
+Michael Stack,hbase-examples/src/test/java/org/apache/hadoop/hbase/coprocessor/example,24.0
+Michael Stack,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/mapreduce,58.0
+Michael Stack,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/master,99.0
+Michael Stack,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/metrics,52.0
+Michael Stack,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/regionserver,7.0
+Michael Stack,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver,5.0
+Michael Stack,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/rest,92.0
+Michael Stack,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/thrift,136.0
+Michael Stack,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/impl,3.0
+Michael Stack,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/lib,408.0
+Michael Stack,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/util,367.0
+Michael Stack,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase,43.0
+Michael Stack,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/replication/regionserver,1.0
+Michael Stack,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/rest,4.0
+Michael Stack,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/test,193.0
+Michael Stack,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/thrift,45.0
+Michael Stack,hbase-it/src/test/java/org/apache/hadoop/hbase,1346.0
+Michael Stack,hbase-it/src/test/java/org/apache/hadoop/hbase/mapreduce,21.0
+Michael Stack,hbase-it/src/test/java/org/apache/hadoop/hbase/util,664.0
+Michael Stack,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,90194.0
+Todd Lipcon,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,594.0
+Zhihong Yu,hbase-examples/src/test/java/org/apache/hadoop/hbase/coprocessor/example,429.0
+Zhihong Yu,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/master,42.0
+Zhihong Yu,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/metrics,141.0
+Zhihong Yu,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver,28.0
+Zhihong Yu,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/lib,353.0
+Zhihong Yu,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/master,33.0
+Zhihong Yu,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/metrics,85.0
+Zhihong Yu,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/regionserver,33.0
+Zhihong Yu,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/replication/regionserver,31.0
+Zhihong Yu,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/rest,30.0
+Zhihong Yu,hbase-it/src/test/java/org/apache/hadoop/hbase,296.0
+Zhihong Yu,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,24232.0
+eclark,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/ipc,183.0
+eclark,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/master,30.0
+eclark,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/metrics,32.0
+eclark,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/regionserver,495.0
+eclark,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/regionserver/wal,82.0
+eclark,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver,9.0
+eclark,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/rest,7.0
+eclark,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/thrift,14.0
+eclark,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/impl,75.0
+eclark,hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/lib,9.0
+eclark,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/master,11.0
+eclark,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/metrics,6.0
+eclark,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/regionserver,119.0
+eclark,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/regionserver/wal,19.0
+eclark,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/replication/regionserver,7.0
+eclark,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/rest,6.0
+eclark,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/test,25.0
+eclark,hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/thrift,10.0
+eclark,hbase-it/src/test/java/org/apache/hadoop/hbase,2.0
+eclark,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,1188.0
+gchanan,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,498.0
+jxiang,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,859.0
+larsh,hbase-examples/src/test/java/org/apache/hadoop/hbase/coprocessor/example,128.0
+mbautin,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,216.0
+nkeywal,hbase-it/src/test/java/org/apache/hadoop/hbase,3.0
+zjushch,hbase-protocol/src/main/java/org/apache/hadoop/hbase/protobuf/generated,2589.0
+,hbase-examples/src/main/cpp,50.0
+,hbase-examples/src/main/java/org/apache/hadoop/hbase/thrift,3.0
+,hbase-examples/src/main/python,11.0
+,hbase-examples/src/main/ruby,60.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase,408.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/client,239.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/client/replication,82.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/zookeeper,8.0
+Andrew Kyle Purtell,hbase-examples/src/main/java/org/apache/hadoop/hbase/mapreduce,141.0
+Andrew Kyle Purtell,hbase-examples/src/main/ruby,15.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase,1503.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/client,30.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,2.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift,11.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/zookeeper,268.0
+Andrew Kyle Purtell,hbase-server/src/test/ruby,19.0
+Andrew Kyle Purtell,hbase-server/src/test/ruby/hbase,96.0
+Andrew Kyle Purtell,hbase-server/src/test/ruby/shell,57.0
+Bryan Duxbury,hbase-server/src/test/java/org/apache/hadoop/hbase,323.0
+Doug Cutting,hbase-server/src/test/java/org/apache/hadoop/hbase,42.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase,386.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/client,217.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,410.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift,7.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/zookeeper,123.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/zookeeper/lock,359.0
+Gary Helmling,hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example,163.0
+Gary Helmling,hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example/generated,1034.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase,13.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/client,50.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/zookeeper,225.0
+Jim Kellerman,hbase-server/src/test/java/org/apache/hadoop/hbase,216.0
+Jonathan Gray,hbase-examples/src/main/java/org/apache/hadoop/hbase/mapreduce,106.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase,394.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/client,817.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,14.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase,145.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/backup,67.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/client,1194.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/errorhandling,308.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,269.0
+Michael Stack,hbase-examples/src/main/cpp,264.0
+Michael Stack,hbase-examples/src/main/cpp/gen-cpp,25004.0
+Michael Stack,hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example,1.0
+Michael Stack,hbase-examples/src/main/java/org/apache/hadoop/hbase/mapreduce,48.0
+Michael Stack,hbase-examples/src/main/java/org/apache/hadoop/hbase/thrift,331.0
+Michael Stack,hbase-examples/src/main/java/org/apache/hadoop/hbase/thrift/generated,60619.0
+Michael Stack,hbase-examples/src/main/python,207.0
+Michael Stack,hbase-examples/src/main/python/gen-py/hbase,11381.0
+Michael Stack,hbase-examples/src/main/ruby,209.0
+Michael Stack,hbase-examples/src/main/ruby/gen-rb,3270.0
+Michael Stack,hbase-examples/thrift2,2.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase,5295.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/backup,1.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/backup/example,299.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/client,4795.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/client/replication,21.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/fs,2.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,1838.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce/hadoopbackport,132.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift,366.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/zookeeper,640.0
+Michael Stack,hbase-server/src/test/ruby,139.0
+Michael Stack,hbase-server/src/test/ruby/hbase,778.0
+Michael Stack,hbase-server/src/test/ruby/shell,113.0
+Nicolas Spiegelberg,hbase-server/src/test/java/org/apache/hadoop/hbase,236.0
+Nicolas Spiegelberg,hbase-server/src/test/java/org/apache/hadoop/hbase/client,257.0
+Nicolas Spiegelberg,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,160.0
+Nicolas Spiegelberg,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift,4.0
+Nitay Joffe,hbase-server/src/test/java/org/apache/hadoop/hbase,1.0
+Nitay Joffe,hbase-server/src/test/java/org/apache/hadoop/hbase/zookeeper,12.0
+Ryan Rawson,hbase-server/src/test/java/org/apache/hadoop/hbase,426.0
+Ryan Rawson,hbase-server/src/test/java/org/apache/hadoop/hbase/client,2527.0
+Ryan Rawson,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift,69.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase,541.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/client,110.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,482.0
+Todd Lipcon,hbase-server/src/test/ruby/hbase,1.0
+Todd Lipcon,hbase-server/src/test/ruby/shell,1.0
+Zhihong Yu,hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example,288.0
+Zhihong Yu,hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example/generated,1512.0
+Zhihong Yu,hbase-examples/thrift2,155.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase,1751.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/backup,67.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/client,1459.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/client/replication,16.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,935.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift,517.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/zookeeper,345.0
+anoopsamjohn,hbase-server/src/test/java/org/apache/hadoop/hbase/client,50.0
+eclark,hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example,2.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase,131.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/client,28.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,4.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/zookeeper,1.0
+gchanan,hbase-server/src/test/java/org/apache/hadoop/hbase,19.0
+gchanan,hbase-server/src/test/java/org/apache/hadoop/hbase/client,76.0
+gchanan,hbase-server/src/test/ruby/hbase,5.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase,52.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/backup,5.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/client,109.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,74.0
+jyates,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,101.0
+larsh,hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example,215.0
+larsh,hbase-examples/src/main/java/org/apache/hadoop/hbase/mapreduce,1.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase,77.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/backup,279.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/backup/example,119.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/client,618.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,763.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift,1.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/zookeeper,2.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase,157.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/client,570.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,19.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift,22.0
+mbertozzi,hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example,15.0
+mbertozzi,hbase-examples/src/main/java/org/apache/hadoop/hbase/mapreduce,3.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase,11.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/backup,16.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/client,2.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/fs,4.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,2.0
+nkeywal,hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example,3.0
+nkeywal,hbase-examples/src/main/java/org/apache/hadoop/hbase/thrift,5.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase,216.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/client,147.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/fs,408.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,9.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift,18.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase,100.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/client,78.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,13.0
+sershe,hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example,1.0
+sershe,hbase-server/src/test/java/org/apache/hadoop/hbase,7.0
+sershe,hbase-server/src/test/java/org/apache/hadoop/hbase/client,2.0
+sershe,hbase-server/src/test/java/org/apache/hadoop/hbase/mapreduce,1.0
+zjushch,hbase-server/src/test/java/org/apache/hadoop/hbase,17.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/catalog,17.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/executor,20.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/io/encoding,4.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,7.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/mapred,211.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/metrics,2.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/monitoring,4.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,125.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,357.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/rest,167.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,1720.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/filter,109.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/io,53.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,36.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,601.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,19.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/rest,3878.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/rest/client,432.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/rest/model,1325.0
+Bryan Duxbury,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,8.0
+Bryan Duxbury,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,13.0
+Doug Cutting,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,98.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/catalog,6.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,72.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/io/encoding,2.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,25.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/monitoring,7.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,411.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,1.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/catalog,4.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,1572.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,39.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,421.0
+Jim Kellerman,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,47.0
+Jim Kellerman,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,101.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,28.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/filter,1114.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/io,13.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,38.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,1399.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,16.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/rest,3.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/catalog,35.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/constraint,17.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,156.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/executor,1.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,61.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/mapred,60.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/procedure,1865.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,71.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/snapshot,2169.0
+Lars George,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,10.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/catalog,1319.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/codec,259.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/constraint,13.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,1303.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor/protobuf/generated,5351.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/executor,131.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/filter,3133.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/io,748.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/io/encoding,74.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,2858.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile/slab,230.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/mapred,33.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/metrics,343.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/monitoring,6.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/protobuf,291.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,8865.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/handler,242.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,3749.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/rest,348.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/rest/client,17.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/rest/model,41.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/snapshot,8.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift2,23.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/trace,119.0
+Nicolas Spiegelberg,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,8.0
+Nicolas Spiegelberg,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,206.0
+Nicolas Spiegelberg,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,364.0
+Nicolas Spiegelberg,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,144.0
+Ryan Rawson,hbase-server/src/test/java/org/apache/hadoop/hbase/filter,310.0
+Ryan Rawson,hbase-server/src/test/java/org/apache/hadoop/hbase/io,120.0
+Ryan Rawson,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,79.0
+Ryan Rawson,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,2798.0
+Ryan Rawson,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,5.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/executor,18.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/filter,31.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/io,29.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,39.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/monitoring,163.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,684.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/handler,64.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,31.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/rest,18.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/catalog,64.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/constraint,632.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,1820.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor/protobuf/generated,3425.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/executor,5.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/filter,813.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/io,30.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/io/encoding,14.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,2190.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile/slab,41.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/mapred,342.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/metrics,55.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/monitoring,2.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,2800.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/compactions,15.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/handler,106.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,419.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/rest,28.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/rest/client,6.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/rest/model,36.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/snapshot,10.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift2,541.0
+anoopsamjohn,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,24.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/catalog,2.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/constraint,3.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,5.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/executor,1.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/filter,4.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/io/encoding,4.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,34.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/mapred,7.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/metrics,4.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,718.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/compactions,220.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/handler,4.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,8.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/snapshot,9.0
+gchanan,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,175.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,77.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,153.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/handler,9.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,27.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/rest,3.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/rest/model,9.0
+jyates,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,95.0
+karthik,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,314.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/catalog,2.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,731.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/filter,27.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,114.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,1711.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,146.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/rest/model,31.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,19.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/io,21.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/io/encoding,867.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,1909.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,2025.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/handler,4.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,4.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/thrift2,3.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,27.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,521.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,38.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/snapshot,59.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/catalog,9.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,1.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/filter,4.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/io,61.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/io/encoding,13.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,373.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/handler,1.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,11.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/coprocessor,289.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/filter,103.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,317.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/handler,32.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/wal,70.0
+sershe,hbase-server/src/test/java/org/apache/hadoop/hbase/catalog,2.0
+sershe,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,165.0
+sershe,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver/compactions,4.0
+zjushch,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile,52.0
+zjushch,hbase-server/src/test/java/org/apache/hadoop/hbase/io/hfile/bucket,291.0
+zjushch,hbase-server/src/test/java/org/apache/hadoop/hbase/regionserver,914.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,276.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce/replication,250.0
+,hbase-server/src/main/ruby,19.0
+,hbase-server/src/main/ruby/hbase,78.0
+,hbase-server/src/main/ruby/shell,3.0
+,hbase-server/src/main/ruby/shell/commands,215.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/master,72.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/master/cleaner,187.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/replication,1091.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/replication/regionserver,417.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/util,69.0
+,hbase-server/src/test/java/org/apache/hadoop/hbase/util/hbck,2.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase,311.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,829.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift,29.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift/generated,8809.0
+Andrew Kyle Purtell,hbase-server/src/main/ruby,38.0
+Andrew Kyle Purtell,hbase-server/src/main/ruby/hbase,68.0
+Andrew Kyle Purtell,hbase-server/src/main/ruby/irb,19.0
+Andrew Kyle Purtell,hbase-server/src/main/ruby/shell,41.0
+Andrew Kyle Purtell,hbase-server/src/main/ruby/shell/commands,589.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/ipc,5.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/master,24.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,882.0
+Andrew Kyle Purtell,hbase-server/src/test/java/org/apache/hadoop/hbase/util,80.0
+Bryan Duxbury,hbase-server/src/main/java/org/apache/hadoop/hbase,8.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase,131.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,12.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift,1.0
+Enis Soztutar,hbase-server/src/main/ruby/hbase,4.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/master,468.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/master/cleaner,5.0
+Enis Soztutar,hbase-server/src/test/java/org/apache/hadoop/hbase/util,179.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,27.0
+Gary Helmling,hbase-server/src/main/ruby,16.0
+Gary Helmling,hbase-server/src/main/ruby/hbase,91.0
+Gary Helmling,hbase-server/src/main/ruby/shell,3.0
+Gary Helmling,hbase-server/src/main/ruby/shell/commands,120.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/ipc,108.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/master,51.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/security,29.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,1253.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/security/token,625.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/util,106.0
+Gary Helmling,hbase-server/src/test/java/org/apache/hadoop/hbase/util/hbck,2.0
+Jim Kellerman,hbase-server/src/main/java/org/apache/hadoop/hbase,10.0
+Jim Kellerman,hbase-server/src/test/java/org/apache/hadoop/hbase/util,270.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase,184.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,14.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift,5.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift/generated,2485.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/master,1298.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/replication,5.0
+Jonathan Gray,hbase-server/src/test/java/org/apache/hadoop/hbase/util,3.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase,2.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,50.0
+Jonathan Hsieh,hbase-server/src/main/python/hbase,15.0
+Jonathan Hsieh,hbase-server/src/main/ruby,13.0
+Jonathan Hsieh,hbase-server/src/main/ruby/hbase,38.0
+Jonathan Hsieh,hbase-server/src/main/ruby/shell/commands,249.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/master,7.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/master/cleaner,390.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/master/snapshot,559.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,51.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/util,1156.0
+Jonathan Hsieh,hbase-server/src/test/java/org/apache/hadoop/hbase/util/hbck,36.0
+Kannan Muthukkaruppan,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,1.0
+Kannan Muthukkaruppan,hbase-server/src/main/ruby,2.0
+Kannan Muthukkaruppan,hbase-server/src/main/ruby/hbase,1.0
+Kannan Muthukkaruppan,hbase-server/src/main/ruby/shell/commands,3.0
+Lars George,hbase-server/src/test/java/org/apache/hadoop/hbase/util,31.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase,960.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,3689.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce/hadoopbackport,170.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce/replication,75.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift,744.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift/generated,23364.0
+Michael Stack,hbase-server/src/main/ruby,316.0
+Michael Stack,hbase-server/src/main/ruby/hbase,1055.0
+Michael Stack,hbase-server/src/main/ruby/irb,40.0
+Michael Stack,hbase-server/src/main/ruby/shell,212.0
+Michael Stack,hbase-server/src/main/ruby/shell/commands,1269.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/ipc,440.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/ipc/protobuf/generated,2746.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/master,4494.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/master/balancer,767.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/master/cleaner,479.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/replication,64.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/replication/regionserver,52.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/security,76.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,110.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/security/token,7.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/util,1931.0
+Michael Stack,hbase-server/src/test/java/org/apache/hadoop/hbase/util/hbck,31.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,150.0
+Nicolas Spiegelberg,hbase-server/src/main/ruby,2.0
+Nicolas Spiegelberg,hbase-server/src/main/ruby/hbase,37.0
+Nicolas Spiegelberg,hbase-server/src/main/ruby/shell/commands,112.0
+Nicolas Spiegelberg,hbase-server/src/test/java/org/apache/hadoop/hbase/master/cleaner,18.0
+Nicolas Spiegelberg,hbase-server/src/test/java/org/apache/hadoop/hbase/util,1853.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,28.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift,36.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift/generated,8047.0
+Ryan Rawson,hbase-server/src/test/java/org/apache/hadoop/hbase/master,33.0
+Ryan Rawson,hbase-server/src/test/java/org/apache/hadoop/hbase/util,174.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,686.0
+Todd Lipcon,hbase-server/src/main/ruby/hbase,4.0
+Todd Lipcon,hbase-server/src/main/ruby/shell,5.0
+Todd Lipcon,hbase-server/src/main/ruby/shell/commands,9.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/ipc,60.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/master,261.0
+Todd Lipcon,hbase-server/src/test/java/org/apache/hadoop/hbase/util,347.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase,50.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/client/coprocessor,169.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,730.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift,2260.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift/generated,17914.0
+Zhihong Yu,hbase-server/src/main/ruby,6.0
+Zhihong Yu,hbase-server/src/main/ruby/hbase,86.0
+Zhihong Yu,hbase-server/src/main/ruby/shell/commands,245.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/ipc,67.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/master,884.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/master/cleaner,189.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/master/handler,156.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/replication,577.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/replication/regionserver,185.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/security,5.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,381.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/security/token,9.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/util,631.0
+Zhihong Yu,hbase-server/src/test/java/org/apache/hadoop/hbase/util/hbck,575.0
+anoopsamjohn,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,23.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase,9.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,11.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift,8.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/ipc,145.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/master,37.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/master/cleaner,1.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/replication,1.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,3.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/security/token,3.0
+eclark,hbase-server/src/test/java/org/apache/hadoop/hbase/util,7.0
+gchanan,hbase-server/src/main/java/org/apache/hadoop/hbase,2.0
+gchanan,hbase-server/src/main/ruby/hbase,15.0
+gchanan,hbase-server/src/main/ruby/shell/commands,31.0
+gchanan,hbase-server/src/test/java/org/apache/hadoop/hbase/ipc,78.0
+gchanan,hbase-server/src/test/java/org/apache/hadoop/hbase/master,2.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce/replication,4.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift,34.0
+jxiang,hbase-server/src/main/ruby/hbase,50.0
+jxiang,hbase-server/src/main/ruby/shell/commands,2.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/master,652.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/master/cleaner,3.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,54.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/util,531.0
+jxiang,hbase-server/src/test/java/org/apache/hadoop/hbase/util/hbck,11.0
+jyates,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,145.0
+karthik,hbase-server/src/main/python/hbase,138.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase,43.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/client/coprocessor,28.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,1404.0
+larsh,hbase-server/src/main/ruby,1.0
+larsh,hbase-server/src/main/ruby/hbase,17.0
+larsh,hbase-server/src/main/ruby/shell/commands,10.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/master,153.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/master/cleaner,24.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/replication,138.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/replication/regionserver,14.0
+larsh,hbase-server/src/test/java/org/apache/hadoop/hbase/util,609.0
+mbautin,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,14.0
+mbautin,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift,18.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/master,12.0
+mbautin,hbase-server/src/test/java/org/apache/hadoop/hbase/util,937.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,3.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/master,13.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/master/cleaner,3.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/master/handler,160.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,29.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/util,36.0
+mbertozzi,hbase-server/src/test/java/org/apache/hadoop/hbase/util/hbck,5.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase,53.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,13.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift,2.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/ipc,81.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/master,416.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,8.0
+nkeywal,hbase-server/src/test/java/org/apache/hadoop/hbase/util,51.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase,1.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce,65.0
+ramkrishna,hbase-server/src/main/ruby/hbase,3.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/master,435.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/master/handler,110.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,16.0
+ramkrishna,hbase-server/src/test/java/org/apache/hadoop/hbase/util,7.0
+sershe,hbase-server/src/test/java/org/apache/hadoop/hbase/security/access,1.0
+sershe,hbase-server/src/test/java/org/apache/hadoop/hbase/util,1.0
+zjushch,hbase-server/src/main/ruby,1.0
+zjushch,hbase-server/src/main/ruby/hbase,6.0
+zjushch,hbase-server/src/main/ruby/shell/commands,49.0
+zjushch,hbase-server/src/test/java/org/apache/hadoop/hbase/master,20.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,20.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/mapred,1356.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/rest,90.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,8.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,1366.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/fs,14.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/io,16.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,239.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/mapred,61.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/rest,2624.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/client,1451.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/filter,399.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/model,3195.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/protobuf/generated,5486.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/provider,87.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/provider/consumer,86.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/provider/producer,151.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,24.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/catalog,78.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,12.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,10.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,110.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper/lock,594.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,1344.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/mapred,19.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/client,22.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,22.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/io,2.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,449.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile/slab,14.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/rest,15.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/client,4.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/model,8.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/backup,65.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/catalog,85.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,144.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/errorhandling,601.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/fs,26.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/io,182.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,43.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile/slab,2.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/mapred,2.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/snapshot,3099.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/backup,1.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/backup/example,10.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/catalog,507.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/codec,96.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,297.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/fs,9.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/io,1295.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,2378.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile/slab,788.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/mapred,447.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/rest,350.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/client,126.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/filter,20.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/model,50.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/provider,2.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/provider/consumer,2.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/provider/producer,4.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift2,40.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/tool,251.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/trace,202.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,822.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/io,3.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,278.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/rest,1.0
+Nitay Joffe,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,21.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/io,92.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,39.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,29.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,110.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/protobuf/generated,5357.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,1.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/backup,32.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/catalog,18.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,733.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/errorhandling,16.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/fs,4.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/io,76.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,4906.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile/slab,117.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/mapred,1.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/rest,13.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/client,25.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/snapshot,6.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift2,882.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift2/generated,22558.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,72.0
+anoopsamjohn,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,27.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/backup/example,2.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/catalog,2.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,6.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,39.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/protobuf,154.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/rest,16.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/snapshot,7.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/tool,1.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,1.0
+gchanan,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,10.0
+gchanan,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/model,10.0
+gchanan,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,93.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,57.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/rest,52.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/client,67.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/model,35.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/protobuf/generated,60.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/thrift2,40.0
+jyates,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,173.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/backup,564.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/backup/example,763.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,263.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/fs,3.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,322.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile/slab,44.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/mapred,10.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/rest,101.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/client,10.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/model,172.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/protobuf/generated,413.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,16.0
+mbautin,hbase-server/src/main/java/org/apache/hadoop/hbase/fs,169.0
+mbautin,hbase-server/src/main/java/org/apache/hadoop/hbase/io,4.0
+mbautin,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,2331.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/backup,27.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,35.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/io,11.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,1.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/snapshot,16.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,1.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/fs,153.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,13.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/rest,1.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/rest/model,1.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/tool,1.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/zookeeper,1.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/coprocessor,355.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,13.0
+zjushch,hbase-server/src/main/java/org/apache/hadoop/hbase/catalog,80.0
+zjushch,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile,479.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/executor,11.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc,38.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/master,79.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/master/cleaner,73.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,28.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/metrics,28.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,350.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,53.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,151.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/master,126.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver,1834.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,3.0
+,hbase-server/src/main/java/org/apache/hadoop/hbase/util,20.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc,170.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/master,224.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,2147.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,382.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,214.0
+Andrew Kyle Purtell,hbase-server/src/main/java/org/apache/hadoop/hbase/util,57.0
+Bryan Duxbury,hbase-server/src/main/java/org/apache/hadoop/hbase/master,54.0
+Bryan Duxbury,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,235.0
+Bryan Duxbury,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,1.0
+Bryan Duxbury,hbase-server/src/main/java/org/apache/hadoop/hbase/util,10.0
+Doug Cutting,hbase-server/src/main/java/org/apache/hadoop/hbase/master,22.0
+Doug Cutting,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,199.0
+Doug Cutting,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,66.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/executor,18.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/master,431.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,273.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/master/snapshot,62.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,397.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/compactions,6.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,2.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,13.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,1.0
+Enis Soztutar,hbase-server/src/main/java/org/apache/hadoop/hbase/util,89.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc,196.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/master,512.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,496.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,27.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/master,1.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/security,193.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,1650.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/security/token,974.0
+Gary Helmling,hbase-server/src/main/java/org/apache/hadoop/hbase/util,258.0
+Jim Kellerman,hbase-server/src/main/java/org/apache/hadoop/hbase/master,37.0
+Jim Kellerman,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,721.0
+Jim Kellerman,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,47.0
+Jim Kellerman,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,52.0
+Jim Kellerman,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,48.0
+Jim Kellerman,hbase-server/src/main/java/org/apache/hadoop/hbase/util,1984.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/master,323.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,27.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,1277.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,6.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver,45.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,26.0
+Jonathan Gray,hbase-server/src/main/java/org/apache/hadoop/hbase/util,168.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/executor,1.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/master,569.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,109.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/master/snapshot,2303.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/metrics,24.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/procedure,2249.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,144.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/compactions,1.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/snapshot,526.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,2.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver,3.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,50.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/util,2797.0
+Jonathan Hsieh,hbase-server/src/main/java/org/apache/hadoop/hbase/util/hbck,383.0
+Kannan Muthukkaruppan,hbase-server/src/main/java/org/apache/hadoop/hbase/util,1.0
+Lars George,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,1.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/constraint,9.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/executor,370.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc,2282.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/master,5370.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/master/balancer,1926.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/master/cleaner,184.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,1297.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/metrics,660.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/metrics/file,113.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/metrics/histogram,220.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/monitoring,469.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/procedure,4.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,10386.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/compactions,328.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,590.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,4347.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/master,34.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver,139.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/security,56.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,964.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/security/token,11.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/util,4119.0
+Michael Stack,hbase-server/src/main/java/org/apache/hadoop/hbase/util/hbck,4.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/master,243.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/master/cleaner,8.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,53.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/metrics,1.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,888.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/compactions,18.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,54.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver,14.0
+Nicolas Spiegelberg,hbase-server/src/main/java/org/apache/hadoop/hbase/util,1299.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc,173.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/master,8.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,23.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,2146.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,3.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,37.0
+Ryan Rawson,hbase-server/src/main/java/org/apache/hadoop/hbase/util,342.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/executor,163.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc,100.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/master,496.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,14.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/monitoring,682.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,1241.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,31.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,46.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,3.0
+Todd Lipcon,hbase-server/src/main/java/org/apache/hadoop/hbase/util,342.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/constraint,1076.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/executor,5.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc,19.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/master,1325.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/master/balancer,32.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/master/cleaner,29.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,248.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/master/snapshot,56.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/metrics,74.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/metrics/histogram,20.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/procedure,59.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,3606.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/compactions,166.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,155.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/snapshot,9.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,804.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver,394.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/security,1.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,733.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/security/token,17.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/util,1985.0
+Zhihong Yu,hbase-server/src/main/java/org/apache/hadoop/hbase/util/hbck,297.0
+Zhihong Yu,hbase-server/src/main/native/src/mlockall_agent,148.0
+anoopsamjohn,hbase-server/src/main/java/org/apache/hadoop/hbase/master,45.0
+anoopsamjohn,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,11.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/constraint,5.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/executor,12.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc,293.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/master,110.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,25.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/master/snapshot,37.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,852.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,7.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/snapshot,3.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,78.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver,26.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/security,4.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,17.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/security/token,3.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/util,12.0
+eclark,hbase-server/src/main/java/org/apache/hadoop/hbase/util/hbck,1.0
+gchanan,hbase-server/src/main/java/org/apache/hadoop/hbase/master,27.0
+gchanan,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,62.0
+gchanan,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,4.0
+gchanan,hbase-server/src/main/java/org/apache/hadoop/hbase/util,34.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/master,2128.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,113.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,199.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/compactions,375.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,11.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,45.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,84.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/util,412.0
+jxiang,hbase-server/src/main/java/org/apache/hadoop/hbase/util/hbck,12.0
+jyates,hbase-server/src/main/java/org/apache/hadoop/hbase/master/cleaner,13.0
+jyates,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,118.0
+jyates,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/compactions,28.0
+karthik,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,70.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc,36.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/master,52.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/master/cleaner,482.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/metrics,2.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,1771.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/compactions,14.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,41.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/master,9.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver,136.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,19.0
+larsh,hbase-server/src/main/java/org/apache/hadoop/hbase/util,230.0
+mbautin,hbase-server/src/main/java/org/apache/hadoop/hbase/master,2.0
+mbautin,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,317.0
+mbautin,hbase-server/src/main/java/org/apache/hadoop/hbase/util,280.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/master,33.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/master/balancer,1.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/master/cleaner,2.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,11.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/master/snapshot,18.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,1995.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/compactions,1.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,9.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,264.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/util,50.0
+mbertozzi,hbase-server/src/main/java/org/apache/hadoop/hbase/util/hbck,8.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/executor,1.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc,1.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/master,776.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/master/balancer,2.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,2.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/monitoring,3.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,197.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,119.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,6.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver,1.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/security,2.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,8.0
+nkeywal,hbase-server/src/main/java/org/apache/hadoop/hbase/util,48.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/master,458.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,172.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/master/snapshot,1.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,235.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/handler,2.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal,33.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/security/access,21.0
+ramkrishna,hbase-server/src/main/java/org/apache/hadoop/hbase/util,1.0
+sershe,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,503.0
+sershe,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/compactions,520.0
+sershe,hbase-server/src/main/java/org/apache/hadoop/hbase/replication/regionserver,3.0
+zjushch,hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile/bucket,2331.0
+zjushch,hbase-server/src/main/java/org/apache/hadoop/hbase/master,339.0
+zjushch,hbase-server/src/main/java/org/apache/hadoop/hbase/master/handler,281.0
+zjushch,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver,1371.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree,39.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode,47.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/column,6.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/row,4.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/timestamp,6.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode,23.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/column,10.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/other,3.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/row,11.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/tokenize,5.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/scanner,87.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/vint,3.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/keyvalue,2.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree,1.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/blockmeta,2.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/builder,9.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/builder/data,4.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/column,10.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/column/data,6.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row,48.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data,78.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/timestamp,8.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/timestamp/data,6.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/bytes,1.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/comparator,1.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/number,2.0
+Michael Stack,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/vint,7.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree,1226.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode,1357.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/column,202.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/row,263.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/timestamp,108.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode,623.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/column,322.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/other,248.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/row,493.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/tokenize,1041.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/scanner,147.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/vint,341.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/keyvalue,53.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree,26.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/blockmeta,80.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/builder,192.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/builder/data,100.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/column,155.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/column/data,107.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row,480.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data,1188.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/timestamp,129.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/timestamp/data,156.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/bytes,33.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/comparator,31.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/number,65.0
+Zhihong Yu,hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/vint,321.0
+,hbase-client/src/main/java/org/apache/hadoop/hbase,42.0
+,hbase-client/src/main/java/org/apache/hadoop/hbase/catalog,22.0
+,hbase-client/src/main/java/org/apache/hadoop/hbase/client,202.0
+,hbase-client/src/main/java/org/apache/hadoop/hbase/client/replication,161.0
+,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,142.0
+,hbase-common/src/main/java/org/apache/hadoop/hbase,48.0
+,hbase-common/src/main/java/org/apache/hadoop/hbase/util,8.0
+Andrew Kyle Purtell,hbase-client/src/main/java/org/apache/hadoop/hbase,452.0
+Andrew Kyle Purtell,hbase-client/src/main/java/org/apache/hadoop/hbase/client,293.0
+Andrew Kyle Purtell,hbase-client/src/main/java/org/apache/hadoop/hbase/client/coprocessor,168.0
+Andrew Kyle Purtell,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,36.0
+Andrew Kyle Purtell,hbase-client/src/test/java/org/apache/hadoop/hbase/client,89.0
+Andrew Kyle Purtell,hbase-common/src/main/java/org/apache/hadoop/hbase,39.0
+Andrew Kyle Purtell,hbase-common/src/main/java/org/apache/hadoop/hbase/io/compress,29.0
+Andrew Kyle Purtell,hbase-common/src/main/java/org/apache/hadoop/hbase/util,201.0
+Bryan Duxbury,hbase-client/src/main/java/org/apache/hadoop/hbase/client,58.0
+Doug Cutting,hbase-client/src/main/java/org/apache/hadoop/hbase,41.0
+Doug Cutting,hbase-common/src/main/java/org/apache/hadoop/hbase,19.0
+Doug Cutting,hbase-common/src/main/java/org/apache/hadoop/hbase/io,136.0
+Doug Meil,hbase-client/src/main/java/org/apache/hadoop/hbase/client,2.0
+Enis Soztutar,hbase-client/src/main/java/org/apache/hadoop/hbase,171.0
+Enis Soztutar,hbase-client/src/main/java/org/apache/hadoop/hbase/client,135.0
+Enis Soztutar,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,16.0
+Enis Soztutar,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,134.0
+Enis Soztutar,hbase-common/src/main/java/org/apache/hadoop/hbase,59.0
+Enis Soztutar,hbase-common/src/main/java/org/apache/hadoop/hbase/io/compress,10.0
+Enis Soztutar,hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding,11.0
+Enis Soztutar,hbase-common/src/main/java/org/apache/hadoop/hbase/util,24.0
+Enis Soztutar,hbase-common/src/test/java/org/apache/hadoop/hbase,265.0
+Gary Helmling,hbase-client/src/main/java/org/apache/hadoop/hbase,154.0
+Gary Helmling,hbase-client/src/main/java/org/apache/hadoop/hbase/client,256.0
+Gary Helmling,hbase-client/src/main/java/org/apache/hadoop/hbase/client/coprocessor,118.0
+Gary Helmling,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,116.0
+Gary Helmling,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,264.0
+Gary Helmling,hbase-common/src/main/java/org/apache/hadoop/hbase,6.0
+Gary Helmling,hbase-common/src/main/java/org/apache/hadoop/hbase/util,143.0
+Jim Kellerman,hbase-client/src/main/java/org/apache/hadoop/hbase,932.0
+Jim Kellerman,hbase-client/src/main/java/org/apache/hadoop/hbase/client,865.0
+Jim Kellerman,hbase-common/src/main/java/org/apache/hadoop/hbase,109.0
+Jim Kellerman,hbase-common/src/main/java/org/apache/hadoop/hbase/io,12.0
+Jim Kellerman,hbase-common/src/main/java/org/apache/hadoop/hbase/util,167.0
+Jonathan Gray,hbase-client/src/main/java/org/apache/hadoop/hbase,13.0
+Jonathan Gray,hbase-client/src/main/java/org/apache/hadoop/hbase/catalog,19.0
+Jonathan Gray,hbase-client/src/main/java/org/apache/hadoop/hbase/client,342.0
+Jonathan Gray,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,127.0
+Jonathan Gray,hbase-common/src/main/java/org/apache/hadoop/hbase,101.0
+Jonathan Gray,hbase-common/src/main/java/org/apache/hadoop/hbase/io,17.0
+Jonathan Gray,hbase-common/src/main/java/org/apache/hadoop/hbase/util,4.0
+Jonathan Gray,hbase-common/src/test/java/org/apache/hadoop/hbase,62.0
+Jonathan Gray,hbase-common/src/test/java/org/apache/hadoop/hbase/util,25.0
+Jonathan Hsieh,hbase-client/src/main/java/org/apache/hadoop/hbase,47.0
+Jonathan Hsieh,hbase-client/src/main/java/org/apache/hadoop/hbase/client,430.0
+Jonathan Hsieh,hbase-client/src/main/java/org/apache/hadoop/hbase/client/coprocessor,1.0
+Jonathan Hsieh,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,1.0
+Jonathan Hsieh,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,82.0
+Jonathan Hsieh,hbase-client/src/test/java/org/apache/hadoop/hbase/client,160.0
+Jonathan Hsieh,hbase-common/src/main/java/org/apache/hadoop/hbase,15.0
+Lars George,hbase-client/src/main/java/org/apache/hadoop/hbase/client,25.0
+Lars George,hbase-common/src/main/java/org/apache/hadoop/hbase,2.0
+Lars George,hbase-common/src/test/java/org/apache/hadoop/hbase,19.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase,2940.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/catalog,916.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/client,7007.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/client/coprocessor,387.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/client/metrics,4.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/client/replication,9.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/coprocessor,102.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,2781.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,3909.0
+Michael Stack,hbase-client/src/test/java/org/apache/hadoop/hbase/client,454.0
+Michael Stack,hbase-client/src/test/java/org/apache/hadoop/hbase/ipc,237.0
+Michael Stack,hbase-common/src/main/java/org/apache/hadoop/hbase,2867.0
+Michael Stack,hbase-common/src/main/java/org/apache/hadoop/hbase/codec,401.0
+Michael Stack,hbase-common/src/main/java/org/apache/hadoop/hbase/io,215.0
+Michael Stack,hbase-common/src/main/java/org/apache/hadoop/hbase/io/compress,270.0
+Michael Stack,hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding,88.0
+Michael Stack,hbase-common/src/main/java/org/apache/hadoop/hbase/io/hfile,5.0
+Michael Stack,hbase-common/src/main/java/org/apache/hadoop/hbase/util,3019.0
+Michael Stack,hbase-common/src/main/java/org/apache/hadoop/hbase/util/test,9.0
+Michael Stack,hbase-common/src/test/java/org/apache/hadoop/hbase,1222.0
+Michael Stack,hbase-common/src/test/java/org/apache/hadoop/hbase/codec,251.0
+Michael Stack,hbase-common/src/test/java/org/apache/hadoop/hbase/util,323.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/byterange,3.0
+Michael Stack,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/byterange/impl,4.0
+Nicolas Spiegelberg,hbase-client/src/main/java/org/apache/hadoop/hbase,137.0
+Nicolas Spiegelberg,hbase-client/src/main/java/org/apache/hadoop/hbase/client,124.0
+Nicolas Spiegelberg,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,76.0
+Nicolas Spiegelberg,hbase-common/src/main/java/org/apache/hadoop/hbase,504.0
+Nicolas Spiegelberg,hbase-common/src/main/java/org/apache/hadoop/hbase/io/hfile,36.0
+Nicolas Spiegelberg,hbase-common/src/main/java/org/apache/hadoop/hbase/util,94.0
+Nicolas Spiegelberg,hbase-common/src/main/java/org/apache/hadoop/hbase/util/test,80.0
+Nicolas Spiegelberg,hbase-common/src/test/java/org/apache/hadoop/hbase,110.0
+Nicolas Spiegelberg,hbase-common/src/test/java/org/apache/hadoop/hbase/util,65.0
+Nitay Joffe,hbase-client/src/main/java/org/apache/hadoop/hbase/client,21.0
+Nitay Joffe,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,53.0
+Nitay Joffe,hbase-common/src/main/java/org/apache/hadoop/hbase,7.0
+Ryan Rawson,hbase-client/src/main/java/org/apache/hadoop/hbase,66.0
+Ryan Rawson,hbase-client/src/main/java/org/apache/hadoop/hbase/client,1710.0
+Ryan Rawson,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,10.0
+Ryan Rawson,hbase-common/src/main/java/org/apache/hadoop/hbase,674.0
+Ryan Rawson,hbase-common/src/main/java/org/apache/hadoop/hbase/io,291.0
+Ryan Rawson,hbase-common/src/main/java/org/apache/hadoop/hbase/io/compress,3.0
+Ryan Rawson,hbase-common/src/main/java/org/apache/hadoop/hbase/util,479.0
+Ryan Rawson,hbase-common/src/test/java/org/apache/hadoop/hbase,90.0
+Ryan Rawson,hbase-common/src/test/java/org/apache/hadoop/hbase/util,97.0
+Todd Lipcon,hbase-client/src/main/java/org/apache/hadoop/hbase,39.0
+Todd Lipcon,hbase-client/src/main/java/org/apache/hadoop/hbase/client,15.0
+Todd Lipcon,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,4.0
+Todd Lipcon,hbase-common/src/main/java/org/apache/hadoop/hbase,36.0
+Todd Lipcon,hbase-common/src/main/java/org/apache/hadoop/hbase/io,25.0
+Todd Lipcon,hbase-common/src/main/java/org/apache/hadoop/hbase/util,75.0
+Todd Lipcon,hbase-common/src/test/java/org/apache/hadoop/hbase/util,7.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase,548.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/catalog,33.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/client,2358.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/client/coprocessor,629.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/client/metrics,84.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/client/replication,31.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/coprocessor,72.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,197.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,525.0
+Zhihong Yu,hbase-client/src/test/java/org/apache/hadoop/hbase/client,90.0
+Zhihong Yu,hbase-common/src/main/java/org/apache/hadoop/hbase,569.0
+Zhihong Yu,hbase-common/src/main/java/org/apache/hadoop/hbase/io,3.0
+Zhihong Yu,hbase-common/src/main/java/org/apache/hadoop/hbase/io/compress,58.0
+Zhihong Yu,hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding,13.0
+Zhihong Yu,hbase-common/src/main/java/org/apache/hadoop/hbase/io/hfile,152.0
+Zhihong Yu,hbase-common/src/main/java/org/apache/hadoop/hbase/util,816.0
+Zhihong Yu,hbase-common/src/main/java/org/apache/hadoop/hbase/util/test,233.0
+Zhihong Yu,hbase-common/src/test/java/org/apache/hadoop/hbase,263.0
+Zhihong Yu,hbase-common/src/test/java/org/apache/hadoop/hbase/util,239.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/byterange,177.0
+Zhihong Yu,hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/byterange/impl,107.0
+anoopsamjohn,hbase-client/src/main/java/org/apache/hadoop/hbase,54.0
+anoopsamjohn,hbase-client/src/main/java/org/apache/hadoop/hbase/client,4.0
+anoopsamjohn,hbase-common/src/main/java/org/apache/hadoop/hbase/util,117.0
+anoopsamjohn,hbase-common/src/test/java/org/apache/hadoop/hbase/util,38.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase,71.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/catalog,18.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/client,185.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/client/coprocessor,26.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/client/metrics,54.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/client/replication,4.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/coprocessor,4.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,42.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/snapshot,66.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,87.0
+eclark,hbase-common/src/main/java/org/apache/hadoop/hbase,31.0
+eclark,hbase-common/src/main/java/org/apache/hadoop/hbase/io/compress,73.0
+eclark,hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding,3.0
+gchanan,hbase-client/src/main/java/org/apache/hadoop/hbase/client,70.0
+gchanan,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,18.0
+gchanan,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,150.0
+jxiang,hbase-client/src/main/java/org/apache/hadoop/hbase,20.0
+jxiang,hbase-client/src/main/java/org/apache/hadoop/hbase/client,177.0
+jxiang,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,238.0
+jxiang,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,97.0
+jxiang,hbase-client/src/test/java/org/apache/hadoop/hbase/client,17.0
+jxiang,hbase-common/src/main/java/org/apache/hadoop/hbase,12.0
+jxiang,hbase-common/src/test/java/org/apache/hadoop/hbase/util,1.0
+larsh,hbase-client/src/main/java/org/apache/hadoop/hbase,46.0
+larsh,hbase-client/src/main/java/org/apache/hadoop/hbase/catalog,3.0
+larsh,hbase-client/src/main/java/org/apache/hadoop/hbase/client,815.0
+larsh,hbase-client/src/main/java/org/apache/hadoop/hbase/client/coprocessor,2.0
+larsh,hbase-client/src/main/java/org/apache/hadoop/hbase/client/replication,4.0
+larsh,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,51.0
+larsh,hbase-common/src/main/java/org/apache/hadoop/hbase,148.0
+larsh,hbase-common/src/main/java/org/apache/hadoop/hbase/io/compress,4.0
+larsh,hbase-common/src/main/java/org/apache/hadoop/hbase/util,350.0
+larsh,hbase-common/src/test/java/org/apache/hadoop/hbase,3.0
+larsh,hbase-common/src/test/java/org/apache/hadoop/hbase/util,110.0
+mbautin,hbase-client/src/main/java/org/apache/hadoop/hbase,140.0
+mbautin,hbase-client/src/main/java/org/apache/hadoop/hbase/client,97.0
+mbautin,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,24.0
+mbautin,hbase-client/src/test/java/org/apache/hadoop/hbase/client,237.0
+mbautin,hbase-common/src/main/java/org/apache/hadoop/hbase,178.0
+mbautin,hbase-common/src/main/java/org/apache/hadoop/hbase/io/compress,193.0
+mbautin,hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding,2808.0
+mbautin,hbase-common/src/main/java/org/apache/hadoop/hbase/io/hfile,26.0
+mbautin,hbase-common/src/main/java/org/apache/hadoop/hbase/util,418.0
+mbautin,hbase-common/src/main/java/org/apache/hadoop/hbase/util/test,268.0
+mbautin,hbase-common/src/test/java/org/apache/hadoop/hbase,18.0
+mbautin,hbase-common/src/test/java/org/apache/hadoop/hbase/util,1.0
+mbertozzi,hbase-client/src/main/java/org/apache/hadoop/hbase/client,3.0
+mbertozzi,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,1.0
+nkeywal,hbase-client/src/main/java/org/apache/hadoop/hbase,151.0
+nkeywal,hbase-client/src/main/java/org/apache/hadoop/hbase/catalog,1.0
+nkeywal,hbase-client/src/main/java/org/apache/hadoop/hbase/client,553.0
+nkeywal,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,1.0
+nkeywal,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,94.0
+nkeywal,hbase-common/src/main/java/org/apache/hadoop/hbase,26.0
+nkeywal,hbase-common/src/main/java/org/apache/hadoop/hbase/util,20.0
+nkeywal,hbase-common/src/test/java/org/apache/hadoop/hbase,308.0
+nkeywal,hbase-common/src/test/java/org/apache/hadoop/hbase/util,11.0
+ramkrishna,hbase-client/src/main/java/org/apache/hadoop/hbase/client,104.0
+ramkrishna,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,1.0
+ramkrishna,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper,94.0
+sershe,hbase-client/src/main/java/org/apache/hadoop/hbase,4.0
+sershe,hbase-client/src/main/java/org/apache/hadoop/hbase/client,21.0
+zjushch,hbase-client/src/main/java/org/apache/hadoop/hbase,23.0
+zjushch,hbase-client/src/main/java/org/apache/hadoop/hbase/catalog,32.0
+zjushch,hbase-client/src/main/java/org/apache/hadoop/hbase/client,47.0
+zjushch,hbase-client/src/main/java/org/apache/hadoop/hbase/protobuf,57.0
+zjushch,hbase-common/src/main/java/org/apache/hadoop/hbase,16.0
+zjushch,hbase-common/src/main/java/org/apache/hadoop/hbase/util,195.0
+,bin,1.0
+,bin/replication,73.0
+,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,171.0
+,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,1.0
+,hbase-client/src/main/java/org/apache/hadoop/hbase/replication,690.0
+,hbase-client/src/main/java/org/apache/hadoop/hbase/util,6.0
+Andrew Kyle Purtell,bin,20.0
+Andrew Kyle Purtell,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,88.0
+Andrew Kyle Purtell,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,411.0
+Andrew Kyle Purtell,hbase-client/src/main/java/org/apache/hadoop/hbase/ipc,76.0
+Doug Meil,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,8.0
+Enis Soztutar,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,51.0
+Enis Soztutar,hbase-client/src/main/java/org/apache/hadoop/hbase/ipc,8.0
+Gary Helmling,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,22.0
+Gary Helmling,hbase-client/src/main/java/org/apache/hadoop/hbase/ipc,367.0
+Gary Helmling,hbase-client/src/main/java/org/apache/hadoop/hbase/security,349.0
+Gary Helmling,hbase-client/src/main/java/org/apache/hadoop/hbase/security/access,630.0
+Gary Helmling,hbase-client/src/main/java/org/apache/hadoop/hbase/security/token,232.0
+Jim Kellerman,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,248.0
+Jim Kellerman,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,13.0
+Jim Kellerman,hbase-client/src/main/java/org/apache/hadoop/hbase/util,12.0
+Jonathan Gray,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,30.0
+Jonathan Gray,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,551.0
+Jonathan Gray,hbase-client/src/main/java/org/apache/hadoop/hbase/ipc,4.0
+Jonathan Hsieh,bin,40.0
+Jonathan Hsieh,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,564.0
+Jonathan Hsieh,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,9.0
+Jonathan Hsieh,hbase-client/src/main/java/org/apache/hadoop/hbase/util,6.0
+Michael Stack,bin,587.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,743.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,4267.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/ipc,1703.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/master,3.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/regionserver,31.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/replication,639.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/security,433.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/security/access,12.0
+Michael Stack,hbase-client/src/main/java/org/apache/hadoop/hbase/util,773.0
+Michael Stack,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/mapreduce,56.0
+Michael Stack,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver,8.0
+Michael Stack,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/rest,91.0
+Michael Stack,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/thrift,133.0
+Michael Stack,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase,43.0
+Michael Stack,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/rest,3.0
+Michael Stack,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/test,213.0
+Michael Stack,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/thrift,44.0
+Ryan Rawson,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,49.0
+Ryan Rawson,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,760.0
+Ryan Rawson,hbase-client/src/main/java/org/apache/hadoop/hbase/ipc,20.0
+Ryan Rawson,hbase-client/src/main/java/org/apache/hadoop/hbase/util,13.0
+Todd Lipcon,bin,1.0
+Todd Lipcon,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,30.0
+Todd Lipcon,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,36.0
+Zhihong Yu,bin,43.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,208.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,591.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/ipc,238.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/replication,72.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/security,44.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/security/access,29.0
+Zhihong Yu,hbase-client/src/main/java/org/apache/hadoop/hbase/util,16.0
+Zhihong Yu,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/master,33.0
+Zhihong Yu,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/metrics,78.0
+Zhihong Yu,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/regionserver,33.0
+Zhihong Yu,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/replication/regionserver,29.0
+Zhihong Yu,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/rest,30.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,139.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/executor,172.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,129.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/ipc,260.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/master,5.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/regionserver,35.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/replication,29.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/security,136.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/security/token,6.0
+eclark,hbase-client/src/main/java/org/apache/hadoop/hbase/util,9.0
+eclark,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver,497.0
+eclark,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/rest,8.0
+eclark,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/thrift,17.0
+eclark,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/master,11.0
+eclark,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/metrics,6.0
+eclark,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/regionserver,118.0
+eclark,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/regionserver/wal,19.0
+eclark,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/replication/regionserver,8.0
+eclark,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/rest,7.0
+eclark,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/test,25.0
+eclark,hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/thrift,11.0
+gchanan,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,53.0
+jxiang,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,48.0
+jxiang,hbase-client/src/main/java/org/apache/hadoop/hbase/master,289.0
+karthik,bin,143.0
+larsh,bin,8.0
+larsh,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,47.0
+larsh,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,80.0
+larsh,hbase-client/src/main/java/org/apache/hadoop/hbase/ipc,1.0
+larsh,hbase-client/src/main/java/org/apache/hadoop/hbase/replication,116.0
+mbautin,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,156.0
+nkeywal,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,34.0
+nkeywal,hbase-client/src/main/java/org/apache/hadoop/hbase/filter,7.0
+nkeywal,hbase-client/src/main/java/org/apache/hadoop/hbase/ipc,159.0
+nkeywal,hbase-client/src/main/java/org/apache/hadoop/hbase/security/access,2.0
+sershe,hbase-client/src/main/java/org/apache/hadoop/hbase/exceptions,78.0
+zjushch,hbase-client/src/main/java/org/apache/hadoop/hbase/executor,3.0
+Michael Stack,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase,83.0
+Michael Stack,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/master,147.0
+Michael Stack,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/metrics,27.0
+Michael Stack,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/regionserver,66.0
+Michael Stack,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver,5.0
+Michael Stack,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/rest,86.0
+Michael Stack,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/thrift,83.0
+Michael Stack,hbase-hadoop-compat/src/main/java/org/apache/hadoop/metrics2,65.0
+Michael Stack,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase,37.0
+Michael Stack,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/master,1.0
+Michael Stack,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/regionserver,1.0
+Michael Stack,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/rest,3.0
+Michael Stack,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/test,128.0
+Michael Stack,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/thrift,3.0
+Michael Stack,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/master,94.0
+Michael Stack,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/metrics,61.0
+Michael Stack,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver,6.0
+Michael Stack,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/impl,3.0
+Michael Stack,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/lib,432.0
+Michael Stack,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/util,370.0
+Zhihong Yu,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase,72.0
+Zhihong Yu,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/master,56.0
+Zhihong Yu,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/metrics,94.0
+Zhihong Yu,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/regionserver,34.0
+Zhihong Yu,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver,37.0
+Zhihong Yu,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/thrift,23.0
+Zhihong Yu,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/master,29.0
+Zhihong Yu,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/regionserver,29.0
+Zhihong Yu,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/replication/regionserver,30.0
+Zhihong Yu,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/rest,30.0
+Zhihong Yu,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/thrift,29.0
+Zhihong Yu,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/master,42.0
+Zhihong Yu,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/metrics,128.0
+Zhihong Yu,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver,28.0
+Zhihong Yu,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/lib,464.0
+eclark,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase,1.0
+eclark,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/ipc,157.0
+eclark,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/master,28.0
+eclark,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/metrics,32.0
+eclark,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/regionserver,548.0
+eclark,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/regionserver/wal,86.0
+eclark,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver,6.0
+eclark,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/rest,12.0
+eclark,hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/thrift,9.0
+eclark,hbase-hadoop-compat/src/main/java/org/apache/hadoop/metrics2,10.0
+eclark,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/master,6.0
+eclark,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/regionserver,6.0
+eclark,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/regionserver/wal,14.0
+eclark,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/replication/regionserver,5.0
+eclark,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/rest,4.0
+eclark,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/test,27.0
+eclark,hbase-hadoop-compat/src/test/java/org/apache/hadoop/hbase/thrift,5.0
+eclark,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/ipc,189.0
+eclark,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/master,33.0
+eclark,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/metrics,28.0
+eclark,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver/wal,81.0
+eclark,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver,9.0
+eclark,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/impl,76.0
+eclark,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/lib,5.0

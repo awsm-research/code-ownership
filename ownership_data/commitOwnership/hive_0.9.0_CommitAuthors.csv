@@ -1,0 +1,1145 @@
+"File","Author","NumCommits"
+"","Ashutosh Chauhan",24
+"bin","Ashutosh Chauhan",1
+"bin/ext","Ashutosh Chauhan",1
+"cli","Ashutosh Chauhan",NA
+"cli/src/java/org/apache/hadoop/hive/cli","Ashutosh Chauhan",1
+"common","Ashutosh Chauhan",NA
+"common/src/java/conf","Ashutosh Chauhan",1
+"common/src/java/org/apache/hadoop/hive/common","Ashutosh Chauhan",NA
+"common/src/java/org/apache/hadoop/hive/common/cli","Ashutosh Chauhan",1
+"common/src/java/org/apache/hadoop/hive/common/io","Ashutosh Chauhan",NA
+"common/src/java/org/apache/hadoop/hive/common/metrics","Ashutosh Chauhan",2
+"common/src/java/org/apache/hadoop/hive/conf","Ashutosh Chauhan",9
+"common/src/test/org/apache/hadoop/hive/conf","Ashutosh Chauhan",NA
+"common/src/test/resources","Ashutosh Chauhan",NA
+"contrib/src/test/results/clientnegative","Ashutosh Chauhan",1
+"contrib/src/test/results/clientpositive","Ashutosh Chauhan",1
+"data/conf","Ashutosh Chauhan",1
+"data/scripts","Ashutosh Chauhan",1
+"data/warehouse/src","Ashutosh Chauhan",1
+"docs","Ashutosh Chauhan",1
+"eclipse-templates","Ashutosh Chauhan",3
+"eclipse-templates/.externalToolBuilders","Ashutosh Chauhan",1
+"eclipse-templates/.settings","Ashutosh Chauhan",1
+"hbase-handler","Ashutosh Chauhan",1
+"hbase-handler/src/java/org/apache/hadoop/hive/hbase","Ashutosh Chauhan",5
+"hbase-handler/src/test/org/apache/hadoop/hive/hbase","Ashutosh Chauhan",3
+"hbase-handler/src/test/queries","Ashutosh Chauhan",3
+"hbase-handler/src/test/results","Ashutosh Chauhan",3
+"hbase-handler/src/test/templates","Ashutosh Chauhan",1
+"hwi/src/java/org/apache/hadoop/hive/hwi","Ashutosh Chauhan",1
+"hwi/web","Ashutosh Chauhan",2
+"hwi/web/img","Ashutosh Chauhan",1
+"ivy","Ashutosh Chauhan",3
+"jdbc/src/java/org/apache/hadoop/hive/jdbc","Ashutosh Chauhan",2
+"jdbc/src/test/org/apache/hadoop/hive/jdbc","Ashutosh Chauhan",NA
+"lib","Ashutosh Chauhan",1
+"metastore/if","Ashutosh Chauhan",3
+"metastore/scripts","Ashutosh Chauhan",1
+"metastore/scripts/upgrade","Ashutosh Chauhan",2
+"metastore/scripts/upgrade/derby","Ashutosh Chauhan",NA
+"metastore/scripts/upgrade/mysql","Ashutosh Chauhan",NA
+"metastore/src/gen-py","Ashutosh Chauhan",1
+"metastore/src/gen/thrift/gen-cpp","Ashutosh Chauhan",2
+"metastore/src/gen/thrift/gen-javabean/org/apache/hadoop/hive/metastore/api","Ashutosh Chauhan",2
+"metastore/src/gen/thrift/gen-php","Ashutosh Chauhan",1
+"metastore/src/gen/thrift/gen-php/hive_metastore","Ashutosh Chauhan",2
+"metastore/src/gen/thrift/gen-py","Ashutosh Chauhan",1
+"metastore/src/gen/thrift/gen-py/hive_metastore","Ashutosh Chauhan",2
+"metastore/src/gen/thrift/gen-rb","Ashutosh Chauhan",2
+"metastore/src/java/org/apache/hadoop/hive/metastore","Ashutosh Chauhan",13
+"metastore/src/java/org/apache/hadoop/hive/metastore/events","Ashutosh Chauhan",1
+"metastore/src/java/org/apache/hadoop/hive/metastore/hooks","Ashutosh Chauhan",1
+"metastore/src/java/org/apache/hadoop/hive/metastore/parser","Ashutosh Chauhan",1
+"metastore/src/model","Ashutosh Chauhan",2
+"metastore/src/model/org/apache/hadoop/hive/metastore/model","Ashutosh Chauhan",2
+"metastore/src/test/org/apache/hadoop/hive/metastore","Ashutosh Chauhan",5
+"ql","Ashutosh Chauhan",1
+"ql/if","Ashutosh Chauhan",1
+"ql/src/gen/thrift/gen-py","Ashutosh Chauhan",1
+"ql/src/java/conf","Ashutosh Chauhan",1
+"ql/src/java/org/apache/hadoop/hive/ql","Ashutosh Chauhan",2
+"ql/src/java/org/apache/hadoop/hive/ql/exec","Ashutosh Chauhan",8
+"ql/src/java/org/apache/hadoop/hive/ql/exec/errors","Ashutosh Chauhan",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec/persistence","Ashutosh Chauhan",1
+"ql/src/java/org/apache/hadoop/hive/ql/history","Ashutosh Chauhan",1
+"ql/src/java/org/apache/hadoop/hive/ql/hooks","Ashutosh Chauhan",1
+"ql/src/java/org/apache/hadoop/hive/ql/index","Ashutosh Chauhan",2
+"ql/src/java/org/apache/hadoop/hive/ql/index/compact","Ashutosh Chauhan",NA
+"ql/src/java/org/apache/hadoop/hive/ql/io","Ashutosh Chauhan",6
+"ql/src/java/org/apache/hadoop/hive/ql/io/rcfile/merge","Ashutosh Chauhan",1
+"ql/src/java/org/apache/hadoop/hive/ql/log","Ashutosh Chauhan",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata","Ashutosh Chauhan",3
+"ql/src/java/org/apache/hadoop/hive/ql/metadata/formatting","Ashutosh Chauhan",2
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer","Ashutosh Chauhan",1
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/index","Ashutosh Chauhan",1
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/lineage","Ashutosh Chauhan",1
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/physical","Ashutosh Chauhan",2
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/unionproc","Ashutosh Chauhan",NA
+"ql/src/java/org/apache/hadoop/hive/ql/parse","Ashutosh Chauhan",6
+"ql/src/java/org/apache/hadoop/hive/ql/plan","Ashutosh Chauhan",5
+"ql/src/java/org/apache/hadoop/hive/ql/ppd","Ashutosh Chauhan",2
+"ql/src/java/org/apache/hadoop/hive/ql/processors","Ashutosh Chauhan",NA
+"ql/src/java/org/apache/hadoop/hive/ql/security/authorization","Ashutosh Chauhan",1
+"ql/src/java/org/apache/hadoop/hive/ql/session","Ashutosh Chauhan",NA
+"ql/src/java/org/apache/hadoop/hive/ql/stats/jdbc","Ashutosh Chauhan",2
+"ql/src/java/org/apache/hadoop/hive/ql/udf","Ashutosh Chauhan",3
+"ql/src/java/org/apache/hadoop/hive/ql/udf/generic","Ashutosh Chauhan",1
+"ql/src/test/org/apache/hadoop/hive/ql","Ashutosh Chauhan",3
+"ql/src/test/org/apache/hadoop/hive/ql/exec","Ashutosh Chauhan",2
+"ql/src/test/org/apache/hadoop/hive/ql/history","Ashutosh Chauhan",NA
+"ql/src/test/org/apache/hadoop/hive/ql/hooks","Ashutosh Chauhan",NA
+"ql/src/test/org/apache/hadoop/hive/ql/io","Ashutosh Chauhan",2
+"ql/src/test/org/apache/hadoop/hive/ql/metadata","Ashutosh Chauhan",1
+"ql/src/test/org/apache/hadoop/hive/ql/plan","Ashutosh Chauhan",NA
+"ql/src/test/queries/clientnegative","Ashutosh Chauhan",1
+"ql/src/test/queries/clientpositive","Ashutosh Chauhan",2
+"ql/src/test/queries/negative","Ashutosh Chauhan",NA
+"ql/src/test/results/clientnegative","Ashutosh Chauhan",2
+"ql/src/test/results/clientpositive","Ashutosh Chauhan",5
+"ql/src/test/results/compiler/errors","Ashutosh Chauhan",1
+"ql/src/test/results/compiler/plan","Ashutosh Chauhan",NA
+"ql/src/test/scripts","Ashutosh Chauhan",1
+"ql/src/test/templates","Ashutosh Chauhan",1
+"serde/if","Ashutosh Chauhan",1
+"serde/if/test","Ashutosh Chauhan",1
+"serde/src/gen-java/org/apache/hadoop/hive/serde/test","Ashutosh Chauhan",NA
+"serde/src/gen-py","Ashutosh Chauhan",1
+"serde/src/gen/thrift/gen-py","Ashutosh Chauhan",1
+"serde/src/java/org/apache/hadoop/hive/serde2","Ashutosh Chauhan",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/columnar","Ashutosh Chauhan",2
+"serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type","Ashutosh Chauhan",1
+"serde/src/java/org/apache/hadoop/hive/serde2/io","Ashutosh Chauhan",1
+"serde/src/java/org/apache/hadoop/hive/serde2/lazy","Ashutosh Chauhan",2
+"serde/src/java/org/apache/hadoop/hive/serde2/lazybinary","Ashutosh Chauhan",2
+"serde/src/java/org/apache/hadoop/hive/serde2/lazydio","Ashutosh Chauhan",1
+"serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/primitive","Ashutosh Chauhan",1
+"serde/src/test/org/apache/hadoop/hive/serde2/objectinspector","Ashutosh Chauhan",1
+"service/lib/php/ext/thrift_protocol","Ashutosh Chauhan",1
+"service/lib/php/ext/thrift_protocol/tags/1.0.0","Ashutosh Chauhan",1
+"service/lib/py/fb303","Ashutosh Chauhan",1
+"service/lib/py/thrift/protocol","Ashutosh Chauhan",1
+"service/lib/py/thrift/reflection","Ashutosh Chauhan",1
+"service/lib/py/thrift/reflection/limited","Ashutosh Chauhan",1
+"service/src/gen-py","Ashutosh Chauhan",1
+"service/src/gen/thrift/gen-py","Ashutosh Chauhan",1
+"service/src/java/org/apache/hadoop/hive/service","Ashutosh Chauhan",1
+"service/src/test/php","Ashutosh Chauhan",1
+"shims","Ashutosh Chauhan",2
+"shims/src/0.20/java/org/apache/hadoop/fs","Ashutosh Chauhan",NA
+"shims/src/0.20/java/org/apache/hadoop/hive/shims","Ashutosh Chauhan",2
+"shims/src/0.20S/java/org/apache/hadoop/hive/shims","Ashutosh Chauhan",1
+"shims/src/0.20S/java/org/apache/hadoop/hive/thrift","Ashutosh Chauhan",1
+"shims/src/0.23/java/org/apache/hadoop/hive/shims","Ashutosh Chauhan",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/thrift","Ashutosh Chauhan",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/shims","Ashutosh Chauhan",1
+"shims/src/common-secure/java/org/apache/hadoop/hive/thrift","Ashutosh Chauhan",3
+"shims/src/common/java/org/apache/hadoop/hive/io","Ashutosh Chauhan",1
+"shims/src/common/java/org/apache/hadoop/hive/shims","Ashutosh Chauhan",3
+"shims/src/common/java/org/apache/hadoop/hive/thrift","Ashutosh Chauhan",1
+"shims/src/test/org/apache/hadoop/hive/thrift","Ashutosh Chauhan",3
+"testlibs","Ashutosh Chauhan",NA
+"testutils","Ashutosh Chauhan",1
+"testutils/ptest","Ashutosh Chauhan",NA
+"","Namit Jain",27
+"bin","Namit Jain",NA
+"bin/ext","Namit Jain",NA
+"cli","Namit Jain",NA
+"cli/src/java/org/apache/hadoop/hive/cli","Namit Jain",3
+"common","Namit Jain",NA
+"common/src/java/conf","Namit Jain",NA
+"common/src/java/org/apache/hadoop/hive/common","Namit Jain",NA
+"common/src/java/org/apache/hadoop/hive/common/cli","Namit Jain",NA
+"common/src/java/org/apache/hadoop/hive/common/io","Namit Jain",1
+"common/src/java/org/apache/hadoop/hive/common/metrics","Namit Jain",NA
+"common/src/java/org/apache/hadoop/hive/conf","Namit Jain",6
+"common/src/test/org/apache/hadoop/hive/conf","Namit Jain",NA
+"common/src/test/resources","Namit Jain",NA
+"contrib/src/test/results/clientnegative","Namit Jain",1
+"contrib/src/test/results/clientpositive","Namit Jain",1
+"data/conf","Namit Jain",NA
+"data/scripts","Namit Jain",NA
+"data/warehouse/src","Namit Jain",NA
+"docs","Namit Jain",NA
+"eclipse-templates","Namit Jain",1
+"eclipse-templates/.externalToolBuilders","Namit Jain",NA
+"eclipse-templates/.settings","Namit Jain",NA
+"hbase-handler","Namit Jain",NA
+"hbase-handler/src/java/org/apache/hadoop/hive/hbase","Namit Jain",NA
+"hbase-handler/src/test/org/apache/hadoop/hive/hbase","Namit Jain",NA
+"hbase-handler/src/test/queries","Namit Jain",NA
+"hbase-handler/src/test/results","Namit Jain",NA
+"hbase-handler/src/test/templates","Namit Jain",NA
+"hwi/src/java/org/apache/hadoop/hive/hwi","Namit Jain",NA
+"hwi/web","Namit Jain",NA
+"hwi/web/img","Namit Jain",NA
+"ivy","Namit Jain",NA
+"jdbc/src/java/org/apache/hadoop/hive/jdbc","Namit Jain",NA
+"jdbc/src/test/org/apache/hadoop/hive/jdbc","Namit Jain",NA
+"lib","Namit Jain",NA
+"metastore/if","Namit Jain",2
+"metastore/scripts","Namit Jain",NA
+"metastore/scripts/upgrade","Namit Jain",NA
+"metastore/scripts/upgrade/derby","Namit Jain",1
+"metastore/scripts/upgrade/mysql","Namit Jain",1
+"metastore/src/gen-py","Namit Jain",NA
+"metastore/src/gen/thrift/gen-cpp","Namit Jain",2
+"metastore/src/gen/thrift/gen-javabean/org/apache/hadoop/hive/metastore/api","Namit Jain",2
+"metastore/src/gen/thrift/gen-php","Namit Jain",NA
+"metastore/src/gen/thrift/gen-php/hive_metastore","Namit Jain",2
+"metastore/src/gen/thrift/gen-py","Namit Jain",NA
+"metastore/src/gen/thrift/gen-py/hive_metastore","Namit Jain",2
+"metastore/src/gen/thrift/gen-rb","Namit Jain",2
+"metastore/src/java/org/apache/hadoop/hive/metastore","Namit Jain",8
+"metastore/src/java/org/apache/hadoop/hive/metastore/events","Namit Jain",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/hooks","Namit Jain",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/parser","Namit Jain",NA
+"metastore/src/model","Namit Jain",1
+"metastore/src/model/org/apache/hadoop/hive/metastore/model","Namit Jain",1
+"metastore/src/test/org/apache/hadoop/hive/metastore","Namit Jain",2
+"ql","Namit Jain",1
+"ql/if","Namit Jain",NA
+"ql/src/gen/thrift/gen-py","Namit Jain",NA
+"ql/src/java/conf","Namit Jain",NA
+"ql/src/java/org/apache/hadoop/hive/ql","Namit Jain",5
+"ql/src/java/org/apache/hadoop/hive/ql/exec","Namit Jain",10
+"ql/src/java/org/apache/hadoop/hive/ql/exec/errors","Namit Jain",1
+"ql/src/java/org/apache/hadoop/hive/ql/exec/persistence","Namit Jain",NA
+"ql/src/java/org/apache/hadoop/hive/ql/history","Namit Jain",1
+"ql/src/java/org/apache/hadoop/hive/ql/hooks","Namit Jain",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index","Namit Jain",1
+"ql/src/java/org/apache/hadoop/hive/ql/index/compact","Namit Jain",1
+"ql/src/java/org/apache/hadoop/hive/ql/io","Namit Jain",2
+"ql/src/java/org/apache/hadoop/hive/ql/io/rcfile/merge","Namit Jain",NA
+"ql/src/java/org/apache/hadoop/hive/ql/log","Namit Jain",1
+"ql/src/java/org/apache/hadoop/hive/ql/metadata","Namit Jain",3
+"ql/src/java/org/apache/hadoop/hive/ql/metadata/formatting","Namit Jain",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer","Namit Jain",6
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/index","Namit Jain",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/lineage","Namit Jain",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/physical","Namit Jain",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/unionproc","Namit Jain",2
+"ql/src/java/org/apache/hadoop/hive/ql/parse","Namit Jain",11
+"ql/src/java/org/apache/hadoop/hive/ql/plan","Namit Jain",2
+"ql/src/java/org/apache/hadoop/hive/ql/ppd","Namit Jain",NA
+"ql/src/java/org/apache/hadoop/hive/ql/processors","Namit Jain",1
+"ql/src/java/org/apache/hadoop/hive/ql/security/authorization","Namit Jain",NA
+"ql/src/java/org/apache/hadoop/hive/ql/session","Namit Jain",4
+"ql/src/java/org/apache/hadoop/hive/ql/stats/jdbc","Namit Jain",1
+"ql/src/java/org/apache/hadoop/hive/ql/udf","Namit Jain",1
+"ql/src/java/org/apache/hadoop/hive/ql/udf/generic","Namit Jain",NA
+"ql/src/test/org/apache/hadoop/hive/ql","Namit Jain",2
+"ql/src/test/org/apache/hadoop/hive/ql/exec","Namit Jain",NA
+"ql/src/test/org/apache/hadoop/hive/ql/history","Namit Jain",1
+"ql/src/test/org/apache/hadoop/hive/ql/hooks","Namit Jain",1
+"ql/src/test/org/apache/hadoop/hive/ql/io","Namit Jain",NA
+"ql/src/test/org/apache/hadoop/hive/ql/metadata","Namit Jain",1
+"ql/src/test/org/apache/hadoop/hive/ql/plan","Namit Jain",NA
+"ql/src/test/queries/clientnegative","Namit Jain",NA
+"ql/src/test/queries/clientpositive","Namit Jain",3
+"ql/src/test/queries/negative","Namit Jain",1
+"ql/src/test/results/clientnegative","Namit Jain",3
+"ql/src/test/results/clientpositive","Namit Jain",8
+"ql/src/test/results/compiler/errors","Namit Jain",1
+"ql/src/test/results/compiler/plan","Namit Jain",NA
+"ql/src/test/scripts","Namit Jain",NA
+"ql/src/test/templates","Namit Jain",NA
+"serde/if","Namit Jain",NA
+"serde/if/test","Namit Jain",NA
+"serde/src/gen-java/org/apache/hadoop/hive/serde/test","Namit Jain",NA
+"serde/src/gen-py","Namit Jain",NA
+"serde/src/gen/thrift/gen-py","Namit Jain",NA
+"serde/src/java/org/apache/hadoop/hive/serde2","Namit Jain",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/columnar","Namit Jain",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type","Namit Jain",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/io","Namit Jain",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazy","Namit Jain",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazybinary","Namit Jain",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazydio","Namit Jain",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/primitive","Namit Jain",NA
+"serde/src/test/org/apache/hadoop/hive/serde2/objectinspector","Namit Jain",NA
+"service/lib/php/ext/thrift_protocol","Namit Jain",NA
+"service/lib/php/ext/thrift_protocol/tags/1.0.0","Namit Jain",NA
+"service/lib/py/fb303","Namit Jain",NA
+"service/lib/py/thrift/protocol","Namit Jain",NA
+"service/lib/py/thrift/reflection","Namit Jain",NA
+"service/lib/py/thrift/reflection/limited","Namit Jain",NA
+"service/src/gen-py","Namit Jain",NA
+"service/src/gen/thrift/gen-py","Namit Jain",NA
+"service/src/java/org/apache/hadoop/hive/service","Namit Jain",NA
+"service/src/test/php","Namit Jain",NA
+"shims","Namit Jain",NA
+"shims/src/0.20/java/org/apache/hadoop/fs","Namit Jain",NA
+"shims/src/0.20/java/org/apache/hadoop/hive/shims","Namit Jain",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/shims","Namit Jain",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/thrift","Namit Jain",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/shims","Namit Jain",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/thrift","Namit Jain",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/shims","Namit Jain",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/thrift","Namit Jain",NA
+"shims/src/common/java/org/apache/hadoop/hive/io","Namit Jain",NA
+"shims/src/common/java/org/apache/hadoop/hive/shims","Namit Jain",NA
+"shims/src/common/java/org/apache/hadoop/hive/thrift","Namit Jain",NA
+"shims/src/test/org/apache/hadoop/hive/thrift","Namit Jain",NA
+"testlibs","Namit Jain",1
+"testutils","Namit Jain",NA
+"testutils/ptest","Namit Jain",NA
+"","Kevin Wilfong",3
+"bin","Kevin Wilfong",NA
+"bin/ext","Kevin Wilfong",NA
+"cli","Kevin Wilfong",NA
+"cli/src/java/org/apache/hadoop/hive/cli","Kevin Wilfong",NA
+"common","Kevin Wilfong",NA
+"common/src/java/conf","Kevin Wilfong",NA
+"common/src/java/org/apache/hadoop/hive/common","Kevin Wilfong",NA
+"common/src/java/org/apache/hadoop/hive/common/cli","Kevin Wilfong",NA
+"common/src/java/org/apache/hadoop/hive/common/io","Kevin Wilfong",NA
+"common/src/java/org/apache/hadoop/hive/common/metrics","Kevin Wilfong",NA
+"common/src/java/org/apache/hadoop/hive/conf","Kevin Wilfong",2
+"common/src/test/org/apache/hadoop/hive/conf","Kevin Wilfong",NA
+"common/src/test/resources","Kevin Wilfong",NA
+"contrib/src/test/results/clientnegative","Kevin Wilfong",NA
+"contrib/src/test/results/clientpositive","Kevin Wilfong",NA
+"data/conf","Kevin Wilfong",NA
+"data/scripts","Kevin Wilfong",NA
+"data/warehouse/src","Kevin Wilfong",NA
+"docs","Kevin Wilfong",NA
+"eclipse-templates","Kevin Wilfong",NA
+"eclipse-templates/.externalToolBuilders","Kevin Wilfong",NA
+"eclipse-templates/.settings","Kevin Wilfong",NA
+"hbase-handler","Kevin Wilfong",NA
+"hbase-handler/src/java/org/apache/hadoop/hive/hbase","Kevin Wilfong",NA
+"hbase-handler/src/test/org/apache/hadoop/hive/hbase","Kevin Wilfong",NA
+"hbase-handler/src/test/queries","Kevin Wilfong",NA
+"hbase-handler/src/test/results","Kevin Wilfong",NA
+"hbase-handler/src/test/templates","Kevin Wilfong",NA
+"hwi/src/java/org/apache/hadoop/hive/hwi","Kevin Wilfong",NA
+"hwi/web","Kevin Wilfong",NA
+"hwi/web/img","Kevin Wilfong",NA
+"ivy","Kevin Wilfong",NA
+"jdbc/src/java/org/apache/hadoop/hive/jdbc","Kevin Wilfong",NA
+"jdbc/src/test/org/apache/hadoop/hive/jdbc","Kevin Wilfong",NA
+"lib","Kevin Wilfong",NA
+"metastore/if","Kevin Wilfong",NA
+"metastore/scripts","Kevin Wilfong",NA
+"metastore/scripts/upgrade","Kevin Wilfong",NA
+"metastore/scripts/upgrade/derby","Kevin Wilfong",NA
+"metastore/scripts/upgrade/mysql","Kevin Wilfong",NA
+"metastore/src/gen-py","Kevin Wilfong",NA
+"metastore/src/gen/thrift/gen-cpp","Kevin Wilfong",NA
+"metastore/src/gen/thrift/gen-javabean/org/apache/hadoop/hive/metastore/api","Kevin Wilfong",NA
+"metastore/src/gen/thrift/gen-php","Kevin Wilfong",NA
+"metastore/src/gen/thrift/gen-php/hive_metastore","Kevin Wilfong",NA
+"metastore/src/gen/thrift/gen-py","Kevin Wilfong",NA
+"metastore/src/gen/thrift/gen-py/hive_metastore","Kevin Wilfong",NA
+"metastore/src/gen/thrift/gen-rb","Kevin Wilfong",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore","Kevin Wilfong",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/events","Kevin Wilfong",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/hooks","Kevin Wilfong",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/parser","Kevin Wilfong",NA
+"metastore/src/model","Kevin Wilfong",NA
+"metastore/src/model/org/apache/hadoop/hive/metastore/model","Kevin Wilfong",NA
+"metastore/src/test/org/apache/hadoop/hive/metastore","Kevin Wilfong",1
+"ql","Kevin Wilfong",NA
+"ql/if","Kevin Wilfong",NA
+"ql/src/gen/thrift/gen-py","Kevin Wilfong",NA
+"ql/src/java/conf","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec","Kevin Wilfong",1
+"ql/src/java/org/apache/hadoop/hive/ql/exec/errors","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec/persistence","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/history","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/hooks","Kevin Wilfong",1
+"ql/src/java/org/apache/hadoop/hive/ql/index","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index/compact","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/io","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/io/rcfile/merge","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/log","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata/formatting","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/index","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/lineage","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/physical","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/unionproc","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/parse","Kevin Wilfong",2
+"ql/src/java/org/apache/hadoop/hive/ql/plan","Kevin Wilfong",1
+"ql/src/java/org/apache/hadoop/hive/ql/ppd","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/processors","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/security/authorization","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/session","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/stats/jdbc","Kevin Wilfong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf","Kevin Wilfong",1
+"ql/src/java/org/apache/hadoop/hive/ql/udf/generic","Kevin Wilfong",NA
+"ql/src/test/org/apache/hadoop/hive/ql","Kevin Wilfong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/exec","Kevin Wilfong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/history","Kevin Wilfong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/hooks","Kevin Wilfong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/io","Kevin Wilfong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/metadata","Kevin Wilfong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/plan","Kevin Wilfong",NA
+"ql/src/test/queries/clientnegative","Kevin Wilfong",NA
+"ql/src/test/queries/clientpositive","Kevin Wilfong",1
+"ql/src/test/queries/negative","Kevin Wilfong",NA
+"ql/src/test/results/clientnegative","Kevin Wilfong",1
+"ql/src/test/results/clientpositive","Kevin Wilfong",2
+"ql/src/test/results/compiler/errors","Kevin Wilfong",NA
+"ql/src/test/results/compiler/plan","Kevin Wilfong",NA
+"ql/src/test/scripts","Kevin Wilfong",NA
+"ql/src/test/templates","Kevin Wilfong",NA
+"serde/if","Kevin Wilfong",NA
+"serde/if/test","Kevin Wilfong",NA
+"serde/src/gen-java/org/apache/hadoop/hive/serde/test","Kevin Wilfong",NA
+"serde/src/gen-py","Kevin Wilfong",NA
+"serde/src/gen/thrift/gen-py","Kevin Wilfong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2","Kevin Wilfong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/columnar","Kevin Wilfong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type","Kevin Wilfong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/io","Kevin Wilfong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazy","Kevin Wilfong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazybinary","Kevin Wilfong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazydio","Kevin Wilfong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/primitive","Kevin Wilfong",NA
+"serde/src/test/org/apache/hadoop/hive/serde2/objectinspector","Kevin Wilfong",NA
+"service/lib/php/ext/thrift_protocol","Kevin Wilfong",NA
+"service/lib/php/ext/thrift_protocol/tags/1.0.0","Kevin Wilfong",NA
+"service/lib/py/fb303","Kevin Wilfong",NA
+"service/lib/py/thrift/protocol","Kevin Wilfong",NA
+"service/lib/py/thrift/reflection","Kevin Wilfong",NA
+"service/lib/py/thrift/reflection/limited","Kevin Wilfong",NA
+"service/src/gen-py","Kevin Wilfong",NA
+"service/src/gen/thrift/gen-py","Kevin Wilfong",NA
+"service/src/java/org/apache/hadoop/hive/service","Kevin Wilfong",NA
+"service/src/test/php","Kevin Wilfong",NA
+"shims","Kevin Wilfong",NA
+"shims/src/0.20/java/org/apache/hadoop/fs","Kevin Wilfong",NA
+"shims/src/0.20/java/org/apache/hadoop/hive/shims","Kevin Wilfong",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/shims","Kevin Wilfong",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/thrift","Kevin Wilfong",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/shims","Kevin Wilfong",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/thrift","Kevin Wilfong",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/shims","Kevin Wilfong",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/thrift","Kevin Wilfong",NA
+"shims/src/common/java/org/apache/hadoop/hive/io","Kevin Wilfong",NA
+"shims/src/common/java/org/apache/hadoop/hive/shims","Kevin Wilfong",NA
+"shims/src/common/java/org/apache/hadoop/hive/thrift","Kevin Wilfong",NA
+"shims/src/test/org/apache/hadoop/hive/thrift","Kevin Wilfong",NA
+"testlibs","Kevin Wilfong",NA
+"testutils","Kevin Wilfong",NA
+"testutils/ptest","Kevin Wilfong",NA
+"","Carl Steinbach",11
+"bin","Carl Steinbach",1
+"bin/ext","Carl Steinbach",NA
+"cli","Carl Steinbach",NA
+"cli/src/java/org/apache/hadoop/hive/cli","Carl Steinbach",NA
+"common","Carl Steinbach",NA
+"common/src/java/conf","Carl Steinbach",NA
+"common/src/java/org/apache/hadoop/hive/common","Carl Steinbach",1
+"common/src/java/org/apache/hadoop/hive/common/cli","Carl Steinbach",NA
+"common/src/java/org/apache/hadoop/hive/common/io","Carl Steinbach",NA
+"common/src/java/org/apache/hadoop/hive/common/metrics","Carl Steinbach",NA
+"common/src/java/org/apache/hadoop/hive/conf","Carl Steinbach",1
+"common/src/test/org/apache/hadoop/hive/conf","Carl Steinbach",NA
+"common/src/test/resources","Carl Steinbach",NA
+"contrib/src/test/results/clientnegative","Carl Steinbach",NA
+"contrib/src/test/results/clientpositive","Carl Steinbach",NA
+"data/conf","Carl Steinbach",NA
+"data/scripts","Carl Steinbach",NA
+"data/warehouse/src","Carl Steinbach",NA
+"docs","Carl Steinbach",NA
+"eclipse-templates","Carl Steinbach",NA
+"eclipse-templates/.externalToolBuilders","Carl Steinbach",NA
+"eclipse-templates/.settings","Carl Steinbach",NA
+"hbase-handler","Carl Steinbach",NA
+"hbase-handler/src/java/org/apache/hadoop/hive/hbase","Carl Steinbach",2
+"hbase-handler/src/test/org/apache/hadoop/hive/hbase","Carl Steinbach",NA
+"hbase-handler/src/test/queries","Carl Steinbach",NA
+"hbase-handler/src/test/results","Carl Steinbach",NA
+"hbase-handler/src/test/templates","Carl Steinbach",1
+"hwi/src/java/org/apache/hadoop/hive/hwi","Carl Steinbach",NA
+"hwi/web","Carl Steinbach",NA
+"hwi/web/img","Carl Steinbach",NA
+"ivy","Carl Steinbach",NA
+"jdbc/src/java/org/apache/hadoop/hive/jdbc","Carl Steinbach",1
+"jdbc/src/test/org/apache/hadoop/hive/jdbc","Carl Steinbach",1
+"lib","Carl Steinbach",1
+"metastore/if","Carl Steinbach",NA
+"metastore/scripts","Carl Steinbach",NA
+"metastore/scripts/upgrade","Carl Steinbach",NA
+"metastore/scripts/upgrade/derby","Carl Steinbach",NA
+"metastore/scripts/upgrade/mysql","Carl Steinbach",NA
+"metastore/src/gen-py","Carl Steinbach",NA
+"metastore/src/gen/thrift/gen-cpp","Carl Steinbach",NA
+"metastore/src/gen/thrift/gen-javabean/org/apache/hadoop/hive/metastore/api","Carl Steinbach",NA
+"metastore/src/gen/thrift/gen-php","Carl Steinbach",NA
+"metastore/src/gen/thrift/gen-php/hive_metastore","Carl Steinbach",NA
+"metastore/src/gen/thrift/gen-py","Carl Steinbach",NA
+"metastore/src/gen/thrift/gen-py/hive_metastore","Carl Steinbach",NA
+"metastore/src/gen/thrift/gen-rb","Carl Steinbach",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore","Carl Steinbach",1
+"metastore/src/java/org/apache/hadoop/hive/metastore/events","Carl Steinbach",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/hooks","Carl Steinbach",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/parser","Carl Steinbach",NA
+"metastore/src/model","Carl Steinbach",NA
+"metastore/src/model/org/apache/hadoop/hive/metastore/model","Carl Steinbach",NA
+"metastore/src/test/org/apache/hadoop/hive/metastore","Carl Steinbach",NA
+"ql","Carl Steinbach",NA
+"ql/if","Carl Steinbach",NA
+"ql/src/gen/thrift/gen-py","Carl Steinbach",NA
+"ql/src/java/conf","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec","Carl Steinbach",8
+"ql/src/java/org/apache/hadoop/hive/ql/exec/errors","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec/persistence","Carl Steinbach",1
+"ql/src/java/org/apache/hadoop/hive/ql/history","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/hooks","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index/compact","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/io","Carl Steinbach",2
+"ql/src/java/org/apache/hadoop/hive/ql/io/rcfile/merge","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/log","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata/formatting","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer","Carl Steinbach",1
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/index","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/lineage","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/physical","Carl Steinbach",1
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/unionproc","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/parse","Carl Steinbach",4
+"ql/src/java/org/apache/hadoop/hive/ql/plan","Carl Steinbach",2
+"ql/src/java/org/apache/hadoop/hive/ql/ppd","Carl Steinbach",1
+"ql/src/java/org/apache/hadoop/hive/ql/processors","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/security/authorization","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/session","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/stats/jdbc","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf","Carl Steinbach",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf/generic","Carl Steinbach",1
+"ql/src/test/org/apache/hadoop/hive/ql","Carl Steinbach",NA
+"ql/src/test/org/apache/hadoop/hive/ql/exec","Carl Steinbach",NA
+"ql/src/test/org/apache/hadoop/hive/ql/history","Carl Steinbach",NA
+"ql/src/test/org/apache/hadoop/hive/ql/hooks","Carl Steinbach",NA
+"ql/src/test/org/apache/hadoop/hive/ql/io","Carl Steinbach",NA
+"ql/src/test/org/apache/hadoop/hive/ql/metadata","Carl Steinbach",NA
+"ql/src/test/org/apache/hadoop/hive/ql/plan","Carl Steinbach",1
+"ql/src/test/queries/clientnegative","Carl Steinbach",NA
+"ql/src/test/queries/clientpositive","Carl Steinbach",7
+"ql/src/test/queries/negative","Carl Steinbach",NA
+"ql/src/test/results/clientnegative","Carl Steinbach",NA
+"ql/src/test/results/clientpositive","Carl Steinbach",9
+"ql/src/test/results/compiler/errors","Carl Steinbach",NA
+"ql/src/test/results/compiler/plan","Carl Steinbach",1
+"ql/src/test/scripts","Carl Steinbach",NA
+"ql/src/test/templates","Carl Steinbach",1
+"serde/if","Carl Steinbach",NA
+"serde/if/test","Carl Steinbach",NA
+"serde/src/gen-java/org/apache/hadoop/hive/serde/test","Carl Steinbach",1
+"serde/src/gen-py","Carl Steinbach",NA
+"serde/src/gen/thrift/gen-py","Carl Steinbach",NA
+"serde/src/java/org/apache/hadoop/hive/serde2","Carl Steinbach",1
+"serde/src/java/org/apache/hadoop/hive/serde2/columnar","Carl Steinbach",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type","Carl Steinbach",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/io","Carl Steinbach",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazy","Carl Steinbach",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazybinary","Carl Steinbach",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazydio","Carl Steinbach",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/primitive","Carl Steinbach",NA
+"serde/src/test/org/apache/hadoop/hive/serde2/objectinspector","Carl Steinbach",NA
+"service/lib/php/ext/thrift_protocol","Carl Steinbach",NA
+"service/lib/php/ext/thrift_protocol/tags/1.0.0","Carl Steinbach",NA
+"service/lib/py/fb303","Carl Steinbach",NA
+"service/lib/py/thrift/protocol","Carl Steinbach",NA
+"service/lib/py/thrift/reflection","Carl Steinbach",NA
+"service/lib/py/thrift/reflection/limited","Carl Steinbach",NA
+"service/src/gen-py","Carl Steinbach",NA
+"service/src/gen/thrift/gen-py","Carl Steinbach",NA
+"service/src/java/org/apache/hadoop/hive/service","Carl Steinbach",NA
+"service/src/test/php","Carl Steinbach",NA
+"shims","Carl Steinbach",NA
+"shims/src/0.20/java/org/apache/hadoop/fs","Carl Steinbach",1
+"shims/src/0.20/java/org/apache/hadoop/hive/shims","Carl Steinbach",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/shims","Carl Steinbach",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/thrift","Carl Steinbach",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/shims","Carl Steinbach",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/thrift","Carl Steinbach",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/shims","Carl Steinbach",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/thrift","Carl Steinbach",NA
+"shims/src/common/java/org/apache/hadoop/hive/io","Carl Steinbach",NA
+"shims/src/common/java/org/apache/hadoop/hive/shims","Carl Steinbach",1
+"shims/src/common/java/org/apache/hadoop/hive/thrift","Carl Steinbach",NA
+"shims/src/test/org/apache/hadoop/hive/thrift","Carl Steinbach",NA
+"testlibs","Carl Steinbach",NA
+"testutils","Carl Steinbach",NA
+"testutils/ptest","Carl Steinbach",NA
+"","Yongqiang He",5
+"bin","Yongqiang He",NA
+"bin/ext","Yongqiang He",NA
+"cli","Yongqiang He",NA
+"cli/src/java/org/apache/hadoop/hive/cli","Yongqiang He",NA
+"common","Yongqiang He",NA
+"common/src/java/conf","Yongqiang He",NA
+"common/src/java/org/apache/hadoop/hive/common","Yongqiang He",NA
+"common/src/java/org/apache/hadoop/hive/common/cli","Yongqiang He",NA
+"common/src/java/org/apache/hadoop/hive/common/io","Yongqiang He",NA
+"common/src/java/org/apache/hadoop/hive/common/metrics","Yongqiang He",NA
+"common/src/java/org/apache/hadoop/hive/conf","Yongqiang He",2
+"common/src/test/org/apache/hadoop/hive/conf","Yongqiang He",NA
+"common/src/test/resources","Yongqiang He",NA
+"contrib/src/test/results/clientnegative","Yongqiang He",NA
+"contrib/src/test/results/clientpositive","Yongqiang He",NA
+"data/conf","Yongqiang He",NA
+"data/scripts","Yongqiang He",NA
+"data/warehouse/src","Yongqiang He",NA
+"docs","Yongqiang He",NA
+"eclipse-templates","Yongqiang He",NA
+"eclipse-templates/.externalToolBuilders","Yongqiang He",NA
+"eclipse-templates/.settings","Yongqiang He",NA
+"hbase-handler","Yongqiang He",NA
+"hbase-handler/src/java/org/apache/hadoop/hive/hbase","Yongqiang He",1
+"hbase-handler/src/test/org/apache/hadoop/hive/hbase","Yongqiang He",NA
+"hbase-handler/src/test/queries","Yongqiang He",NA
+"hbase-handler/src/test/results","Yongqiang He",NA
+"hbase-handler/src/test/templates","Yongqiang He",NA
+"hwi/src/java/org/apache/hadoop/hive/hwi","Yongqiang He",NA
+"hwi/web","Yongqiang He",NA
+"hwi/web/img","Yongqiang He",NA
+"ivy","Yongqiang He",NA
+"jdbc/src/java/org/apache/hadoop/hive/jdbc","Yongqiang He",NA
+"jdbc/src/test/org/apache/hadoop/hive/jdbc","Yongqiang He",NA
+"lib","Yongqiang He",NA
+"metastore/if","Yongqiang He",NA
+"metastore/scripts","Yongqiang He",NA
+"metastore/scripts/upgrade","Yongqiang He",NA
+"metastore/scripts/upgrade/derby","Yongqiang He",NA
+"metastore/scripts/upgrade/mysql","Yongqiang He",NA
+"metastore/src/gen-py","Yongqiang He",NA
+"metastore/src/gen/thrift/gen-cpp","Yongqiang He",NA
+"metastore/src/gen/thrift/gen-javabean/org/apache/hadoop/hive/metastore/api","Yongqiang He",NA
+"metastore/src/gen/thrift/gen-php","Yongqiang He",NA
+"metastore/src/gen/thrift/gen-php/hive_metastore","Yongqiang He",NA
+"metastore/src/gen/thrift/gen-py","Yongqiang He",NA
+"metastore/src/gen/thrift/gen-py/hive_metastore","Yongqiang He",NA
+"metastore/src/gen/thrift/gen-rb","Yongqiang He",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore","Yongqiang He",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/events","Yongqiang He",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/hooks","Yongqiang He",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/parser","Yongqiang He",NA
+"metastore/src/model","Yongqiang He",NA
+"metastore/src/model/org/apache/hadoop/hive/metastore/model","Yongqiang He",NA
+"metastore/src/test/org/apache/hadoop/hive/metastore","Yongqiang He",NA
+"ql","Yongqiang He",NA
+"ql/if","Yongqiang He",NA
+"ql/src/gen/thrift/gen-py","Yongqiang He",NA
+"ql/src/java/conf","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec","Yongqiang He",7
+"ql/src/java/org/apache/hadoop/hive/ql/exec/errors","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec/persistence","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/history","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/hooks","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index/compact","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/io","Yongqiang He",1
+"ql/src/java/org/apache/hadoop/hive/ql/io/rcfile/merge","Yongqiang He",1
+"ql/src/java/org/apache/hadoop/hive/ql/log","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata","Yongqiang He",1
+"ql/src/java/org/apache/hadoop/hive/ql/metadata/formatting","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer","Yongqiang He",2
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/index","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/lineage","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/physical","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/unionproc","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/parse","Yongqiang He",1
+"ql/src/java/org/apache/hadoop/hive/ql/plan","Yongqiang He",1
+"ql/src/java/org/apache/hadoop/hive/ql/ppd","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/processors","Yongqiang He",2
+"ql/src/java/org/apache/hadoop/hive/ql/security/authorization","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/session","Yongqiang He",1
+"ql/src/java/org/apache/hadoop/hive/ql/stats/jdbc","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf","Yongqiang He",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf/generic","Yongqiang He",NA
+"ql/src/test/org/apache/hadoop/hive/ql","Yongqiang He",NA
+"ql/src/test/org/apache/hadoop/hive/ql/exec","Yongqiang He",NA
+"ql/src/test/org/apache/hadoop/hive/ql/history","Yongqiang He",NA
+"ql/src/test/org/apache/hadoop/hive/ql/hooks","Yongqiang He",NA
+"ql/src/test/org/apache/hadoop/hive/ql/io","Yongqiang He",NA
+"ql/src/test/org/apache/hadoop/hive/ql/metadata","Yongqiang He",NA
+"ql/src/test/org/apache/hadoop/hive/ql/plan","Yongqiang He",NA
+"ql/src/test/queries/clientnegative","Yongqiang He",NA
+"ql/src/test/queries/clientpositive","Yongqiang He",3
+"ql/src/test/queries/negative","Yongqiang He",NA
+"ql/src/test/results/clientnegative","Yongqiang He",NA
+"ql/src/test/results/clientpositive","Yongqiang He",4
+"ql/src/test/results/compiler/errors","Yongqiang He",NA
+"ql/src/test/results/compiler/plan","Yongqiang He",NA
+"ql/src/test/scripts","Yongqiang He",NA
+"ql/src/test/templates","Yongqiang He",NA
+"serde/if","Yongqiang He",NA
+"serde/if/test","Yongqiang He",NA
+"serde/src/gen-java/org/apache/hadoop/hive/serde/test","Yongqiang He",NA
+"serde/src/gen-py","Yongqiang He",NA
+"serde/src/gen/thrift/gen-py","Yongqiang He",NA
+"serde/src/java/org/apache/hadoop/hive/serde2","Yongqiang He",1
+"serde/src/java/org/apache/hadoop/hive/serde2/columnar","Yongqiang He",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type","Yongqiang He",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/io","Yongqiang He",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazy","Yongqiang He",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazybinary","Yongqiang He",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazydio","Yongqiang He",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/primitive","Yongqiang He",NA
+"serde/src/test/org/apache/hadoop/hive/serde2/objectinspector","Yongqiang He",NA
+"service/lib/php/ext/thrift_protocol","Yongqiang He",NA
+"service/lib/php/ext/thrift_protocol/tags/1.0.0","Yongqiang He",NA
+"service/lib/py/fb303","Yongqiang He",NA
+"service/lib/py/thrift/protocol","Yongqiang He",NA
+"service/lib/py/thrift/reflection","Yongqiang He",NA
+"service/lib/py/thrift/reflection/limited","Yongqiang He",NA
+"service/src/gen-py","Yongqiang He",NA
+"service/src/gen/thrift/gen-py","Yongqiang He",NA
+"service/src/java/org/apache/hadoop/hive/service","Yongqiang He",NA
+"service/src/test/php","Yongqiang He",NA
+"shims","Yongqiang He",NA
+"shims/src/0.20/java/org/apache/hadoop/fs","Yongqiang He",NA
+"shims/src/0.20/java/org/apache/hadoop/hive/shims","Yongqiang He",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/shims","Yongqiang He",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/thrift","Yongqiang He",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/shims","Yongqiang He",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/thrift","Yongqiang He",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/shims","Yongqiang He",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/thrift","Yongqiang He",NA
+"shims/src/common/java/org/apache/hadoop/hive/io","Yongqiang He",NA
+"shims/src/common/java/org/apache/hadoop/hive/shims","Yongqiang He",NA
+"shims/src/common/java/org/apache/hadoop/hive/thrift","Yongqiang He",NA
+"shims/src/test/org/apache/hadoop/hive/thrift","Yongqiang He",NA
+"testlibs","Yongqiang He",NA
+"testutils","Yongqiang He",NA
+"testutils/ptest","Yongqiang He",NA
+"","Siying Dong",1
+"bin","Siying Dong",NA
+"bin/ext","Siying Dong",NA
+"cli","Siying Dong",NA
+"cli/src/java/org/apache/hadoop/hive/cli","Siying Dong",NA
+"common","Siying Dong",NA
+"common/src/java/conf","Siying Dong",NA
+"common/src/java/org/apache/hadoop/hive/common","Siying Dong",NA
+"common/src/java/org/apache/hadoop/hive/common/cli","Siying Dong",NA
+"common/src/java/org/apache/hadoop/hive/common/io","Siying Dong",NA
+"common/src/java/org/apache/hadoop/hive/common/metrics","Siying Dong",NA
+"common/src/java/org/apache/hadoop/hive/conf","Siying Dong",NA
+"common/src/test/org/apache/hadoop/hive/conf","Siying Dong",NA
+"common/src/test/resources","Siying Dong",NA
+"contrib/src/test/results/clientnegative","Siying Dong",NA
+"contrib/src/test/results/clientpositive","Siying Dong",1
+"data/conf","Siying Dong",NA
+"data/scripts","Siying Dong",NA
+"data/warehouse/src","Siying Dong",NA
+"docs","Siying Dong",NA
+"eclipse-templates","Siying Dong",NA
+"eclipse-templates/.externalToolBuilders","Siying Dong",NA
+"eclipse-templates/.settings","Siying Dong",NA
+"hbase-handler","Siying Dong",NA
+"hbase-handler/src/java/org/apache/hadoop/hive/hbase","Siying Dong",NA
+"hbase-handler/src/test/org/apache/hadoop/hive/hbase","Siying Dong",NA
+"hbase-handler/src/test/queries","Siying Dong",NA
+"hbase-handler/src/test/results","Siying Dong",NA
+"hbase-handler/src/test/templates","Siying Dong",NA
+"hwi/src/java/org/apache/hadoop/hive/hwi","Siying Dong",NA
+"hwi/web","Siying Dong",NA
+"hwi/web/img","Siying Dong",NA
+"ivy","Siying Dong",NA
+"jdbc/src/java/org/apache/hadoop/hive/jdbc","Siying Dong",NA
+"jdbc/src/test/org/apache/hadoop/hive/jdbc","Siying Dong",NA
+"lib","Siying Dong",NA
+"metastore/if","Siying Dong",NA
+"metastore/scripts","Siying Dong",NA
+"metastore/scripts/upgrade","Siying Dong",NA
+"metastore/scripts/upgrade/derby","Siying Dong",NA
+"metastore/scripts/upgrade/mysql","Siying Dong",NA
+"metastore/src/gen-py","Siying Dong",NA
+"metastore/src/gen/thrift/gen-cpp","Siying Dong",NA
+"metastore/src/gen/thrift/gen-javabean/org/apache/hadoop/hive/metastore/api","Siying Dong",NA
+"metastore/src/gen/thrift/gen-php","Siying Dong",NA
+"metastore/src/gen/thrift/gen-php/hive_metastore","Siying Dong",NA
+"metastore/src/gen/thrift/gen-py","Siying Dong",NA
+"metastore/src/gen/thrift/gen-py/hive_metastore","Siying Dong",NA
+"metastore/src/gen/thrift/gen-rb","Siying Dong",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore","Siying Dong",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/events","Siying Dong",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/hooks","Siying Dong",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/parser","Siying Dong",NA
+"metastore/src/model","Siying Dong",NA
+"metastore/src/model/org/apache/hadoop/hive/metastore/model","Siying Dong",NA
+"metastore/src/test/org/apache/hadoop/hive/metastore","Siying Dong",NA
+"ql","Siying Dong",NA
+"ql/if","Siying Dong",NA
+"ql/src/gen/thrift/gen-py","Siying Dong",NA
+"ql/src/java/conf","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec/errors","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec/persistence","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/history","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/hooks","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index/compact","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/io","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/io/rcfile/merge","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/log","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata/formatting","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/index","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/lineage","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/physical","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/unionproc","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/parse","Siying Dong",1
+"ql/src/java/org/apache/hadoop/hive/ql/plan","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/ppd","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/processors","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/security/authorization","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/session","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/stats/jdbc","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf","Siying Dong",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf/generic","Siying Dong",NA
+"ql/src/test/org/apache/hadoop/hive/ql","Siying Dong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/exec","Siying Dong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/history","Siying Dong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/hooks","Siying Dong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/io","Siying Dong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/metadata","Siying Dong",NA
+"ql/src/test/org/apache/hadoop/hive/ql/plan","Siying Dong",NA
+"ql/src/test/queries/clientnegative","Siying Dong",NA
+"ql/src/test/queries/clientpositive","Siying Dong",1
+"ql/src/test/queries/negative","Siying Dong",NA
+"ql/src/test/results/clientnegative","Siying Dong",NA
+"ql/src/test/results/clientpositive","Siying Dong",1
+"ql/src/test/results/compiler/errors","Siying Dong",NA
+"ql/src/test/results/compiler/plan","Siying Dong",1
+"ql/src/test/scripts","Siying Dong",NA
+"ql/src/test/templates","Siying Dong",NA
+"serde/if","Siying Dong",NA
+"serde/if/test","Siying Dong",NA
+"serde/src/gen-java/org/apache/hadoop/hive/serde/test","Siying Dong",NA
+"serde/src/gen-py","Siying Dong",NA
+"serde/src/gen/thrift/gen-py","Siying Dong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2","Siying Dong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/columnar","Siying Dong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type","Siying Dong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/io","Siying Dong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazy","Siying Dong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazybinary","Siying Dong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazydio","Siying Dong",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/primitive","Siying Dong",NA
+"serde/src/test/org/apache/hadoop/hive/serde2/objectinspector","Siying Dong",NA
+"service/lib/php/ext/thrift_protocol","Siying Dong",NA
+"service/lib/php/ext/thrift_protocol/tags/1.0.0","Siying Dong",NA
+"service/lib/py/fb303","Siying Dong",NA
+"service/lib/py/thrift/protocol","Siying Dong",NA
+"service/lib/py/thrift/reflection","Siying Dong",NA
+"service/lib/py/thrift/reflection/limited","Siying Dong",NA
+"service/src/gen-py","Siying Dong",NA
+"service/src/gen/thrift/gen-py","Siying Dong",NA
+"service/src/java/org/apache/hadoop/hive/service","Siying Dong",NA
+"service/src/test/php","Siying Dong",NA
+"shims","Siying Dong",NA
+"shims/src/0.20/java/org/apache/hadoop/fs","Siying Dong",NA
+"shims/src/0.20/java/org/apache/hadoop/hive/shims","Siying Dong",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/shims","Siying Dong",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/thrift","Siying Dong",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/shims","Siying Dong",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/thrift","Siying Dong",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/shims","Siying Dong",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/thrift","Siying Dong",NA
+"shims/src/common/java/org/apache/hadoop/hive/io","Siying Dong",NA
+"shims/src/common/java/org/apache/hadoop/hive/shims","Siying Dong",NA
+"shims/src/common/java/org/apache/hadoop/hive/thrift","Siying Dong",NA
+"shims/src/test/org/apache/hadoop/hive/thrift","Siying Dong",NA
+"testlibs","Siying Dong",NA
+"testutils","Siying Dong",NA
+"testutils/ptest","Siying Dong",NA
+"","Amareshwari Sri Ramadasu",3
+"bin","Amareshwari Sri Ramadasu",NA
+"bin/ext","Amareshwari Sri Ramadasu",NA
+"cli","Amareshwari Sri Ramadasu",NA
+"cli/src/java/org/apache/hadoop/hive/cli","Amareshwari Sri Ramadasu",NA
+"common","Amareshwari Sri Ramadasu",NA
+"common/src/java/conf","Amareshwari Sri Ramadasu",NA
+"common/src/java/org/apache/hadoop/hive/common","Amareshwari Sri Ramadasu",NA
+"common/src/java/org/apache/hadoop/hive/common/cli","Amareshwari Sri Ramadasu",NA
+"common/src/java/org/apache/hadoop/hive/common/io","Amareshwari Sri Ramadasu",NA
+"common/src/java/org/apache/hadoop/hive/common/metrics","Amareshwari Sri Ramadasu",NA
+"common/src/java/org/apache/hadoop/hive/conf","Amareshwari Sri Ramadasu",NA
+"common/src/test/org/apache/hadoop/hive/conf","Amareshwari Sri Ramadasu",NA
+"common/src/test/resources","Amareshwari Sri Ramadasu",NA
+"contrib/src/test/results/clientnegative","Amareshwari Sri Ramadasu",NA
+"contrib/src/test/results/clientpositive","Amareshwari Sri Ramadasu",NA
+"data/conf","Amareshwari Sri Ramadasu",NA
+"data/scripts","Amareshwari Sri Ramadasu",NA
+"data/warehouse/src","Amareshwari Sri Ramadasu",NA
+"docs","Amareshwari Sri Ramadasu",NA
+"eclipse-templates","Amareshwari Sri Ramadasu",NA
+"eclipse-templates/.externalToolBuilders","Amareshwari Sri Ramadasu",NA
+"eclipse-templates/.settings","Amareshwari Sri Ramadasu",NA
+"hbase-handler","Amareshwari Sri Ramadasu",NA
+"hbase-handler/src/java/org/apache/hadoop/hive/hbase","Amareshwari Sri Ramadasu",NA
+"hbase-handler/src/test/org/apache/hadoop/hive/hbase","Amareshwari Sri Ramadasu",NA
+"hbase-handler/src/test/queries","Amareshwari Sri Ramadasu",NA
+"hbase-handler/src/test/results","Amareshwari Sri Ramadasu",NA
+"hbase-handler/src/test/templates","Amareshwari Sri Ramadasu",NA
+"hwi/src/java/org/apache/hadoop/hive/hwi","Amareshwari Sri Ramadasu",NA
+"hwi/web","Amareshwari Sri Ramadasu",NA
+"hwi/web/img","Amareshwari Sri Ramadasu",NA
+"ivy","Amareshwari Sri Ramadasu",NA
+"jdbc/src/java/org/apache/hadoop/hive/jdbc","Amareshwari Sri Ramadasu",NA
+"jdbc/src/test/org/apache/hadoop/hive/jdbc","Amareshwari Sri Ramadasu",NA
+"lib","Amareshwari Sri Ramadasu",NA
+"metastore/if","Amareshwari Sri Ramadasu",NA
+"metastore/scripts","Amareshwari Sri Ramadasu",NA
+"metastore/scripts/upgrade","Amareshwari Sri Ramadasu",NA
+"metastore/scripts/upgrade/derby","Amareshwari Sri Ramadasu",NA
+"metastore/scripts/upgrade/mysql","Amareshwari Sri Ramadasu",NA
+"metastore/src/gen-py","Amareshwari Sri Ramadasu",NA
+"metastore/src/gen/thrift/gen-cpp","Amareshwari Sri Ramadasu",NA
+"metastore/src/gen/thrift/gen-javabean/org/apache/hadoop/hive/metastore/api","Amareshwari Sri Ramadasu",NA
+"metastore/src/gen/thrift/gen-php","Amareshwari Sri Ramadasu",NA
+"metastore/src/gen/thrift/gen-php/hive_metastore","Amareshwari Sri Ramadasu",NA
+"metastore/src/gen/thrift/gen-py","Amareshwari Sri Ramadasu",NA
+"metastore/src/gen/thrift/gen-py/hive_metastore","Amareshwari Sri Ramadasu",NA
+"metastore/src/gen/thrift/gen-rb","Amareshwari Sri Ramadasu",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore","Amareshwari Sri Ramadasu",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/events","Amareshwari Sri Ramadasu",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/hooks","Amareshwari Sri Ramadasu",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/parser","Amareshwari Sri Ramadasu",NA
+"metastore/src/model","Amareshwari Sri Ramadasu",NA
+"metastore/src/model/org/apache/hadoop/hive/metastore/model","Amareshwari Sri Ramadasu",NA
+"metastore/src/test/org/apache/hadoop/hive/metastore","Amareshwari Sri Ramadasu",NA
+"ql","Amareshwari Sri Ramadasu",NA
+"ql/if","Amareshwari Sri Ramadasu",NA
+"ql/src/gen/thrift/gen-py","Amareshwari Sri Ramadasu",NA
+"ql/src/java/conf","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec/errors","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec/persistence","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/history","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/hooks","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index/compact","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/io","Amareshwari Sri Ramadasu",1
+"ql/src/java/org/apache/hadoop/hive/ql/io/rcfile/merge","Amareshwari Sri Ramadasu",1
+"ql/src/java/org/apache/hadoop/hive/ql/log","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata/formatting","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/index","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/lineage","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/physical","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/unionproc","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/parse","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/plan","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/ppd","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/processors","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/security/authorization","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/session","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/stats/jdbc","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf","Amareshwari Sri Ramadasu",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf/generic","Amareshwari Sri Ramadasu",NA
+"ql/src/test/org/apache/hadoop/hive/ql","Amareshwari Sri Ramadasu",NA
+"ql/src/test/org/apache/hadoop/hive/ql/exec","Amareshwari Sri Ramadasu",NA
+"ql/src/test/org/apache/hadoop/hive/ql/history","Amareshwari Sri Ramadasu",NA
+"ql/src/test/org/apache/hadoop/hive/ql/hooks","Amareshwari Sri Ramadasu",NA
+"ql/src/test/org/apache/hadoop/hive/ql/io","Amareshwari Sri Ramadasu",NA
+"ql/src/test/org/apache/hadoop/hive/ql/metadata","Amareshwari Sri Ramadasu",NA
+"ql/src/test/org/apache/hadoop/hive/ql/plan","Amareshwari Sri Ramadasu",NA
+"ql/src/test/queries/clientnegative","Amareshwari Sri Ramadasu",NA
+"ql/src/test/queries/clientpositive","Amareshwari Sri Ramadasu",NA
+"ql/src/test/queries/negative","Amareshwari Sri Ramadasu",NA
+"ql/src/test/results/clientnegative","Amareshwari Sri Ramadasu",NA
+"ql/src/test/results/clientpositive","Amareshwari Sri Ramadasu",NA
+"ql/src/test/results/compiler/errors","Amareshwari Sri Ramadasu",NA
+"ql/src/test/results/compiler/plan","Amareshwari Sri Ramadasu",NA
+"ql/src/test/scripts","Amareshwari Sri Ramadasu",NA
+"ql/src/test/templates","Amareshwari Sri Ramadasu",NA
+"serde/if","Amareshwari Sri Ramadasu",NA
+"serde/if/test","Amareshwari Sri Ramadasu",NA
+"serde/src/gen-java/org/apache/hadoop/hive/serde/test","Amareshwari Sri Ramadasu",NA
+"serde/src/gen-py","Amareshwari Sri Ramadasu",NA
+"serde/src/gen/thrift/gen-py","Amareshwari Sri Ramadasu",NA
+"serde/src/java/org/apache/hadoop/hive/serde2","Amareshwari Sri Ramadasu",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/columnar","Amareshwari Sri Ramadasu",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type","Amareshwari Sri Ramadasu",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/io","Amareshwari Sri Ramadasu",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazy","Amareshwari Sri Ramadasu",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazybinary","Amareshwari Sri Ramadasu",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazydio","Amareshwari Sri Ramadasu",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/primitive","Amareshwari Sri Ramadasu",NA
+"serde/src/test/org/apache/hadoop/hive/serde2/objectinspector","Amareshwari Sri Ramadasu",NA
+"service/lib/php/ext/thrift_protocol","Amareshwari Sri Ramadasu",NA
+"service/lib/php/ext/thrift_protocol/tags/1.0.0","Amareshwari Sri Ramadasu",NA
+"service/lib/py/fb303","Amareshwari Sri Ramadasu",NA
+"service/lib/py/thrift/protocol","Amareshwari Sri Ramadasu",NA
+"service/lib/py/thrift/reflection","Amareshwari Sri Ramadasu",NA
+"service/lib/py/thrift/reflection/limited","Amareshwari Sri Ramadasu",NA
+"service/src/gen-py","Amareshwari Sri Ramadasu",NA
+"service/src/gen/thrift/gen-py","Amareshwari Sri Ramadasu",NA
+"service/src/java/org/apache/hadoop/hive/service","Amareshwari Sri Ramadasu",NA
+"service/src/test/php","Amareshwari Sri Ramadasu",NA
+"shims","Amareshwari Sri Ramadasu",3
+"shims/src/0.20/java/org/apache/hadoop/fs","Amareshwari Sri Ramadasu",NA
+"shims/src/0.20/java/org/apache/hadoop/hive/shims","Amareshwari Sri Ramadasu",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/shims","Amareshwari Sri Ramadasu",3
+"shims/src/0.20S/java/org/apache/hadoop/hive/thrift","Amareshwari Sri Ramadasu",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/shims","Amareshwari Sri Ramadasu",3
+"shims/src/0.23/java/org/apache/hadoop/hive/thrift","Amareshwari Sri Ramadasu",2
+"shims/src/common-secure/java/org/apache/hadoop/hive/shims","Amareshwari Sri Ramadasu",1
+"shims/src/common-secure/java/org/apache/hadoop/hive/thrift","Amareshwari Sri Ramadasu",NA
+"shims/src/common/java/org/apache/hadoop/hive/io","Amareshwari Sri Ramadasu",NA
+"shims/src/common/java/org/apache/hadoop/hive/shims","Amareshwari Sri Ramadasu",3
+"shims/src/common/java/org/apache/hadoop/hive/thrift","Amareshwari Sri Ramadasu",NA
+"shims/src/test/org/apache/hadoop/hive/thrift","Amareshwari Sri Ramadasu",NA
+"testlibs","Amareshwari Sri Ramadasu",NA
+"testutils","Amareshwari Sri Ramadasu",NA
+"testutils/ptest","Amareshwari Sri Ramadasu",NA
+"","John Sichi",3
+"bin","John Sichi",NA
+"bin/ext","John Sichi",NA
+"cli","John Sichi",1
+"cli/src/java/org/apache/hadoop/hive/cli","John Sichi",NA
+"common","John Sichi",1
+"common/src/java/conf","John Sichi",NA
+"common/src/java/org/apache/hadoop/hive/common","John Sichi",NA
+"common/src/java/org/apache/hadoop/hive/common/cli","John Sichi",NA
+"common/src/java/org/apache/hadoop/hive/common/io","John Sichi",NA
+"common/src/java/org/apache/hadoop/hive/common/metrics","John Sichi",NA
+"common/src/java/org/apache/hadoop/hive/conf","John Sichi",1
+"common/src/test/org/apache/hadoop/hive/conf","John Sichi",1
+"common/src/test/resources","John Sichi",1
+"contrib/src/test/results/clientnegative","John Sichi",1
+"contrib/src/test/results/clientpositive","John Sichi",1
+"data/conf","John Sichi",NA
+"data/scripts","John Sichi",NA
+"data/warehouse/src","John Sichi",NA
+"docs","John Sichi",NA
+"eclipse-templates","John Sichi",NA
+"eclipse-templates/.externalToolBuilders","John Sichi",NA
+"eclipse-templates/.settings","John Sichi",NA
+"hbase-handler","John Sichi",NA
+"hbase-handler/src/java/org/apache/hadoop/hive/hbase","John Sichi",NA
+"hbase-handler/src/test/org/apache/hadoop/hive/hbase","John Sichi",NA
+"hbase-handler/src/test/queries","John Sichi",NA
+"hbase-handler/src/test/results","John Sichi",1
+"hbase-handler/src/test/templates","John Sichi",NA
+"hwi/src/java/org/apache/hadoop/hive/hwi","John Sichi",NA
+"hwi/web","John Sichi",NA
+"hwi/web/img","John Sichi",NA
+"ivy","John Sichi",NA
+"jdbc/src/java/org/apache/hadoop/hive/jdbc","John Sichi",NA
+"jdbc/src/test/org/apache/hadoop/hive/jdbc","John Sichi",NA
+"lib","John Sichi",NA
+"metastore/if","John Sichi",NA
+"metastore/scripts","John Sichi",NA
+"metastore/scripts/upgrade","John Sichi",NA
+"metastore/scripts/upgrade/derby","John Sichi",NA
+"metastore/scripts/upgrade/mysql","John Sichi",NA
+"metastore/src/gen-py","John Sichi",NA
+"metastore/src/gen/thrift/gen-cpp","John Sichi",NA
+"metastore/src/gen/thrift/gen-javabean/org/apache/hadoop/hive/metastore/api","John Sichi",NA
+"metastore/src/gen/thrift/gen-php","John Sichi",NA
+"metastore/src/gen/thrift/gen-php/hive_metastore","John Sichi",NA
+"metastore/src/gen/thrift/gen-py","John Sichi",NA
+"metastore/src/gen/thrift/gen-py/hive_metastore","John Sichi",NA
+"metastore/src/gen/thrift/gen-rb","John Sichi",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore","John Sichi",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/events","John Sichi",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/hooks","John Sichi",NA
+"metastore/src/java/org/apache/hadoop/hive/metastore/parser","John Sichi",NA
+"metastore/src/model","John Sichi",NA
+"metastore/src/model/org/apache/hadoop/hive/metastore/model","John Sichi",NA
+"metastore/src/test/org/apache/hadoop/hive/metastore","John Sichi",NA
+"ql","John Sichi",1
+"ql/if","John Sichi",NA
+"ql/src/gen/thrift/gen-py","John Sichi",NA
+"ql/src/java/conf","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec/errors","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/exec/persistence","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/history","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/hooks","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/index/compact","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/io","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/io/rcfile/merge","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/log","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/metadata/formatting","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/index","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/lineage","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/physical","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/optimizer/unionproc","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/parse","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/plan","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/ppd","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/processors","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/security/authorization","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/session","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/stats/jdbc","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf","John Sichi",NA
+"ql/src/java/org/apache/hadoop/hive/ql/udf/generic","John Sichi",NA
+"ql/src/test/org/apache/hadoop/hive/ql","John Sichi",1
+"ql/src/test/org/apache/hadoop/hive/ql/exec","John Sichi",NA
+"ql/src/test/org/apache/hadoop/hive/ql/history","John Sichi",NA
+"ql/src/test/org/apache/hadoop/hive/ql/hooks","John Sichi",NA
+"ql/src/test/org/apache/hadoop/hive/ql/io","John Sichi",NA
+"ql/src/test/org/apache/hadoop/hive/ql/metadata","John Sichi",NA
+"ql/src/test/org/apache/hadoop/hive/ql/plan","John Sichi",NA
+"ql/src/test/queries/clientnegative","John Sichi",NA
+"ql/src/test/queries/clientpositive","John Sichi",NA
+"ql/src/test/queries/negative","John Sichi",NA
+"ql/src/test/results/clientnegative","John Sichi",1
+"ql/src/test/results/clientpositive","John Sichi",1
+"ql/src/test/results/compiler/errors","John Sichi",NA
+"ql/src/test/results/compiler/plan","John Sichi",1
+"ql/src/test/scripts","John Sichi",NA
+"ql/src/test/templates","John Sichi",NA
+"serde/if","John Sichi",NA
+"serde/if/test","John Sichi",NA
+"serde/src/gen-java/org/apache/hadoop/hive/serde/test","John Sichi",NA
+"serde/src/gen-py","John Sichi",NA
+"serde/src/gen/thrift/gen-py","John Sichi",NA
+"serde/src/java/org/apache/hadoop/hive/serde2","John Sichi",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/columnar","John Sichi",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type","John Sichi",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/io","John Sichi",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazy","John Sichi",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazybinary","John Sichi",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/lazydio","John Sichi",NA
+"serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/primitive","John Sichi",NA
+"serde/src/test/org/apache/hadoop/hive/serde2/objectinspector","John Sichi",NA
+"service/lib/php/ext/thrift_protocol","John Sichi",NA
+"service/lib/php/ext/thrift_protocol/tags/1.0.0","John Sichi",NA
+"service/lib/py/fb303","John Sichi",NA
+"service/lib/py/thrift/protocol","John Sichi",NA
+"service/lib/py/thrift/reflection","John Sichi",NA
+"service/lib/py/thrift/reflection/limited","John Sichi",NA
+"service/src/gen-py","John Sichi",NA
+"service/src/gen/thrift/gen-py","John Sichi",NA
+"service/src/java/org/apache/hadoop/hive/service","John Sichi",NA
+"service/src/test/php","John Sichi",NA
+"shims","John Sichi",NA
+"shims/src/0.20/java/org/apache/hadoop/fs","John Sichi",NA
+"shims/src/0.20/java/org/apache/hadoop/hive/shims","John Sichi",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/shims","John Sichi",NA
+"shims/src/0.20S/java/org/apache/hadoop/hive/thrift","John Sichi",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/shims","John Sichi",NA
+"shims/src/0.23/java/org/apache/hadoop/hive/thrift","John Sichi",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/shims","John Sichi",NA
+"shims/src/common-secure/java/org/apache/hadoop/hive/thrift","John Sichi",NA
+"shims/src/common/java/org/apache/hadoop/hive/io","John Sichi",NA
+"shims/src/common/java/org/apache/hadoop/hive/shims","John Sichi",NA
+"shims/src/common/java/org/apache/hadoop/hive/thrift","John Sichi",NA
+"shims/src/test/org/apache/hadoop/hive/thrift","John Sichi",NA
+"testlibs","John Sichi",NA
+"testutils","John Sichi",NA
+"testutils/ptest","John Sichi",4

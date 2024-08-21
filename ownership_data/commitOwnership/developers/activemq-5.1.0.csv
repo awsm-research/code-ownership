@@ -1,0 +1,515 @@
+"Change_file","AuthorName","length","Sum"
+"activemq-camel-loadtest/src/test/java/org/apache/activemq/soaktest/LoadTest.java","James Strachan",1,1
+"activemq-camel-loadtest/src/test/java/org/apache/activemq/soaktest/localBroker/LocalBrokerLoadTest.java","James Strachan",1,1
+"activemq-camel-loadtest/src/test/java/org/apache/activemq/soaktest/localBroker/LocalBrokerParallelProducerLoadTest.java","James Strachan",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/AbstractAmqCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/AbstractCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/AbstractJmxCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/AmqBrowseCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/BrowseCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/Command.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/ListCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/PurgeCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/QueryCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/ShellCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/ShutdownCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/command/StartCommand.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/CommandContext.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/ConsoleCommandHandler.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/filter/MapTransformFilter.java","Hiram R. Chirino",1,1
+"activemq-console/src/main/java/org/apache/activemq/console/formatter/OutputFormatter.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQConnection.java","Hiram R. Chirino",0.363636363636364,11
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQConnection.java","James Strachan",0.181818181818182,11
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQConnection.java","Robert Davies",0.454545454545455,11
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQConnectionFactory.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQInputStream.java","Adrian T. Co",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageAudit.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageConsumer.java","Hiram R. Chirino",0.4,5
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageConsumer.java","Robert Davies",0.6,5
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageProducer.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageProducerSupport.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQMessageTransformation.java","Adrian T. Co",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQOutputStream.java","Adrian T. Co",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQQueueSender.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQSession.java","Robert Davies",1,4
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQTopicPublisher.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/ActiveMQXAConnection.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/advisory/AdvisoryBroker.java","Hiram R. Chirino",0.111111111111111,9
+"activemq-core/src/main/java/org/apache/activemq/advisory/AdvisoryBroker.java","Robert Davies",0.888888888888889,9
+"activemq-core/src/main/java/org/apache/activemq/advisory/AdvisorySupport.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/advisory/DestinationEvent.java","James Strachan",1,1
+"activemq-core/src/main/java/org/apache/activemq/advisory/DestinationListener.java","James Strachan",1,1
+"activemq-core/src/main/java/org/apache/activemq/advisory/DestinationSource.java","James Strachan",1,2
+"activemq-core/src/main/java/org/apache/activemq/advisory/ProducerEventSource.java","Adrian T. Co",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/advisory/ProducerEventSource.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/AdvisoryConsumer.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/Broker.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/BrokerFactory.java","Adrian T. Co",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/BrokerFilter.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java","Hiram R. Chirino",0.181818181818182,22
+"activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java","Robert Davies",0.818181818181818,22
+"activemq-core/src/main/java/org/apache/activemq/broker/cluster/ConnectionSplitBroker.java","Robert Davies",1,8
+"activemq-core/src/main/java/org/apache/activemq/broker/Connection.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/ConnectionContext.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/EmptyBroker.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/ErrorBroker.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/ft/MasterConnector.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/BrokerView.java","Hiram R. Chirino",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/BrokerView.java","Robert Davies",0.75,4
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/BrokerViewMBean.java","Hiram R. Chirino",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/BrokerViewMBean.java","Robert Davies",0.75,4
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/DestinationView.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/DestinationViewMBean.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagedQueueRegion.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagedRegionBroker.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagedTempQueueRegion.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagedTempQueueRegion.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagedTransportConnector.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/ManagementContext.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/NetworkConnectorView.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/NetworkConnectorViewMBean.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/SubscriptionView.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/jmx/SubscriptionViewMBean.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/MutableBrokerFilter.java","Hiram R. Chirino",0.666666666666667,3
+"activemq-core/src/main/java/org/apache/activemq/broker/MutableBrokerFilter.java","Robert Davies",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/broker/region/AbstractRegion.java","Hiram R. Chirino",0.1,10
+"activemq-core/src/main/java/org/apache/activemq/broker/region/AbstractRegion.java","Robert Davies",0.9,10
+"activemq-core/src/main/java/org/apache/activemq/broker/region/AbstractSubscription.java","Hiram R. Chirino",0.2,5
+"activemq-core/src/main/java/org/apache/activemq/broker/region/AbstractSubscription.java","Robert Davies",0.8,5
+"activemq-core/src/main/java/org/apache/activemq/broker/region/AbstractTempRegion.java","Hiram R. Chirino",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/broker/region/AbstractTempRegion.java","Robert Davies",0.75,4
+"activemq-core/src/main/java/org/apache/activemq/broker/region/BaseDestination.java","Hiram R. Chirino",0.153846153846154,13
+"activemq-core/src/main/java/org/apache/activemq/broker/region/BaseDestination.java","Robert Davies",0.846153846153846,13
+"activemq-core/src/main/java/org/apache/activemq/broker/region/CompositeDestinationInterceptor.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/AbstractPendingMessageCursor.java","Hiram R. Chirino",0.166666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/AbstractPendingMessageCursor.java","Robert Davies",0.833333333333333,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/AbstractStoreCursor.java","Hiram R. Chirino",0.4,5
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/AbstractStoreCursor.java","Robert Davies",0.6,5
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/FilePendingMessageCursor.java","Hiram R. Chirino",0.333333333333333,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/FilePendingMessageCursor.java","Robert Davies",0.666666666666667,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/PendingMessageCursor.java","Hiram R. Chirino",0.2,5
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/PendingMessageCursor.java","Robert Davies",0.8,5
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/QueueStorePrefetch.java","Robert Davies",1,7
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/StoreDurableSubscriberCursor.java","Hiram R. Chirino",0.1,10
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/StoreDurableSubscriberCursor.java","Robert Davies",0.9,10
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/StoreQueueCursor.java","Robert Davies",1,7
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/TopicStorePrefetch.java","Robert Davies",1,5
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/VMPendingMessageCursor.java","Hiram R. Chirino",0.666666666666667,3
+"activemq-core/src/main/java/org/apache/activemq/broker/region/cursors/VMPendingMessageCursor.java","Robert Davies",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Destination.java","Hiram R. Chirino",0.222222222222222,9
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Destination.java","Robert Davies",0.777777777777778,9
+"activemq-core/src/main/java/org/apache/activemq/broker/region/DestinationFactoryImpl.java","Hiram R. Chirino",0.2,5
+"activemq-core/src/main/java/org/apache/activemq/broker/region/DestinationFactoryImpl.java","Robert Davies",0.8,5
+"activemq-core/src/main/java/org/apache/activemq/broker/region/DestinationFilter.java","Hiram R. Chirino",0.222222222222222,9
+"activemq-core/src/main/java/org/apache/activemq/broker/region/DestinationFilter.java","Robert Davies",0.777777777777778,9
+"activemq-core/src/main/java/org/apache/activemq/broker/region/DestinationInterceptor.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/DestinationStatistics.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/broker/region/DurableTopicSubscription.java","Robert Davies",1,12
+"activemq-core/src/main/java/org/apache/activemq/broker/region/IndirectMessageReference.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/NullMessageReference.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/DispatchSelector.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/FilePendingDurableSubscriberMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/FilePendingQueueMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/FilePendingSubscriberMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/PendingDurableSubscriberMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/PendingQueueMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/PendingSubscriberMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/PolicyEntry.java","Hiram R. Chirino",0.0909090909090909,11
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/PolicyEntry.java","Robert Davies",0.909090909090909,11
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/RoundRobinDispatchPolicy.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/SimpleDispatchPolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/SimpleDispatchSelector.java","Hiram R. Chirino",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/SimpleDispatchSelector.java","Robert Davies",0.666666666666667,3
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/StorePendingDurableSubscriberMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/StorePendingQueueMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/VMPendingDurableSubscriberMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/VMPendingQueueMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/policy/VMPendingSubscriberMessageStoragePolicy.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/PrefetchSubscription.java","Hiram R. Chirino",0.235294117647059,17
+"activemq-core/src/main/java/org/apache/activemq/broker/region/PrefetchSubscription.java","Robert Davies",0.764705882352941,17
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Queue.java","Hiram R. Chirino",0.307692307692308,39
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Queue.java","Robert Davies",0.692307692307692,39
+"activemq-core/src/main/java/org/apache/activemq/broker/region/QueueBrowserSubscription.java","Hiram R. Chirino",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/broker/region/QueueBrowserSubscription.java","Robert Davies",0.75,4
+"activemq-core/src/main/java/org/apache/activemq/broker/region/QueueDispatchSelector.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/QueueDispatchSelector.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/QueueMessageReference.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/QueueRegion.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/broker/region/QueueSubscription.java","Hiram R. Chirino",0.111111111111111,9
+"activemq-core/src/main/java/org/apache/activemq/broker/region/QueueSubscription.java","Robert Davies",0.888888888888889,9
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Region.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/RegionBroker.java","Hiram R. Chirino",0.1,10
+"activemq-core/src/main/java/org/apache/activemq/broker/region/RegionBroker.java","James Strachan",0.1,10
+"activemq-core/src/main/java/org/apache/activemq/broker/region/RegionBroker.java","Robert Davies",0.8,10
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Subscription.java","Hiram R. Chirino",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Subscription.java","Robert Davies",0.75,4
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TempQueue.java","Hiram R. Chirino",0.5,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TempQueue.java","Robert Davies",0.5,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TempQueueRegion.java","Hiram R. Chirino",0.142857142857143,7
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TempQueueRegion.java","Robert Davies",0.857142857142857,7
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TempTopic.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TempTopic.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TempTopicRegion.java","Robert Davies",1,4
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Topic.java","Hiram R. Chirino",0.222222222222222,18
+"activemq-core/src/main/java/org/apache/activemq/broker/region/Topic.java","Robert Davies",0.777777777777778,18
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TopicRegion.java","Robert Davies",1,5
+"activemq-core/src/main/java/org/apache/activemq/broker/region/TopicSubscription.java","Robert Davies",1,6
+"activemq-core/src/main/java/org/apache/activemq/broker/region/virtual/CompositeDestination.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/virtual/CompositeDestinationFilter.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/virtual/CompositeQueue.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/virtual/MirroredQueue.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/region/virtual/VirtualDestinationInterceptor.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/region/virtual/VirtualTopic.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/SingleTransportConnectionStateRegister.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/SslBrokerService.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/broker/TransportConnection.java","Hiram R. Chirino",0.529411764705882,17
+"activemq-core/src/main/java/org/apache/activemq/broker/TransportConnection.java","James Strachan",0.0588235294117647,17
+"activemq-core/src/main/java/org/apache/activemq/broker/TransportConnection.java","Robert Davies",0.411764705882353,17
+"activemq-core/src/main/java/org/apache/activemq/broker/TransportConnector.java","Hiram R. Chirino",0.5,8
+"activemq-core/src/main/java/org/apache/activemq/broker/TransportConnector.java","James Strachan",0.125,8
+"activemq-core/src/main/java/org/apache/activemq/broker/TransportConnector.java","Robert Davies",0.375,8
+"activemq-core/src/main/java/org/apache/activemq/broker/util/CommandAgent.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/broker/util/TimeStampingBrokerPlugin.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/camel/component/ActiveMQComponent.java","James Strachan",1,2
+"activemq-core/src/main/java/org/apache/activemq/camel/component/ActiveMQConfiguration.java","James Strachan",1,3
+"activemq-core/src/main/java/org/apache/activemq/camel/component/CamelEndpointLoader.java","James Strachan",1,4
+"activemq-core/src/main/java/org/apache/activemq/command/ActiveMQMessage.java","Adrian T. Co",1,1
+"activemq-core/src/main/java/org/apache/activemq/command/ActiveMQTextMessage.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/command/ConsumerInfo.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/command/Message.java","Robert Davies",1,4
+"activemq-core/src/main/java/org/apache/activemq/command/WireFormatInfo.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/EnhancedConnection.java","James Strachan",1,1
+"activemq-core/src/main/java/org/apache/activemq/filter/MessageEvaluationContext.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/filter/NonCachedMessageEvaluationContext.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/AsyncDataManager.java","Hiram R. Chirino",0.5,6
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/AsyncDataManager.java","Robert Davies",0.5,6
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/ControlFile.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/DataFile.java","Hiram R. Chirino",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/DataFile.java","Robert Davies",0.666666666666667,3
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/DataFileAccessor.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/DataFileAppender.java","Hadrian Zbarcea",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/DataFileAppender.java","Hiram R. Chirino",0.75,4
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/JournalFacade.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/NIODataFileAppender.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/ReadOnlyAsyncDataManager.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/ReadOnlyDataFile.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/container/BaseContainerImpl.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/container/ContainerKeySetIterator.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/container/ListContainerImpl.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/container/MapContainerImpl.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/data/DataManagerImpl.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/DiskIndexLinkedList.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/hash/HashBin.java","Robert Davies",1,8
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/hash/HashIndex.java","Robert Davies",1,11
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/hash/HashIndexMBean.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/hash/HashPage.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/hash/HashPageInfo.java","Robert Davies",1,6
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/Index.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/IndexLinkedList.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/IndexManager.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/tree/TreeIndex.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/VMIndex.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/index/VMIndexLinkedList.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/KahaStore.java","Hiram R. Chirino",0.125,8
+"activemq-core/src/main/java/org/apache/activemq/kaha/impl/KahaStore.java","Robert Davies",0.875,8
+"activemq-core/src/main/java/org/apache/activemq/kaha/IndexMBean.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/MapContainer.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/kaha/Store.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/network/ConduitBridge.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/network/DemandForwardingBridgeSupport.java","Robert Davies",1,11
+"activemq-core/src/main/java/org/apache/activemq/network/DemandSubscription.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/network/DiscoveryNetworkConnector.java","Hiram R. Chirino",0.666666666666667,3
+"activemq-core/src/main/java/org/apache/activemq/network/DiscoveryNetworkConnector.java","Robert Davies",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/network/DurableConduitBridge.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/network/jms/JmsConnector.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/network/jms/JmsQueueConnector.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/network/jms/JmsTopicConnector.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/network/LdapNetworkConnector.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/network/LdapNetworkConnector.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/network/MulticastNetworkConnector.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/network/NetworkBridgeConfiguration.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/network/NetworkConnector.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/network/NetworkConnector.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/openwire/OpenWireFormat.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/openwire/OpenWireFormatFactory.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v1/BaseDataStreamMarshaller.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v2/BaseDataStreamMarshaller.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/openwire/v3/BaseDataStreamMarshaller.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/pool/ConnectionPool.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/pool/PooledConnection.java","James Strachan",1,1
+"activemq-core/src/main/java/org/apache/activemq/pool/PooledConnectionFactory.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/proxy/ProxyConnector.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/spring/ActiveMQConnectionFactoryFactoryBean.java","James Strachan",1,1
+"activemq-core/src/main/java/org/apache/activemq/state/ConnectionStateTracker.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/store/amq/AMQMessageStore.java","Hiram R. Chirino",0.125,8
+"activemq-core/src/main/java/org/apache/activemq/store/amq/AMQMessageStore.java","Robert Davies",0.875,8
+"activemq-core/src/main/java/org/apache/activemq/store/amq/AMQPersistenceAdapter.java","Hiram R. Chirino",0.153846153846154,13
+"activemq-core/src/main/java/org/apache/activemq/store/amq/AMQPersistenceAdapter.java","Robert Davies",0.846153846153846,13
+"activemq-core/src/main/java/org/apache/activemq/store/amq/AMQTopicMessageStore.java","Robert Davies",1,4
+"activemq-core/src/main/java/org/apache/activemq/store/amq/RecoveryListenerAdapter.java","Robert Davies",1,4
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/DefaultDatabaseLocker.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/jdbc/JDBCPersistenceAdapter.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/store/journal/JournalMessageStore.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/journal/JournalPersistenceAdapter.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/kahadaptor/KahaPersistenceAdapter.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/kahadaptor/KahaReferenceStore.java","Robert Davies",1,4
+"activemq-core/src/main/java/org/apache/activemq/store/kahadaptor/KahaReferenceStoreAdapter.java","Robert Davies",1,8
+"activemq-core/src/main/java/org/apache/activemq/store/kahadaptor/KahaTopicMessageStore.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/store/kahadaptor/KahaTopicReferenceStore.java","Robert Davies",1,9
+"activemq-core/src/main/java/org/apache/activemq/store/kahadaptor/TopicSubContainer.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/store/memory/MemoryMessageStore.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/memory/MemoryPersistenceAdapter.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/memory/MemoryTopicMessageStore.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/store/memory/MemoryTopicSub.java","Hiram R. Chirino",0.25,4
+"activemq-core/src/main/java/org/apache/activemq/store/memory/MemoryTopicSub.java","Robert Davies",0.75,4
+"activemq-core/src/main/java/org/apache/activemq/store/ReferenceStore.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/store/ReferenceStoreAdapter.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/thread/DeterministicTaskRunner.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/thread/PooledTaskRunner.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/thread/PooledTaskRunner.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/thread/Scheduler.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/thread/SchedulerTimerTask.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/thread/TaskRunnerFactory.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/thread/Valve.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transaction/Transaction.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/discovery/DiscoveryTransportFactory.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/discovery/multicast/MulticastDiscoveryAgentFactory.java","David Jencks",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/discovery/rendezvous/JmDNSFactory.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/discovery/rendezvous/RendezvousDiscoveryAgent.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/discovery/simple/SimpleDiscoveryAgent.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/discovery/simple/SimpleDiscoveryAgent.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/failover/BackupTransport.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/transport/failover/FailoverTransport.java","Adrian T. Co",0.08,25
+"activemq-core/src/main/java/org/apache/activemq/transport/failover/FailoverTransport.java","Hiram R. Chirino",0.16,25
+"activemq-core/src/main/java/org/apache/activemq/transport/failover/FailoverTransport.java","Robert Davies",0.76,25
+"activemq-core/src/main/java/org/apache/activemq/transport/failover/FailoverTransportFactory.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/fanout/FanoutTransport.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/fanout/FanoutTransportFactory.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/InactivityMonitor.java","Hiram R. Chirino",0.555555555555556,18
+"activemq-core/src/main/java/org/apache/activemq/transport/InactivityMonitor.java","Robert Davies",0.444444444444444,18
+"activemq-core/src/main/java/org/apache/activemq/transport/LogWriter.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/logwriters/CustomLogWriter.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/logwriters/DefaultLogWriter.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/mock/MockTransport.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/mock/MockTransportFactory.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/peer/PeerTransportFactory.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/ResponseCorrelator.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/ResponseCorrelator.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/FrameTranslator.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/JmsFrameTranslator.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/LegacyFrameTranslator.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/ProtocolConverter.java","Hiram R. Chirino",1,4
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/Stomp.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompSslTransportFactory.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompSubscription.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompTransportFactory.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompTransportFilter.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/SslTransport.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/SslTransportFactory.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/SslTransportServer.java","David Jencks",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/TcpBufferedOutputStream.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/TcpTransport.java","Hiram R. Chirino",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/TcpTransport.java","Robert Davies",0.666666666666667,3
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/TcpTransportFactory.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/TcpTransportServer.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/tcp/TcpTransportServer.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/Transport.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportFactory.java","Hiram R. Chirino",0.666666666666667,3
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportFactory.java","Robert Davies",0.333333333333333,3
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportFilter.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportLogger.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportLoggerControl.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportLoggerControlMBean.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportLoggerFactory.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportLoggerView.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportLoggerViewMBean.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/transport/TransportSupport.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/udp/UdpTransportFactory.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/transport/vm/VMTransport.java","Hiram R. Chirino",0.6,5
+"activemq-core/src/main/java/org/apache/activemq/transport/vm/VMTransport.java","Robert Davies",0.4,5
+"activemq-core/src/main/java/org/apache/activemq/transport/vm/VMTransportFactory.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/vm/VMTransportFactory.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/transport/WireFormatNegotiator.java","Hiram R. Chirino",1,2
+"activemq-core/src/main/java/org/apache/activemq/usage/MemoryUsage.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/usage/Usage.java","Robert Davies",1,2
+"activemq-core/src/main/java/org/apache/activemq/util/ActiveMQMessageUtils.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/BitArrayBin.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/util/BrokerSupport.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/ClassLoadingAwareObjectInputStream.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/util/ClassLoadingAwareObjectInputStream.java","Robert Davies",0.5,2
+"activemq-core/src/main/java/org/apache/activemq/util/IntrospectionSupport.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/IOHelper.java","Robert Davies",1,3
+"activemq-core/src/main/java/org/apache/activemq/util/LinkedNode.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/LogWriterFinder.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/ServiceSupport.java","Robert Davies",1,1
+"activemq-core/src/main/java/org/apache/activemq/util/XStreamFactoryBean.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/xbean/XBeanBrokerFactory.java","Hiram R. Chirino",1,1
+"activemq-core/src/main/java/org/apache/activemq/xbean/XBeanBrokerService.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/ActiveMQInputStreamTest.java","Adrian T. Co",1,1
+"activemq-core/src/test/java/org/apache/activemq/ActiveMQMessageAuditTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/ActiveMQXAConnectionFactoryTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/advisory/DestinationListenerTest.java","James Strachan",1,3
+"activemq-core/src/test/java/org/apache/activemq/advisory/TempDestLoadTest.java","Robert Davies",1,4
+"activemq-core/src/test/java/org/apache/activemq/advisory/TempQueueMemoryTest.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/AMQDeadlockTest3.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/BrokerRestartTestSupport.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/BrokerTest.java","Hiram R. Chirino",0.25,4
+"activemq-core/src/test/java/org/apache/activemq/broker/BrokerTest.java","Robert Davies",0.75,4
+"activemq-core/src/test/java/org/apache/activemq/broker/ft/QueueMasterSlaveTest.java","Hiram R. Chirino",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/broker/ft/QueueMasterSlaveTest.java","Robert Davies",0.666666666666667,3
+"activemq-core/src/test/java/org/apache/activemq/broker/ft/QueueMasterSlaveTestUsingSharedFileTest.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/broker/ft/QueueMasterSlaveTestUsingSharedFileTest.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/broker/jmx/MBeanTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/message/security/MessageAuthenticationTest.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/MessageExpirationTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/policy/MessageListenerDeadLetterTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/policy/SimpleDispatchPolicyTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/QueueSubscriptionTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/RecoveryBrokerTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/region/cursors/CursorSupport.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/StubBroker.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/StubConnection.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/broker/virtual/MirroredQueueTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/amq1095/ActiveMQTestCase.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/DurableConsumerTest.java","Hiram R. Chirino",0.333333333333333,6
+"activemq-core/src/test/java/org/apache/activemq/bugs/DurableConsumerTest.java","Robert Davies",0.666666666666667,6
+"activemq-core/src/test/java/org/apache/activemq/bugs/JmsDurableTopicSlowReceiveTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/bugs/QueueWorkerPrefetchTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/camel/CamelEmbeddedBrokerTestSupport.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/camel/component/ActiveMQConfigureTest.java","James Strachan",1,2
+"activemq-core/src/test/java/org/apache/activemq/camel/component/ActiveMQReplyToHeaderUsingConverterTest.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/camel/component/AdvisoryConsumerExample.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/camel/component/AutoExposeQueuesInCamelTest.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/camel/component/BrowseQueuesInUFace.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/camel/component/InvokeRequestReplyUsingJmsReplyToHeaderTest.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/camel/converter/InvokeJmsMessageListenerTest.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/camel/SetGroupIdProcessor.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/camel/SetHeaderTest.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/ClientTestSupport.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/EmbeddedBrokerTestSupport.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/ExclusiveConsumerTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/filter/DestinationMapTempDestinationTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/JmsMultipleBrokersTestSupport.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/JmsQueueBrowserTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/JmsTempDestinationTest.java","Hiram R. Chirino",0.75,4
+"activemq-core/src/test/java/org/apache/activemq/JmsTempDestinationTest.java","James Strachan",0.25,4
+"activemq-core/src/test/java/org/apache/activemq/kaha/impl/async/DataFileAppenderTest.java","Hadrian Zbarcea",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/kaha/impl/async/DataFileAppenderTest.java","Hiram R. Chirino",0.666666666666667,3
+"activemq-core/src/test/java/org/apache/activemq/kaha/impl/async/NioDataFileAppenderTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/kaha/impl/index/DiskIndexLinkedListTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/kaha/impl/index/hash/HashTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/kaha/impl/index/VMIndexLinkedListTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/kaha/Loader.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/load/LoadClient.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/load/LoadController.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/load/LoadTest.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/memory/MemoryPropertyTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/network/NetworkFailoverTest.java","Robert Davies",1,3
+"activemq-core/src/test/java/org/apache/activemq/network/NetworkLoadTest.java","Hiram R. Chirino",1,6
+"activemq-core/src/test/java/org/apache/activemq/network/NetworkReconnectTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/network/NetworkTestSupport.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/perf/AMQStoreDurableTopicTest.java","Robert Davies",1,3
+"activemq-core/src/test/java/org/apache/activemq/perf/AMQStoreQueueTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/perf/JournalKahaDurableTopicTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/perf/JournalKahaQueueTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/perf/KahaDurableTopicTest.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/perf/KahaQueueTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/perf/NetworkedSyncTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/perf/PerfConsumer.java","Robert Davies",1,3
+"activemq-core/src/test/java/org/apache/activemq/perf/PerfProducer.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/perf/QueueConnectionMemoryTest.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleDurableTopicNetworkTest.java","Hadrian Zbarcea",0.2,5
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleDurableTopicNetworkTest.java","Robert Davies",0.8,5
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleDurableTopicTest.java","Hadrian Zbarcea",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleDurableTopicTest.java","Robert Davies",0.666666666666667,3
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleNetworkTest.java","Robert Davies",1,5
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleNonPersistentQueueNetworkTest.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleNonPersistentQueueTest.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleQueueTest.java","Robert Davies",1,5
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleTopicTest.java","Hadrian Zbarcea",0.2,5
+"activemq-core/src/test/java/org/apache/activemq/perf/SimpleTopicTest.java","Robert Davies",0.8,5
+"activemq-core/src/test/java/org/apache/activemq/perf/SlowConsumerTopicTest.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/proxy/ProxyTestSupport.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/QueueConsumerPriorityTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/spring/ActiveMQConnectionFactoryFactoryBeanTest.java","James Strachan",1,1
+"activemq-core/src/test/java/org/apache/activemq/thread/PooledTaskRunnerTest.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/thread/PooledTaskRunnerTest.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/transport/failover/ReconnectTest.java","Hiram R. Chirino",0.333333333333333,3
+"activemq-core/src/test/java/org/apache/activemq/transport/failover/ReconnectTest.java","Robert Davies",0.666666666666667,3
+"activemq-core/src/test/java/org/apache/activemq/transport/stomp/SamplePojo.java","Hiram R. Chirino",1,2
+"activemq-core/src/test/java/org/apache/activemq/transport/stomp/StompConnection.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/stomp/StompTest.java","Hiram R. Chirino",1,3
+"activemq-core/src/test/java/org/apache/activemq/transport/tcp/InactivityMonitorTest.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/transport/tcp/InactivityMonitorTest.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/transport/tcp/SslBrokerServiceTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/tcp/SslTransportBrokerTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/tcp/SslTransportFactoryTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/tcp/SslTransportServerTest.java","David Jencks",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/tcp/WireformatNegociationTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/TransportBrokerTestSupport.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/transport/udp/UdpTransportUsingServerTest.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/usecases/AMQDeadlockTestW4Brokers.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/usecases/AMQFailoverIssue.java","Hiram R. Chirino",1,1
+"activemq-core/src/test/java/org/apache/activemq/usecases/AMQStackOverFlowTest.java","Hiram R. Chirino",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/usecases/AMQStackOverFlowTest.java","Robert Davies",0.5,2
+"activemq-core/src/test/java/org/apache/activemq/usecases/MultiBrokersMultiClientsTest.java","Hiram R. Chirino",1,2
+"activemq-core/src/test/java/org/apache/activemq/usecases/QueueRepeaterTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/usecases/ReliableReconnectTest.java","Robert Davies",1,3
+"activemq-core/src/test/java/org/apache/activemq/usecases/TestSupport.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/usecases/TransactionTest.java","Robert Davies",1,2
+"activemq-core/src/test/java/org/apache/activemq/usecases/TwoBrokerMessageNotSentToRemoteWhenNoConsumerTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/usecases/TwoMulticastDiscoveryBrokerTopicSendReceiveTest.java","Robert Davies",1,1
+"activemq-core/src/test/java/org/apache/activemq/xbean/ApplicationContextAwareTest.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSCache.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSConstants.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSEntry.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSIncoming.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSListener.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSOutgoing.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSQuestion.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSRecord.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/DNSState.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/HostInfo.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/JmDNS.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/ServiceEvent.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/ServiceInfo.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/ServiceListener.java","Hiram R. Chirino",1,1
+"activemq-jmdns_1.0/src/main/java/org/apache/activemq/jmdns/ServiceTypeListener.java","Hiram R. Chirino",1,1
+"activemq-jpa-store/src/main/java/org/apache/activemq/store/jpa/JPAReferenceStore.java","Robert Davies",1,1
+"activemq-jpa-store/src/main/java/org/apache/activemq/store/jpa/JPAReferenceStoreAdapter.java","Robert Davies",1,1
+"activemq-jpa-store/src/test/java/org/apache/activemq/broker/store/JPARecoveryBrokerTest.java","Hiram R. Chirino",1,1
+"activemq-jpa-store/src/test/java/org/apache/activemq/broker/store/QuickJPAStoreRecoveryBrokerTest.java","Hiram R. Chirino",1,1
+"activemq-jpa-store/src/test/java/org/apache/activemq/broker/store/QuickJPAStoreXARecoveryBrokerTest.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/benchmark/BenchmarkSupport.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/benchmark/Producer.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/benchmark/ProducerConsumer.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/transport/http/HttpClientTransport.java","James Strachan",1,1
+"activemq-optional/src/main/java/org/apache/activemq/transport/http/HttpTransportFactory.java","Hiram R. Chirino",1,2
+"activemq-optional/src/main/java/org/apache/activemq/transport/https/HttpsClientTransport.java","Hiram R. Chirino",1,1
+"activemq-optional/src/main/java/org/apache/activemq/transport/https/HttpsTransportFactory.java","Hiram R. Chirino",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQConnectionFactory.java","Robert Davies",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQConnectionRequestInfo.java","Robert Davies",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQConnectionSupport.java","Hiram R. Chirino",0.5,2
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQConnectionSupport.java","Robert Davies",0.5,2
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQEndpointActivationKey.java","Robert Davies",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQManagedConnectionFactory.java","Robert Davies",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQResourceAdapter.java","Hiram R. Chirino",0.666666666666667,3
+"activemq-ra/src/main/java/org/apache/activemq/ra/ActiveMQResourceAdapter.java","Robert Davies",0.333333333333333,3
+"activemq-ra/src/main/java/org/apache/activemq/ra/MessageResourceAdapter.java","Robert Davies",1,2
+"activemq-ra/src/main/java/org/apache/activemq/ra/ServerSessionImpl.java","Robert Davies",1,1
+"activemq-ra/src/main/java/org/apache/activemq/ra/ServerSessionPoolImpl.java","David Jencks",0.5,4
+"activemq-ra/src/main/java/org/apache/activemq/ra/ServerSessionPoolImpl.java","Robert Davies",0.5,4
+"activemq-ra/src/test/java/org/apache/activemq/ra/ActiveMQAsfEndpointWorkerTest.java","Robert Davies",1,1
+"activemq-ra/src/test/java/org/apache/activemq/ra/ActiveMQConnectionFactoryTest.java","Robert Davies",1,1
+"activemq-ra/src/test/java/org/apache/activemq/ra/ManagedConnectionFactoryTest.java","Robert Davies",1,1
+"activemq-ra/src/test/java/org/apache/activemq/ra/ManagedConnectionTest.java","Robert Davies",1,1
+"activemq-ra/src/test/java/org/apache/activemq/ra/ServerSessionImplTest.java","Robert Davies",1,1
+"activemq-web-console/src/main/java/org/apache/activemq/web/handler/BindingBeanNameUrlHandlerMapping.java","James Strachan",1,1
+"activemq-web/src/main/java/org/apache/activemq/web/DestinationFacade.java","James Strachan",1,1
+"activemq-web/src/main/java/org/apache/activemq/web/QueueBrowseServlet.java","James Strachan",1,1
+"activemq-web/src/main/java/org/apache/activemq/web/view/RssMessageRenderer.java","James Strachan",1,1
+"assembly/src/release/example/src/TopicPublisher.java","James Strachan",1,1
+"assembly/src/release/example/transactions/src/Retailer.java","Robert Davies",1,1
+"assembly/src/release/example/transactions/src/Supplier.java","Robert Davies",1,1
+"assembly/src/release/example/transactions/src/TransactionsDemo.java","Robert Davies",1,1
+"assembly/src/release/example/transactions/src/Vendor.java","Robert Davies",1,1

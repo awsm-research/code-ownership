@@ -1,0 +1,1631 @@
+"Change_file","AuthorName","length","Sum"
+"camel-core/src/main/java/org/apache/camel/Body.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/Body.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/builder/BinaryPredicateSupport.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/builder/BinaryPredicateSupport.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/builder/Builder.java","Claus Ibsen",0.75,4
+"camel-core/src/main/java/org/apache/camel/builder/Builder.java","Hadrian Zbarcea",0.25,4
+"camel-core/src/main/java/org/apache/camel/builder/BuilderSupport.java","Claus Ibsen",0.4,5
+"camel-core/src/main/java/org/apache/camel/builder/BuilderSupport.java","Jonathan Anstey",0.2,5
+"camel-core/src/main/java/org/apache/camel/builder/BuilderSupport.java","Willem Ning Jiang",0.4,5
+"camel-core/src/main/java/org/apache/camel/builder/ConstantProcessorBuilder.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/builder/DataFormatClause.java","Claus Ibsen",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/builder/DataFormatClause.java","Jonathan Anstey",0.428571428571429,7
+"camel-core/src/main/java/org/apache/camel/builder/DataFormatClause.java","Willem Ning Jiang",0.428571428571429,7
+"camel-core/src/main/java/org/apache/camel/builder/DeadLetterChannelBuilder.java","Claus Ibsen",0.571428571428571,7
+"camel-core/src/main/java/org/apache/camel/builder/DeadLetterChannelBuilder.java","Jonathan Anstey",0.285714285714286,7
+"camel-core/src/main/java/org/apache/camel/builder/DeadLetterChannelBuilder.java","Willem Ning Jiang",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/builder/ErrorHandlerBuilder.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/builder/ErrorHandlerBuilderSupport.java","Claus Ibsen",1,2
+"camel-core/src/main/java/org/apache/camel/builder/ExpressionBuilder.java","Claus Ibsen",0.545454545454545,11
+"camel-core/src/main/java/org/apache/camel/builder/ExpressionBuilder.java","Gert Vanthienen",0.0909090909090909,11
+"camel-core/src/main/java/org/apache/camel/builder/ExpressionBuilder.java","Hadrian Zbarcea",0.181818181818182,11
+"camel-core/src/main/java/org/apache/camel/builder/ExpressionBuilder.java","Jonathan Anstey",0.0909090909090909,11
+"camel-core/src/main/java/org/apache/camel/builder/ExpressionBuilder.java","Willem Ning Jiang",0.0909090909090909,11
+"camel-core/src/main/java/org/apache/camel/builder/ExpressionClause.java","Claus Ibsen",0.75,4
+"camel-core/src/main/java/org/apache/camel/builder/ExpressionClause.java","Jonathan Anstey",0.25,4
+"camel-core/src/main/java/org/apache/camel/builder/LoggingErrorHandlerBuilder.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/builder/LoggingErrorHandlerBuilder.java","Jonathan Anstey",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/builder/LoggingErrorHandlerBuilder.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/builder/PredicateBuilder.java","Hadrian Zbarcea",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/builder/PredicateBuilder.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/builder/PredicateFactory.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/builder/PredicateSupport.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/builder/ProcessorBuilder.java","Jonathan Anstey",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/builder/ProcessorBuilder.java","Willem Ning Jiang",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/builder/RouteBuilder.java","Claus Ibsen",0.384615384615385,13
+"camel-core/src/main/java/org/apache/camel/builder/RouteBuilder.java","Hadrian Zbarcea",0.153846153846154,13
+"camel-core/src/main/java/org/apache/camel/builder/RouteBuilder.java","James Strachan",0.0769230769230769,13
+"camel-core/src/main/java/org/apache/camel/builder/RouteBuilder.java","Jonathan Anstey",0.307692307692308,13
+"camel-core/src/main/java/org/apache/camel/builder/RouteBuilder.java","Willem Ning Jiang",0.0769230769230769,13
+"camel-core/src/main/java/org/apache/camel/builder/ValueBuilder.java","Claus Ibsen",0.6,5
+"camel-core/src/main/java/org/apache/camel/builder/ValueBuilder.java","Hadrian Zbarcea",0.2,5
+"camel-core/src/main/java/org/apache/camel/builder/ValueBuilder.java","Willem Ning Jiang",0.2,5
+"camel-core/src/main/java/org/apache/camel/builder/xml/MessageVariableResolver.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/builder/xml/MessageVariableResolver.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/builder/xml/Namespaces.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/builder/xml/XPathBuilder.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/builder/xml/XPathBuilder.java","Jonathan Anstey",0.5,2
+"camel-core/src/main/java/org/apache/camel/builder/xml/XPathLanguage.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/builder/xml/XsltBuilder.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/CamelContext.java","Claus Ibsen",0.230769230769231,13
+"camel-core/src/main/java/org/apache/camel/CamelContext.java","Hadrian Zbarcea",0.230769230769231,13
+"camel-core/src/main/java/org/apache/camel/CamelContext.java","James Strachan",0.0769230769230769,13
+"camel-core/src/main/java/org/apache/camel/CamelContext.java","Jonathan Anstey",0.153846153846154,13
+"camel-core/src/main/java/org/apache/camel/CamelContext.java","Willem Ning Jiang",0.307692307692308,13
+"camel-core/src/main/java/org/apache/camel/CamelTemplate.java","Jonathan Anstey",1,1
+"camel-core/src/main/java/org/apache/camel/Component.java","Hadrian Zbarcea",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/Component.java","Willem Ning Jiang",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanComponent.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanEndpoint.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanExchange.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanInfo.java","Claus Ibsen",0.4,10
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanInfo.java","James Strachan",0.2,10
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanInfo.java","Jonathan Anstey",0.2,10
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanInfo.java","Willem Ning Jiang",0.2,10
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanProcessor.java","Claus Ibsen",0.5,6
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanProcessor.java","Hadrian Zbarcea",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanProcessor.java","Jonathan Anstey",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/bean/BeanProcessor.java","Willem Ning Jiang",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/bean/CamelInvocationHandler.java","Hadrian Zbarcea",0.25,4
+"camel-core/src/main/java/org/apache/camel/component/bean/CamelInvocationHandler.java","James Strachan",0.5,4
+"camel-core/src/main/java/org/apache/camel/component/bean/CamelInvocationHandler.java","Willem Ning Jiang",0.25,4
+"camel-core/src/main/java/org/apache/camel/component/bean/ConstantBeanHolder.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/component/bean/DefaultAnnotationExpressionFactory.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/component/bean/DefaultParameterMappingStrategy.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/component/bean/MethodInfo.java","Claus Ibsen",0.166666666666667,12
+"camel-core/src/main/java/org/apache/camel/component/bean/MethodInfo.java","Hadrian Zbarcea",0.0833333333333333,12
+"camel-core/src/main/java/org/apache/camel/component/bean/MethodInfo.java","James Strachan",0.333333333333333,12
+"camel-core/src/main/java/org/apache/camel/component/bean/MethodInfo.java","Willem Ning Jiang",0.416666666666667,12
+"camel-core/src/main/java/org/apache/camel/component/bean/MethodInvocation.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/component/bean/ProxyHelper.java","James Strachan",0.75,4
+"camel-core/src/main/java/org/apache/camel/component/bean/ProxyHelper.java","Willem Ning Jiang",0.25,4
+"camel-core/src/main/java/org/apache/camel/component/bean/RegistryBean.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/component/dataset/DataSet.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/component/dataset/DataSetComponent.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/component/dataset/DataSetConsumer.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/component/dataset/DataSetConsumer.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/component/dataset/DataSetEndpoint.java","Hadrian Zbarcea",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/component/dataset/DataSetEndpoint.java","Jonathan Anstey",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/component/direct/DirectComponent.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/component/direct/DirectEndpoint.java","Claus Ibsen",0.2,5
+"camel-core/src/main/java/org/apache/camel/component/direct/DirectEndpoint.java","Hadrian Zbarcea",0.8,5
+"camel-core/src/main/java/org/apache/camel/component/direct/DirectProducer.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/component/direct/DirectProducer.java","Hadrian Zbarcea",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/component/file/FileComponent.java","Claus Ibsen",0.846153846153846,13
+"camel-core/src/main/java/org/apache/camel/component/file/FileComponent.java","Hadrian Zbarcea",0.153846153846154,13
+"camel-core/src/main/java/org/apache/camel/component/file/FileConsumer.java","Claus Ibsen",0.911764705882353,34
+"camel-core/src/main/java/org/apache/camel/component/file/FileConsumer.java","Hadrian Zbarcea",0.0588235294117647,34
+"camel-core/src/main/java/org/apache/camel/component/file/FileConsumer.java","Jonathan Anstey",0.0294117647058824,34
+"camel-core/src/main/java/org/apache/camel/component/file/FileEndpoint.java","Claus Ibsen",0.68,25
+"camel-core/src/main/java/org/apache/camel/component/file/FileEndpoint.java","Hadrian Zbarcea",0.16,25
+"camel-core/src/main/java/org/apache/camel/component/file/FileEndpoint.java","James Strachan",0.04,25
+"camel-core/src/main/java/org/apache/camel/component/file/FileEndpoint.java","Jonathan Anstey",0.04,25
+"camel-core/src/main/java/org/apache/camel/component/file/FileEndpoint.java","Willem Ning Jiang",0.08,25
+"camel-core/src/main/java/org/apache/camel/component/file/FileExchange.java","Claus Ibsen",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/component/file/FileExchange.java","James Strachan",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/component/file/FileProcessStrategy.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/component/file/FileProducer.java","Claus Ibsen",0.7,10
+"camel-core/src/main/java/org/apache/camel/component/file/FileProducer.java","Hadrian Zbarcea",0.2,10
+"camel-core/src/main/java/org/apache/camel/component/file/FileProducer.java","Willem Ning Jiang",0.1,10
+"camel-core/src/main/java/org/apache/camel/component/file/strategy/DefaultFileRenamer.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/component/file/strategy/DeleteFileProcessStrategy.java","Claus Ibsen",1,2
+"camel-core/src/main/java/org/apache/camel/component/file/strategy/FileProcessStrategyFactory.java","Claus Ibsen",1,5
+"camel-core/src/main/java/org/apache/camel/component/file/strategy/FileProcessStrategySupport.java","Claus Ibsen",0.666666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/file/strategy/FileProcessStrategySupport.java","Hadrian Zbarcea",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/file/strategy/FileProcessStrategySupport.java","Willem Ning Jiang",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/file/strategy/FileRenamer.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/component/file/strategy/NoOpFileProcessStrategy.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/component/file/strategy/RenameFileProcessStrategy.java","Claus Ibsen",1,5
+"camel-core/src/main/java/org/apache/camel/component/jmx/JMXComponent.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/component/jmx/JMXEndpoint.java","Hadrian Zbarcea",0.833333333333333,6
+"camel-core/src/main/java/org/apache/camel/component/jmx/JMXEndpoint.java","James Strachan",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/jmx/JMXExchange.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/component/jmx/JMXMessage.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/component/list/ListComponent.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/component/list/ListEndpoint.java","Claus Ibsen",0.333333333333333,6
+"camel-core/src/main/java/org/apache/camel/component/list/ListEndpoint.java","Hadrian Zbarcea",0.666666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/log/LogComponent.java","Claus Ibsen",0.25,4
+"camel-core/src/main/java/org/apache/camel/component/log/LogComponent.java","Hadrian Zbarcea",0.5,4
+"camel-core/src/main/java/org/apache/camel/component/log/LogComponent.java","Jonathan Anstey",0.25,4
+"camel-core/src/main/java/org/apache/camel/component/log/LogFormatter.java","Claus Ibsen",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/log/LogFormatter.java","Hadrian Zbarcea",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/log/LogFormatter.java","Willem Ning Jiang",0.666666666666667,6
+"camel-core/src/main/java/org/apache/camel/component/mock/AssertionClause.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/component/mock/AssertionClause.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/component/mock/MockComponent.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/component/mock/MockEndpoint.java","Claus Ibsen",0.153846153846154,13
+"camel-core/src/main/java/org/apache/camel/component/mock/MockEndpoint.java","Hadrian Zbarcea",0.384615384615385,13
+"camel-core/src/main/java/org/apache/camel/component/mock/MockEndpoint.java","James Strachan",0.153846153846154,13
+"camel-core/src/main/java/org/apache/camel/component/mock/MockEndpoint.java","Jonathan Anstey",0.0769230769230769,13
+"camel-core/src/main/java/org/apache/camel/component/mock/MockEndpoint.java","Willem Ning Jiang",0.230769230769231,13
+"camel-core/src/main/java/org/apache/camel/component/ref/RefComponent.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/component/ref/RefComponent.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/component/seda/ListPollingConsumer.java","Jonathan Anstey",1,1
+"camel-core/src/main/java/org/apache/camel/component/seda/QueueComponent.java","Jonathan Anstey",1,1
+"camel-core/src/main/java/org/apache/camel/component/seda/SedaComponent.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/component/seda/SedaConsumer.java","Claus Ibsen",0.5,4
+"camel-core/src/main/java/org/apache/camel/component/seda/SedaConsumer.java","James Strachan",0.25,4
+"camel-core/src/main/java/org/apache/camel/component/seda/SedaConsumer.java","Willem Ning Jiang",0.25,4
+"camel-core/src/main/java/org/apache/camel/component/seda/SedaEndpoint.java","Hadrian Zbarcea",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/component/seda/SedaEndpoint.java","James Strachan",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/component/seda/SedaEndpoint.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/component/timer/TimerComponent.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/component/timer/TimerConsumer.java","Claus Ibsen",0.8,5
+"camel-core/src/main/java/org/apache/camel/component/timer/TimerConsumer.java","Hadrian Zbarcea",0.2,5
+"camel-core/src/main/java/org/apache/camel/component/timer/TimerEndpoint.java","Hadrian Zbarcea",1,3
+"camel-core/src/main/java/org/apache/camel/Consumer.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/Converter.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/Converter.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/converter/CamelConverter.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/converter/CollectionConverter.java","Gert Vanthienen",1,2
+"camel-core/src/main/java/org/apache/camel/converter/HasAnnotation.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/converter/HasAnnotation.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/converter/IOConverter.java","Claus Ibsen",0.25,8
+"camel-core/src/main/java/org/apache/camel/converter/IOConverter.java","Jonathan Anstey",0.125,8
+"camel-core/src/main/java/org/apache/camel/converter/IOConverter.java","Willem Ning Jiang",0.5,8
+"camel-core/src/main/java/org/apache/camel/converter/IOConverter.java","William Tam",0.125,8
+"camel-core/src/main/java/org/apache/camel/converter/jaxp/BytesSource.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/converter/jaxp/StringSource.java","Claus Ibsen",1,4
+"camel-core/src/main/java/org/apache/camel/converter/jaxp/XmlConverter.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/converter/NIOConverter.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/converter/NIOConverter.java","Willem Ning Jiang",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/converter/ObjectConverter.java","Jonathan Anstey",1,2
+"camel-core/src/main/java/org/apache/camel/converter/stream/StreamCache.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/converter/stream/StreamCache.java","Willem Ning Jiang",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/converter/stream/StreamCacheConverter.java","Gert Vanthienen",0.4,5
+"camel-core/src/main/java/org/apache/camel/converter/stream/StreamCacheConverter.java","Willem Ning Jiang",0.6,5
+"camel-core/src/main/java/org/apache/camel/Endpoint.java","Claus Ibsen",0.222222222222222,9
+"camel-core/src/main/java/org/apache/camel/Endpoint.java","Hadrian Zbarcea",0.444444444444444,9
+"camel-core/src/main/java/org/apache/camel/Endpoint.java","Jonathan Anstey",0.111111111111111,9
+"camel-core/src/main/java/org/apache/camel/Endpoint.java","Willem Ning Jiang",0.222222222222222,9
+"camel-core/src/main/java/org/apache/camel/EndpointInject.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/EndpointInject.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/Exchange.java","Claus Ibsen",0.333333333333333,6
+"camel-core/src/main/java/org/apache/camel/Exchange.java","Hadrian Zbarcea",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/Exchange.java","James Strachan",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/Exchange.java","Willem Ning Jiang",0.333333333333333,6
+"camel-core/src/main/java/org/apache/camel/ExchangePattern.java","James Strachan",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/ExchangePattern.java","Willem Ning Jiang",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/Expression.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/Header.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/Header.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/Headers.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/Headers.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/BinaryPredicateSupport.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/BinaryPredicateSupport.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/AnnotationTypeConverterLoader.java","Claus Ibsen",0.111111111111111,9
+"camel-core/src/main/java/org/apache/camel/impl/converter/AnnotationTypeConverterLoader.java","Hadrian Zbarcea",0.444444444444444,9
+"camel-core/src/main/java/org/apache/camel/impl/converter/AnnotationTypeConverterLoader.java","Willem Ning Jiang",0.444444444444444,9
+"camel-core/src/main/java/org/apache/camel/impl/converter/ArrayTypeConverter.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/ArrayTypeConverter.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/AsyncProcessorTypeConverter.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/AsyncProcessorTypeConverter.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/CachingInjector.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/impl/converter/DefaultTypeConverter.java","Claus Ibsen",0.5,12
+"camel-core/src/main/java/org/apache/camel/impl/converter/DefaultTypeConverter.java","Hadrian Zbarcea",0.166666666666667,12
+"camel-core/src/main/java/org/apache/camel/impl/converter/DefaultTypeConverter.java","Willem Ning Jiang",0.333333333333333,12
+"camel-core/src/main/java/org/apache/camel/impl/converter/EnumTypeConverter.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/EnumTypeConverter.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/InstanceMethodTypeConverter.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/InstanceMethodTypeConverter.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/PropertyEditorTypeConverter.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/PropertyEditorTypeConverter.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/StaticMethodTypeConverter.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/StaticMethodTypeConverter.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/ToStringTypeConverter.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/ToStringTypeConverter.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/converter/TypeConverterLoader.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/impl/converter/TypeConverterRegistry.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java","Claus Ibsen",0.35,20
+"camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java","Hadrian Zbarcea",0.4,20
+"camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java","James Strachan",0.05,20
+"camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java","Jonathan Anstey",0.05,20
+"camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java","Willem Ning Jiang",0.1,20
+"camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java","William Tam",0.05,20
+"camel-core/src/main/java/org/apache/camel/impl/DefaultComponent.java","Claus Ibsen",0.583333333333333,12
+"camel-core/src/main/java/org/apache/camel/impl/DefaultComponent.java","Hadrian Zbarcea",0.0833333333333333,12
+"camel-core/src/main/java/org/apache/camel/impl/DefaultComponent.java","James Strachan",0.0833333333333333,12
+"camel-core/src/main/java/org/apache/camel/impl/DefaultComponent.java","Willem Ning Jiang",0.25,12
+"camel-core/src/main/java/org/apache/camel/impl/DefaultComponentResolver.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/DefaultComponentResolver.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/DefaultConsumer.java","Hadrian Zbarcea",1,3
+"camel-core/src/main/java/org/apache/camel/impl/DefaultEndpoint.java","Claus Ibsen",0.1,10
+"camel-core/src/main/java/org/apache/camel/impl/DefaultEndpoint.java","Hadrian Zbarcea",0.4,10
+"camel-core/src/main/java/org/apache/camel/impl/DefaultEndpoint.java","James Strachan",0.2,10
+"camel-core/src/main/java/org/apache/camel/impl/DefaultEndpoint.java","Jonathan Anstey",0.1,10
+"camel-core/src/main/java/org/apache/camel/impl/DefaultEndpoint.java","Willem Ning Jiang",0.2,10
+"camel-core/src/main/java/org/apache/camel/impl/DefaultExchange.java","Claus Ibsen",0.5,6
+"camel-core/src/main/java/org/apache/camel/impl/DefaultExchange.java","Hadrian Zbarcea",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/impl/DefaultExchange.java","James Strachan",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/impl/DefaultExchange.java","Willem Ning Jiang",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/impl/DefaultExchangeFormatter.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/impl/DefaultLanguageResolver.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/impl/DefaultLifecycleStrategy.java","Claus Ibsen",0.25,4
+"camel-core/src/main/java/org/apache/camel/impl/DefaultLifecycleStrategy.java","Hadrian Zbarcea",0.25,4
+"camel-core/src/main/java/org/apache/camel/impl/DefaultLifecycleStrategy.java","Willem Ning Jiang",0.5,4
+"camel-core/src/main/java/org/apache/camel/impl/DefaultMessage.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/DefaultMessage.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/DefaultPollingEndpoint.java","Hadrian Zbarcea",1,3
+"camel-core/src/main/java/org/apache/camel/impl/DefaultProducer.java","Hadrian Zbarcea",1,4
+"camel-core/src/main/java/org/apache/camel/impl/DefaultProducerTemplate.java","Claus Ibsen",0.444444444444444,9
+"camel-core/src/main/java/org/apache/camel/impl/DefaultProducerTemplate.java","Hadrian Zbarcea",0.333333333333333,9
+"camel-core/src/main/java/org/apache/camel/impl/DefaultProducerTemplate.java","James Strachan",0.111111111111111,9
+"camel-core/src/main/java/org/apache/camel/impl/DefaultProducerTemplate.java","Willem Ning Jiang",0.111111111111111,9
+"camel-core/src/main/java/org/apache/camel/impl/DefaultRouteContext.java","Hadrian Zbarcea",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/impl/DefaultRouteContext.java","Jonathan Anstey",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/impl/DefaultScheduledPollConsumer.java","Hadrian Zbarcea",1,5
+"camel-core/src/main/java/org/apache/camel/impl/DefaultUnitOfWork.java","Claus Ibsen",0.666666666666667,6
+"camel-core/src/main/java/org/apache/camel/impl/DefaultUnitOfWork.java","Jonathan Anstey",0.333333333333333,6
+"camel-core/src/main/java/org/apache/camel/impl/DelegateLifecycleStrategy.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/impl/EventDrivenConsumerRoute.java","Hadrian Zbarcea",1,3
+"camel-core/src/main/java/org/apache/camel/impl/EventDrivenPollingConsumer.java","Claus Ibsen",0.2,5
+"camel-core/src/main/java/org/apache/camel/impl/EventDrivenPollingConsumer.java","Hadrian Zbarcea",0.8,5
+"camel-core/src/main/java/org/apache/camel/impl/ExpressionSupport.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/impl/LoggingExceptionHandler.java","Jonathan Anstey",1,1
+"camel-core/src/main/java/org/apache/camel/impl/MessageSupport.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/impl/PollingConsumerSupport.java","Hadrian Zbarcea",1,3
+"camel-core/src/main/java/org/apache/camel/impl/PredicateSupport.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/impl/ProcessorEndpoint.java","Hadrian Zbarcea",1,4
+"camel-core/src/main/java/org/apache/camel/impl/ProducerCache.java","Claus Ibsen",0.2,5
+"camel-core/src/main/java/org/apache/camel/impl/ProducerCache.java","Hadrian Zbarcea",0.6,5
+"camel-core/src/main/java/org/apache/camel/impl/ProducerCache.java","Willem Ning Jiang",0.2,5
+"camel-core/src/main/java/org/apache/camel/impl/ReportingTypeConverterLoader.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/ReportingTypeConverterLoader.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/ReportingTypeConverterRegistry.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/ReportingTypeConverterRegistry.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/impl/ScheduledPollConsumer.java","Claus Ibsen",0.555555555555556,9
+"camel-core/src/main/java/org/apache/camel/impl/ScheduledPollConsumer.java","Hadrian Zbarcea",0.333333333333333,9
+"camel-core/src/main/java/org/apache/camel/impl/ScheduledPollConsumer.java","Jonathan Anstey",0.111111111111111,9
+"camel-core/src/main/java/org/apache/camel/impl/ScheduledPollEndpoint.java","Claus Ibsen",0.25,4
+"camel-core/src/main/java/org/apache/camel/impl/ScheduledPollEndpoint.java","Hadrian Zbarcea",0.5,4
+"camel-core/src/main/java/org/apache/camel/impl/ScheduledPollEndpoint.java","Willem Ning Jiang",0.25,4
+"camel-core/src/main/java/org/apache/camel/impl/SerializationDataFormat.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/impl/ServiceSupport.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/impl/ServiceSupport.java","Jonathan Anstey",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/impl/ServiceSupport.java","William Tam",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/InvalidHeaderTypeException.java","Jonathan Anstey",1,1
+"camel-core/src/main/java/org/apache/camel/language/Bean.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/Bean.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/bean/BeanExpression.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/bean/BeanExpression.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/bean/BeanLanguage.java","Claus Ibsen",0.75,4
+"camel-core/src/main/java/org/apache/camel/language/bean/BeanLanguage.java","Hadrian Zbarcea",0.25,4
+"camel-core/src/main/java/org/apache/camel/language/ExpressionEvaluationException.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/language/IllegalSyntaxException.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/language/LanguageAnnotation.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/LanguageAnnotation.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/LanguageExpression.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/LanguageExpression.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/NamespacePrefix.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/NamespacePrefix.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/Simple.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/Simple.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/simple/SimpleLanguage.java","Claus Ibsen",0.8,5
+"camel-core/src/main/java/org/apache/camel/language/simple/SimpleLanguage.java","Hadrian Zbarcea",0.2,5
+"camel-core/src/main/java/org/apache/camel/language/XPath.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/language/XPath.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/management/CamelNamingStrategy.java","Hadrian Zbarcea",0.8,5
+"camel-core/src/main/java/org/apache/camel/management/CamelNamingStrategy.java","Jonathan Anstey",0.2,5
+"camel-core/src/main/java/org/apache/camel/management/DefaultInstrumentationAgent.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/management/InstrumentationLifecycleStrategy.java","Claus Ibsen",0.2,5
+"camel-core/src/main/java/org/apache/camel/management/InstrumentationLifecycleStrategy.java","Hadrian Zbarcea",0.4,5
+"camel-core/src/main/java/org/apache/camel/management/InstrumentationLifecycleStrategy.java","Willem Ning Jiang",0.4,5
+"camel-core/src/main/java/org/apache/camel/management/InstrumentationProcessor.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/management/InstrumentationProcessor.java","Willem Ning Jiang",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/management/ManagedEndpoint.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/management/ManagedRoute.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/management/ObjectNameEncoder.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/management/PerformanceCounter.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/MessageDriven.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/MessageDriven.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/AggregatorType.java","Claus Ibsen",0.277777777777778,18
+"camel-core/src/main/java/org/apache/camel/model/AggregatorType.java","Jonathan Anstey",0.388888888888889,18
+"camel-core/src/main/java/org/apache/camel/model/AggregatorType.java","Willem Ning Jiang",0.277777777777778,18
+"camel-core/src/main/java/org/apache/camel/model/AggregatorType.java","William Tam",0.0555555555555556,18
+"camel-core/src/main/java/org/apache/camel/model/BeanRef.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/BeanRef.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/CatchType.java","Willem Ning Jiang",1,3
+"camel-core/src/main/java/org/apache/camel/model/ChoiceType.java","Claus Ibsen",0.8,5
+"camel-core/src/main/java/org/apache/camel/model/ChoiceType.java","Willem Ning Jiang",0.2,5
+"camel-core/src/main/java/org/apache/camel/model/CompletedPredicate.java","Jonathan Anstey",1,1
+"camel-core/src/main/java/org/apache/camel/model/config/StreamResequencerConfig.java","Gert Vanthienen",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/config/StreamResequencerConfig.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/ConvertBodyType.java","Claus Ibsen",0.2,5
+"camel-core/src/main/java/org/apache/camel/model/ConvertBodyType.java","Willem Ning Jiang",0.8,5
+"camel-core/src/main/java/org/apache/camel/model/dataformat/CsvDataFormat.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/dataformat/DataFormatType.java","Jonathan Anstey",1,1
+"camel-core/src/main/java/org/apache/camel/model/dataformat/JaxbDataFormat.java","Jonathan Anstey",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/dataformat/JaxbDataFormat.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/dataformat/SerializationDataFormat.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/DelayerType.java","Claus Ibsen",0.333333333333333,9
+"camel-core/src/main/java/org/apache/camel/model/DelayerType.java","Hadrian Zbarcea",0.111111111111111,9
+"camel-core/src/main/java/org/apache/camel/model/DelayerType.java","Jonathan Anstey",0.111111111111111,9
+"camel-core/src/main/java/org/apache/camel/model/DelayerType.java","Willem Ning Jiang",0.444444444444444,9
+"camel-core/src/main/java/org/apache/camel/model/ExceptionType.java","Claus Ibsen",0.461538461538462,26
+"camel-core/src/main/java/org/apache/camel/model/ExceptionType.java","Gert Vanthienen",0.0384615384615385,26
+"camel-core/src/main/java/org/apache/camel/model/ExceptionType.java","Hadrian Zbarcea",0.0769230769230769,26
+"camel-core/src/main/java/org/apache/camel/model/ExceptionType.java","Jonathan Anstey",0.153846153846154,26
+"camel-core/src/main/java/org/apache/camel/model/ExceptionType.java","Willem Ning Jiang",0.269230769230769,26
+"camel-core/src/main/java/org/apache/camel/model/ExpressionNode.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/model/FilterType.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/FilterType.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/FromType.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/FromType.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/IdempotentConsumerType.java","Claus Ibsen",0.6,5
+"camel-core/src/main/java/org/apache/camel/model/IdempotentConsumerType.java","Willem Ning Jiang",0.4,5
+"camel-core/src/main/java/org/apache/camel/model/InterceptorRef.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/InterceptorType.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/InterceptType.java","Claus Ibsen",0.5,4
+"camel-core/src/main/java/org/apache/camel/model/InterceptType.java","Willem Ning Jiang",0.5,4
+"camel-core/src/main/java/org/apache/camel/model/language/ELExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/ExpressionType.java","Claus Ibsen",0.6,5
+"camel-core/src/main/java/org/apache/camel/model/language/ExpressionType.java","Hadrian Zbarcea",0.4,5
+"camel-core/src/main/java/org/apache/camel/model/language/GroovyExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/JavaScriptExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/JXPathExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/LanguageExpression.java","Claus Ibsen",1,2
+"camel-core/src/main/java/org/apache/camel/model/language/MethodCallExpression.java","Claus Ibsen",0.5,4
+"camel-core/src/main/java/org/apache/camel/model/language/MethodCallExpression.java","Hadrian Zbarcea",0.25,4
+"camel-core/src/main/java/org/apache/camel/model/language/MethodCallExpression.java","Jonathan Anstey",0.25,4
+"camel-core/src/main/java/org/apache/camel/model/language/OgnlExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/PhpExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/PythonExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/RubyExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/SimpleExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/SqlExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/XPathExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/language/XQueryExpression.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/loadbalancer/LoadBalancerType.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/loadbalancer/LoadBalancerType.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/loadbalancer/StickyLoadBalanceStrategy.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/model/loadbalancer/TopicLoadBalanceStrategy.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/model/LoadBalanceType.java","Claus Ibsen",0.428571428571429,7
+"camel-core/src/main/java/org/apache/camel/model/LoadBalanceType.java","Hadrian Zbarcea",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/model/LoadBalanceType.java","Willem Ning Jiang",0.428571428571429,7
+"camel-core/src/main/java/org/apache/camel/model/MarshalType.java","Claus Ibsen",0.5,8
+"camel-core/src/main/java/org/apache/camel/model/MarshalType.java","Jonathan Anstey",0.25,8
+"camel-core/src/main/java/org/apache/camel/model/MarshalType.java","Willem Ning Jiang",0.25,8
+"camel-core/src/main/java/org/apache/camel/model/MulticastType.java","Claus Ibsen",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/model/MulticastType.java","Willem Ning Jiang",0.857142857142857,7
+"camel-core/src/main/java/org/apache/camel/model/NodeFactory.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/model/OptionalIdentifiedType.java","Claus Ibsen",1,3
+"camel-core/src/main/java/org/apache/camel/model/OtherwiseType.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/OutputType.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/OutputType.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/PolicyRef.java","Claus Ibsen",1,2
+"camel-core/src/main/java/org/apache/camel/model/ProceedType.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/ProcessorRef.java","Claus Ibsen",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/model/ProcessorRef.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/model/ProcessorType.java","Claus Ibsen",0.4375,48
+"camel-core/src/main/java/org/apache/camel/model/ProcessorType.java","Hadrian Zbarcea",0.0625,48
+"camel-core/src/main/java/org/apache/camel/model/ProcessorType.java","James Strachan",0.0625,48
+"camel-core/src/main/java/org/apache/camel/model/ProcessorType.java","Jonathan Anstey",0.166666666666667,48
+"camel-core/src/main/java/org/apache/camel/model/ProcessorType.java","Willem Ning Jiang",0.25,48
+"camel-core/src/main/java/org/apache/camel/model/ProcessorType.java","William Tam",0.0208333333333333,48
+"camel-core/src/main/java/org/apache/camel/model/RecipientListType.java","Claus Ibsen",0.75,4
+"camel-core/src/main/java/org/apache/camel/model/RecipientListType.java","Willem Ning Jiang",0.25,4
+"camel-core/src/main/java/org/apache/camel/model/RedeliveryPolicyType.java","Claus Ibsen",0.375,8
+"camel-core/src/main/java/org/apache/camel/model/RedeliveryPolicyType.java","Hadrian Zbarcea",0.125,8
+"camel-core/src/main/java/org/apache/camel/model/RedeliveryPolicyType.java","Jonathan Anstey",0.375,8
+"camel-core/src/main/java/org/apache/camel/model/RedeliveryPolicyType.java","Willem Ning Jiang",0.125,8
+"camel-core/src/main/java/org/apache/camel/model/ResequencerType.java","Claus Ibsen",0.4,10
+"camel-core/src/main/java/org/apache/camel/model/ResequencerType.java","Gert Vanthienen",0.1,10
+"camel-core/src/main/java/org/apache/camel/model/ResequencerType.java","Hadrian Zbarcea",0.1,10
+"camel-core/src/main/java/org/apache/camel/model/ResequencerType.java","Willem Ning Jiang",0.3,10
+"camel-core/src/main/java/org/apache/camel/model/ResequencerType.java","William Tam",0.1,10
+"camel-core/src/main/java/org/apache/camel/model/RouteBuilderRef.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/RouteContainer.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/RoutesType.java","Claus Ibsen",0.75,4
+"camel-core/src/main/java/org/apache/camel/model/RoutesType.java","Jonathan Anstey",0.25,4
+"camel-core/src/main/java/org/apache/camel/model/RouteType.java","Claus Ibsen",0.5,6
+"camel-core/src/main/java/org/apache/camel/model/RouteType.java","Jonathan Anstey",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/model/RouteType.java","Willem Ning Jiang",0.333333333333333,6
+"camel-core/src/main/java/org/apache/camel/model/RoutingSlipType.java","Claus Ibsen",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/model/RoutingSlipType.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/model/ServiceActivationType.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/model/SetBodyType.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/SetBodyType.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/SetHeaderType.java","Claus Ibsen",0.8,5
+"camel-core/src/main/java/org/apache/camel/model/SetHeaderType.java","Willem Ning Jiang",0.2,5
+"camel-core/src/main/java/org/apache/camel/model/SplitterType.java","Claus Ibsen",0.272727272727273,11
+"camel-core/src/main/java/org/apache/camel/model/SplitterType.java","Gert Vanthienen",0.0909090909090909,11
+"camel-core/src/main/java/org/apache/camel/model/SplitterType.java","James Strachan",0.0909090909090909,11
+"camel-core/src/main/java/org/apache/camel/model/SplitterType.java","Jonathan Anstey",0.181818181818182,11
+"camel-core/src/main/java/org/apache/camel/model/SplitterType.java","Willem Ning Jiang",0.363636363636364,11
+"camel-core/src/main/java/org/apache/camel/model/ThreadType.java","Claus Ibsen",0.666666666666667,6
+"camel-core/src/main/java/org/apache/camel/model/ThreadType.java","Willem Ning Jiang",0.333333333333333,6
+"camel-core/src/main/java/org/apache/camel/model/ThrottlerType.java","Claus Ibsen",0.25,4
+"camel-core/src/main/java/org/apache/camel/model/ThrottlerType.java","Willem Ning Jiang",0.75,4
+"camel-core/src/main/java/org/apache/camel/model/ThrowFaultType.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/ThrowFaultType.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/ToType.java","Claus Ibsen",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/model/ToType.java","James Strachan",0.714285714285714,7
+"camel-core/src/main/java/org/apache/camel/model/ToType.java","Willem Ning Jiang",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/model/TransformType.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/TransformType.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/TryType.java","Claus Ibsen",0.5,4
+"camel-core/src/main/java/org/apache/camel/model/TryType.java","Jonathan Anstey",0.25,4
+"camel-core/src/main/java/org/apache/camel/model/TryType.java","Willem Ning Jiang",0.25,4
+"camel-core/src/main/java/org/apache/camel/model/UnmarshalType.java","Claus Ibsen",0.5,6
+"camel-core/src/main/java/org/apache/camel/model/UnmarshalType.java","Jonathan Anstey",0.333333333333333,6
+"camel-core/src/main/java/org/apache/camel/model/UnmarshalType.java","Willem Ning Jiang",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/model/WhenType.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/model/WhenType.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/NoSuchEndpointException.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/NoSuchEndpointException.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/NoTypeConversionAvailableException.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/NoTypeConversionAvailableException.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/OutHeaders.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/OutHeaders.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/PollingConsumer.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/PollingConsumer.java","Hadrian Zbarcea",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/Predicate.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/processor/aggregate/AggregationCollection.java","Claus Ibsen",0.285714285714286,7
+"camel-core/src/main/java/org/apache/camel/processor/aggregate/AggregationCollection.java","Hadrian Zbarcea",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/processor/aggregate/AggregationCollection.java","Jonathan Anstey",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/processor/aggregate/AggregationCollection.java","Willem Ning Jiang",0.428571428571429,7
+"camel-core/src/main/java/org/apache/camel/processor/aggregate/PredicateAggregationCollection.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/aggregate/PredicateAggregationCollection.java","Gert Vanthienen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/aggregate/PredicateAggregationCollection.java","Hadrian Zbarcea",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/aggregate/UseLatestAggregationStrategy.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/processor/Aggregator.java","Claus Ibsen",0.25,4
+"camel-core/src/main/java/org/apache/camel/processor/Aggregator.java","Willem Ning Jiang",0.25,4
+"camel-core/src/main/java/org/apache/camel/processor/Aggregator.java","William Tam",0.5,4
+"camel-core/src/main/java/org/apache/camel/processor/BatchProcessor.java","Claus Ibsen",0.75,8
+"camel-core/src/main/java/org/apache/camel/processor/BatchProcessor.java","William Tam",0.25,8
+"camel-core/src/main/java/org/apache/camel/processor/ChoiceProcessor.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/processor/ConvertBodyProcessor.java","Jonathan Anstey",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/ConvertBodyProcessor.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/DeadLetterChannel.java","Claus Ibsen",0.444444444444444,18
+"camel-core/src/main/java/org/apache/camel/processor/DeadLetterChannel.java","Hadrian Zbarcea",0.166666666666667,18
+"camel-core/src/main/java/org/apache/camel/processor/DeadLetterChannel.java","Jonathan Anstey",0.111111111111111,18
+"camel-core/src/main/java/org/apache/camel/processor/DeadLetterChannel.java","Willem Ning Jiang",0.277777777777778,18
+"camel-core/src/main/java/org/apache/camel/processor/Delayer.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/Delayer.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/DelayProcessorSupport.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/DelegateAsyncProcessor.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/processor/ErrorHandlerSupport.java","Claus Ibsen",1,2
+"camel-core/src/main/java/org/apache/camel/processor/exceptionpolicy/DefaultExceptionPolicyStrategy.java","Claus Ibsen",1,5
+"camel-core/src/main/java/org/apache/camel/processor/exceptionpolicy/ExceptionPolicyStrategy.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/FilterProcessor.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/processor/HandleFaultProcessor.java","Hadrian Zbarcea",0.25,4
+"camel-core/src/main/java/org/apache/camel/processor/HandleFaultProcessor.java","Jonathan Anstey",0.25,4
+"camel-core/src/main/java/org/apache/camel/processor/HandleFaultProcessor.java","Willem Ning Jiang",0.5,4
+"camel-core/src/main/java/org/apache/camel/processor/idempotent/IdempotentConsumer.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/idempotent/IdempotentConsumer.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/idempotent/MemoryMessageIdRepository.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/idempotent/MessageIdRepository.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/Debugger.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/Debugger.java","Willem Ning Jiang",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/DebugInterceptor.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/ExchangeFormatter.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/StreamCachingInterceptor.java","Hadrian Zbarcea",0.25,4
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/StreamCachingInterceptor.java","Willem Ning Jiang",0.75,4
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceFormatter.java","Claus Ibsen",0.461538461538462,13
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceFormatter.java","Hadrian Zbarcea",0.0769230769230769,13
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceFormatter.java","Jonathan Anstey",0.153846153846154,13
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceFormatter.java","Willem Ning Jiang",0.307692307692308,13
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceInterceptor.java","Claus Ibsen",0.714285714285714,14
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceInterceptor.java","Jonathan Anstey",0.214285714285714,14
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceInterceptor.java","Willem Ning Jiang",0.0714285714285714,14
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/Tracer.java","Claus Ibsen",0.647058823529412,17
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/Tracer.java","Hadrian Zbarcea",0.0588235294117647,17
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/Tracer.java","Jonathan Anstey",0.117647058823529,17
+"camel-core/src/main/java/org/apache/camel/processor/interceptor/Tracer.java","Willem Ning Jiang",0.176470588235294,17
+"camel-core/src/main/java/org/apache/camel/processor/loadbalancer/LoadBalancer.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/processor/loadbalancer/LoadBalancerConsumer.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/processor/loadbalancer/QueueLoadBalancer.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/processor/loadbalancer/StickyLoadBalancer.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/processor/loadbalancer/TopicLoadBalancer.java","Willem Ning Jiang",1,1
+"camel-core/src/main/java/org/apache/camel/processor/Logger.java","Claus Ibsen",0.6,5
+"camel-core/src/main/java/org/apache/camel/processor/Logger.java","Jonathan Anstey",0.2,5
+"camel-core/src/main/java/org/apache/camel/processor/Logger.java","Willem Ning Jiang",0.2,5
+"camel-core/src/main/java/org/apache/camel/processor/LoggingErrorHandler.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/LoggingErrorHandler.java","Jonathan Anstey",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/LoggingErrorHandler.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/LoggingLevel.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/LoggingLevel.java","Jonathan Anstey",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/MulticastProcessor.java","Claus Ibsen",0.272727272727273,11
+"camel-core/src/main/java/org/apache/camel/processor/MulticastProcessor.java","Gert Vanthienen",0.454545454545455,11
+"camel-core/src/main/java/org/apache/camel/processor/MulticastProcessor.java","James Strachan",0.0909090909090909,11
+"camel-core/src/main/java/org/apache/camel/processor/MulticastProcessor.java","Willem Ning Jiang",0.181818181818182,11
+"camel-core/src/main/java/org/apache/camel/processor/Pipeline.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/processor/RecipientList.java","Claus Ibsen",0.285714285714286,7
+"camel-core/src/main/java/org/apache/camel/processor/RecipientList.java","Hadrian Zbarcea",0.571428571428571,7
+"camel-core/src/main/java/org/apache/camel/processor/RecipientList.java","James Strachan",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/processor/RedeliveryPolicy.java","Claus Ibsen",0.375,8
+"camel-core/src/main/java/org/apache/camel/processor/RedeliveryPolicy.java","Jonathan Anstey",0.5,8
+"camel-core/src/main/java/org/apache/camel/processor/RedeliveryPolicy.java","Willem Ning Jiang",0.125,8
+"camel-core/src/main/java/org/apache/camel/processor/Resequencer.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/Resequencer.java","William Tam",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/DefaultExchangeComparator.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/Element.java","Gert Vanthienen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/ElementComparator.java","Gert Vanthienen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/ExpressionResultComparator.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/ResequencerEngine.java","Gert Vanthienen",0.25,4
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/ResequencerEngine.java","James Strachan",0.25,4
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/ResequencerEngine.java","Jonathan Anstey",0.25,4
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/ResequencerEngine.java","Willem Ning Jiang",0.25,4
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/Sequence.java","Gert Vanthienen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/SequenceElementComparator.java","Gert Vanthienen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/SequenceSender.java","Gert Vanthienen",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/SequenceSender.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/Timeout.java","Gert Vanthienen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/resequencer/TimeoutHandler.java","Gert Vanthienen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/RoutingSlip.java","Claus Ibsen",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/processor/RoutingSlip.java","Hadrian Zbarcea",0.5,6
+"camel-core/src/main/java/org/apache/camel/processor/RoutingSlip.java","Jonathan Anstey",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/processor/RoutingSlip.java","Willem Ning Jiang",0.166666666666667,6
+"camel-core/src/main/java/org/apache/camel/processor/SendProcessor.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/SendProcessor.java","James Strachan",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/SendProcessor.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/SetHeaderProcessor.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/SetHeaderProcessor.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/Splitter.java","Claus Ibsen",0.285714285714286,7
+"camel-core/src/main/java/org/apache/camel/processor/Splitter.java","Gert Vanthienen",0.428571428571429,7
+"camel-core/src/main/java/org/apache/camel/processor/Splitter.java","Willem Ning Jiang",0.285714285714286,7
+"camel-core/src/main/java/org/apache/camel/processor/StreamResequencer.java","Claus Ibsen",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/processor/StreamResequencer.java","Gert Vanthienen",0.285714285714286,7
+"camel-core/src/main/java/org/apache/camel/processor/StreamResequencer.java","Hadrian Zbarcea",0.285714285714286,7
+"camel-core/src/main/java/org/apache/camel/processor/StreamResequencer.java","Jonathan Anstey",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/processor/StreamResequencer.java","William Tam",0.142857142857143,7
+"camel-core/src/main/java/org/apache/camel/processor/ThreadProcessor.java","Jonathan Anstey",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/ThreadProcessor.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/Throttler.java","Gert Vanthienen",1,3
+"camel-core/src/main/java/org/apache/camel/processor/ThroughputLogger.java","Gary Tully",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/ThroughputLogger.java","Jonathan Anstey",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/ThroughputLogger.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/TransformProcessor.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/TransformProcessor.java","Willem Ning Jiang",0.666666666666667,3
+"camel-core/src/main/java/org/apache/camel/processor/TryProcessor.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/TryProcessor.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/processor/UnitOfWorkProcessor.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/UnitOfWorkProcessor.java","Jonathan Anstey",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/UnitOfWorkProcessor.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/main/java/org/apache/camel/processor/UnmarshalProcessor.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/validation/DefaultValidationErrorHandler.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/processor/validation/ValidatingProcessor.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/Producer.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/ProducerTemplate.java","Claus Ibsen",0.75,4
+"camel-core/src/main/java/org/apache/camel/ProducerTemplate.java","Hadrian Zbarcea",0.25,4
+"camel-core/src/main/java/org/apache/camel/Properties.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/Properties.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/Property.java","James Strachan",0.5,2
+"camel-core/src/main/java/org/apache/camel/Property.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/ResolveEndpointFailedException.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/Route.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/Routes.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/spi/BrowsableEndpoint.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/spi/BrowsableEndpoint.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/spi/ComponentResolver.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/spi/ComponentResolver.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/spi/DataFormat.java","Claus Ibsen",1,2
+"camel-core/src/main/java/org/apache/camel/spi/ErrorHandlerWrappingStrategy.java","Claus Ibsen",1,2
+"camel-core/src/main/java/org/apache/camel/spi/ExchangeConverter.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/spi/InstrumentationAgent.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/spi/InterceptStrategy.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/spi/Language.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/spi/Language.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/spi/LanguageResolver.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/spi/LifecycleStrategy.java","Claus Ibsen",0.5,2
+"camel-core/src/main/java/org/apache/camel/spi/LifecycleStrategy.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/main/java/org/apache/camel/spi/Provider.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/spi/RouteContext.java","Claus Ibsen",0.5,4
+"camel-core/src/main/java/org/apache/camel/spi/RouteContext.java","Hadrian Zbarcea",0.25,4
+"camel-core/src/main/java/org/apache/camel/spi/RouteContext.java","Jonathan Anstey",0.25,4
+"camel-core/src/main/java/org/apache/camel/spi/Synchronization.java","Claus Ibsen",1,2
+"camel-core/src/main/java/org/apache/camel/spi/TypeConverterAware.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/spi/UnitOfWork.java","Claus Ibsen",1,2
+"camel-core/src/main/java/org/apache/camel/TypeConverter.java","Claus Ibsen",0.4,5
+"camel-core/src/main/java/org/apache/camel/TypeConverter.java","Hadrian Zbarcea",0.6,5
+"camel-core/src/main/java/org/apache/camel/util/CamelContextHelper.java","Claus Ibsen",0.3,10
+"camel-core/src/main/java/org/apache/camel/util/CamelContextHelper.java","Hadrian Zbarcea",0.2,10
+"camel-core/src/main/java/org/apache/camel/util/CamelContextHelper.java","James Strachan",0.2,10
+"camel-core/src/main/java/org/apache/camel/util/CamelContextHelper.java","Jonathan Anstey",0.1,10
+"camel-core/src/main/java/org/apache/camel/util/CamelContextHelper.java","Willem Ning Jiang",0.2,10
+"camel-core/src/main/java/org/apache/camel/util/CollectionHelper.java","Claus Ibsen",1,2
+"camel-core/src/main/java/org/apache/camel/util/ExchangeHelper.java","Claus Ibsen",0.2,5
+"camel-core/src/main/java/org/apache/camel/util/ExchangeHelper.java","Hadrian Zbarcea",0.6,5
+"camel-core/src/main/java/org/apache/camel/util/ExchangeHelper.java","Willem Ning Jiang",0.2,5
+"camel-core/src/main/java/org/apache/camel/util/ExpressionComparator.java","Hadrian Zbarcea",1,1
+"camel-core/src/main/java/org/apache/camel/util/ExpressionHelper.java","Hadrian Zbarcea",1,2
+"camel-core/src/main/java/org/apache/camel/util/FactoryFinder.java","Willem Ning Jiang",1,2
+"camel-core/src/main/java/org/apache/camel/util/IntrospectionSupport.java","Claus Ibsen",0.454545454545455,11
+"camel-core/src/main/java/org/apache/camel/util/IntrospectionSupport.java","Hadrian Zbarcea",0.363636363636364,11
+"camel-core/src/main/java/org/apache/camel/util/IntrospectionSupport.java","Willem Ning Jiang",0.181818181818182,11
+"camel-core/src/main/java/org/apache/camel/util/jndi/JndiContext.java","Claus Ibsen",1,1
+"camel-core/src/main/java/org/apache/camel/util/ObjectHelper.java","Claus Ibsen",0.714285714285714,14
+"camel-core/src/main/java/org/apache/camel/util/ObjectHelper.java","Gert Vanthienen",0.0714285714285714,14
+"camel-core/src/main/java/org/apache/camel/util/ObjectHelper.java","Hadrian Zbarcea",0.0714285714285714,14
+"camel-core/src/main/java/org/apache/camel/util/ObjectHelper.java","Jonathan Anstey",0.0714285714285714,14
+"camel-core/src/main/java/org/apache/camel/util/ObjectHelper.java","Willem Ning Jiang",0.0714285714285714,14
+"camel-core/src/main/java/org/apache/camel/util/ResolverUtil.java","Claus Ibsen",0.25,8
+"camel-core/src/main/java/org/apache/camel/util/ResolverUtil.java","Hadrian Zbarcea",0.375,8
+"camel-core/src/main/java/org/apache/camel/util/ResolverUtil.java","Willem Ning Jiang",0.375,8
+"camel-core/src/main/java/org/apache/camel/util/URISupport.java","Jonathan Anstey",0.5,2
+"camel-core/src/main/java/org/apache/camel/util/URISupport.java","Willem Ning Jiang",0.5,2
+"camel-core/src/main/java/org/apache/camel/view/NodeData.java","Claus Ibsen",0.4,5
+"camel-core/src/main/java/org/apache/camel/view/NodeData.java","James Strachan",0.2,5
+"camel-core/src/main/java/org/apache/camel/view/NodeData.java","Willem Ning Jiang",0.4,5
+"camel-core/src/main/java/org/apache/camel/view/RouteDotGenerator.java","Claus Ibsen",0.4,5
+"camel-core/src/main/java/org/apache/camel/view/RouteDotGenerator.java","James Strachan",0.2,5
+"camel-core/src/main/java/org/apache/camel/view/RouteDotGenerator.java","Willem Ning Jiang",0.4,5
+"camel-core/src/main/java/org/apache/camel/view/XmlGraphGenerator.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/builder/BuilderWithScopesTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/builder/ErrorHandlerTest.java","Claus Ibsen",0.666666666666667,3
+"camel-core/src/test/java/org/apache/camel/builder/ErrorHandlerTest.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/builder/ExceptionBuilderTest.java","Claus Ibsen",0.5,10
+"camel-core/src/test/java/org/apache/camel/builder/ExceptionBuilderTest.java","Hadrian Zbarcea",0.2,10
+"camel-core/src/test/java/org/apache/camel/builder/ExceptionBuilderTest.java","Jonathan Anstey",0.1,10
+"camel-core/src/test/java/org/apache/camel/builder/ExceptionBuilderTest.java","Willem Ning Jiang",0.2,10
+"camel-core/src/test/java/org/apache/camel/builder/ExpressionBuilderTest.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/builder/ExpressionBuilderTest.java","Hadrian Zbarcea",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/builder/ExpressionBuilderTest.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/builder/PredicateBuilderTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/builder/PredicateBuilderTest.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/test/java/org/apache/camel/builder/RouteBuilderTest.java","Claus Ibsen",0.615384615384615,13
+"camel-core/src/test/java/org/apache/camel/builder/RouteBuilderTest.java","Hadrian Zbarcea",0.0769230769230769,13
+"camel-core/src/test/java/org/apache/camel/builder/RouteBuilderTest.java","Willem Ning Jiang",0.307692307692308,13
+"camel-core/src/test/java/org/apache/camel/builder/xml/XPathTest.java","Jonathan Anstey",1,1
+"camel-core/src/test/java/org/apache/camel/component/bean/BeanExchangeAsReturnTypeNotAllowedTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/bean/BeanMethodWithMultipleParametersTest.java","Willem Ning Jiang",1,1
+"camel-core/src/test/java/org/apache/camel/component/bean/BeanPipelineTest.java","Jonathan Anstey",1,2
+"camel-core/src/test/java/org/apache/camel/component/bean/BeanWithAnnotationAndExchangeTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/bean/BeanWithHeaderTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/bean/ChainedBeanInvocationTest.java","Jonathan Anstey",1,1
+"camel-core/src/test/java/org/apache/camel/component/bean/NewInstanceTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/bean/PredicateAsBeanTest.java","Hadrian Zbarcea",1,1
+"camel-core/src/test/java/org/apache/camel/component/dataset/CustomDataSetTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/component/dataset/CustomDataSetTest.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/test/java/org/apache/camel/component/dataset/DataSetConsumeTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/dataset/DataSetSedaTest.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/component/dataset/DataSetSedaTest.java","Hadrian Zbarcea",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/component/dataset/DataSetSedaTest.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/component/dataset/DataSetTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/direct/DirectRouteTest.java","Hadrian Zbarcea",1,2
+"camel-core/src/test/java/org/apache/camel/component/file/BeanToFileTest.java","Claus Ibsen",1,2
+"camel-core/src/test/java/org/apache/camel/component/file/DirectoryCreateIssueTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/file/FileAsyncRouteTest.java","Claus Ibsen",1,6
+"camel-core/src/test/java/org/apache/camel/component/file/FileConfigureTest.java","Claus Ibsen",0.75,4
+"camel-core/src/test/java/org/apache/camel/component/file/FileConfigureTest.java","Willem Ning Jiang",0.25,4
+"camel-core/src/test/java/org/apache/camel/component/file/FileConsumerFailureHandledTest.java","Claus Ibsen",0.666666666666667,3
+"camel-core/src/test/java/org/apache/camel/component/file/FileConsumerFailureHandledTest.java","Jonathan Anstey",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/component/file/FileConsumerProducerRouteTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/file/FileDeleteRouteTest.java","Claus Ibsen",0.5,6
+"camel-core/src/test/java/org/apache/camel/component/file/FileDeleteRouteTest.java","Hadrian Zbarcea",0.166666666666667,6
+"camel-core/src/test/java/org/apache/camel/component/file/FileDeleteRouteTest.java","Willem Ning Jiang",0.333333333333333,6
+"camel-core/src/test/java/org/apache/camel/component/file/FileExchangeTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/component/file/FileExchangeTest.java","James Strachan",0.5,2
+"camel-core/src/test/java/org/apache/camel/component/file/FileFilterOnNameRouteTest.java","Hadrian Zbarcea",1,1
+"camel-core/src/test/java/org/apache/camel/component/file/FileHeaderFileNameProducedTest.java","Willem Ning Jiang",1,1
+"camel-core/src/test/java/org/apache/camel/component/file/FileMEPInOutTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/file/FileNoOpLockFileTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/file/FileNoOpRouteTest.java","Claus Ibsen",0.666666666666667,3
+"camel-core/src/test/java/org/apache/camel/component/file/FileNoOpRouteTest.java","Hadrian Zbarcea",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/component/file/FileProducerRenameStrategyTest.java","Claus Ibsen",1,2
+"camel-core/src/test/java/org/apache/camel/component/file/FileRenameRouteTest.java","Claus Ibsen",0.666666666666667,3
+"camel-core/src/test/java/org/apache/camel/component/file/FileRenameRouteTest.java","Hadrian Zbarcea",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/component/file/FileRouteGenerateEmptyExchangeWhenIdleTest.java","Claus Ibsen",1,2
+"camel-core/src/test/java/org/apache/camel/component/file/FileRouteTest.java","Claus Ibsen",0.6,5
+"camel-core/src/test/java/org/apache/camel/component/file/FileRouteTest.java","Hadrian Zbarcea",0.2,5
+"camel-core/src/test/java/org/apache/camel/component/file/FileRouteTest.java","Willem Ning Jiang",0.2,5
+"camel-core/src/test/java/org/apache/camel/component/file/FilerProducerFileNamesTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/file/MoveFilesToDirectoryTest.java","Claus Ibsen",1,3
+"camel-core/src/test/java/org/apache/camel/component/file/MoveFilesToDirectoryWithNoopTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/file/ToFileRouteTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/list/ListTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/log/LogFormatterTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/mock/MockEndpointTest.java","Willem Ning Jiang",1,1
+"camel-core/src/test/java/org/apache/camel/component/pojo/PojoRouteTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/component/seda/SedaRouteTest.java","Hadrian Zbarcea",1,2
+"camel-core/src/test/java/org/apache/camel/ContextTestSupport.java","Claus Ibsen",0.428571428571429,7
+"camel-core/src/test/java/org/apache/camel/ContextTestSupport.java","Gert Vanthienen",0.142857142857143,7
+"camel-core/src/test/java/org/apache/camel/ContextTestSupport.java","Hadrian Zbarcea",0.428571428571429,7
+"camel-core/src/test/java/org/apache/camel/converter/ConverterTest.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/test/java/org/apache/camel/converter/ConverterTest.java","Willem Ning Jiang",0.5,2
+"camel-core/src/test/java/org/apache/camel/converter/JaxpTest.java","Hadrian Zbarcea",1,1
+"camel-core/src/test/java/org/apache/camel/converter/ObjectConverterTest.java","Jonathan Anstey",1,1
+"camel-core/src/test/java/org/apache/camel/impl/DefaultComponentTest.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/impl/DefaultComponentTest.java","Hadrian Zbarcea",0.666666666666667,3
+"camel-core/src/test/java/org/apache/camel/impl/DefaultComponentValidateURITest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/impl/ProducerTest.java","Hadrian Zbarcea",1,4
+"camel-core/src/test/java/org/apache/camel/issues/ExceptionTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/issues/ExceptionTest.java","Jonathan Anstey",0.5,2
+"camel-core/src/test/java/org/apache/camel/issues/Issue170Test.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/issues/NeilSplitterTest.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/test/java/org/apache/camel/issues/NeilSplitterTest.java","Willem Ning Jiang",0.5,2
+"camel-core/src/test/java/org/apache/camel/issues/RomeksExceptionTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/issues/RomeksExceptionTest.java","Jonathan Anstey",0.5,2
+"camel-core/src/test/java/org/apache/camel/issues/SetHeaderIssueTest.java","Hadrian Zbarcea",1,1
+"camel-core/src/test/java/org/apache/camel/language/BeanTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/language/SimpleTest.java","Claus Ibsen",1,3
+"camel-core/src/test/java/org/apache/camel/language/XPathTest.java","Claus Ibsen",1,2
+"camel-core/src/test/java/org/apache/camel/LanguageTestSupport.java","Hadrian Zbarcea",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/LanguageTestSupport.java","Jonathan Anstey",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/LanguageTestSupport.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/management/CamelChoiceWithManagementTest.java","Claus Ibsen",1,3
+"camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationDisableTest.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationDisableTest.java","Hadrian Zbarcea",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationDisableTest.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationUsingDefaultsTest.java","Claus Ibsen",0.25,4
+"camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationUsingDefaultsTest.java","Hadrian Zbarcea",0.5,4
+"camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationUsingDefaultsTest.java","Willem Ning Jiang",0.25,4
+"camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationUsingPlatformMBSTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationUsingPropertiesTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationWithConnectorTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/management/MultiInstanceProcessorTest.java","Claus Ibsen",0.25,4
+"camel-core/src/test/java/org/apache/camel/management/MultiInstanceProcessorTest.java","Hadrian Zbarcea",0.5,4
+"camel-core/src/test/java/org/apache/camel/management/MultiInstanceProcessorTest.java","Willem Ning Jiang",0.25,4
+"camel-core/src/test/java/org/apache/camel/management/ObjectNameEncoderTest.java","Hadrian Zbarcea",1,1
+"camel-core/src/test/java/org/apache/camel/model/GenerateXmlTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/model/GenerateXmlTest.java","Willem Ning Jiang",0.5,2
+"camel-core/src/test/java/org/apache/camel/model/XmlParseTest.java","Claus Ibsen",0.142857142857143,7
+"camel-core/src/test/java/org/apache/camel/model/XmlParseTest.java","Gert Vanthienen",0.142857142857143,7
+"camel-core/src/test/java/org/apache/camel/model/XmlParseTest.java","Hadrian Zbarcea",0.285714285714286,7
+"camel-core/src/test/java/org/apache/camel/model/XmlParseTest.java","Jonathan Anstey",0.142857142857143,7
+"camel-core/src/test/java/org/apache/camel/model/XmlParseTest.java","Willem Ning Jiang",0.285714285714286,7
+"camel-core/src/test/java/org/apache/camel/model/XmlTestSupport.java","James Strachan",1,1
+"camel-core/src/test/java/org/apache/camel/processor/aggregator/AlbertoAggregatorTest.java","Claus Ibsen",0.5,4
+"camel-core/src/test/java/org/apache/camel/processor/aggregator/AlbertoAggregatorTest.java","Willem Ning Jiang",0.5,4
+"camel-core/src/test/java/org/apache/camel/processor/AggregatorTest.java","Claus Ibsen",0.2,5
+"camel-core/src/test/java/org/apache/camel/processor/AggregatorTest.java","Willem Ning Jiang",0.4,5
+"camel-core/src/test/java/org/apache/camel/processor/AggregatorTest.java","William Tam",0.4,5
+"camel-core/src/test/java/org/apache/camel/processor/BeanWithExceptionTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/BeanWithExceptionTest.java","Jonathan Anstey",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/ChoiceTest.java","Jonathan Anstey",1,1
+"camel-core/src/test/java/org/apache/camel/processor/DeadLetterChannelTest.java","Claus Ibsen",0.25,8
+"camel-core/src/test/java/org/apache/camel/processor/DeadLetterChannelTest.java","Hadrian Zbarcea",0.125,8
+"camel-core/src/test/java/org/apache/camel/processor/DeadLetterChannelTest.java","Jonathan Anstey",0.25,8
+"camel-core/src/test/java/org/apache/camel/processor/DeadLetterChannelTest.java","Willem Ning Jiang",0.375,8
+"camel-core/src/test/java/org/apache/camel/processor/DelayerTest.java","Willem Ning Jiang",1,1
+"camel-core/src/test/java/org/apache/camel/processor/exceptionpolicy/CustomExceptionPolicyStrategyTest.java","Claus Ibsen",0.75,4
+"camel-core/src/test/java/org/apache/camel/processor/exceptionpolicy/CustomExceptionPolicyStrategyTest.java","Jonathan Anstey",0.25,4
+"camel-core/src/test/java/org/apache/camel/processor/exceptionpolicy/DefaultExceptionPolicyStrategyTest.java","Claus Ibsen",1,2
+"camel-core/src/test/java/org/apache/camel/processor/ExpressionAdapter.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/ExpressionAdapter.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/FaultRouteTest.java","Claus Ibsen",0.25,4
+"camel-core/src/test/java/org/apache/camel/processor/FaultRouteTest.java","Hadrian Zbarcea",0.25,4
+"camel-core/src/test/java/org/apache/camel/processor/FaultRouteTest.java","Jonathan Anstey",0.25,4
+"camel-core/src/test/java/org/apache/camel/processor/FaultRouteTest.java","Willem Ning Jiang",0.25,4
+"camel-core/src/test/java/org/apache/camel/processor/IdempotentConsumerTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/IdempotentConsumerTest.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/interceptor/StreamCachingInterceptorTest.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/processor/interceptor/StreamCachingInterceptorTest.java","Gert Vanthienen",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/processor/interceptor/StreamCachingInterceptorTest.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/processor/InterceptRouteTestSupport.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/JoinRoutesTest.java","Hadrian Zbarcea",1,1
+"camel-core/src/test/java/org/apache/camel/processor/LoadBalanceTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/MethodFilterTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/MultiCastAggregatorTest.java","Claus Ibsen",0.333333333333333,6
+"camel-core/src/test/java/org/apache/camel/processor/MultiCastAggregatorTest.java","Willem Ning Jiang",0.666666666666667,6
+"camel-core/src/test/java/org/apache/camel/processor/MulticastStreamCachingTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/MulticastStreamCachingTest.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/MulticastTest.java","Claus Ibsen",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/processor/MulticastTest.java","Hadrian Zbarcea",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/processor/MulticastTest.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/processor/MyAggregationStrategy.java","Willem Ning Jiang",1,2
+"camel-core/src/test/java/org/apache/camel/processor/PipelineConcurrentTest.java","Hadrian Zbarcea",1,1
+"camel-core/src/test/java/org/apache/camel/processor/PipelineTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/RecipientListTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/RedeliveryPolicyPerExceptionTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/RedeliveryPolicyPerExceptionTest.java","Jonathan Anstey",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/ResequencerTest.java","Gert Vanthienen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/ResequencerTest.java","Hadrian Zbarcea",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/routingslip/RoutingSlipDataModificationTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/routingslip/RoutingSlipDataModificationTest.java","Willem Ning Jiang",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/routingslip/RoutingSlipTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/SetHeaderTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/SetHeaderUsingDslExpressionsTest.java","Claus Ibsen",1,2
+"camel-core/src/test/java/org/apache/camel/processor/SetOutBodyTest.java","Jonathan Anstey",1,1
+"camel-core/src/test/java/org/apache/camel/processor/SplitterTest.java","Claus Ibsen",0.5,8
+"camel-core/src/test/java/org/apache/camel/processor/SplitterTest.java","Gert Vanthienen",0.25,8
+"camel-core/src/test/java/org/apache/camel/processor/SplitterTest.java","Willem Ning Jiang",0.25,8
+"camel-core/src/test/java/org/apache/camel/processor/StreamResequencerTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/StreamResequencerTest.java","Gert Vanthienen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/ThrottlerTest.java","Gert Vanthienen",0.666666666666667,3
+"camel-core/src/test/java/org/apache/camel/processor/ThrottlerTest.java","Willem Ning Jiang",0.333333333333333,3
+"camel-core/src/test/java/org/apache/camel/processor/TraceInterceptorTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/TransformProcessorWithHeaderTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/ValidationFinallyBlockNoCatchTest.java","Claus Ibsen",1,2
+"camel-core/src/test/java/org/apache/camel/processor/ValidationTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/ValidationTest.java","Willem Ning Jiang",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/ValidationWithErrorInHandleAndFinallyBlockTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/ValidationWithExceptionTest.java","Jonathan Anstey",1,1
+"camel-core/src/test/java/org/apache/camel/processor/ValidationWithHandlePipelineAndExceptionTest.java","Jonathan Anstey",1,1
+"camel-core/src/test/java/org/apache/camel/processor/ValidationWithInFlowExceptionTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/ValidationWithInFlowExceptionTest.java","Jonathan Anstey",0.5,2
+"camel-core/src/test/java/org/apache/camel/processor/XPathChoiceTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/XPathFilterTest.java","Claus Ibsen",1,1
+"camel-core/src/test/java/org/apache/camel/processor/XPathWithNamespaceBuilderFilterTest.java","Hadrian Zbarcea",1,1
+"camel-core/src/test/java/org/apache/camel/processor/XPathWithNamespacesFilterTest.java","Hadrian Zbarcea",1,1
+"camel-core/src/test/java/org/apache/camel/TestSupport.java","Claus Ibsen",0.666666666666667,6
+"camel-core/src/test/java/org/apache/camel/TestSupport.java","Hadrian Zbarcea",0.333333333333333,6
+"camel-core/src/test/java/org/apache/camel/util/ObjectHelperTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/util/ObjectHelperTest.java","Gert Vanthienen",0.5,2
+"camel-core/src/test/java/org/apache/camel/view/DotViewTest.java","Claus Ibsen",0.5,2
+"camel-core/src/test/java/org/apache/camel/view/DotViewTest.java","Willem Ning Jiang",0.5,2
+"components/camel-amqp/src/test/java/org/apache/camel/component/amqp/AMQPRouteTest.java","Claus Ibsen",0.2,5
+"components/camel-amqp/src/test/java/org/apache/camel/component/amqp/AMQPRouteTest.java","Willem Ning Jiang",0.8,5
+"components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomComponent.java","Jonathan Anstey",1,1
+"components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomConsumerSupport.java","Hadrian Zbarcea",0.5,2
+"components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomConsumerSupport.java","Jonathan Anstey",0.5,2
+"components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomEndpoint.java","Hadrian Zbarcea",0.6,5
+"components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomEndpoint.java","Jonathan Anstey",0.4,5
+"components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomEntryPollingConsumer.java","Jonathan Anstey",1,3
+"components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomPollingConsumer.java","Jonathan Anstey",1,2
+"components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomProducer.java","Hadrian Zbarcea",1,1
+"components/camel-atom/src/main/java/org/apache/camel/component/atom/EntryFilter.java","Jonathan Anstey",1,1
+"components/camel-atom/src/main/java/org/apache/camel/component/atom/UpdatedDateFilter.java","Jonathan Anstey",1,2
+"components/camel-atom/src/test/java/org/apache/camel/component/atom/AtomEntryPollingConsumerTest.java","Jonathan Anstey",1,1
+"components/camel-atom/src/test/java/org/apache/camel/component/atom/AtomPollingConsumerTest.java","Jonathan Anstey",1,1
+"components/camel-atom/src/test/java/org/apache/camel/component/atom/AtomRouteTest.java","Hadrian Zbarcea",1,1
+"components/camel-atom/src/test/java/org/apache/camel/component/atom/UpdatedDateFilterTest.java","Jonathan Anstey",1,1
+"components/camel-bam/src/main/java/org/apache/camel/bam/model/ActivityDefinition.java","Claus Ibsen",0.333333333333333,3
+"components/camel-bam/src/main/java/org/apache/camel/bam/model/ActivityDefinition.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-bam/src/main/java/org/apache/camel/bam/model/ActivityDefinition.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-bam/src/main/java/org/apache/camel/bam/model/ActivityState.java","Claus Ibsen",0.5,2
+"components/camel-bam/src/main/java/org/apache/camel/bam/model/ActivityState.java","Willem Ning Jiang",0.5,2
+"components/camel-bam/src/main/java/org/apache/camel/bam/model/ProcessDefinition.java","Claus Ibsen",0.333333333333333,3
+"components/camel-bam/src/main/java/org/apache/camel/bam/model/ProcessDefinition.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-bam/src/main/java/org/apache/camel/bam/model/ProcessDefinition.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-bam/src/main/java/org/apache/camel/bam/model/ProcessInstance.java","Claus Ibsen",0.5,2
+"components/camel-bam/src/main/java/org/apache/camel/bam/model/ProcessInstance.java","Willem Ning Jiang",0.5,2
+"components/camel-bam/src/main/java/org/apache/camel/bam/processor/BamProcessorSupport.java","Claus Ibsen",0.333333333333333,3
+"components/camel-bam/src/main/java/org/apache/camel/bam/processor/BamProcessorSupport.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-bam/src/main/java/org/apache/camel/bam/processor/BamProcessorSupport.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-bam/src/main/java/org/apache/camel/bam/processor/JpaBamProcessor.java","Hadrian Zbarcea",1,1
+"components/camel-bam/src/main/java/org/apache/camel/bam/processor/JpaBamProcessorSupport.java","Hadrian Zbarcea",1,1
+"components/camel-csv/src/test/java/org/apache/camel/dataformat/csv/CsvRouteTest.java","Jonathan Anstey",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CamelInvoker.java","Jonathan Anstey",0.166666666666667,6
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CamelInvoker.java","Willem Ning Jiang",0.666666666666667,6
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CamelInvoker.java","William Tam",0.166666666666667,6
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfBinding.java","Hadrian Zbarcea",0.142857142857143,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfBinding.java","Jonathan Anstey",0.142857142857143,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfBinding.java","Willem Ning Jiang",0.571428571428571,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfBinding.java","William Tam",0.142857142857143,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfComponent.java","Hadrian Zbarcea",0.5,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfComponent.java","Willem Ning Jiang",0.25,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfComponent.java","William Tam",0.25,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfConstants.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfConsumer.java","Hadrian Zbarcea",0.142857142857143,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfConsumer.java","Willem Ning Jiang",0.714285714285714,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfConsumer.java","William Tam",0.142857142857143,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfEndpoint.java","Hadrian Zbarcea",0.454545454545455,11
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfEndpoint.java","James Strachan",0.0909090909090909,11
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfEndpoint.java","Willem Ning Jiang",0.363636363636364,11
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfEndpoint.java","William Tam",0.0909090909090909,11
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfExchange.java","James Strachan",0.25,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfExchange.java","Willem Ning Jiang",0.5,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfExchange.java","William Tam",0.25,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfMessage.java","Hadrian Zbarcea",0.25,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfMessage.java","Willem Ning Jiang",0.5,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfMessage.java","William Tam",0.25,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfProducer.java","Claus Ibsen",0.0666666666666667,15
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfProducer.java","Hadrian Zbarcea",0.133333333333333,15
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfProducer.java","Willem Ning Jiang",0.733333333333333,15
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfProducer.java","William Tam",0.0666666666666667,15
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapBinding.java","Hadrian Zbarcea",0.25,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapBinding.java","Jonathan Anstey",0.25,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapBinding.java","Willem Ning Jiang",0.25,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapBinding.java","William Tam",0.25,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapComponent.java","Willem Ning Jiang",1,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapConsumer.java","Willem Ning Jiang",1,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapEndpoint.java","Claus Ibsen",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapEndpoint.java","Jonathan Anstey",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapEndpoint.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapProducer.java","Hadrian Zbarcea",0.2,5
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapProducer.java","Willem Ning Jiang",0.6,5
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfSoapProducer.java","William Tam",0.2,5
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/DataFormat.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/feature/AbstractDataFormatFeature.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/feature/MessageDataFormatFeature.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/feature/MessageInvokerInterceptor.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/feature/PayLoadDataFormatFeature.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/AbstractMessageInInterceptor.java","Willem Ning Jiang",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/AbstractMessageInInterceptor.java","William Tam",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/AbstractMessageOutInterceptor.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/DOMInInterceptor.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/DOMOutInterceptor.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/FakeBindingOperationInfo.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/FaultOutInterceptor.java","Willem Ning Jiang",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/FaultOutInterceptor.java","William Tam",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/PayloadContentRedirectInterceptor.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/RawMessageContentRedirectInterceptor.java","Willem Ning Jiang",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/RawMessageContentRedirectInterceptor.java","William Tam",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/SoapMessageInInterceptor.java","Jonathan Anstey",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/SoapMessageInInterceptor.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/SoapMessageInInterceptor.java","William Tam",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/SoapMessageOutInterceptor.java","Willem Ning Jiang",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/SoapMessageOutInterceptor.java","William Tam",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/XMLMessageInInterceptor.java","Willem Ning Jiang",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/XMLMessageInInterceptor.java","William Tam",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/XMLMessageOutInterceptor.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/AbstractInvokingContext.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/CxfClient.java","Willem Ning Jiang",0.666666666666667,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/CxfClient.java","William Tam",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/CxfClientFactoryBean.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/InvokingContext.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/InvokingContextFactory.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/PayloadInvokingContext.java","Willem Ning Jiang",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/PayloadInvokingContext.java","William Tam",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/PayloadMessage.java","Willem Ning Jiang",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/PayloadMessage.java","William Tam",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/invoker/RawMessageInvokingContext.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/MessageInvoker.java","William Tam",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/spring/CxfEndpointBean.java","Willem Ning Jiang",0.666666666666667,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/spring/CxfEndpointBean.java","William Tam",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/spring/CxfEndpointBeanDefinitionParser.java","Willem Ning Jiang",1,4
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport/CamelConduit.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport/CamelConduit.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport/CamelConduit.java","William Tam",0.333333333333333,3
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport/CamelDestination.java","Hadrian Zbarcea",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport/CamelDestination.java","Willem Ning Jiang",0.5,2
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport/CamelTransportFactory.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/transport/spring/AbstractCamelContextBeanDefinitionParser.java","Claus Ibsen",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util/CxfEndpointUtils.java","Claus Ibsen",0.142857142857143,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util/CxfEndpointUtils.java","Jonathan Anstey",0.142857142857143,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util/CxfEndpointUtils.java","Willem Ning Jiang",0.571428571428571,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util/CxfEndpointUtils.java","William Tam",0.142857142857143,7
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util/Dummy.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/main/java/org/apache/camel/component/cxf/util/WSDLSoapServiceFactoryBean.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfCustomizedExceptionTest.java","Willem Ning Jiang",1,5
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfEndpointTest.java","William Tam",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfGreeterMessageRouterTest.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfGreeterPayLoadRouterTest.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CXFGreeterRouterTest.java","Willem Ning Jiang",1,3
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfPayLoadMessageRouterTest.java","Willem Ning Jiang",0.75,4
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfPayLoadMessageRouterTest.java","William Tam",0.25,4
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfProducerContextTest.java","Willem Ning Jiang",0.666666666666667,3
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfProducerContextTest.java","William Tam",0.333333333333333,3
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfProducerRouterTest.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfProducerTest.java","Hadrian Zbarcea",0.2,5
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfProducerTest.java","Willem Ning Jiang",0.6,5
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfProducerTest.java","William Tam",0.2,5
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfRawMessageRouterTest.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfRouterTest.java","Willem Ning Jiang",1,2
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfSoapBindingTest.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfSoapMessageProviderTest.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfSoapTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfSoapTest.java","Willem Ning Jiang",0.5,2
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfSpringRouterTest.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfWsdlFirstProcessorTest.java","Willem Ning Jiang",1,2
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfWsdlFirstTest.java","Hadrian Zbarcea",0.125,8
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfWsdlFirstTest.java","Willem Ning Jiang",0.75,8
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/CxfWsdlFirstTest.java","William Tam",0.125,8
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/SoapTargetBean.java","Willem Ning Jiang",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/CxfEndpointBeanTest.java","Willem Ning Jiang",1,2
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/transport/CamelConduitTest.java","Hadrian Zbarcea",1,1
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/util/CxfEndpointUtilsTest.java","Willem Ning Jiang",0.75,4
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/util/CxfEndpointUtilsTest.java","William Tam",0.25,4
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/util/CxfEndpointUtilsWithSpringTest.java","Willem Ning Jiang",0.75,4
+"components/camel-cxf/src/test/java/org/apache/camel/component/cxf/util/CxfEndpointUtilsWithSpringTest.java","William Tam",0.25,4
+"components/camel-cxf/src/test/java/org/apache/camel/wsdl_first/PersonProcessor.java","Willem Ning Jiang",1,1
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/DataSetList.java","Claus Ibsen",0.5,2
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/DataSetList.java","Willem Ning Jiang",0.5,2
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/DelimitedEndpoint.java","Willem Ning Jiang",1,1
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FixedLengthEndpoint.java","Claus Ibsen",0.2,5
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FixedLengthEndpoint.java","Hadrian Zbarcea",0.6,5
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FixedLengthEndpoint.java","Willem Ning Jiang",0.2,5
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FlatpackComponent.java","Claus Ibsen",0.5,4
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FlatpackComponent.java","Hadrian Zbarcea",0.25,4
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FlatpackComponent.java","Willem Ning Jiang",0.25,4
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FlatpackConverter.java","Claus Ibsen",0.5,4
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FlatpackConverter.java","Willem Ning Jiang",0.5,4
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FlatpackDataFormat.java","Claus Ibsen",0.714285714285714,7
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FlatpackDataFormat.java","Willem Ning Jiang",0.285714285714286,7
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FlatpackProducer.java","Claus Ibsen",0.333333333333333,3
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FlatpackProducer.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-flatpack/src/main/java/org/apache/camel/component/flatpack/FlatpackProducer.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-flatpack/src/test/java/org/apache/camel/component/flatpack/DelimitedTest.java","Willem Ning Jiang",1,1
+"components/camel-flatpack/src/test/java/org/apache/camel/component/flatpack/DelimitedWithNoDescriptorTest.java","Willem Ning Jiang",1,1
+"components/camel-flatpack/src/test/java/org/apache/camel/component/flatpack/DelimitedWithUnmarshalTest.java","Willem Ning Jiang",1,1
+"components/camel-flatpack/src/test/java/org/apache/camel/component/flatpack/FixedLengthTest.java","Claus Ibsen",0.5,2
+"components/camel-flatpack/src/test/java/org/apache/camel/component/flatpack/FixedLengthTest.java","Willem Ning Jiang",0.5,2
+"components/camel-flatpack/src/test/java/org/apache/camel/component/flatpack/FixedLengthWithUnmarshalTest.java","Willem Ning Jiang",1,1
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpConsumer.java","Claus Ibsen",0.888888888888889,18
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpConsumer.java","Willem Ning Jiang",0.111111111111111,18
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpEndpoint.java","Claus Ibsen",0.666666666666667,3
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpEndpoint.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpOperationFailedException.java","Claus Ibsen",1,3
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpProducer.java","Claus Ibsen",0.769230769230769,13
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpProducer.java","Hadrian Zbarcea",0.0769230769230769,13
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpProducer.java","Willem Ning Jiang",0.153846153846154,13
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileBinding.java","Claus Ibsen",1,2
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileComponent.java","Claus Ibsen",0.8,5
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileComponent.java","Hadrian Zbarcea",0.2,5
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileConfiguration.java","Claus Ibsen",0.888888888888889,9
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileConfiguration.java","Jonathan Anstey",0.111111111111111,9
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileConsumer.java","Claus Ibsen",0.823529411764706,17
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileConsumer.java","Hadrian Zbarcea",0.0588235294117647,17
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileConsumer.java","Willem Ning Jiang",0.117647058823529,17
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileConverter.java","Claus Ibsen",1,2
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileEndpoint.java","Claus Ibsen",0.375,8
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileEndpoint.java","Hadrian Zbarcea",0.25,8
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileEndpoint.java","James Strachan",0.125,8
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileEndpoint.java","Willem Ning Jiang",0.25,8
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileExchange.java","Claus Ibsen",0.666666666666667,3
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileExchange.java","James Strachan",0.333333333333333,3
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileMessage.java","Claus Ibsen",1,2
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileProducer.java","Claus Ibsen",0.625,8
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileProducer.java","Hadrian Zbarcea",0.125,8
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileProducer.java","Willem Ning Jiang",0.25,8
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpConsumer.java","Claus Ibsen",0.91304347826087,23
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpConsumer.java","Willem Ning Jiang",0.0869565217391304,23
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpEndpoint.java","Claus Ibsen",0.666666666666667,6
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpEndpoint.java","Jonathan Anstey",0.166666666666667,6
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpEndpoint.java","Willem Ning Jiang",0.166666666666667,6
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpProducer.java","Claus Ibsen",0.833333333333333,12
+"components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpProducer.java","Willem Ning Jiang",0.166666666666667,12
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFileToFtpTest.java","Claus Ibsen",0.5,2
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFileToFtpTest.java","Willem Ning Jiang",0.5,2
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToAsciiFileNoBodyConversionTest.java","Claus Ibsen",0.5,2
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToAsciiFileNoBodyConversionTest.java","Willem Ning Jiang",0.5,2
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToAsciiFileTest.java","Willem Ning Jiang",1,1
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToBinaryFileTest.java","Claus Ibsen",0.333333333333333,3
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToBinaryFileTest.java","Willem Ning Jiang",0.666666666666667,3
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToFileNoFileNameHeaderTest.java","Willem Ning Jiang",1,1
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToMockTest.java","Claus Ibsen",0.333333333333333,3
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToMockTest.java","Willem Ning Jiang",0.666666666666667,3
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpServerTestSupport.java","Claus Ibsen",0.857142857142857,7
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpServerTestSupport.java","Willem Ning Jiang",0.142857142857143,7
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/UriConfigurationTest.java","Claus Ibsen",0.5,2
+"components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/UriConfigurationTest.java","Jonathan Anstey",0.5,2
+"components/camel-groovy/src/main/java/org/apache/camel/language/groovy/CamelGroovyMethods.java","Hadrian Zbarcea",1,1
+"components/camel-groovy/src/main/java/org/apache/camel/language/groovy/GroovyExpression.java","Hadrian Zbarcea",0.5,2
+"components/camel-groovy/src/main/java/org/apache/camel/language/groovy/GroovyExpression.java","Willem Ning Jiang",0.5,2
+"components/camel-groovy/src/test/java/org/apache/camel/language/groovy/GroovyTest.java","Hadrian Zbarcea",1,1
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpBinding.java","Claus Ibsen",0.4,10
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpBinding.java","Jonathan Anstey",0.2,10
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpBinding.java","Willem Ning Jiang",0.4,10
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpClientConfigurer.java","Claus Ibsen",1,1
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpComponent.java","Claus Ibsen",0.333333333333333,12
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpComponent.java","Hadrian Zbarcea",0.166666666666667,12
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpComponent.java","Willem Ning Jiang",0.5,12
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpConsumer.java","Hadrian Zbarcea",1,2
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpEndpoint.java","Claus Ibsen",0.333333333333333,9
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpEndpoint.java","Hadrian Zbarcea",0.444444444444444,9
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpEndpoint.java","Willem Ning Jiang",0.222222222222222,9
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpExchange.java","Claus Ibsen",0.5,2
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpExchange.java","James Strachan",0.5,2
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpMessage.java","Claus Ibsen",0.666666666666667,3
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpMessage.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpMethods.java","Hadrian Zbarcea",1,1
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpPollingConsumer.java","Hadrian Zbarcea",0.6,5
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpPollingConsumer.java","Willem Ning Jiang",0.4,5
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpProducer.java","Claus Ibsen",0.227272727272727,22
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpProducer.java","Hadrian Zbarcea",0.272727272727273,22
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpProducer.java","Jonathan Anstey",0.0909090909090909,22
+"components/camel-http/src/main/java/org/apache/camel/component/http/HttpProducer.java","Willem Ning Jiang",0.409090909090909,22
+"components/camel-http/src/test/java/org/apache/camel/component/http/HttpGetTest.java","Willem Ning Jiang",1,1
+"components/camel-http/src/test/java/org/apache/camel/component/http/HttpGetWithHeadersTest.java","Claus Ibsen",1,1
+"components/camel-http/src/test/java/org/apache/camel/component/http/HttpGetWithQueryParamsTest.java","Claus Ibsen",1,1
+"components/camel-http/src/test/java/org/apache/camel/component/http/HttpPostWithBodyTest.java","Willem Ning Jiang",1,3
+"components/camel-ibatis/src/main/java/org/apache/camel/component/ibatis/IBatisComponent.java","Hadrian Zbarcea",0.5,2
+"components/camel-ibatis/src/main/java/org/apache/camel/component/ibatis/IBatisComponent.java","Willem Ning Jiang",0.5,2
+"components/camel-ibatis/src/main/java/org/apache/camel/component/ibatis/IBatisEndpoint.java","Hadrian Zbarcea",0.666666666666667,3
+"components/camel-ibatis/src/main/java/org/apache/camel/component/ibatis/IBatisEndpoint.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-ibatis/src/main/java/org/apache/camel/component/ibatis/IBatisPollingConsumer.java","Hadrian Zbarcea",1,2
+"components/camel-ibatis/src/main/java/org/apache/camel/component/ibatis/IBatisProducer.java","Hadrian Zbarcea",0.6,5
+"components/camel-ibatis/src/main/java/org/apache/camel/component/ibatis/IBatisProducer.java","Jonathan Anstey",0.2,5
+"components/camel-ibatis/src/main/java/org/apache/camel/component/ibatis/IBatisProducer.java","Willem Ning Jiang",0.2,5
+"components/camel-ibatis/src/test/java/org/apache/camel/component/ibatis/IBatisRouteTest.java","Claus Ibsen",0.333333333333333,3
+"components/camel-ibatis/src/test/java/org/apache/camel/component/ibatis/IBatisRouteTest.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-ibatis/src/test/java/org/apache/camel/component/ibatis/IBatisRouteTest.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcComponent.java","Claus Ibsen",0.5,2
+"components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcComponent.java","Hadrian Zbarcea",0.5,2
+"components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcConfiguration.java","Claus Ibsen",1,1
+"components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcConsumer.java","Hadrian Zbarcea",1,1
+"components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcEndpoint.java","Hadrian Zbarcea",0.666666666666667,3
+"components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcEndpoint.java","James Strachan",0.333333333333333,3
+"components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcExchange.java","James Strachan",1,1
+"components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcProducer.java","Hadrian Zbarcea",1,1
+"components/camel-jaxb/src/main/java/org/apache/camel/converter/jaxb/FallbackTypeConverter.java","Claus Ibsen",0.4,5
+"components/camel-jaxb/src/main/java/org/apache/camel/converter/jaxb/FallbackTypeConverter.java","Hadrian Zbarcea",0.4,5
+"components/camel-jaxb/src/main/java/org/apache/camel/converter/jaxb/FallbackTypeConverter.java","Willem Ning Jiang",0.2,5
+"components/camel-jaxb/src/main/java/org/apache/camel/converter/jaxb/JaxbDataFormat.java","Willem Ning Jiang",1,1
+"components/camel-jaxb/src/test/java/org/apache/camel/example/JAXBConvertTest.java","Claus Ibsen",0.333333333333333,3
+"components/camel-jaxb/src/test/java/org/apache/camel/example/JAXBConvertTest.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-jaxb/src/test/java/org/apache/camel/example/JAXBConvertTest.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-jcr/src/main/java/org/apache/camel/component/jcr/JcrComponent.java","Hadrian Zbarcea",1,2
+"components/camel-jcr/src/main/java/org/apache/camel/component/jcr/JcrEndpoint.java","Hadrian Zbarcea",1,3
+"components/camel-jcr/src/main/java/org/apache/camel/component/jcr/JcrProducer.java","Hadrian Zbarcea",1,2
+"components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc/JdbcComponent.java","Claus Ibsen",0.4,5
+"components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc/JdbcComponent.java","Hadrian Zbarcea",0.4,5
+"components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc/JdbcComponent.java","Jonathan Anstey",0.2,5
+"components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc/JdbcEndpoint.java","Claus Ibsen",0.333333333333333,6
+"components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc/JdbcEndpoint.java","Hadrian Zbarcea",0.5,6
+"components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc/JdbcEndpoint.java","Willem Ning Jiang",0.166666666666667,6
+"components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc/JdbcProducer.java","Claus Ibsen",0.5,2
+"components/camel-jdbc/src/main/java/org/apache/camel/component/jdbc/JdbcProducer.java","Hadrian Zbarcea",0.5,2
+"components/camel-jdbc/src/test/java/org/apache/camel/component/jdbc/JdbcAnotherRouteTest.java","Claus Ibsen",1,1
+"components/camel-jdbc/src/test/java/org/apache/camel/component/jdbc/JdbcRouteTest.java","Claus Ibsen",1,1
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/CamelContinuationServlet.java","Claus Ibsen",0.5,2
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/CamelContinuationServlet.java","Roman Kalukiewicz",0.5,2
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpComponent.java","Claus Ibsen",0.4,5
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpComponent.java","Hadrian Zbarcea",0.2,5
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpComponent.java","Roman Kalukiewicz",0.2,5
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpComponent.java","Willem Ning Jiang",0.2,5
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpEndpoint.java","Claus Ibsen",0.333333333333333,6
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpEndpoint.java","Hadrian Zbarcea",0.5,6
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpEndpoint.java","Willem Ning Jiang",0.166666666666667,6
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpProducer.java","Claus Ibsen",0.166666666666667,6
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpProducer.java","Hadrian Zbarcea",0.333333333333333,6
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpProducer.java","Jonathan Anstey",0.166666666666667,6
+"components/camel-jetty/src/main/java/org/apache/camel/component/jetty/JettyHttpProducer.java","Willem Ning Jiang",0.333333333333333,6
+"components/camel-jetty/src/test/java/org/apache/camel/component/jetty/ExplicitHttpsRouteTest.java","Claus Ibsen",1,1
+"components/camel-jetty/src/test/java/org/apache/camel/component/jetty/HttpRoundtripHeaderTest.java","Claus Ibsen",0.333333333333333,3
+"components/camel-jetty/src/test/java/org/apache/camel/component/jetty/HttpRoundtripHeaderTest.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-jetty/src/test/java/org/apache/camel/component/jetty/HttpRoundtripHeaderTest.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-jetty/src/test/java/org/apache/camel/component/jetty/HttpToFileTest.java","Claus Ibsen",1,2
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/AsyncBufferingHttpServiceHandler.java","Hadrian Zbarcea",1,1
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/BufferingHttpServiceHandler.java","Hadrian Zbarcea",1,1
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/DefaultListeningIOReactor.java","Hadrian Zbarcea",1,1
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcComponent.java","Hadrian Zbarcea",0.6,5
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcComponent.java","Willem Ning Jiang",0.4,5
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcConsumer.java","Hadrian Zbarcea",1,2
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcEndpoint.java","Hadrian Zbarcea",0.833333333333333,6
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcEndpoint.java","Willem Ning Jiang",0.166666666666667,6
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcExchange.java","Hadrian Zbarcea",1,1
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcProducer.java","Hadrian Zbarcea",0.428571428571429,7
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcProducer.java","Jonathan Anstey",0.285714285714286,7
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcProducer.java","Willem Ning Jiang",0.285714285714286,7
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcServerEngine.java","Hadrian Zbarcea",0.5,2
+"components/camel-jhc/src/main/java/org/apache/camel/component/jhc/JhcServerEngine.java","Willem Ning Jiang",0.5,2
+"components/camel-jhc/src/test/java/org/apache/camel/component/jhc/HttpTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-jhc/src/test/java/org/apache/camel/component/jhc/HttpTest.java","Jonathan Anstey",0.5,2
+"components/camel-jing/src/main/java/org/apache/camel/component/validator/jing/JingComponent.java","Hadrian Zbarcea",1,1
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/ConsumerType.java","Claus Ibsen",1,1
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/DestinationEndpoint.java","Claus Ibsen",1,1
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/DestinationTransformProcessor.java","Claus Ibsen",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/DestinationTransformProcessor.java","Jonathan Anstey",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/EndpointMessageListener.java","Claus Ibsen",0.5,4
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/EndpointMessageListener.java","James Strachan",0.25,4
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/EndpointMessageListener.java","Willem Ning Jiang",0.25,4
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsBinding.java","Claus Ibsen",0.454545454545455,11
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsBinding.java","Jonathan Anstey",0.181818181818182,11
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsBinding.java","Willem Ning Jiang",0.363636363636364,11
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsComponent.java","Claus Ibsen",0.222222222222222,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsComponent.java","Hadrian Zbarcea",0.222222222222222,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsComponent.java","Willem Ning Jiang",0.555555555555556,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsConfiguration.java","Claus Ibsen",0.555555555555556,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsConfiguration.java","James Strachan",0.111111111111111,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsConfiguration.java","Willem Ning Jiang",0.333333333333333,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsConsumer.java","Claus Ibsen",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsConsumer.java","Hadrian Zbarcea",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsEndpoint.java","Claus Ibsen",0.111111111111111,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsEndpoint.java","Hadrian Zbarcea",0.333333333333333,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsEndpoint.java","James Strachan",0.222222222222222,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsEndpoint.java","Jonathan Anstey",0.111111111111111,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsEndpoint.java","Willem Ning Jiang",0.222222222222222,9
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsExchange.java","Claus Ibsen",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsExchange.java","James Strachan",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsIOConverter.java","Claus Ibsen",0.666666666666667,3
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsIOConverter.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsMessage.java","Claus Ibsen",0.4,5
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsMessage.java","Jonathan Anstey",0.2,5
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsMessage.java","Willem Ning Jiang",0.4,5
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsPollingConsumer.java","Claus Ibsen",0.333333333333333,3
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsPollingConsumer.java","Hadrian Zbarcea",0.666666666666667,3
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsProducer.java","Claus Ibsen",0.5,6
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsProducer.java","James Strachan",0.166666666666667,6
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsProducer.java","Jonathan Anstey",0.166666666666667,6
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsProducer.java","Willem Ning Jiang",0.166666666666667,6
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsQueueEndpoint.java","Hadrian Zbarcea",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsQueueEndpoint.java","James Strachan",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsTemporaryQueueEndpoint.java","Claus Ibsen",1,1
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsTemporaryTopicEndpoint.java","Claus Ibsen",1,1
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/MessageJMSPropertyAccessException.java","Claus Ibsen",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/MessageJMSPropertyAccessException.java","Jonathan Anstey",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/MessageListenerProcessor.java","Claus Ibsen",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/MessageListenerProcessor.java","James Strachan",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/MessagePropertyAccessException.java","Claus Ibsen",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/MessagePropertyAccessException.java","Jonathan Anstey",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/MessagePropertyNamesAccessException.java","Claus Ibsen",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/MessagePropertyNamesAccessException.java","Jonathan Anstey",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/QueueBrowseStrategy.java","Claus Ibsen",1,1
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/requestor/PersistentReplyToFutureHandler.java","Claus Ibsen",1,1
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/requestor/PersistentReplyToRequestor.java","Claus Ibsen",1,1
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/requestor/Requestor.java","Claus Ibsen",1,1
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/RuntimeJmsException.java","Claus Ibsen",0.5,2
+"components/camel-jms/src/main/java/org/apache/camel/component/jms/RuntimeJmsException.java","Jonathan Anstey",0.5,2
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/AggregratedJmsRouteTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/AggregratedJmsRouteTest.java","Willem Ning Jiang",0.5,2
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/bind/JmsMessageBindTest.java","Claus Ibsen",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/issues/LarsIssueTest.java","Claus Ibsen",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsEndpointConfigurationTest.java","Willem Ning Jiang",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteRequestReplyTest.java","Claus Ibsen",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteToFileTest.java","Jonathan Anstey",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteUsingSpringTest.java","Willem Ning Jiang",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSelectorTest.java","Willem Ning Jiang",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsTransactedRouteTest.java","Claus Ibsen",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/TransactedJmsRouteTest.java","Claus Ibsen",0.5,2
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/TransactedJmsRouteTest.java","Willem Ning Jiang",0.5,2
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/tx/AbstractTransactionTest.java","Willem Ning Jiang",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/tx/JMSTransactionalClientTest.java","Willem Ning Jiang",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/tx/QueueToQueueTransactionTest.java","Willem Ning Jiang",1,1
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/tx/TransactionErrorHandlerBuilderAsSpringBeanTest.java","Jonathan Anstey",0.5,2
+"components/camel-jms/src/test/java/org/apache/camel/component/jms/tx/TransactionErrorHandlerBuilderAsSpringBeanTest.java","Willem Ning Jiang",0.5,2
+"components/camel-josql/src/main/java/org/apache/camel/builder/sql/SQL.java","James Strachan",0.5,2
+"components/camel-josql/src/main/java/org/apache/camel/builder/sql/SQL.java","Willem Ning Jiang",0.5,2
+"components/camel-josql/src/main/java/org/apache/camel/builder/sql/SqlBuilder.java","Hadrian Zbarcea",1,1
+"components/camel-jpa/src/main/java/org/apache/camel/component/jpa/Consumed.java","James Strachan",0.5,2
+"components/camel-jpa/src/main/java/org/apache/camel/component/jpa/Consumed.java","Willem Ning Jiang",0.5,2
+"components/camel-jpa/src/main/java/org/apache/camel/component/jpa/JpaComponent.java","Hadrian Zbarcea",1,2
+"components/camel-jpa/src/main/java/org/apache/camel/component/jpa/JpaConsumer.java","Hadrian Zbarcea",1,1
+"components/camel-jpa/src/main/java/org/apache/camel/component/jpa/JpaEndpoint.java","Hadrian Zbarcea",1,5
+"components/camel-jpa/src/main/java/org/apache/camel/component/jpa/JpaProducer.java","Hadrian Zbarcea",0.5,4
+"components/camel-jpa/src/main/java/org/apache/camel/component/jpa/JpaProducer.java","Jonathan Anstey",0.25,4
+"components/camel-jpa/src/main/java/org/apache/camel/component/jpa/JpaProducer.java","Willem Ning Jiang",0.25,4
+"components/camel-jpa/src/main/java/org/apache/camel/processor/idempotent/jpa/JpaMessageIdRepository.java","Claus Ibsen",1,1
+"components/camel-jpa/src/main/java/org/apache/camel/processor/idempotent/jpa/MessageProcessed.java","Claus Ibsen",0.333333333333333,3
+"components/camel-jpa/src/main/java/org/apache/camel/processor/idempotent/jpa/MessageProcessed.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-jpa/src/main/java/org/apache/camel/processor/idempotent/jpa/MessageProcessed.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-jpa/src/test/java/org/apache/camel/component/jpa/JpaTest.java","Hadrian Zbarcea",1,1
+"components/camel-jpa/src/test/java/org/apache/camel/component/jpa/JpaWithNamedQueryTest.java","Hadrian Zbarcea",1,1
+"components/camel-juel/src/main/java/org/apache/camel/language/juel/EL.java","James Strachan",0.5,2
+"components/camel-juel/src/main/java/org/apache/camel/language/juel/EL.java","Willem Ning Jiang",0.5,2
+"components/camel-juel/src/main/java/org/apache/camel/language/juel/JuelExpression.java","Hadrian Zbarcea",1,1
+"components/camel-juel/src/main/java/org/apache/camel/language/juel/JuelLanguage.java","Hadrian Zbarcea",1,1
+"components/camel-jxpath/src/main/java/org/apache/camel/language/jxpath/JXPath.java","James Strachan",0.5,2
+"components/camel-jxpath/src/main/java/org/apache/camel/language/jxpath/JXPath.java","Willem Ning Jiang",0.5,2
+"components/camel-jxpath/src/main/java/org/apache/camel/language/jxpath/JXPathExpression.java","Hadrian Zbarcea",1,1
+"components/camel-jxpath/src/main/java/org/apache/camel/language/jxpath/JXPathLanguage.java","Hadrian Zbarcea",1,1
+"components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath/JXPathFilterTest.java","Hadrian Zbarcea",1,1
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailBinding.java","Claus Ibsen",0.333333333333333,9
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailBinding.java","Hadrian Zbarcea",0.222222222222222,9
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailBinding.java","Jonathan Anstey",0.222222222222222,9
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailBinding.java","Willem Ning Jiang",0.222222222222222,9
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailComponent.java","Claus Ibsen",0.5,8
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailComponent.java","Hadrian Zbarcea",0.375,8
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailComponent.java","Jonathan Anstey",0.125,8
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailConfiguration.java","Claus Ibsen",0.777777777777778,9
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailConfiguration.java","Jonathan Anstey",0.111111111111111,9
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailConfiguration.java","Willem Ning Jiang",0.111111111111111,9
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailConsumer.java","Claus Ibsen",0.333333333333333,3
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailConsumer.java","Hadrian Zbarcea",0.666666666666667,3
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailConverters.java","Claus Ibsen",0.5,2
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailConverters.java","Willem Ning Jiang",0.5,2
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailEndpoint.java","Claus Ibsen",0.25,8
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailEndpoint.java","Hadrian Zbarcea",0.625,8
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailEndpoint.java","James Strachan",0.125,8
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailExchange.java","James Strachan",1,1
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailMessage.java","Hadrian Zbarcea",1,1
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/MailProducer.java","Hadrian Zbarcea",1,1
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/security/DummySSLSocketFactory.java","Willem Ning Jiang",1,1
+"components/camel-mail/src/main/java/org/apache/camel/component/mail/security/DummyTrustManager.java","Willem Ning Jiang",1,1
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/InvalidConfigurationTest.java","Claus Ibsen",1,1
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MailComponentTest.java","Claus Ibsen",0.666666666666667,3
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MailComponentTest.java","Jonathan Anstey",0.333333333333333,3
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MailFetchSizeTest.java","Claus Ibsen",1,2
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MailFetchSizeZeroTest.java","Claus Ibsen",1,1
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MailProcessOnlyUnseenMessagesTest.java","Claus Ibsen",0.5,2
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MailProcessOnlyUnseenMessagesTest.java","Willem Ning Jiang",0.5,2
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MailRecipientsTest.java","Claus Ibsen",1,1
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MailRouteTest.java","Claus Ibsen",0.75,4
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MailRouteTest.java","Willem Ning Jiang",0.25,4
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MailSubjectTest.java","Claus Ibsen",1,3
+"components/camel-mail/src/test/java/org/apache/camel/component/mail/MultipleDestinationConsumeTest.java","Claus Ibsen",1,1
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaComponent.java","Claus Ibsen",0.6,10
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaComponent.java","Hadrian Zbarcea",0.3,10
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaComponent.java","Willem Ning Jiang",0.1,10
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaConsumer.java","Claus Ibsen",0.333333333333333,9
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaConsumer.java","Hadrian Zbarcea",0.222222222222222,9
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaConsumer.java","Willem Ning Jiang",0.444444444444444,9
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaConverter.java","Willem Ning Jiang",1,1
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaEndpoint.java","Claus Ibsen",0.125,8
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaEndpoint.java","Hadrian Zbarcea",0.625,8
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaEndpoint.java","James Strachan",0.125,8
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaEndpoint.java","Willem Ning Jiang",0.125,8
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaExchange.java","Hadrian Zbarcea",1,1
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaPayloadHelper.java","Claus Ibsen",0.333333333333333,3
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaPayloadHelper.java","Willem Ning Jiang",0.666666666666667,3
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaPayloadHolder.java","Claus Ibsen",0.285714285714286,7
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaPayloadHolder.java","Willem Ning Jiang",0.714285714285714,7
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaProducer.java","Claus Ibsen",0.666666666666667,6
+"components/camel-mina/src/main/java/org/apache/camel/component/mina/MinaProducer.java","Willem Ning Jiang",0.333333333333333,6
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaConverterTest.java","Willem Ning Jiang",1,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaEncodingTest.java","Claus Ibsen",0.5,4
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaEncodingTest.java","Willem Ning Jiang",0.5,4
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaExchangeTest.java","Hadrian Zbarcea",1,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaFileTcpTest.java","Hadrian Zbarcea",1,1
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaFileUdpTest.java","Hadrian Zbarcea",1,1
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaLoggerOptionTest.java","Claus Ibsen",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaLoggerOptionTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaMulticastTest.java","Claus Ibsen",1,1
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaProducerShutdownMockTest.java","Claus Ibsen",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaProducerShutdownMockTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaProducerShutdownTest.java","Claus Ibsen",1,1
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaTcpTest.java","Claus Ibsen",1,1
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaTcpTextlineProtocolTest.java","Claus Ibsen",1,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaTcpWithInOutUsingPlainSocketTest.java","Claus Ibsen",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaTcpWithInOutUsingPlainSocketTest.java","Willem Ning Jiang",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaTcpWithIoOutProcessorExceptionTest.java","Willem Ning Jiang",1,1
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaTransferExchangeOptionTest.java","Claus Ibsen",0.333333333333333,3
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaTransferExchangeOptionTest.java","Willem Ning Jiang",0.666666666666667,3
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaUdpTest.java","Claus Ibsen",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaUdpTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaUdpUsingTemplateTest.java","Claus Ibsen",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaUdpUsingTemplateTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaUdpWithInOutUsingPlainSocketTest.java","Willem Ning Jiang",1,1
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaVmTest.java","Claus Ibsen",0.5,2
+"components/camel-mina/src/test/java/org/apache/camel/component/mina/MinaVmTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-ognl/src/main/java/org/apache/camel/language/ognl/OGNL.java","James Strachan",0.5,2
+"components/camel-ognl/src/main/java/org/apache/camel/language/ognl/OGNL.java","Willem Ning Jiang",0.5,2
+"components/camel-ognl/src/main/java/org/apache/camel/language/ognl/OgnlExpression.java","Claus Ibsen",0.5,2
+"components/camel-ognl/src/main/java/org/apache/camel/language/ognl/OgnlExpression.java","Hadrian Zbarcea",0.5,2
+"components/camel-ognl/src/main/java/org/apache/camel/language/ognl/OgnlLanguage.java","Hadrian Zbarcea",1,1
+"components/camel-ognl/src/main/java/org/apache/camel/language/ognl/RootObject.java","Claus Ibsen",0.5,2
+"components/camel-ognl/src/main/java/org/apache/camel/language/ognl/RootObject.java","Jonathan Anstey",0.5,2
+"components/camel-ognl/src/test/java/org/apache/camel/language/ognl/OgnlTest.java","Jonathan Anstey",1,1
+"components/camel-osgi/src/main/java/org/apache/camel/osgi/CamelContextFactoryBean.java","Guillaume Nodet",0.2,5
+"components/camel-osgi/src/main/java/org/apache/camel/osgi/CamelContextFactoryBean.java","Willem Ning Jiang",0.8,5
+"components/camel-osgi/src/main/java/org/apache/camel/osgi/OsgiComponentResolver.java","Willem Ning Jiang",1,4
+"components/camel-quartz/src/main/java/org/apache/camel/component/quartz/QuartzComponent.java","Hadrian Zbarcea",1,1
+"components/camel-quartz/src/main/java/org/apache/camel/component/quartz/QuartzConsumer.java","Hadrian Zbarcea",1,1
+"components/camel-quartz/src/main/java/org/apache/camel/component/quartz/QuartzEndpoint.java","Hadrian Zbarcea",0.8,5
+"components/camel-quartz/src/main/java/org/apache/camel/component/quartz/QuartzEndpoint.java","James Strachan",0.2,5
+"components/camel-quartz/src/main/java/org/apache/camel/component/quartz/QuartzExchange.java","Hadrian Zbarcea",1,1
+"components/camel-quartz/src/main/java/org/apache/camel/component/quartz/QuartzMessage.java","Hadrian Zbarcea",1,1
+"components/camel-rmi/src/main/java/org/apache/camel/component/rmi/RmiComponent.java","Hadrian Zbarcea",1,2
+"components/camel-rmi/src/main/java/org/apache/camel/component/rmi/RmiConsumer.java","Hadrian Zbarcea",1,3
+"components/camel-rmi/src/main/java/org/apache/camel/component/rmi/RmiEndpoint.java","Claus Ibsen",0.125,8
+"components/camel-rmi/src/main/java/org/apache/camel/component/rmi/RmiEndpoint.java","Hadrian Zbarcea",0.625,8
+"components/camel-rmi/src/main/java/org/apache/camel/component/rmi/RmiEndpoint.java","James Strachan",0.125,8
+"components/camel-rmi/src/main/java/org/apache/camel/component/rmi/RmiEndpoint.java","Willem Ning Jiang",0.125,8
+"components/camel-rmi/src/main/java/org/apache/camel/component/rmi/RmiProducer.java","Hadrian Zbarcea",1,1
+"components/camel-rmi/src/test/java/org/apache/camel/component/rmi/RmiRouteTest.java","Jonathan Anstey",0.666666666666667,3
+"components/camel-rmi/src/test/java/org/apache/camel/component/rmi/RmiRouteTest.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-ruby/src/main/java/org/apache/camel/ruby/RubyCamel.java","Willem Ning Jiang",1,1
+"components/camel-ruby/src/main/java/org/apache/camel/ruby/ScriptRouteBuilder.java","Willem Ning Jiang",1,1
+"components/camel-ruby/src/test/java/org/apache/camel/ruby/RouteUsingNestedScopesTest.java","Willem Ning Jiang",1,1
+"components/camel-ruby/src/test/java/org/apache/camel/ruby/RubyTest.java","Hadrian Zbarcea",0.25,4
+"components/camel-ruby/src/test/java/org/apache/camel/ruby/RubyTest.java","Jonathan Anstey",0.5,4
+"components/camel-ruby/src/test/java/org/apache/camel/ruby/RubyTest.java","Willem Ning Jiang",0.25,4
+"components/camel-ruby/src/test/java/org/apache/camel/ruby/RunScript.java","Willem Ning Jiang",1,1
+"components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQuery.java","James Strachan",0.5,2
+"components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQuery.java","Willem Ning Jiang",0.5,2
+"components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQueryBuilder.java","Claus Ibsen",0.5,4
+"components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQueryBuilder.java","Hadrian Zbarcea",0.5,4
+"components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQueryComponent.java","Hadrian Zbarcea",1,1
+"components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQueryLanguage.java","Hadrian Zbarcea",1,1
+"components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/XQueryFilterTest.java","Hadrian Zbarcea",1,1
+"components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/XQueryRecipientListTest.java","Claus Ibsen",1,1
+"components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/XQueryWithNamespacesFilterTest.java","Hadrian Zbarcea",1,1
+"components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryConcurrencyTest.java","Willem Ning Jiang",1,1
+"components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryEndpointTest.java","Claus Ibsen",1,1
+"components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryPropogateHeadersTest.java","Claus Ibsen",1,1
+"components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryURLBasedConcurrencyTest.java","Willem Ning Jiang",1,1
+"components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryWithExplicitTypeTest.java","Claus Ibsen",1,1
+"components/camel-script/src/main/java/org/apache/camel/builder/script/BeanShell.java","Claus Ibsen",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/BeanShell.java","Jonathan Anstey",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/Groovy.java","James Strachan",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/Groovy.java","Willem Ning Jiang",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/JavaScript.java","James Strachan",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/JavaScript.java","Willem Ning Jiang",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/PHP.java","James Strachan",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/PHP.java","Willem Ning Jiang",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/Python.java","James Strachan",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/Python.java","Willem Ning Jiang",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/Ruby.java","James Strachan",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/Ruby.java","Willem Ning Jiang",0.5,2
+"components/camel-script/src/main/java/org/apache/camel/builder/script/ScriptBuilder.java","Claus Ibsen",0.333333333333333,6
+"components/camel-script/src/main/java/org/apache/camel/builder/script/ScriptBuilder.java","Hadrian Zbarcea",0.166666666666667,6
+"components/camel-script/src/main/java/org/apache/camel/builder/script/ScriptBuilder.java","Jonathan Anstey",0.166666666666667,6
+"components/camel-script/src/main/java/org/apache/camel/builder/script/ScriptBuilder.java","Willem Ning Jiang",0.333333333333333,6
+"components/camel-script/src/main/java/org/apache/camel/builder/script/ScriptLanguage.java","Hadrian Zbarcea",1,1
+"components/camel-script/src/main/java/org/apache/camel/builder/script/ScriptLanguageResolver.java","Claus Ibsen",1,1
+"components/camel-script/src/test/java/org/apache/camel/builder/script/JavaScriptExpressionTest.java","Claus Ibsen",0.5,2
+"components/camel-script/src/test/java/org/apache/camel/builder/script/JavaScriptExpressionTest.java","Willem Ning Jiang",0.5,2
+"components/camel-script/src/test/java/org/apache/camel/builder/script/Jsr223Test.java","Claus Ibsen",0.333333333333333,3
+"components/camel-script/src/test/java/org/apache/camel/builder/script/Jsr223Test.java","Jonathan Anstey",0.666666666666667,3
+"components/camel-script/src/test/java/org/apache/camel/builder/script/PythonExpressionTest.java","Claus Ibsen",1,1
+"components/camel-script/src/test/java/org/apache/camel/builder/script/RubyExpressionTest.java","Claus Ibsen",1,1
+"components/camel-script/src/test/java/org/apache/camel/language/script/JavaScriptLanguageTest.java","Claus Ibsen",1,1
+"components/camel-script/src/test/java/org/apache/camel/language/script/PythonLanguageTest.java","Claus Ibsen",0.5,2
+"components/camel-script/src/test/java/org/apache/camel/language/script/PythonLanguageTest.java","Jonathan Anstey",0.5,2
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/AbstractCamelAdapter.java","Willem Ning Jiang",1,2
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/CamelSourceAdapter.java","Willem Ning Jiang",1,2
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/CamelTargetAdapter.java","Hadrian Zbarcea",0.142857142857143,7
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/CamelTargetAdapter.java","James Strachan",0.142857142857143,7
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/CamelTargetAdapter.java","Willem Ning Jiang",0.714285714285714,7
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/config/AbstractCamelContextBeanDefinitionParaser.java","Claus Ibsen",1,1
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/config/CamelTargetAdapterParser.java","Willem Ning Jiang",1,2
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/converter/SpringIntegrationConverter.java","Willem Ning Jiang",1,2
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationBinding.java","Willem Ning Jiang",1,2
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationComponent.java","Hadrian Zbarcea",1,1
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationConsumer.java","Claus Ibsen",0.285714285714286,7
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationConsumer.java","Hadrian Zbarcea",0.285714285714286,7
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationConsumer.java","Willem Ning Jiang",0.428571428571429,7
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationEndpoint.java","Hadrian Zbarcea",0.714285714285714,7
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationEndpoint.java","James Strachan",0.142857142857143,7
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationEndpoint.java","Willem Ning Jiang",0.142857142857143,7
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationExchange.java","James Strachan",1,1
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationMessage.java","Willem Ning Jiang",1,3
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationProducer.java","Claus Ibsen",0.25,8
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationProducer.java","Hadrian Zbarcea",0.125,8
+"components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationProducer.java","Willem Ning Jiang",0.625,8
+"components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/adapter/CamelSourceAdapterTest.java","Willem Ning Jiang",1,2
+"components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/adapter/CamelTargetAdapterTest.java","Willem Ning Jiang",1,4
+"components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/adapter/ConfigurationTest.java","Willem Ning Jiang",1,2
+"components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/HelloWorldService.java","Willem Ning Jiang",1,1
+"components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/SpringIntegrationOneWayConsumerTest.java","Willem Ning Jiang",1,1
+"components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/SpringIntegrationProducerTest.java","Willem Ning Jiang",1,1
+"components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/SpringIntegrationTwoWayConsumerTest.java","Willem Ning Jiang",1,2
+"components/camel-spring/src/main/java/org/apache/camel/component/event/EventComponent.java","Hadrian Zbarcea",1,1
+"components/camel-spring/src/main/java/org/apache/camel/component/event/EventConsumer.java","Hadrian Zbarcea",1,1
+"components/camel-spring/src/main/java/org/apache/camel/component/event/EventEndpoint.java","Claus Ibsen",0.375,8
+"components/camel-spring/src/main/java/org/apache/camel/component/event/EventEndpoint.java","Hadrian Zbarcea",0.5,8
+"components/camel-spring/src/main/java/org/apache/camel/component/event/EventEndpoint.java","Willem Ning Jiang",0.125,8
+"components/camel-spring/src/main/java/org/apache/camel/component/ResourceBasedComponent.java","Hadrian Zbarcea",1,1
+"components/camel-spring/src/main/java/org/apache/camel/component/test/TestComponent.java","Hadrian Zbarcea",1,2
+"components/camel-spring/src/main/java/org/apache/camel/component/validator/ValidatorComponent.java","Hadrian Zbarcea",1,1
+"components/camel-spring/src/main/java/org/apache/camel/component/xslt/XsltComponent.java","Hadrian Zbarcea",0.5,2
+"components/camel-spring/src/main/java/org/apache/camel/component/xslt/XsltComponent.java","Willem Ning Jiang",0.5,2
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelBeanPostProcessor.java","Claus Ibsen",0.0909090909090909,11
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelBeanPostProcessor.java","James Strachan",0.727272727272727,11
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelBeanPostProcessor.java","Willem Ning Jiang",0.181818181818182,11
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelContextFactoryBean.java","Claus Ibsen",0.222222222222222,18
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelContextFactoryBean.java","Gert Vanthienen",0.0555555555555556,18
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelContextFactoryBean.java","Hadrian Zbarcea",0.0555555555555556,18
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelContextFactoryBean.java","Jonathan Anstey",0.222222222222222,18
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelContextFactoryBean.java","Willem Ning Jiang",0.444444444444444,18
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelJMXAgentType.java","Claus Ibsen",0.5,2
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelJMXAgentType.java","Hadrian Zbarcea",0.5,2
+"components/camel-spring/src/main/java/org/apache/camel/spring/CamelTemplateFactoryBean.java","Claus Ibsen",1,1
+"components/camel-spring/src/main/java/org/apache/camel/spring/handler/CamelNamespaceHandler.java","Claus Ibsen",0.1,10
+"components/camel-spring/src/main/java/org/apache/camel/spring/handler/CamelNamespaceHandler.java","Hadrian Zbarcea",0.1,10
+"components/camel-spring/src/main/java/org/apache/camel/spring/handler/CamelNamespaceHandler.java","James Strachan",0.2,10
+"components/camel-spring/src/main/java/org/apache/camel/spring/handler/CamelNamespaceHandler.java","Jonathan Anstey",0.2,10
+"components/camel-spring/src/main/java/org/apache/camel/spring/handler/CamelNamespaceHandler.java","Willem Ning Jiang",0.4,10
+"components/camel-spring/src/main/java/org/apache/camel/spring/Main.java","Claus Ibsen",0.3,10
+"components/camel-spring/src/main/java/org/apache/camel/spring/Main.java","Hadrian Zbarcea",0.1,10
+"components/camel-spring/src/main/java/org/apache/camel/spring/Main.java","James Strachan",0.3,10
+"components/camel-spring/src/main/java/org/apache/camel/spring/Main.java","Jonathan Anstey",0.1,10
+"components/camel-spring/src/main/java/org/apache/camel/spring/Main.java","Willem Ning Jiang",0.2,10
+"components/camel-spring/src/main/java/org/apache/camel/spring/remoting/CamelProxyFactoryBean.java","James Strachan",1,1
+"components/camel-spring/src/main/java/org/apache/camel/spring/remoting/CamelServiceExporter.java","James Strachan",1,1
+"components/camel-spring/src/main/java/org/apache/camel/spring/remoting/SendBeforeInterceptor.java","James Strachan",1,1
+"components/camel-spring/src/main/java/org/apache/camel/spring/RouteBuilderFinder.java","Gert Vanthienen",0.5,2
+"components/camel-spring/src/main/java/org/apache/camel/spring/RouteBuilderFinder.java","Willem Ning Jiang",0.5,2
+"components/camel-spring/src/main/java/org/apache/camel/spring/spi/BeanInjector.java","Jonathan Anstey",1,1
+"components/camel-spring/src/main/java/org/apache/camel/spring/spi/TransactionErrorHandlerBuilder.java","Claus Ibsen",0.25,4
+"components/camel-spring/src/main/java/org/apache/camel/spring/spi/TransactionErrorHandlerBuilder.java","Jonathan Anstey",0.5,4
+"components/camel-spring/src/main/java/org/apache/camel/spring/spi/TransactionErrorHandlerBuilder.java","Willem Ning Jiang",0.25,4
+"components/camel-spring/src/main/java/org/apache/camel/spring/spi/TransactionInterceptor.java","Claus Ibsen",0.5,6
+"components/camel-spring/src/main/java/org/apache/camel/spring/spi/TransactionInterceptor.java","Jonathan Anstey",0.166666666666667,6
+"components/camel-spring/src/main/java/org/apache/camel/spring/spi/TransactionInterceptor.java","Willem Ning Jiang",0.333333333333333,6
+"components/camel-spring/src/main/java/org/apache/camel/spring/SpringCamelContext.java","Claus Ibsen",0.25,8
+"components/camel-spring/src/main/java/org/apache/camel/spring/SpringCamelContext.java","Hadrian Zbarcea",0.25,8
+"components/camel-spring/src/main/java/org/apache/camel/spring/SpringCamelContext.java","Willem Ning Jiang",0.5,8
+"components/camel-spring/src/test/java/org/apache/camel/component/bean/BeanRouteTest.java","Claus Ibsen",0.666666666666667,3
+"components/camel-spring/src/test/java/org/apache/camel/component/bean/BeanRouteTest.java","Jonathan Anstey",0.333333333333333,3
+"components/camel-spring/src/test/java/org/apache/camel/component/event/EventRouteTest.java","Claus Ibsen",1,2
+"components/camel-spring/src/test/java/org/apache/camel/component/file/SpringFileRouteTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/component/test/TestEndpointTest.java","Claus Ibsen",0.714285714285714,7
+"components/camel-spring/src/test/java/org/apache/camel/component/test/TestEndpointTest.java","Willem Ning Jiang",0.285714285714286,7
+"components/camel-spring/src/test/java/org/apache/camel/component/validator/ValidatorRouteTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltRouteTest.java","Claus Ibsen",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltRouteTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/ApplicationContextTestSupport.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/bind/BeanAsEndpointTest.java","Claus Ibsen",1,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/bind/ExampleBean.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/bind/ProcessorAsEndpointTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/CamelContextAwareTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/config/CamelContextFactoryBeanTest.java","Willem Ning Jiang",1,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/config/DeadLetterChannelRedeliveryConfigTest.java","Claus Ibsen",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/config/DeadLetterChannelRedeliveryConfigTest.java","Willem Ning Jiang",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/config/MyFailureProcessor.java","Willem Ning Jiang",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/config/XmlConfigTestSupport.java","Willem Ning Jiang",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/CustomProcessorWithNamespacesTest.java","Claus Ibsen",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/CustomProcessorWithNamespacesTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/DefaultJMXAgentTest.java","Claus Ibsen",0.666666666666667,3
+"components/camel-spring/src/test/java/org/apache/camel/spring/DefaultJMXAgentTest.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-spring/src/test/java/org/apache/camel/spring/DisableJmxAgentTest.java","Claus Ibsen",0.666666666666667,3
+"components/camel-spring/src/test/java/org/apache/camel/spring/DisableJmxAgentTest.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-spring/src/test/java/org/apache/camel/spring/DisableJmxAgentTheOldWayTest.java","Claus Ibsen",0.666666666666667,3
+"components/camel-spring/src/test/java/org/apache/camel/spring/DisableJmxAgentTheOldWayTest.java","Jonathan Anstey",0.333333333333333,3
+"components/camel-spring/src/test/java/org/apache/camel/spring/DummyLifecycleStrategy.java","Hadrian Zbarcea",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/EndpointReferenceTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/example/ContentBasedRouteTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/example/PojoConsumerTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/example/PojoSenderTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/example/SimpleRouteTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/InjectedBeanTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/interceptor/StreamCachingInterceptorTest.java","Hadrian Zbarcea",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/interceptor/TransactionalClientDataSourceTest.java","Claus Ibsen",0.666666666666667,3
+"components/camel-spring/src/test/java/org/apache/camel/spring/interceptor/TransactionalClientDataSourceTest.java","Jonathan Anstey",0.333333333333333,3
+"components/camel-spring/src/test/java/org/apache/camel/spring/JMXAgentTest.java","Claus Ibsen",1,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/LifecycleStrategyInjectionTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/MainTest.java","James Strachan",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/managment/JmxInstrumentationWithConnectorTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/mock/BeanMockTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/processor/SpringFaultRouteTest.java","Gert Vanthienen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/processor/SpringSetHeaderWithChildProcessorTest.java","Claus Ibsen",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/processor/SpringSetHeaderWithChildProcessorTest.java","Willem Ning Jiang",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/processor/SpringTestHelper.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/processor/TransformWithExpressionTest.java","Claus Ibsen",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/processor/TransformWithExpressionTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/RegistryInjectionTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/remoting/SpringRemotingRouteTest.java","Claus Ibsen",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/remoting/SpringRemotingRouteTest.java","Willem Ning Jiang",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/remoting/SpringRemotingWithServiceExportAndNamespacesRouteTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/remoting/SpringRemotingWithServiceExportRouteTest.java","Claus Ibsen",1,1
+"components/camel-spring/src/test/java/org/apache/camel/spring/RoutingUsingCamelContextFactoryTest.java","Claus Ibsen",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/RoutingUsingCamelContextFactoryTest.java","Hadrian Zbarcea",0.5,2
+"components/camel-spring/src/test/java/org/apache/camel/spring/SpringTestSupport.java","Claus Ibsen",1,1
+"components/camel-sql/src/main/java/org/apache/camel/component/sql/SqlComponent.java","Claus Ibsen",1,2
+"components/camel-sql/src/main/java/org/apache/camel/component/sql/SqlEndpoint.java","Claus Ibsen",1,1
+"components/camel-sql/src/main/java/org/apache/camel/component/sql/SqlProducer.java","Claus Ibsen",1,1
+"components/camel-stream/src/main/java/org/apache/camel/component/stream/StreamComponent.java","Claus Ibsen",0.333333333333333,3
+"components/camel-stream/src/main/java/org/apache/camel/component/stream/StreamComponent.java","Hadrian Zbarcea",0.666666666666667,3
+"components/camel-stream/src/main/java/org/apache/camel/component/stream/StreamConsumer.java","Claus Ibsen",0.666666666666667,3
+"components/camel-stream/src/main/java/org/apache/camel/component/stream/StreamConsumer.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-stream/src/main/java/org/apache/camel/component/stream/StreamEndpoint.java","Claus Ibsen",0.333333333333333,6
+"components/camel-stream/src/main/java/org/apache/camel/component/stream/StreamEndpoint.java","Hadrian Zbarcea",0.5,6
+"components/camel-stream/src/main/java/org/apache/camel/component/stream/StreamEndpoint.java","Jonathan Anstey",0.166666666666667,6
+"components/camel-stream/src/main/java/org/apache/camel/component/stream/StreamMessage.java","Jonathan Anstey",1,1
+"components/camel-stream/src/main/java/org/apache/camel/component/stream/StreamProducer.java","Claus Ibsen",0.5,2
+"components/camel-stream/src/main/java/org/apache/camel/component/stream/StreamProducer.java","Hadrian Zbarcea",0.5,2
+"components/camel-stream/src/test/java/org/apache/camel/component/stream/StreamHeaderTest.java","Jonathan Anstey",1,1
+"components/camel-swing/src/test/java/org/apache/camel/component/swing/UFaceTest.java","Hadrian Zbarcea",1,1
+"components/camel-uface/src/main/java/org/apache/camel/component/uface/UFaceBrowser.java","Hadrian Zbarcea",1,1
+"components/camel-uface/src/main/java/org/apache/camel/component/uface/UFaceEndpoint.java","Jonathan Anstey",1,1
+"components/camel-uface/src/test/java/org/apache/camel/component/uface/UFaceTest.java","Hadrian Zbarcea",1,1
+"components/camel-xmlbeans/src/main/java/org/apache/camel/converter/xmlbeans/XmlBeansConverter.java","Willem Ning Jiang",1,1
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppBinding.java","Claus Ibsen",0.25,4
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppBinding.java","Hadrian Zbarcea",0.25,4
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppBinding.java","Willem Ning Jiang",0.5,4
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppComponent.java","Hadrian Zbarcea",1,3
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppConsumer.java","Claus Ibsen",0.25,4
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppConsumer.java","Hadrian Zbarcea",0.25,4
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppConsumer.java","Willem Ning Jiang",0.5,4
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppEndpoint.java","Claus Ibsen",0.181818181818182,11
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppEndpoint.java","Hadrian Zbarcea",0.454545454545455,11
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppEndpoint.java","James Strachan",0.0909090909090909,11
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppEndpoint.java","Jonathan Anstey",0.0909090909090909,11
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppEndpoint.java","Willem Ning Jiang",0.181818181818182,11
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppExchange.java","Claus Ibsen",0.5,2
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppExchange.java","James Strachan",0.5,2
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppGroupChatProducer.java","Claus Ibsen",1,1
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppMessage.java","Claus Ibsen",0.333333333333333,3
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppMessage.java","Hadrian Zbarcea",0.333333333333333,3
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppMessage.java","Willem Ning Jiang",0.333333333333333,3
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppPrivateChatProducer.java","Jonathan Anstey",0.333333333333333,3
+"components/camel-xmpp/src/main/java/org/apache/camel/component/xmpp/XmppPrivateChatProducer.java","Willem Ning Jiang",0.666666666666667,3
+"components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/UriConfigurationTest.java","Jonathan Anstey",1,1
+"components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/XmppRouteTest.java","Claus Ibsen",0.333333333333333,3
+"components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/XmppRouteTest.java","Hadrian Zbarcea",0.666666666666667,3
+"components/camel-xstream/src/main/java/org/apache/camel/dataformat/xstream/XStreamDataFormat.java","Claus Ibsen",0.166666666666667,6
+"components/camel-xstream/src/main/java/org/apache/camel/dataformat/xstream/XStreamDataFormat.java","James Strachan",0.333333333333333,6
+"components/camel-xstream/src/main/java/org/apache/camel/dataformat/xstream/XStreamDataFormat.java","Willem Ning Jiang",0.5,6
+"examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/CamelCxfExample.java","Jonathan Anstey",1,1
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/queue/version/Bank.java","Willem Ning Jiang",1,1
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/queue/version/BankResponseAggregationStrategy.java","Claus Ibsen",0.25,4
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/queue/version/BankResponseAggregationStrategy.java","Willem Ning Jiang",0.75,4
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/queue/version/Client.java","Willem Ning Jiang",1,3
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/queue/version/CreditAgency.java","Willem Ning Jiang",1,1
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/queue/version/LoanBroker.java","Hadrian Zbarcea",0.111111111111111,9
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/queue/version/LoanBroker.java","Jonathan Anstey",0.333333333333333,9
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/queue/version/LoanBroker.java","Willem Ning Jiang",0.555555555555556,9
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/webservice/version/BankResponseAggregationStrategy.java","Willem Ning Jiang",1,1
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/webservice/version/LoanBroker.java","Jonathan Anstey",0.5,6
+"examples/camel-example-loan-broker/src/main/java/org/apache/camel/loanbroker/webservice/version/LoanBroker.java","Willem Ning Jiang",0.5,6
+"examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/server/ServerRoutes.java","Claus Ibsen",1,1
+"examples/camel-example-spring/src/main/java/org/apache/camel/example/spring/MyRouteBuilder.java","James Strachan",1,1
+"examples/camel-example-spring/src/test/java/org/apache/camel/example/spring/IntegrationTest.java","Hadrian Zbarcea",1,2
+"tests/camel-itest/src/test/java/org/apache/camel/itest/customerrelations/CustomerServicesTest.java","Willem Ning Jiang",1,1
+"tooling/archetypes/camel-component/src/main/resources/archetype-resources/src/main/java/DirectComponent.java","Hadrian Zbarcea",1,1
+"tooling/archetypes/camel-component/src/main/resources/archetype-resources/src/main/java/DirectEndpoint.java","Hadrian Zbarcea",1,1
+"tooling/archetypes/camel-component/src/main/resources/archetype-resources/src/main/java/DirectProducer.java","Hadrian Zbarcea",1,1
+"tooling/archetypes/camel-router/src/main/resources/archetype-resources/src/main/java/MyRouteBuilder.java","Hadrian Zbarcea",1,1
+"tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/ConvertersMojo.java","Willem Ning Jiang",1,1
+"tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/DotMojo.java","Claus Ibsen",0.2,5
+"tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/DotMojo.java","Jonathan Anstey",0.4,5
+"tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/DotMojo.java","Willem Ning Jiang",0.4,5
+"tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/EmbeddedMojo.java","Claus Ibsen",0.5,2
+"tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/EmbeddedMojo.java","Jonathan Anstey",0.5,2
+"tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/RunMojo.java","Claus Ibsen",0.5,4
+"tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/RunMojo.java","Hadrian Zbarcea",0.25,4
+"tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/RunMojo.java","Jonathan Anstey",0.25,4
+"tooling/maven/maven-html-to-pdf/src/main/java/org/apache/camel/maven/HtmlToPdfMojo.java","Jonathan Anstey",1,2

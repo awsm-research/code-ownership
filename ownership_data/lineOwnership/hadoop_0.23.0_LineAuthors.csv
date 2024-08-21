@@ -1,0 +1,1629 @@
+"Author","File","NumLines"
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",307
+"","hadoop-common-project/hadoop-common/src/test/aop/org/apache/hadoop/fi",3
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/cli",2
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",529
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/loadGenerator",3
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/shell",339
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",25
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http/resource",64
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",191
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",6
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics/ganglia",42
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/net",32
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",1
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/token/delegation",2
+"","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",450
+"","hadoop-common-project/hadoop-common/src/test/system/java/org/apache/hadoop/test/system",6
+"Aaron Myers","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",42
+"Aaron Myers","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/file/tfile",125
+"Aaron Myers","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",71
+"Amareshwari Sri Ramadasu","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",19
+"Amareshwari Sri Ramadasu","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",63
+"Amareshwari Sri Ramadasu","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",3
+"Amareshwari Sri Ramadasu","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/authorize",172
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",123
+"Arun Murthy","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",23
+"Arun Murthy","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/filter",144
+"Arun Murthy","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/impl",881
+"Arun Murthy","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/lib",520
+"Arun Murthy","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/util",199
+"Arun Murthy","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/test",338
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",87
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf",21
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",70
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",51
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",176
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/authorize",146
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",62
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",29
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf",17
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",7
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/kfs",6
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/loadGenerator",8
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http/lib",80
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",97
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/compress",445
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/file/tfile",4338
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/jmx",69
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/test",132
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",295
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",5
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/log",8
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/cli",2
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf",11
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",59
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",170
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",170
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/file/tfile",88
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/nativeio",136
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",251
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",723
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/token",61
+"Devaraj Das","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",1
+"Dhruba Borthakur","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",96
+"Dhruba Borthakur","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf",261
+"Dhruba Borthakur","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",269
+"Dhruba Borthakur","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",12
+"Dhruba Borthakur","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",84
+"Doug Cutting","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",66
+"Doug Cutting","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",183
+"Doug Cutting","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",34
+"Doug Cutting","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/serializer",44
+"Doug Cutting","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/serializer/avro",143
+"Doug Cutting","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",113
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",503
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/log",6
+"Eli Collins","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf",175
+"Eli Collins","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",378
+"Eli Collins","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/viewfs",12
+"Eli Collins","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",102
+"Eli Collins","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/compress",47
+"Eli Collins","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/nativeio",1
+"Eli Collins","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/retry",295
+"Eli Collins","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",50
+"Eli Collins","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",4
+"Eli Collins","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",1
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/cli",37
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/cli/util",559
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf",560
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",1835
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/kfs",348
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/loadGenerator",1047
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/permission",115
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/s3",441
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/s3native",304
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",271
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",2408
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/compress",354
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/retry",269
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/serializer",50
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",748
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/log",78
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics",110
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics/spi",38
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/net",407
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/record",1108
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/authorize",81
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/test",62
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",686
+"Hairong Kuang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",763
+"Hairong Kuang","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",594
+"Hairong Kuang","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/compress",29
+"Hairong Kuang","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",474
+"Hairong Kuang","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",14
+"Hemanth Yamijala","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",10
+"Hemanth Yamijala","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf",450
+"Hemanth Yamijala","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",126
+"Hemanth Yamijala","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",24
+"Jakob Homan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",651
+"Jakob Homan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",556
+"Jakob Homan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/permission",8
+"Jakob Homan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",4
+"Jakob Homan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/net",5
+"Jakob Homan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",52
+"Jakob Homan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/token/delegation",20
+"Jakob Homan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/test",34
+"Jakob Homan","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",54
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",291
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",253
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/viewfs",49
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",35
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/net",12
+"Konstantin Boudnik","hadoop-common-project/hadoop-common/src/test/aop/org/apache/hadoop/fi",155
+"Konstantin Boudnik","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/cli",460
+"Konstantin Boudnik","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/cli/util",168
+"Konstantin Boudnik","hadoop-common-project/hadoop-common/src/test/system/c++/runAs",169
+"Konstantin Boudnik","hadoop-common-project/hadoop-common/src/test/system/java/org/apache/hadoop/test/system",1746
+"Konstantin Boudnik","hadoop-common-project/hadoop-common/src/test/system/java/org/apache/hadoop/test/system/process",671
+"Konstantin Boudnik","hadoop-common-project/hadoop-common/src/test/system/java/org/apache/hadoop/util",230
+"Konstantin Boudnik","hadoop-common-project/hadoop-common/src/test/system/validation/org/apache/hadoop/util",50
+"Konstantin Shvachko","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",268
+"Konstantin Shvachko","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",56
+"Konstantin Shvachko","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",437
+"Konstantin Shvachko","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/token/delegation",66
+"Luke Lu","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/impl",197
+"Luke Lu","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/sink/ganglia",39
+"Luke Lu","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/util",16
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",36
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",29
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/file/tfile",112
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",163
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/net",16
+"Matthew Foley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",47
+"Matthew Foley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",109
+"Matthew Foley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",2
+"Matthew Foley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",195
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop",69
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",7095
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/log",149
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",78
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/s3",12
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/s3native",92
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",171
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",616
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/compress",52
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",52
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",145
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/authorize",7
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/token",37
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/token/delegation",301
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",60
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/system/c++/runAs",1
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/test/system/java/org/apache/hadoop/test/system/process",2
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop",35
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",1587
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",2340
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/loadGenerator",21
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/viewfs",2796
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",7
+"Sharad Agarwal","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",6
+"Sharad Agarwal","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",123
+"Sharad Agarwal","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",37
+"Sharad Agarwal","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/authorize",65
+"Sharad Agarwal","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",6
+"Steve Loughran","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/log",262
+"Steve Loughran","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",102
+"Steve Loughran","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",1
+"Steve Loughran","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/log",270
+"Steve Loughran","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/net",107
+"Steve Loughran","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",35
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",3538
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/log",34
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/log/metrics",100
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf",37
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",2869
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/loadGenerator",4
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/permission",572
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",180
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",26
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/source",50
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/net",14
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",25
+"Tanping Wang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",6
+"Tanping Wang","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/jmx",13
+"Tanping Wang","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/token/delegation",1
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop",10
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",635
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/log",5
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf",139
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",239
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/loadGenerator",1
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/permission",2
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/s3native",85
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",266
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",132
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/compress",319
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/serializer",18
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/serializer/avro",1
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",42
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/impl",2
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/net",59
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",80
+"Thomas White","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",275
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",194
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf",89
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",59
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",87
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io",116
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/nativeio",144
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/serializer",44
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc",534
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/impl",64
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/net",21
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security",89
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/authorize",152
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/test",426
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/tools",127
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util",281
+"Vinod Kumar Vavilapalli","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs",9
+"Vinod Kumar Vavilapalli","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs",147
+"Vinod Kumar Vavilapalli","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",172
+"Zheng Shao","hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/http",35
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",50
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3",13
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3native",71
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/shell",2301
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",20
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",296
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress",6
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/bzip2",9
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/zlib",6
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/file/tfile",12
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry",3
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",23
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/ganglia",11
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net",27
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",21
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token/delegation",15
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",167
+"","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/bloom",1
+"Aaron Myers","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",12
+"Aaron Myers","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",150
+"Aaron Myers","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token/delegation",4
+"Amareshwari Sri Ramadasu","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",35
+"Amareshwari Sri Ramadasu","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/authorize",165
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",34
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/file",1
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2",1311
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/annotation",147
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/filter",271
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/impl",2553
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/lib",2108
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/sink",113
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/source",26
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/util",624
+"Arun Murthy","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",29
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",23
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",39
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",930
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/authorize",180
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token",3
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token/delegation",8
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",29
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",51
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/kfs",7
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/permission",9
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3",6
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3native",1
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",2
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http/lib",150
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",134
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress",547
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/bzip2",366
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/zlib",705
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/file/tfile",5308
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/jmx",312
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/jvm",3
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record",33
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/compiler",44
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/compiler/ant",3
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/compiler/generated",25
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/meta",21
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",610
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",14
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",97
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",226
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/file/tfile",131
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/nativeio",232
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",618
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics",8
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",1863
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/authorize",102
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token",396
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token/delegation",7
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",3
+"Dhruba Borthakur","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",543
+"Dhruba Borthakur","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",16
+"Dhruba Borthakur","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",155
+"Doug Cutting","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",29
+"Doug Cutting","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/serializer",7
+"Doug Cutting","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/serializer/avro",245
+"Doug Cutting","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",539
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",52
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/shell",2
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",91
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress",214
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/snappy",648
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/zlib",30
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry",335
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",40
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",58
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/bzip2",36
+"Giridharan Kesavan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",5
+"Hairong Kuang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",8
+"Hairong Kuang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress",19
+"Hairong Kuang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",983
+"Hemanth Yamijala","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",230
+"Hemanth Yamijala","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",128
+"Jakob Homan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/permission",3
+"Jakob Homan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",156
+"Jakob Homan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",12
+"Jakob Homan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net",1
+"Jakob Homan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",392
+"Jakob Homan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token/delegation",53
+"Jakob Homan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",5
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/viewfs",2
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",250
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net",36
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",40
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token",180
+"Jitendra Nath Pandey","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",16
+"Konstantin Boudnik","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",2
+"Konstantin Shvachko","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",4
+"Konstantin Shvachko","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",12
+"Konstantin Shvachko","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token/delegation",100
+"Luke Lu","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/lib",11
+"Luke Lu","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/sink/ganglia",767
+"Luke Lu","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/util",30
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/file/tfile",16
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",13
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net",30
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",164
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/authorize",1
+"Mahadev Konar","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token",6
+"Matthew Foley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/shell",72
+"Matthew Foley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",2
+"Matthew Foley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",237
+"Matthew Foley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",10
+"Michael Stack","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",4
+"Nigel Daley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",57
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",1293
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/ftp",737
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/kfs",761
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/permission",460
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3",1887
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3native",990
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/shell",170
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",834
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",10217
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress",1852
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/bzip2",3303
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/zlib",836
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry",414
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/serializer",523
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",2454
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics",900
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/file",139
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/ganglia",220
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/jvm",216
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/spi",1320
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/util",1077
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net",2801
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record",2251
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/compiler",2724
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/compiler/ant",136
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/compiler/generated",2353
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/meta",754
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",734
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/authorize",409
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token",117
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token/delegation",566
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",4373
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/bloom",1882
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/hash",460
+"Raghu Angadi","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/file/tfile",12
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/ftp",2
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/local",107
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/viewfs",2909
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",214
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",4
+"Sharad Agarwal","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",90
+"Sharad Agarwal","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/authorize",1
+"Sharad Agarwal","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",1
+"Steve Loughran","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",22
+"Steve Loughran","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",16
+"Steve Loughran","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net",364
+"Steve Loughran","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",16
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",22
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/ftp",118
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/kfs",43
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/local",173
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/permission",371
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3",47
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3native",43
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/shell",29
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",386
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress",29
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/zlib",4
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",99
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/file",1
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/jvm",8
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/lib",2
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/source",202
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net",38
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",50
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",11
+"Tanping Wang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/serializer",1
+"Tanping Wang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",1
+"Tanping Wang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/jmx",100
+"Tanping Wang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/util",4
+"Tanping Wang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net",2
+"Tanping Wang","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token/delegation",1
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",199
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/ftp",18
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/kfs",23
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/local",22
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/permission",34
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3",60
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/s3native",59
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/shell",23
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/viewfs",1
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",62
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",288
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress",184
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/bzip2",23
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/snappy",23
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress/zlib",23
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/file/tfile",28
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/nativeio",23
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/retry",22
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/serializer",90
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/serializer/avro",89
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",61
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics",32
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/file",13
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/ganglia",162
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/jvm",27
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/spi",67
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/util",42
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net",72
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record",71
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/compiler",81
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/compiler/ant",5
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/compiler/generated",33
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/record/meta",30
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",76
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/authorize",57
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token",46
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/token/delegation",42
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/tools",21
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",268
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/bloom",37
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/hash",14
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/conf",82
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/permission",14
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/shell",1007
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",10
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io",487
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/compress",9
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/nativeio",94
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/serializer",19
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc",156
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics",14
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics/ganglia",6
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/impl",9
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/metrics2/sink/ganglia",69
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/net",40
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security",94
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/authorize",28
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/tools",153
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util",1089
+"Vinod Kumar Vavilapalli","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",19
+"Vinod Kumar Vavilapalli","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/security/authorize",18
+"Zheng Shao","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http",6
+"","hadoop-common-project/hadoop-auth-examples/src/main/java/org/apache/hadoop/security/authentication/examples",4
+"","hadoop-common-project/hadoop-auth/src/main/java/org/apache/hadoop/security/authentication/client",10
+"","hadoop-common-project/hadoop-auth/src/main/java/org/apache/hadoop/security/authentication/server",23
+"","hadoop-common-project/hadoop-auth/src/main/java/org/apache/hadoop/security/authentication/util",3
+"","hadoop-common-project/hadoop-auth/src/test/java/org/apache/hadoop/security/authentication",2
+"","hadoop-common-project/hadoop-auth/src/test/java/org/apache/hadoop/security/authentication/client",12
+"","hadoop-common-project/hadoop-auth/src/test/java/org/apache/hadoop/security/authentication/server",13
+"","hadoop-common-project/hadoop-auth/src/test/java/org/apache/hadoop/security/authentication/util",3
+"","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/hdfs/server/blockmanagement",7
+"","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/hdfs/server/datanode",2
+"","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/hdfs/server/namenode",54
+"","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/raid",3
+"","hadoop-mapreduce-project/src/contrib/raid/src/test/org/apache/hadoop/hdfs/server/blockmanagement",519
+"","hadoop-mapreduce-project/src/contrib/raid/src/test/org/apache/hadoop/hdfs/server/namenode",37
+"Aaron Myers","hadoop-common-project/hadoop-auth-examples/src/main/java/org/apache/hadoop/security/authentication/examples",279
+"Aaron Myers","hadoop-common-project/hadoop-auth/src/main/java/org/apache/hadoop/security/authentication/client",697
+"Aaron Myers","hadoop-common-project/hadoop-auth/src/main/java/org/apache/hadoop/security/authentication/server",1138
+"Aaron Myers","hadoop-common-project/hadoop-auth/src/main/java/org/apache/hadoop/security/authentication/util",523
+"Aaron Myers","hadoop-common-project/hadoop-auth/src/test/java/org/apache/hadoop/security/authentication",127
+"Aaron Myers","hadoop-common-project/hadoop-auth/src/test/java/org/apache/hadoop/security/authentication/client",420
+"Aaron Myers","hadoop-common-project/hadoop-auth/src/test/java/org/apache/hadoop/security/authentication/server",1013
+"Aaron Myers","hadoop-common-project/hadoop-auth/src/test/java/org/apache/hadoop/security/authentication/util",178
+"Amar Kamat","hadoop-mapreduce-project/src/contrib/gridmix/src/java/org/apache/hadoop/mapred/gridmix",956
+"Amar Kamat","hadoop-mapreduce-project/src/contrib/gridmix/src/java/org/apache/hadoop/mapred/gridmix/emulators/resourceusage",717
+"Amar Kamat","hadoop-mapreduce-project/src/contrib/gridmix/src/test/org/apache/hadoop/mapred/gridmix",1439
+"Amar Kamat","hadoop-mapreduce-project/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix",421
+"Amar Kamat","hadoop-mapreduce-project/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix/test/system",209
+"Arun Murthy","hadoop-mapreduce-project/src/contrib/raid/src/test/org/apache/hadoop/raid",19
+"Arun Murthy","hadoop-mapreduce-project/src/contrib/streaming/src/java/org/apache/hadoop/streaming",35
+"Arun Murthy","hadoop-mapreduce-project/src/contrib/streaming/src/java/org/apache/hadoop/typedbytes",24
+"Arun Murthy","hadoop-mapreduce-project/src/contrib/streaming/src/test/org/apache/hadoop/streaming",28
+"Boris Shkolnik","hadoop-common-project/hadoop-common/src/main/native/src/org/apache/hadoop/security",138
+"Christopher Douglas","hadoop-common-project/hadoop-common/src/main/native/src/org/apache/hadoop/io/compress/zlib",7
+"Christopher Douglas","hadoop-mapreduce-project/src/contrib/gridmix/src/java/org/apache/hadoop/mapred/gridmix",23
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/native/src",16
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/native/src/org/apache/hadoop/io/nativeio",518
+"Devaraj Das","hadoop-common-project/hadoop-common/src/main/native/src/org/apache/hadoop/security",306
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/native/src",2
+"Eli Collins","hadoop-common-project/hadoop-common/src/main/native/src/org/apache/hadoop/io/compress/snappy",316
+"Eric Yang","hadoop-mapreduce-project/src/contrib/streaming/src/java/org/apache/hadoop/streaming",3
+"Giridharan Kesavan","hadoop-mapreduce-project/src/contrib/streaming/src/java/org/apache/hadoop/streaming",25
+"Giridharan Kesavan","hadoop-mapreduce-project/src/contrib/streaming/src/test/org/apache/hadoop/streaming",27
+"Jakob Homan","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/metrics",16
+"Konstantin Boudnik","hadoop-mapreduce-project/src/contrib/gridmix/src/java/org/apache/hadoop/mapred/gridmix",21
+"Konstantin Boudnik","hadoop-mapreduce-project/src/contrib/streaming/src/test/org/apache/hadoop/streaming",5
+"Mahadev Konar","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/raid",1
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/metrics",39
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/native/src",97
+"Owen O'Malley","hadoop-common-project/hadoop-common/src/main/native/src/org/apache/hadoop/io/compress/zlib",685
+"Owen O'Malley","hadoop-mapreduce-project/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix/test/system",20
+"Owen O'Malley","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/raid",56
+"Owen O'Malley","hadoop-mapreduce-project/src/contrib/vertica/src/java/org/apache/hadoop/vertica",26
+"Owen O'Malley","hadoop-mapreduce-project/src/contrib/vertica/src/test/org/apache/hadoop/vertica",20
+"Sanjay Radia","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/metrics",35
+"Sanjay Radia","hadoop-mapreduce-project/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io",25
+"Suresh Srinivas","hadoop-common-project/hadoop-annotations/src/main/java/org/apache/hadoop/classification",88
+"Suresh Srinivas","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/metrics",150
+"Suresh Srinivas","hadoop-mapreduce-project/src/contrib/raid/src/test/org/apache/hadoop/raid",23
+"Thomas White","hadoop-common-project/hadoop-annotations/src/main/java/org/apache/hadoop/classification",7
+"Thomas White","hadoop-common-project/hadoop-annotations/src/main/java/org/apache/hadoop/classification/tools",517
+"Thomas White","hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/metrics",25
+"Thomas White","hadoop-mapreduce-project/src/contrib/streaming/src/java/org/apache/hadoop/streaming",24
+"Thomas White","hadoop-mapreduce-project/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io",1
+"Thomas White","hadoop-mapreduce-project/src/contrib/streaming/src/test/org/apache/hadoop/streaming",27
+"Thomas White","hadoop-mapreduce-project/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/statistics/job",37
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/native/src/org/apache/hadoop/io/nativeio",149
+"Todd Lipcon","hadoop-common-project/hadoop-common/src/main/native/src/org/apache/hadoop/util",1996
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/block_forensics/client",186
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/block_forensics/src/java/org/apache/hadoop/blockforensics",136
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/gridmix/src/java/org/apache/hadoop/mapred/gridmix",8284
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/gridmix/src/test/org/apache/hadoop/mapred/gridmix",3914
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix",2358
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix/test/system",1647
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/index/src/java/org/apache/hadoop/contrib/index/example",620
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene",1102
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/index/src/java/org/apache/hadoop/contrib/index/main",276
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/index/src/java/org/apache/hadoop/contrib/index/mapred",1901
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/index/src/test/org/apache/hadoop/contrib/index/lucene",105
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/index/src/test/org/apache/hadoop/contrib/index/mapred",492
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/hdfs",588
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/hdfs/server/blockmanagement",624
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/hdfs/server/datanode",454
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/raid",7616
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/raid/src/java/org/apache/hadoop/raid/protocol",420
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/raid/src/test/org/apache/hadoop/hdfs",494
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/raid/src/test/org/apache/hadoop/raid",4464
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/streaming/src/java/org/apache/hadoop/streaming",3723
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io",708
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/streaming/src/java/org/apache/hadoop/typedbytes",1848
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/streaming/src/test/org/apache/hadoop/streaming",4703
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/streaming/src/test/org/apache/hadoop/typedbytes",341
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya",455
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/postexdiagnosis",277
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/postexdiagnosis/tests",533
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/statistics/job",850
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/util",236
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/vertica/src/java/org/apache/hadoop/vertica",2521
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/vertica/src/test/org/apache/hadoop/vertica",713
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/src/contrib/gridmix/src/java/org/apache/hadoop/mapred/gridmix",2
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/src/contrib/gridmix/src/test/org/apache/hadoop/mapred/gridmix",2
+"","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred",30
+"","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/security",7
+"","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/tools",2
+"Amar Kamat","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/tools/rumen",75
+"Arun Murthy","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch",27
+"Arun Murthy","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server",9
+"Arun Murthy","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/servers",8
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/cli",2
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/conf",13
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/fs/slive",56
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred",571
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce",99
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/jobhistory",14
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/output",4
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/security",70
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/security/token/delegation",2
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/security",1
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/test",3
+"Arun Murthy","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/tools/rumen",83
+"Christopher Douglas","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/filecache",52
+"Devaraj Das","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse",28
+"Devaraj Das","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs",30
+"Devaraj Das","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/fs/slive",23
+"Devaraj Das","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred",165
+"Doug Cutting","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse",24
+"Doug Cutting","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs",23
+"Eli Collins","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred",86
+"Eli Collins","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/util",2
+"Giridharan Kesavan","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/preferences",24
+"Giridharan Kesavan","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/cli",21
+"Giridharan Kesavan","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/fs/slive",49
+"Giridharan Kesavan","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred",73
+"Giridharan Kesavan","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/tools",27
+"Jakob Homan","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/preferences",23
+"Jakob Homan","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server",22
+"Jakob Homan","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/join",22
+"Jitendra Nath Pandey","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/security/token",72
+"Konstantin Boudnik","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/cli",2
+"Konstantin Boudnik","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/cli/util",40
+"Konstantin Boudnik","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/tools",5
+"Konstantin Boudnik","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/db",23
+"Mahadev Konar","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred",11
+"Mahadev Konar","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce",5
+"Mahadev Konar","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/filecache",3
+"Owen O'Malley","hadoop-mapreduce-project/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join",29
+"Owen O'Malley","hadoop-mapreduce-project/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join",51
+"Owen O'Malley","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs",22
+"Owen O'Malley","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/servers",21
+"Owen O'Malley","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/security/authorize",24
+"Suresh Srinivas","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/lib",22
+"Thomas White","hadoop-mapreduce-project/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join",1
+"Thomas White","hadoop-mapreduce-project/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join",1
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join",142
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join",815
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/data_join/src/test/org/apache/hadoop/contrib/utils/join",154
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse",1744
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions",739
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs",1476
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch",384
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/preferences",84
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server",1288
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/servers",1633
+"Todd Lipcon","hadoop-mapreduce-project/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/view/servers",460
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/cli",164
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/cli/util",2
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/conf",291
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/examples",46
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/examples/pi/math",557
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/examples/terasort",88
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/fs",3844
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/fs/slive",6342
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/hdfs",1334
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/io",701
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred",37122
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/jobcontrol",510
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/join",964
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/lib",1419
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/lib/aggregate",216
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/lib/db",67
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/pipes",364
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred/tools",21
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce",5220
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/filecache",1079
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/jobhistory",148
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/aggregate",220
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/chain",537
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/db",541
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/fieldsel",124
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/input",2632
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/jobcontrol",190
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/join",1219
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/map",102
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/output",1057
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/lib/partition",1120
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/security",975
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/security/token",256
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/security/token/delegation",108
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/util",1024
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/record",581
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/security",270
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/security/authorize",205
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/test",120
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/tools",1947
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/tools/rumen",2433
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/fs",7
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapred",5
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce",119
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/mapreduce/security",2
+"","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred",6
+"","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/jobhistory",3
+"Amar Kamat","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",180
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api",369
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/protocolrecords",969
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/protocolrecords/impl/pb",199
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/records",1752
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/records/impl/pb",371
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/util",13
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn",3
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/api/impl/pb/client",9
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/api/impl/pb/service",10
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/event",8
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn",94
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/api",1
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/conf",51
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/util",1
+"Arun Murthy","hadoop-mapreduce-project/src/examples/org/apache/hadoop/examples/terasort",16
+"Arun Murthy","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred",297
+"Arun Murthy","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/server/jobtracker",26
+"Arun Murthy","hadoop-mapreduce-project/src/test/system/java/org/apache/hadoop/mapreduce/test/system",27
+"Arun Murthy","hadoop-mapreduce-project/src/test/unit/org/apache/hadoop/mapreduce/lib/jobcontrol",24
+"Arun Murthy","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",384
+"Boris Shkolnik","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred",36
+"Christopher Douglas","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/filecache",17
+"Christopher Douglas","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",23
+"Devaraj Das","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred",56
+"Devaraj Das","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",2
+"Giridharan Kesavan","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/records",42
+"Giridharan Kesavan","hadoop-mapreduce-project/src/java/org/apache/hadoop/util",16
+"Giridharan Kesavan","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/util",24
+"Giridharan Kesavan","hadoop-mapreduce-project/src/test/mapred/testjar",34
+"Giridharan Kesavan","hadoop-mapreduce-project/src/tools/org/apache/hadoop/fs",16
+"Giridharan Kesavan","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools",16
+"Giridharan Kesavan","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",49
+"Jakob Homan","hadoop-mapreduce-project/src/examples/org/apache/hadoop/examples/pi",20
+"Konstantin Boudnik","hadoop-mapreduce-project/src/test/aop/org/apache/hadoop/fi",151
+"Konstantin Boudnik","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",20
+"Konstantin Shvachko","hadoop-mapreduce-project/src/test/unit/org/apache/hadoop/mapreduce/lib/jobcontrol",27
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api",42
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/protocolrecords",508
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/protocolrecords/impl/pb",508
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/records",397
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/records/impl/pb",432
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/exceptions",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/exceptions/impl/pb",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/util",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/api/impl/pb/client",64
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/api/impl/pb/service",64
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/event",1
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn",56
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/webapp/test",15
+"Mahadev Konar","hadoop-mapreduce-project/src/examples/org/apache/hadoop/examples/terasort",4
+"Mahadev Konar","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred",20
+"Mahadev Konar","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",4
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn",22
+"Owen O'Malley","hadoop-mapreduce-project/src/examples/org/apache/hadoop/examples/pi",20
+"Owen O'Malley","hadoop-mapreduce-project/src/examples/python/pyAbacus",23
+"Owen O'Malley","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred",142
+"Owen O'Malley","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/util",27
+"Owen O'Malley","hadoop-mapreduce-project/src/java/org/apache/hadoop/util",27
+"Owen O'Malley","hadoop-mapreduce-project/src/test/mapred/testjar",57
+"Owen O'Malley","hadoop-mapreduce-project/src/test/system/java/org/apache/hadoop/mapred",29
+"Owen O'Malley","hadoop-mapreduce-project/src/test/system/java/org/apache/hadoop/mapreduce/test/system",31
+"Owen O'Malley","hadoop-mapreduce-project/src/tools/org/apache/hadoop/fs",1
+"Owen O'Malley","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools",1
+"Owen O'Malley","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",82
+"Sanjay Radia","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",21
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/protocolrecords/impl/pb",20
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/records/impl/pb",20
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/exceptions",20
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/exceptions/impl/pb",20
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/util",20
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/api/impl/pb/client",20
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/api/impl/pb/service",20
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/event",21
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/state",21
+"Thomas White","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred",30
+"Thomas White","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred/tools",18
+"Thomas White","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/server/tasktracker",22
+"Thomas White","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/tools",18
+"Thomas White","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/util",5
+"Thomas White","hadoop-mapreduce-project/src/java/org/apache/hadoop/util",62
+"Thomas White","hadoop-mapreduce-project/src/test/system/java/org/apache/hadoop/mapred",1
+"Thomas White","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",26
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/records",2
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn",90
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/util",851
+"Todd Lipcon","hadoop-mapreduce-project/src/benchmarks/gridmix2/src/java/org/apache/hadoop/mapreduce",865
+"Todd Lipcon","hadoop-mapreduce-project/src/examples/org/apache/hadoop/examples",3784
+"Todd Lipcon","hadoop-mapreduce-project/src/examples/org/apache/hadoop/examples/dancing",1492
+"Todd Lipcon","hadoop-mapreduce-project/src/examples/org/apache/hadoop/examples/pi",1550
+"Todd Lipcon","hadoop-mapreduce-project/src/examples/org/apache/hadoop/examples/pi/math",996
+"Todd Lipcon","hadoop-mapreduce-project/src/examples/org/apache/hadoop/examples/terasort",2619
+"Todd Lipcon","hadoop-mapreduce-project/src/examples/python",70
+"Todd Lipcon","hadoop-mapreduce-project/src/examples/python/pyAbacus",95
+"Todd Lipcon","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred",22876
+"Todd Lipcon","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred/tools",420
+"Todd Lipcon","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/filecache",1116
+"Todd Lipcon","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/jobhistory",586
+"Todd Lipcon","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/server/jobtracker",322
+"Todd Lipcon","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/server/tasktracker",274
+"Todd Lipcon","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/tools",5
+"Todd Lipcon","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapreduce/util",488
+"Todd Lipcon","hadoop-mapreduce-project/src/java/org/apache/hadoop/util",78
+"Todd Lipcon","hadoop-mapreduce-project/src/test/aop/org/apache/hadoop/fi",9
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/ipc",197
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/util",85
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/testjar",483
+"Todd Lipcon","hadoop-mapreduce-project/src/test/mapred/testshell",141
+"Todd Lipcon","hadoop-mapreduce-project/src/test/system/java/org/apache/hadoop/mapred",581
+"Todd Lipcon","hadoop-mapreduce-project/src/test/system/java/org/apache/hadoop/mapreduce/test/system",1241
+"Todd Lipcon","hadoop-mapreduce-project/src/test/system/test/org/apache/hadoop/mapred",2906
+"Todd Lipcon","hadoop-mapreduce-project/src/test/unit/org/apache/hadoop/mapred",343
+"Todd Lipcon","hadoop-mapreduce-project/src/test/unit/org/apache/hadoop/mapreduce/lib/jobcontrol",161
+"Todd Lipcon","hadoop-mapreduce-project/src/tools/org/apache/hadoop/fs",1075
+"Todd Lipcon","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools",3569
+"Todd Lipcon","hadoop-mapreduce-project/src/tools/org/apache/hadoop/tools/rumen",11723
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api",259
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/protocolrecords",341
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/protocolrecords/impl/pb",2750
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/records",911
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/api/records/impl/pb",3871
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/exceptions",43
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/exceptions/impl/pb",90
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-api/src/main/java/org/apache/hadoop/yarn/util",139
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn",171
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/api/impl/pb/client",399
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/api/impl/pb/service",298
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/event",340
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/state",629
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn",532
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/api",279
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/event",86
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/util",730
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/webapp",416
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/webapp/hamlet",331
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/webapp/test",274
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/test/java/org/apache/hadoop/yarn/webapp/view",309
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/src/java/org/apache/hadoop/mapred",26
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/src/test/mapred/org/apache/hadoop/ipc",2
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/conf",310
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/factory/providers",17
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/ipc",10
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/security",189
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/security/client",146
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/service",6
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/util",119
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/webapp",67
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/webapp/view",58
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop",8
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/test/java/org/apache/hadoop",4
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager",899
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/amlauncher",20
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/recovery",20
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp",18
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp/attempt",151
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp/attempt/event",6
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmcontainer",16
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmnode",45
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler",349
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity",472
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/event",12
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/fifo",100
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/security",361
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/security/admin",1
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/tools",1
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/webapp",167
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager",1048
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/applicationsmanager",11
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/resourcetracker",4
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp",164
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp/attempt",8
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler",57
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity",617
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/security",344
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/webapp",31
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/src/test/java/org/apache/hadoop/yarn/server",504
+"Giridharan Kesavan","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/util",21
+"Giridharan Kesavan","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/amlauncher",16
+"Jitendra Nath Pandey","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/security",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/conf",53
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/factories",73
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/factories/impl/pb",1
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/factory/providers",54
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/ipc",23
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/service",1
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/util",16
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/webapp",21
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/test/java/org/apache/hadoop/yarn",36
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager",284
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/amlauncher",45
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/api",6
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/api/impl/pb/client",24
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/api/impl/pb/service",20
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/api/protocolrecords",46
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/api/protocolrecords/impl/pb",98
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp",209
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp/attempt",162
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp/attempt/event",144
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmcontainer",126
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmnode",109
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler",123
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity",13
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/event",144
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/security",13
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/security/admin",19
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/security/authorize",62
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/tools",53
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/webapp",3
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager",122
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/applicationsmanager",22
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/resourcetracker",37
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp",76
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler",53
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity",114
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/security",52
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/amlauncher",1
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/security",1
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/util",2
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp",23
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp",15
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/conf",21
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/factories",21
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/factories/impl/pb",21
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/factory/providers",21
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/ipc",21
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/security",21
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/security/client",21
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/service",21
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/util",1171
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop",333
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/test/java/org/apache/hadoop",119
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/conf",133
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/factories",46
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/factories/impl/pb",402
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/factory/providers",163
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/ipc",614
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/security",428
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/security/client",156
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/service",385
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/util",1718
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/webapp",1660
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/webapp/example",128
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/webapp/hamlet",34479
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-common/src/main/java/org/apache/hadoop/yarn/webapp/view",1102
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop",25
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/test/java/org/apache/hadoop",50
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/test/java/org/apache/hadoop/yarn",138
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/test/java/org/apache/hadoop/yarn/lib",187
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager",1922
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/amlauncher",400
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/api",52
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/api/impl/pb/client",169
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/api/impl/pb/service",122
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/api/protocolrecords",230
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/api/protocolrecords/impl/pb",463
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/recovery",828
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/resource",209
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp",601
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp/attempt",904
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp/attempt/event",188
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmcontainer",479
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/rmnode",626
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler",1549
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity",2812
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/event",163
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/fifo",663
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/security/admin",41
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/tools",262
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/webapp",1148
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager",2703
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/applicationsmanager",1501
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/resourcetracker",328
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp",428
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/rmapp/attempt",504
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler",166
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity",1584
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/fifo",290
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java/org/apache/hadoop/yarn/server/resourcemanager/webapp",282
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/src/test/java/org/apache/hadoop/yarn/server",284
+"Alejandro Abdelnur","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/native/container-executor/impl",105
+"Alejandro Abdelnur","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/native/container-executor/test",168
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/src/main/java/org/apache/hadoop/yarn/applications/distributedshell",1658
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/src/test/java/org/apache/hadoop/yarn/applications/distributedshell",94
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server",2
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/records",4
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/records/impl/pb",55
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/security",9
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager",303
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager",162
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/application",1
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/container",42
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/launcher",28
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer",47
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer/event",17
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer/security",12
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/logaggregation",25
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/loghandler",17
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/loghandler/event",3
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/monitor",68
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/util",17
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/webapp",56
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager",440
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/api/protocolrecords/impl/pb",4
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager",170
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/application",17
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/container",6
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/launcher",266
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer",8
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/logaggregation",27
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/loghandler",17
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/monitor",25
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/util",17
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/webapp",6
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/src/main/java/org/apache/hadoop/yarn/server/webproxy",704
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/src/main/java/org/apache/hadoop/yarn/server/webproxy/amfilter",244
+"Arun Murthy","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/src/test/java/org/apache/hadoop/yarn/server/webproxy",104
+"Giridharan Kesavan","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer",17
+"Konstantin Boudnik","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/native/container-executor/impl",23
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/impl/pb/client",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/impl/pb/service",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/protocolrecords",54
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/protocolrecords/impl/pb",72
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/records/impl/pb",54
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager",31
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager",19
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/container",36
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/launcher",6
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer",62
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/logaggregation",24
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/monitor",55
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/security/authorize",49
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/native/container-executor/impl",383
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/native/container-executor/test",745
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager",1
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/api/protocolrecords/impl/pb",20
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer",37
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api",20
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/records",20
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer",1
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager",4
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager",3
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer",2
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/logaggregation",2
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/monitor",3
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/webapp",3
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/src/main/java/org/apache/hadoop/yarn/applications/distributedshell",13
+"Thomas White","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/lib",21
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api",1
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/records",1
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer",1
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer/event",2
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/native/container-executor/impl",179
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/src/main/java/org/apache/hadoop/yarn/applications/distributedshell",5
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/lib",133
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server",59
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api",10
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/impl/pb/client",70
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/impl/pb/service",53
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/protocolrecords",61
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/protocolrecords/impl/pb",421
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/records",123
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/api/records/impl/pb",567
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java/org/apache/hadoop/yarn/server/security",194
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager",1887
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/api",27
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/api/impl/pb/client",67
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/api/impl/pb/service",53
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/api/protocolrecords",150
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/api/protocolrecords/impl/pb",611
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager",704
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/application",684
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/container",1165
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/launcher",737
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer",1960
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer/event",529
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer/security",200
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/logaggregation",1408
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/loghandler",179
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/loghandler/event",195
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/monitor",575
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/metrics",102
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/util",74
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/webapp",1361
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/native/container-executor/impl",1151
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/native/container-executor/test",559
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager",1727
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/api/protocolrecords/impl/pb",243
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager",773
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/application",453
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/container",666
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/launcher",127
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/localizer",1531
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/logaggregation",505
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/loghandler",187
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/containermanager/monitor",256
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/metrics",77
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/util",86
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java/org/apache/hadoop/yarn/server/nodemanager/webapp",135
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/src/main/java/org/apache/hadoop/yarn/server/webproxy",1
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/src/main/java/org/apache/hadoop/yarn/server/webproxy/amfilter",3
+"","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce",1
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapred",18
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/jobhistory",53
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app",268
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/client",9
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job",5
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job/impl",113
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/launcher",198
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/local",19
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/recover",17
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/rm",288
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/speculate",8
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/webapp",126
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapreduce/v2/app",1222
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapreduce/v2/app/job/impl",17
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapreduce/v2/app/webapp",1
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapred",420
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce",25
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/records",2
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/records/impl/pb",10
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/jobhistory",135
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/security/client",2
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/util",51
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java/org/apache/hadoop/mapreduce",76
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java/org/apache/hadoop/mapreduce/v2/jobhistory",130
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java/org/apache/hadoop/mapreduce/v2/util",2
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce",890
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/protocol",40
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/server/jobtracker",3
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/test/java/org/apache/hadoop/mapred",435
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/test/java/org/apache/hadoop/mapreduce",63
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/test/java/org/apache/hadoop/mapreduce/lib/output",67
+"Boris Shkolnik","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce",57
+"Doug Cutting","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce",20
+"Jitendra Nath Pandey","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce",2
+"Konstantin Shvachko","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/split",6
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapred",53
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/jobhistory",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app",10
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/client",20
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job",38
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job/event",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job/impl",46
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/launcher",6
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/local",45
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/rm",62
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/security/authorize",50
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/speculate",5
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/taskclean",8
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/webapp",149
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapreduce/v2/app",59
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapreduce/v2/app/webapp",34
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce",1
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/impl/pb/client",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/impl/pb/service",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/protocolrecords",396
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/protocolrecords/impl/pb",396
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/records",266
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/records/impl/pb",171
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/jobhistory",21
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/util",136
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java/org/apache/hadoop/mapreduce",29
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java/org/apache/hadoop/mapreduce/v2",36
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce",185
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/test/java/org/apache/hadoop/mapred",1
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/test/java/org/apache/hadoop/mapreduce",117
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce",61
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/client",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job/event",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job/impl",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/launcher",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/local",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/metrics",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/recover",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/rm",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/security/authorize",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/speculate",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/taskclean",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/webapp",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/impl/pb/client",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/impl/pb/service",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/protocolrecords",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/protocolrecords/impl/pb",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/records",37
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/records/impl/pb",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/jobhistory",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/security/client",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/util",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce",24
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/filecache",19
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/protocol",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/split",21
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapred",758
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/records",3
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java/org/apache/hadoop/mapred",186
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce",6626
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/filecache",695
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/protocol",353
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/server/jobtracker",119
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/server/tasktracker",109
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/split",470
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/test/java/org/apache/hadoop/mapreduce/util",234
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop",67
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapred",1976
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/jobhistory",910
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app",1121
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/client",377
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job",188
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job/event",781
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/job/impl",3759
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/launcher",397
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/local",95
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/metrics",183
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/recover",486
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/rm",1363
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/speculate",1463
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/taskclean",191
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/webapp",1785
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapred",100
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapreduce/v2/app",3508
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapreduce/v2/app/job/impl",648
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapreduce/v2/app/metrics",121
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapreduce/v2/app/speculate",73
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java/org/apache/hadoop/mapreduce/v2/app/webapp",152
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapred",14
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce",460
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api",39
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/impl/pb/client",268
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/impl/pb/service",218
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/protocolrecords",211
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/protocolrecords/impl/pb",2016
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/records",567
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/api/records/impl/pb",2182
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/jobhistory",799
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/security/client",60
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java/org/apache/hadoop/mapreduce/v2/util",366
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java/org/apache/hadoop/mapreduce",32
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java/org/apache/hadoop/mapreduce/v2",221
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java/org/apache/hadoop/mapreduce/v2/api/records",139
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java/org/apache/hadoop/mapreduce/v2/util",122
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce",189
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/filecache",32
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/protocol",15
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/test/java/org/apache/hadoop/mapreduce/lib/output",287
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/test/java/org/apache/hadoop/mapreduce/util",2
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/fi",3
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/hdfs",1
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/unit/org/apache/hadoop/hdfs/server/datanode",1
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/unit/org/apache/hadoop/hdfs/server/namenode",16
+"","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",55
+"","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/jobhistory",10
+"","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/partition",13
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/contrib/fuse-dfs/src",85
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/fi",20
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/test",5
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",1568
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/counters",1757
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/jobhistory",361
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/db",62
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/input",31
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/jobcontrol",110
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/output",93
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security",17
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/task/reduce",14
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/tools",27
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/util",380
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/main/java/org/apache/hadoop/mapreduce/v2/hs",27
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/main/java/org/apache/hadoop/mapreduce/v2/hs/webapp",538
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/test/java/org/apache/hadoop/mapreduce/v2/hs",97
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/test/java/org/apache/hadoop/mapreduce/v2/hs/webapp",118
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/main/java/org/apache/hadoop/mapred",103
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop",6
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop/mapred",9
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop/mapreduce/v2",156
+"Arun Murthy","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred",4
+"Boris Shkolnik","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",29
+"Boris Shkolnik","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/db",25
+"Christopher Douglas","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",3
+"Christopher Douglas","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/join",6
+"Christopher Douglas","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib",7
+"Christopher Douglas","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib/aggregate",2
+"Devaraj Das","hadoop-hdfs-project/hadoop-hdfs/src/contrib/fuse-dfs/src",64
+"Devaraj Das","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/test",1
+"Devaraj Das","hadoop-hdfs-project/hadoop-hdfs/src/test/system/java/org/apache/hadoop/hdfs/test/system",46
+"Dmytro Molkov","hadoop-hdfs-project/hadoop-hdfs/src/test/unit/org/apache/hadoop/hdfs/server/namenode",53
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/contrib/fuse-dfs/src",317
+"Eli Collins","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",2
+"Giridharan Kesavan","hadoop-hdfs-project/hadoop-hdfs/src/contrib/fuse-dfs/src",73
+"Giridharan Kesavan","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/test",45
+"Giridharan Kesavan","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/filecache",16
+"Jakob Homan","hadoop-hdfs-project/hadoop-hdfs/src/contrib/fuse-dfs/src",19
+"Jitendra Nath Pandey","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",38
+"Jitendra Nath Pandey","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security/token",63
+"Jitendra Nath Pandey","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security/token/delegation",1
+"Konstantin Boudnik","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/fi",151
+"Konstantin Shvachko","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/hdfs/server/datanode",97
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",44
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/pipes",3
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/jobhistory",48
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/task",6
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/tools",2
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/util",27
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/main/java/org/apache/hadoop/mapreduce/v2/hs",216
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/main/java/org/apache/hadoop/mapreduce/v2/hs/webapp",772
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/test/java/org/apache/hadoop/mapreduce/v2/hs",2
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/test/java/org/apache/hadoop/mapreduce/v2/hs/webapp",54
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/main/java/org/apache/hadoop/mapred",149
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop",18
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop/mapred",289
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop/mapreduce",20
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop/mapreduce/v2",102
+"Mahadev Konar","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred",12
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/contrib/fuse-dfs/src",23
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/fi",29
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/test",22
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/test/system/java/org/apache/hadoop/hdfs/test/system",29
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",309
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/join",97
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib",245
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib/aggregate",195
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib/db",20
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/jobhistory",84
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/aggregate",25
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/input",27
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/join",26
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/map",49
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/partition",22
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/reduce",49
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security/token",43
+"Owen O'Malley","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security/token/delegation",28
+"Sanjay Radia","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",54
+"Sanjay Radia","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/join",27
+"Sanjay Radia","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/join",54
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/main/java/org/apache/hadoop/mapred",304
+"Sharad Agarwal","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop/mapred",40
+"Suresh Srinivas","hadoop-hdfs-project/hadoop-hdfs/src/test/unit/org/apache/hadoop/hdfs/server/namenode",1
+"Suresh Srinivas","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",87
+"Suresh Srinivas","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/join",27
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/fi",1
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",237
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/join",29
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib",83
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib/aggregate",45
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib/db",5
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/jobhistory",35
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/aggregate",5
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/db",5
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/input",38
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/join",15
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/map",10
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/partition",5
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/reduce",10
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security/token",23
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security/token/delegation",46
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/task",22
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/task/reduce",41
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/util",21
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/main/java/org/apache/hadoop/mapreduce/v2/hs",20
+"Thomas White","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/main/java/org/apache/hadoop/mapreduce/v2/hs/webapp",20
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/contrib/fuse-dfs/src",2276
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/contrib/fuse-dfs/src/test",369
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/fi",796
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/fs",376
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/hdfs",770
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/aop/org/apache/hadoop/hdfs/server/datanode",846
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/test",165
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/system/java/org/apache/hadoop/hdfs/test/system",379
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/system/test/org/apache/hadoop/hdfs",86
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/unit/org/apache/hadoop/hdfs/server/datanode",573
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/unit/org/apache/hadoop/hdfs/server/namenode",683
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/filecache",137
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",22894
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/jobcontrol",272
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/join",2170
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib",3673
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib/aggregate",921
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/lib/db",496
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/pipes",1978
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/jobhistory",2857
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/aggregate",1809
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/chain",1937
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/db",2940
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/fieldsel",443
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/input",3643
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/jobcontrol",519
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/join",2794
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/map",694
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/output",1896
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/partition",1796
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/reduce",360
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security",343
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security/token",501
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security/token/delegation",98
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/task",1089
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/task/reduce",2913
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/tools",528
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/util",2171
+"Todd Lipcon","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop",242
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred",139
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/jobhistory",277
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/output",87
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/security",2
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/task/reduce",8
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/tools",38
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/util",39
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/v2",67
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/main/java/org/apache/hadoop/mapreduce/v2/hs",2106
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/main/java/org/apache/hadoop/mapreduce/v2/hs/webapp",732
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/test/java/org/apache/hadoop/mapreduce/v2/hs",340
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/test/java/org/apache/hadoop/mapreduce/v2/hs/webapp",64
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/main/java/org/apache/hadoop/mapred",1094
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop",869
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop/mapred",437
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop/mapreduce",59
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java/org/apache/hadoop/mapreduce/v2",1170
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred",520
+"Vinod Kumar Vavilapalli","hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/test/java/org/apache/hadoop/mapred",72
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs",528
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol",32
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/datatransfer",180
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/block",16
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/delegation",247
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/balancer",7
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/blockmanagement",2626
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/common",111
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",481
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode/metrics",4
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode/web/resources",398
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",831
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/web/resources",709
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/protocol",116
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/tools",64
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/util",42
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/web",1585
+"","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/web/resources",2146
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/cli",3
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs",2
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/viewfs",4
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",648
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/security",142
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/security/token/block",16
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/balancer",7
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/blockmanagement",297
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode",109
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",107
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/metrics",15
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/tools/offlineImageViewer",2
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/web",910
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/web/resources",227
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/net",1
+"","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/security",11
+"Aaron Myers","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol",2
+"Aaron Myers","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/common",7
+"Aaron Myers","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",18
+"Aaron Myers","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",73
+"Aaron Myers","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",85
+"Aaron Myers","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/blockmanagement",16
+"Aaron Myers","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode",70
+"Aaron Myers","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",288
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs",37
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol",56
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/datatransfer",27
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/block",21
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/delegation",21
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/common",31
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",37
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",40
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/protocol",58
+"Arun Murthy","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",19
+"Boris Shkolnik","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",24
+"Christopher Douglas","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",1
+"Dmytro Molkov","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",1
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs",99
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/blockmanagement",1
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/common",88
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",48
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",309
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/util",2
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/main/native",49
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",178
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode",58
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",237
+"Eli Collins","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/util",1
+"Giridharan Kesavan","hadoop-hdfs-project/hadoop-hdfs/src/ant/org/apache/hadoop/ant/condition",51
+"Giridharan Kesavan","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",55
+"Giridharan Kesavan","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/tools",27
+"Giridharan Kesavan","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/util",60
+"Hairong Kuang","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",116
+"Hairong Kuang","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/security/token/block",25
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/fs",2
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs",191
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/block",9
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/balancer",3
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",37
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",7
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/tools",37
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs",1
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/security",1
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode",52
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",3
+"Jitendra Nath Pandey","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/tools",48
+"Konstantin Boudnik","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/cli",19
+"Konstantin Boudnik","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/cli/util",20
+"Konstantin Boudnik","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/tools",5
+"Konstantin Shvachko","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/blockmanagement",2
+"Konstantin Shvachko","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",17
+"Konstantin Shvachko","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",5
+"Konstantin Shvachko","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",36
+"Konstantin Shvachko","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",318
+"Mahadev Konar","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs",10
+"Matthew Foley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs",2
+"Matthew Foley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/blockmanagement",18
+"Matthew Foley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",12
+"Matthew Foley","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",283
+"Matthew Foley","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode",88
+"Matthew Foley","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",30
+"Michael Stack","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",12
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/ant/org/apache/hadoop/ant/condition",3
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs",1
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol",25
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/datatransfer",27
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/block",40
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/delegation",28
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/common",26
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",75
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",110
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/protocol",86
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/tools",58
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/tools/offlineEditsViewer",58
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/util",165
+"Owen O'Malley","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",128
+"Sanjay Radia","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs",36
+"Sanjay Radia","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/viewfs",57
+"Sanjay Radia","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",29
+"Sanjay Radia","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",23
+"Steve Loughran","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs",9
+"Steve Loughran","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/blockmanagement",150
+"Steve Loughran","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",206
+"Steve Loughran","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/blockmanagement",104
+"Steve Loughran","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode",14
+"Steve Loughran","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",6
+"Suresh Srinivas","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs",24
+"Suresh Srinivas","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol",32
+"Suresh Srinivas","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/common",11
+"Suresh Srinivas","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",64
+"Suresh Srinivas","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",95
+"Suresh Srinivas","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",58
+"Suresh Srinivas","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode",92
+"Suresh Srinivas","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",6
+"Tanping Wang","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",106
+"Tanping Wang","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",88
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol",32
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/datatransfer",3
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/proto",35
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/block",33
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/delegation",3
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/common",3
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",10
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",12
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/protocol",8
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/tools",5
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/tools/offlineEditsViewer",8
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/tools/offlineImageViewer",19
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/util",41
+"Thomas White","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",3
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/ant/org/apache/hadoop/ant",205
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/ant/org/apache/hadoop/ant/condition",86
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/fs",433
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs",8184
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol",4110
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/datatransfer",834
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/protocol/proto",13920
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/block",751
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/security/token/delegation",314
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/balancer",1904
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/blockmanagement",4682
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/common",2510
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode",14158
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/datanode/metrics",244
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode",25834
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/metrics",277
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/protocol",2012
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/tools",2460
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/tools/offlineEditsViewer",2309
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/tools/offlineImageViewer",1912
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/util",966
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/main/native",3854
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/cli",164
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/cli/util",1
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs",1356
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/loadGenerator",268
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/permission",299
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/viewfs",225
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs",25134
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/protocol",152
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/security",457
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/security/token/block",399
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/balancer",810
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/blockmanagement",2693
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/common",609
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode",6042
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode",13760
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/metrics",339
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/tools",355
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/tools/offlineEditsViewer",270
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/tools/offlineImageViewer",710
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/util",825
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/net",170
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/security",501
+"Todd Lipcon","hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/tools",221
